@@ -1,10 +1,14 @@
 # zhihu-read-rss
 
-A Clojure library designed to ... well, that part is up to you.
+convert http://www.zhihu.com/read to rss feed
 
 ## Usage
 
-FIXME
+You can subscribe the address: https://gist.github.com/llj098/5074402/raw/zhihu-reader-rss.xml in your Google reader.
+
+or 
+
+`lein run path-to-the-file`
 
 ## License
 
