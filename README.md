@@ -4,7 +4,7 @@ convert http://www.zhihu.com/read to rss feed
 
 ## Usage
 
-You can subscribe the address: https://gist.github.com/llj098/5074402/raw/zhihu-reader-rss.xml in your Google reader.
+You can subscribe the address:https://raw.github.com/llj098/zhihu-read-rss/master/rss/rss.xml  in your Google reader.
 
 or 
 
