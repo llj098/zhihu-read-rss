@@ -15,6 +15,80 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19915751/answer/13756664
+</link>
+<author>
+张佳玮
+</author>
+<title>
+国学究竟是什麽？为何有人说它是被掏空的资源？
+</title>
+<description>
+谢邀。&lt;br&gt;&lt;br&gt; 狭义来说，国学是经史子集小。广义来说，医卜星相礼乐书画其实都可以括于其中。&lt;br&gt;&lt;br&gt; 狭义说，就是解释经典，训诂，史家考证，诸家经典的阐释，做注，借以建立学术体系，诗歌、文章，等等。&lt;br&gt; 广义说，为什么书画都能囊括其中？因为中国士大夫会把许多东西都用一种学术体系去解读。比如画，从最初的工匠之技，到董其昌分南北宗后文人画正式成为正统；比如医，中医后期的体系已经很形而上了，不管是否科学吧，至少是一个自足的体系了。&lt;br&gt;&lt;br&gt;&lt;br&gt; 其实我没觉得国学被淘空了。因为中国的学问是有枝杈型发展的。考据、训诂这些，琢磨起来无穷无尽。虽然按西方学术体系眼光来看会显得累赘呆滞拘泥，但学者自己乐在其中就行。&lt;br&gt; 尤其是现在：&lt;br&gt; 国学其实很被大众误解。大众接受的部分，都是些百家讲坛之类。一如当年老百姓听评书演义，就觉得自己懂历史了。资源其实丰厚得紧，但要加工成能在大众那里换钱的就少了。所以，只好在一些无聊的稗官野史、宫闱秘闻那里多琢磨琢磨。其实何止是国学，任何文艺门类都如此。你让大众说蒙娜丽莎、最后的午餐、达芬奇、毕加索、巴赫、莫扎特、贝多芬的第九，都能念叨几句；你要让大众谈论深哪怕那么一点点，比如丢勒、小荷尔拜因、黄公望、张萱、斯美塔纳、封彪罗、贝多芬的钢琴奏鸣曲，抱歉，没兴趣了！唐伯虎点秋香天下皆知，他画的画说五幅出来，做得到的人少吧？&lt;br&gt; 同理，段玉裁、裴松之、郭象这些做注的人，其实都为国学做发展甚多。但大众基本不知道这些人是谁，也懒得了解。更多的人，读两句论语、念几句诗词，就觉得国学其实不过如此了。其实国学岂只没被淘空，简直是大大不够。只是现在肯做学问的人少了而已。&lt;br&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20829325/answer/16321605
+</link>
+<author>
+顾轶灵
+</author>
+<title>
+&lt;acronym&gt; 和 &lt;abbr&gt; 这两个标签有什么本质上的区别吗？
+</title>
+<description>
+&lt;img data-rawheight=&quot;442&quot; data-rawwidth=&quot;827&quot; src=&quot;http://p2.zhimg.com/92/d2/92d217d62063c4a8dd262df669e893fa_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;827&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/92/d2/92d217d62063c4a8dd262df669e893fa_r.jpg&quot;)'&gt;简单画了一个图，不确定我的理解是否精准。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;abbreviation 从广义上来说是一个宽泛的概念，日常可以用于描述各种缩写。&lt;/li&gt;&lt;li&gt;initialism 指的是最容易理解的「首字母缩写」，人们在朗读的时候会把字母一个个念出来。&lt;/li&gt;&lt;li&gt;acronym 起初也是指首字母缩写，但逐渐地，人们把它和 initialism 区分开来了。差异之处在于，acronym 表示的缩写可以单词的形式读出来，甚至有些不完全是首字母缩写也可以算 acronym，还有些 acronym 都已经成为很常规的单词，甚至都不需要大写了。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;对于 W3C 的标准，HTML 4.01 中（&lt;a class=&quot; wrap external&quot; href=&quot;http://www.w3.org/TR/html401/struct/text.html#h-9.2.1&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Paragraphs, Lines, and Phrases&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）：&lt;br&gt;&lt;blockquote&gt;&lt;b&gt;ABBR: &lt;/b&gt;Indicates an abbreviated form (e.g., WWW, HTTP, URI, Mass., etc.).&lt;b&gt;&lt;br&gt;ACRONYM:&lt;/b&gt; Indicates an acronym (e.g., WAC, radar, etc.).&lt;/blockquote&gt;这里的 abbr 应该就比较接近上面图中灰色背景的部分（实质上也不尽然），而 acronym 就是黄色背景的部分了。我想区分这两类缩写，可能最有用就在于，在使用读屏器进行朗读 acronym 内容时，可以给出比较准确的发音。比如根据 CSS 2.1 的语音样式（&lt;a class=&quot; wrap external&quot; href=&quot;http://www.w3.org/TR/CSS21/aural.html#propdef-speak&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Aural style sheets&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），我们可以给读屏器提供这样的样式：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;abbr&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;speak&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;spell-out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;acronym&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;speak&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;这样可以表达在遇到 NBA 的时候按字母朗读，而遇到 UEFA 时按单词朗读了。这对于&lt;b&gt;可访问性&lt;/b&gt;来说，应该是有一定程度的提升的。&lt;br&gt;&lt;br&gt;但是从整个 HTML 语义的角度来看，这样的区分的确有一些像 &lt;a data-title=&quot;@梁海&quot; data-editable=&quot;true&quot; class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/lianghai&quot;&gt;@梁海&lt;/a&gt; 所说的那样「过分繁琐、细碎」了。而且从逻辑上来说，acronym 是属于 abbr 的，把它们作为并列的元素不太合理。根据 &lt;a class=&quot; wrap external&quot; href=&quot;http://html5doctor.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;HTML5 Doctor&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 上的文章（&lt;a class=&quot; wrap external&quot; href=&quot;http://html5doctor.com/the-abbr-element/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The abbr element&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）所述，当初浏览器大战时因为网景公司发明了 abbr，微软发明了 acronym，而 W3C 两边都不想得罪就保留了两种缩写的元素。在很长一段时间内，这引起了一些混乱和困惑（就像题主的问题那样）。&lt;br&gt;&lt;br&gt;在 HTML 5 中（&lt;a class=&quot; wrap external&quot; href=&quot;http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-abbr-element&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;4.6 Text-level semantics&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），这种区分已经被拿掉了，仅留下了一个宽泛适用于各种所写的 abbr 元素，而原来的 acronym 也被建议更换为 abbr（&lt;a class=&quot; wrap external&quot; href=&quot;http://www.w3.org/TR/html5/obsolete.html#acronym&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;11 Obsolete features&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）。这么做避免了仅仅为了读屏器来进行设计（事实上 acronym 带来的优势仅仅如此），因为除了可访问性，HTML 也需要考虑媒介的无关性，就是说不应该为特定媒介来进行设计，这也是那些针对特定媒介设计的元素如 font, center, strike 等也被废弃了。以上是我为这种选择找的理由，至于是否合理，见仁见智了。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20546647/answer/16334979
+</link>
+<author>
+Archie
+</author>
+<title>
+Dota 2 还能在中国继续爆红吗？
+</title>
+<description>
+玩Dota有7、8年了，最开始玩的时候正是Merlini大神的时代，现在主要玩LOL，偶尔周末和同事在11平台玩两把Dota。回答楼主Dota2的问题之前，先从LOL的优点出发说下我为什么玩LOL而基本不玩Dota的原因，我尽量不说SNK和Sven这样的简称，便于我们侧重游戏本身来分析：&lt;br&gt;1.操作难度小&lt;br&gt;&lt;ul&gt;&lt;li&gt;Dota里有反补，LOL无反补。 单从这一点LOL就降低了很多难度，而同时这也是我周围很多还在玩Dota的朋友鄙视LOL的原因，认为这样不能明显地区分菜鸟和高手。我们可以把Dota的对线压制分为正补压制，反补压制，英雄压制(技能，普攻和心理威慑)，而LOL除了没有反补压制，其他都是有的。通过控兵线，补刀期间的心理博弈等，LOL里的玩家水平也能产生明显差异，况且玩家会拿出反补的时间来考虑如何给对手施加压力，比单纯反补更有趣&lt;/li&gt;&lt;li&gt;技能和快捷键设置。LOL里所有英雄技能快捷键都是统一的QWER，操作便捷，不用记忆。Dota里的技能源于魔兽3的传统，基本按照技能名称划定快捷键，有助于玩家了解技能名称和英雄故事背景。LOL里更是直接将物品栏的使用快捷键直接映射到主键盘的数字键，当然这和LOL没有编队也有关系。想想看IceFrog为什么当初把剑圣的无敌斩快捷键由&quot;N&quot;改为&quot;E&quot;，以及网上和对战平台的改键工具为什么如此流行，牺牲这种复杂的操作换来玩家的便捷，让玩家更容易关注技能准确释放而不是倒腾半天按错了键，何乐而不为。好在Dota2已经从LOL之类的游戏里吸取了经验，现在英雄技能也已经是QWER了。&lt;/li&gt;&lt;li&gt;道具购买。在LOL的商店界面，玩家能看到系统推荐装备列表，也可以通过装备效果或者关键字进行筛选，当你点击任何一件装备图标，这件装备的上级和下级的合成树都会展现出来。设想一下，不管你是一位新手或者老手，现在想买一件加攻击的装备，你只需要点击商店或者按下P快捷键，点击攻击力过滤装备列表，你从右侧清楚的看到一件叫做无尽之刃的装备，你只需要直接双击它或者它的配件，购物就完成了。在LOL里购买装备是如此的容易和便捷，以至于我回到Dota，虽然有那么多的游戏盘数精力却因为几个月的生疏竟然不知道如何购买新版本的装备而为此苦恼，这种体验是多么的糟糕。距离我上次玩Dota2的测试版已经很久了，不知道IceFrog有没有改进这个问题。&lt;/li&gt;&lt;/ul&gt;2. 天赋和装备的组合。在LOL里，有很多英雄的定位取决于玩家而不会受制于系统，玩家可以自由搭配天赋和出装以及技能加点方式，体验不同的英雄玩法。辅助，坦克，法系，物理系，通过不同的尝试，你能从中体会到许多乐趣。拿Dota里的水人做例子，在Dota里，你可能纠结于先出冰眼还是蝴蝶，而在LOL里这也只算物理系的选择，你也可以选择法系天赋，即使在游戏后期，依然能依靠法伤装备用技能秒杀敌人，而其他装备和天赋也足以让你有机会站在辅助或者打野的位置上。这种自由选择的方式，在增加乐趣的同时也为玩家对抗的不确定性增加了激动人心的期待和看点。&lt;br&gt;3. 玩家对抗系统。虽然还在改进，但目前LOL的PVP系统已基本完美，匹配模式，排位赛模式，单人或者组队模式，荣誉和举报系统，观战系统等等，这些功能的存在，使得在LOL中的每局游戏如此精彩和令人兴奋，得益于游戏的设计师，真正明白了玩家的追求。现在，你猜猜看是什么使11平台后来居上将VS和浩方拉下马。&lt;br&gt;4. 用户体验。无穷尽的用户体验改进，LOL力争将玩家的游戏感受提升到极致。作为后来者的身份，LOL是有优势的，断线重连，观战，丰富的人物动画和特效，这些都是非常明显的从Dota玩家的经历汲取的改进。相信这些东西，Dota2肯定也会改进。&lt;br&gt;&lt;br&gt;虽然从Dota到LOL的惊喜没有从我当初玩3C到Dota这样的惊喜大，但LOL囊括的玩家群从小学生到各路大神以及广泛的影响力，也证明了LOL的过人之处。说了上面这些我并不是说LOL比Dota好，两者各有利弊。LOL的不爽之处我也有体会，这些方面同样也是Dota值得骄傲的地方&lt;br&gt;1. LOL的高端竞技性和Dota有明显的不足。最主要的表现是英雄技能方面&lt;br&gt;&lt;ul&gt;&lt;li&gt;LOL的眩晕和限制性技能屈指可数且作用时间短。Dota里有非常多的此类技能，比如骷髅王和流浪剑客的锤子，恶魔巫师和暗影萨满的巫术，而LOL里却少得可怜，能拥有此类技能的英雄都是热门，比如阿木木和索娜。&lt;/li&gt;&lt;li&gt;LOL里的确定指向性技能少。LOL里有很多的AOE技能，有着不同的施法距离和各种形状的作用范围，但基本都有共同点，不附带眩晕效果，不能通过直接指向敌人释放。&lt;br&gt;&lt;/li&gt;&lt;li&gt;LOL技能施法千奇百怪，扭扭捏捏，我觉得用这个词真合适。LOL里的很多英雄技能施放实在太慢，戴安娜的月光是抛过一个月牙弧线到达敌人的，古拉加斯的酒桶总要滚半天才能到敌人脚下，让人觉得纳闷为什么LOL里的设计师不喜欢Dota里流浪剑客扔锤子的那种流畅感。&lt;/li&gt;&lt;/ul&gt;2. LOL的版本更新更偏向削弱。虽然从根本上说，Dota和LOL的时代更迭都是通过补丁实现的，但最近LOL的更新实在让人无语，以至于里面的英雄没有最弱只有更弱。也许根本上的原因是就是因为上面所说的技能限制，使得LOL的平衡性很难控制，而在Dota里英雄技能都很强，英雄之间可以相互制约。另外一点，LOL是商业游戏，为了让玩家更多购买新出的英雄，势必会削弱旧英雄，我不敢肯定这是LOL官方的想法，仅是从伊泽瑞尔大热到不停削弱的现状的一种猜测。&lt;br&gt;&lt;br&gt;Dota2会火吗，没有改进肯定火不了，鄙人给Dota2的一些建议&lt;br&gt;&lt;ul&gt;&lt;li&gt;改进道具系统，给玩家更多的选择，法师再也不是后期只能手握羊刀，怀揣绿杖，吹风，推推棒各种逃命，有防为什么不能有攻。只要有道具克制，法师为什么就不能像LOL一样有能提升后期输出的装备呢。IceFrog也许发现过这个问题，为很多英雄设计了A帐效果，但仅仅这样是不够的&lt;/li&gt;&lt;li&gt;去掉魔棒这种道具，这是一件尴尬的道具，本身也是一件不平衡的道具。Dota里回魔和回血都很慢，魔棒的最初设定也许是大家都多用技能对抗，比赛好玩好看，放完技能大家都再用魔棒补给一下又可以继续在线上耗一下，免去回城或者长途跋涉泉水的麻烦。这样的问题是对手间你出了魔棒我不出我明显吃亏，而同时有些英雄比如钢背兽天生就是给别人贡献魔棒点数的命。魔棒的瞬间回复能力更使他有足够说服力作为神装存在，难怪大家感叹格子少。Dota应该取消魔棒，取而代之向LOL学习，加快英雄自身的被动回血回魔速度&lt;/li&gt;&lt;li&gt;Dota节奏仍然偏慢，不适合快节奏游戏和竞技观赏性，IceFrog改了很多了，但是还不够。应当降低防御塔特别是高地塔的血防。同时提升英雄的支援能力，为所有英雄提供一种附加技能，传送防御塔，方便支援，同时也更鼓励玩家多拆塔。但鉴于Dota地图偏大，传送卷轴和飞鞋也应继续保留&lt;/li&gt;&lt;li&gt;一套类似于LOL的匹配和排位系统是百分之百必须的&lt;/li&gt;&lt;li&gt;道具购买，观战，录像，服务器质量不能输给LOL&lt;br&gt;&lt;/li&gt;&lt;li&gt;英雄吃到神符都要念出来，感觉非常蛋疼，这不算歪门邪道但应该会有更紧迫的任务要做吧&lt;/li&gt;&lt;li&gt;尽量不要学习LOL划分那么多区，非常影响玩家交流&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;LOL从Dota这位巨人身上学习了很多东西，Dota2也已经从LOL等后来者身上看到了自己的不足。Valve是一家有极客精神的公司，不能固步不前，即使面对LOL这样的后起之秀或者暴雪全明星这样的未知挑战，如果能把产品第一位放在丰富玩家乐趣，改进游戏体验上，有大批的Dota粉丝，应该还会大有前景的
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/19854648/answer/16342638
+</link>
+<author>
+吴彬冉
+</author>
+<title>
+推理小说的本格是怎样一个流派？代表作家和作品都有哪些？
+</title>
+<description>
+简单而言，推理小说有两大最重要的因素，即&lt;b&gt;trick&lt;/b&gt;（诡计）和&lt;b&gt;plot&lt;/b&gt;（情节）。而本格推理最大的特点就是以trick为主，抑制plot的重要性。判定一本推理小说是否属于本格派，主要是看其&lt;b&gt;plot是否仅为trick服务&lt;/b&gt;。（对于这一点，岛田庄司的《斜屋犯罪》以及受其影响极深的绫辻行人的馆系列都是比较具有代表性的例子，都是为了trick去构建一座一座稀奇古怪的建筑，不喜者恐怕有人要对这些建筑本身的荒唐性嗤之以鼻的。）&lt;br&gt;同意&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@米叔&quot; href=&quot;http://zhihu.com/people/c8h10n4o2&quot;&gt;@米叔&lt;/a&gt; 说的，本格派推理小说其实就是推理游戏，读者享受的是跟随侦探或优先于侦探破解trick的过程而不是恩怨痴缠的plot。&lt;br&gt;本格派推理小说还应该具有（不限于）以下几个特点：&lt;br&gt;其一，必须保证读者和侦探获取线索的公平性，作者不能刻意隐藏线索或在解谜时拿出一个之前没有提到过的证据。例如Ellery Queen的小说中就总会在解谜的前一章节出现一封“挑战读者书”，告诉读者所有线索我都告诉你了真相已经摆在眼前了你现在知道了吗你知道了吗你知道了吗你不知道吧还是看我的吧。&lt;br&gt;其二，侦探破解trick靠的应该是逻辑推理，而不是通过巧合、拷问、占卜等方式；推理必须使读者信服，并且是trick的唯一正解。&lt;br&gt;其三，凶手必须要有足够的戏份，足够到可以将读者的目光吸引在他身上，不能在最后解谜时才娓娓道来凶手其实是路边曾一扫而过的要饭的路人甲或从头至尾没有一句台词的马夫乙。&lt;br&gt;其四，凶手犯案的动机——往往涉及到个人情感、往事回忆这些旁枝末节——是必需的，而且是必须合理的。什么是不合理的犯案动机？多看看《名侦探柯南》你就知道了。&lt;br&gt;其五，trick必须是符合科学的，不能出现诸如凶手新发明了一种毒药杀人或者凶手通过阿瓦达索命杀人之类的情节。&lt;br&gt;暂时先想到这么多，欢迎补充。&lt;br&gt;但由于种种因素，现在的推理小说（即使是号称完全本格派的小说）很难做到完全摒弃“不必要的旁枝末节”，所以这一准则有所放宽，只要trick是毫无疑问的重中之重，就允许出现那些过长的叙述性文字、微妙的人物分析、过度的气氛营造等因素。&lt;br&gt;题主要是感兴趣的话，不妨看一下黄金时代被奉为圭臬的诺克斯十诫和范达因二十守则。（&lt;a href=&quot;http://blog.sina.com.cn/s/blog_63efd2480100gj75.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;范达因二十守则和诺克斯十诫_asuka_新浪博客&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;————————————————————————————&lt;br&gt;本格派最重要的几位作家是：&lt;br&gt;阿瑟·柯南·道尔；（福尔摩斯系列绝对是推理爱好者必读，虽然很多作品并不符合本格定义。）&lt;br&gt;埃勒里·奎因；（推荐国名系列和悲剧系列，首推《希腊棺材之谜》。）&lt;br&gt;阿加莎·克里斯蒂；（推荐《无人生还》《罗杰疑案》《ABC杀人案》《东方快车谋杀案》，首推《无人生还》。）&lt;br&gt;约翰·迪克森·卡尔（密室之王）；（推荐《三口棺材》《犹大之窗》，首推《三口棺材》和其中的密室讲义。）&lt;br&gt;岛田庄司（当今世界本格派推理第一人）；（推荐《占星术杀人魔法》《斜屋犯罪》《异邦骑士》《北方夕鹤2/3杀人事件》，首推《占星术杀人魔法》。）&lt;br&gt;江户川乱步；（本人涉猎不多，请参照楼上各位的推荐。）&lt;br&gt;横沟正史；（同上。）&lt;br&gt;其他。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20836979/answer/16342561
+</link>
+<author>
+楚云帆
+</author>
+<title>
+Orcs 不是不能在阳光下活动吗？为什么《霍比特人》中半兽人可以在阳光下骑着座狼追逐远征队？
+</title>
+<description>
+关于阳光下的追逐，在《霍比特人》书中的描述是在树林中：&lt;br&gt;&lt;br&gt; 原文：Of course they soon came down after him, hooting and hallooing, and 
+hunting among the trees. But they don't like the sun: it makes their 
+legs wobble and their heads giddy.... &lt;br&gt;&lt;br&gt;中文：当然，他们很快就狂喊著追了出来，在树林间努力地搜索；但他们不喜欢阳光，它会让他们两腿发软，头晕脑胀。&lt;br&gt;&lt;br&gt;完全不能在阳光下活动的是食人妖，不是半兽人，但&lt;b&gt;阳光确实会让半兽人的实力变弱&lt;/b&gt;。所以在这里要有一个认知，&lt;b&gt;不能&lt;/b&gt;和&lt;b&gt;不喜欢&lt;/b&gt;是两个概念。&lt;br&gt;&lt;br&gt;大部分人有“&lt;b&gt;兽人不能在阳光下活动&lt;/b&gt;”的误解可能来自《指环王》里魔多攻打刚铎一战，索隆为半兽人进攻制造乌云笼罩遮蔽阳光的法术，电影中甘道夫说“法术是索隆制造出来的，因为魔多的半兽人不能暴露在阳光之下所以他覆盖住阳光好让半兽人能够顺利作战”。但是这个并不构成逻辑中的充要条件，甘道夫的推测是基于他对魔多半兽人的理解，但是未必就是完全符合设定的正确认知。实际上在《指环王》书中，”兽人无法在阳光下活动“的说法并未出现过，只是“&lt;b&gt;quail at the sun（惧怕阳光）&lt;/b&gt;”之类的描述，这些指向是”兽人&lt;b&gt;不喜欢&lt;/b&gt;在阳光下活动“，而不是&lt;b&gt;不能&lt;/b&gt;，这是两个概念。刚铎一战中，索隆为了让部队发挥全部战力，所以制造法术屏障来保证兽人的战斗力得到完全发挥，而不是以一个打折扣的部队来进攻，这也可以理解。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19902014/answer/13302120
 </link>
 <author>
@@ -221,76 +295,6 @@ DNA 里面到底可以写入多少信息？
 </title>
 <description>
 这个问题非常有意思, 因为关于&quot;DNA中到底要携带多少信息&quot;这个问题, 生命的进化史上曾经产生过重大分歧. 一派认为DNA中要尽量携带更多的信息, 这样就减少了学习的成本; 另一派认为DNA中只需要携带生存需要的信息, 同时赋予个体学习能力,以适应变化的环境.&lt;br&gt;前一派发展到目前的终极形式是昆虫, 后一派发展到目前的终极形态就是人类. 可能很难说究竟哪一种更成功, 因为目前为止昆虫反而比人类分布范围更广,数量更多.&lt;br&gt;提问者设想的,如果DNA中携带了尽量多的信息, 那么我们岂不是不用上学,生下来就获得了很多知识,这样多好呀. 这种是第一派的策略, 这种策略有个缺陷就是不能适应环境的变化, 为了补偿这个缺陷, 昆虫采取了大量和快速繁殖，缩短生命周期从而加快基因流动的办法来应对变化,这也制约了昆虫向智能生物的进化.
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20763378/answer/16096787
-</link>
-<author>
-张胡斌
-</author>
-<title>
-维络城是否近来发展受阻？是执行的问题，还是模式的问题？
-</title>
-<description>
-类优惠券类的业务都有天然的硬伤。难以形成有效的规模营收，谁也改变不了。&lt;br&gt;主要的难题有几个：&lt;ol&gt;&lt;li&gt;运营成本高，大量的地面团队是公司运营巨大的包袱，覆盖的城市越多，难题越大。获取商户合作的成本高，餐饮行业是所有行业里面销售难度最大的。&lt;/li&gt;&lt;li&gt;难以收费，市场中永远存在大量的免费竞争对手。&lt;/li&gt;&lt;li&gt;运营数据不准确，服务的使用情况难以统计。餐厅收券与否在统计和实际之间永远存在不明的差额，即使是KFC和M记也会出现大量不用券就ok的情况。&lt;/li&gt;&lt;li&gt;用户黏性低，高收入用户不在乎，低收入用户不忠诚。&lt;/li&gt;&lt;/ol&gt;所以这样的业务只能是公司服务里面的点缀性业务，而不能是主体业务。&lt;br&gt;大众点评、各种团购、12580、114甚至是OTA这样的服务提供商可以做，可以作为用户回馈而长期保持并提供运营成本。&lt;br&gt;维络城这样的没其他收入的中长期不看好。合并是个好选择。&lt;br&gt;&lt;br&gt;在这次合并中，只能说我们看到的&lt;b&gt;弱弱联合&lt;/b&gt;。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20795138/answer/16285145
-</link>
-<author>
-Junius Lu
-</author>
-<title>
-如何快速准确地掌握涂素描中的明暗色调？
-</title>
-<description>
-停下手头所有事情，怒答！&lt;br&gt;&lt;br&gt;本人美术生考取电影学院，10岁开始学习国画，15岁后接受素描色彩训练，水平考生中算好，画者中算烂。为什么要回答这个问题呢？因为这个问题也困扰了我好多年！直到我通过学习计算机渲染和相关的图形学理论，才悟出一个从来没有任何老师告诉我的真理：&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;要画好素描，最好先学一点光学知识！&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;我们说，素描训练的目的是为了训练「造型」、「光影关系」、「空间」&lt;br&gt;那么先明白几个基础的道理：&lt;br&gt;&lt;ol&gt;&lt;li&gt;光是能量，光在传播过程中，能量是会损耗的。&lt;/li&gt;&lt;li&gt;光是粒子，撞击到物体表面是会反弹的。&lt;/li&gt;&lt;li&gt;所谓「高光」是不存在的，你所看到的只是光源形状在物体表面的反射！&lt;/li&gt;&lt;li&gt;镜子是黑色的！钢盅锅子也是黑色的！&lt;/li&gt;&lt;/ol&gt;比如第一条，&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2c/bf/2cbf54c1d8c769da5f9e8efd2034de5d_m.jpg&quot; data-rawwidth=&quot;550&quot; data-rawheight=&quot;855&quot; class=&quot;origin_image&quot; width=&quot;550&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2c/bf/2cbf54c1d8c769da5f9e8efd2034de5d_r.jpg&quot;)'&gt;（老人深色的肤色，恰恰是用「留白」来表现的）&lt;br&gt;&lt;br&gt;有些学生会画黑，但是不会画白，只恨这纸不够白。什么是白，就是光线射入你的画面后，最亮的部分，这里能量最强，其他画面部分必须弱与最强的部分，有座次排席。所以就算在灰色卡纸上也能表达「阳光灿烂」。就好像图形学上颜色的数值，8bit图像最白就是1，你脾气在大也是1，所以为了不要过曝，就算是日光灯，也只能控制在0.95这样子的灰度，大部分正常的数字照片，很少有对象的颜色能进入这么高的数值范围里。&lt;br&gt;&lt;br&gt;第二条，&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2c/c1/2cc1f03852e24e0b4e230227ca11712f_m.jpg&quot; data-rawwidth=&quot;824&quot; data-rawheight=&quot;1108&quot; class=&quot;origin_image&quot; width=&quot;824&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2c/c1/2cc1f03852e24e0b4e230227ca11712f_r.jpg&quot;)'&gt;（辅光暗示了距离，体积，结构）&lt;br&gt;&lt;br&gt;找到主光很容易，难的是画辅光，所有一切古典绘画的美感，细腻的辅光表现是关键。主光击中背景以后，给与主体物「 散漫」的辅光，或暗示了体积，或勾勒出轮廓，或丰富了色域（灰度），会画，能画出辅光的才是高手。&lt;br&gt;&lt;br&gt;第三条，&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4a/f8/4af8e636300a85b3d284cafe2c44545b_m.jpg&quot; data-rawwidth=&quot;1700&quot; data-rawheight=&quot;1186&quot; class=&quot;origin_image&quot; width=&quot;1700&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/4a/f8/4af8e636300a85b3d284cafe2c44545b_r.jpg&quot;)'&gt;（一个灯泡一样的细小光源，怎么可能产生这么「 散漫」的环境反射和柔软阴影）&lt;br&gt;不光是素描，特别是水粉色彩中，很多学生就是大笔一挥，一坨白色颜料涂在「高光」处，嘴角漏出「满意的微笑」，收笔完工。殊不知这是一种恶劣的「形式主义」表现方式。这一笔下笔前，必须观察主光的形状，色感，才能决定物体所谓「高光」的绘法。&lt;br&gt;&lt;br&gt;第四条，&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/69/80/69800fba6729eaffc02b154841f57bbf_m.jpg&quot; data-rawwidth=&quot;856&quot; data-rawheight=&quot;1478&quot; class=&quot;origin_image&quot; width=&quot;856&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/69/80/69800fba6729eaffc02b154841f57bbf_r.jpg&quot;)'&gt;&lt;br&gt;要问很多人镜子是什么颜色的（固有色），很多人会觉得，「应该是白色」的吧，画素描的人怎么可以犯这种错误呢，虽然我们素描练习中很少有画镜子这种东西，但锅碗瓢盆等强反射的金属物体还是不少的，对于他们固有色的理解，才能深刻理解反射的原理，如果一个物体的固有色是白色，那么它无法反射出任何环境，而且，你如何在一个「 镜面反射」物体上，找出那个该死的「明暗交接线」？！&lt;br&gt;&lt;br&gt;去tm的明暗交界线。&lt;br&gt;&lt;br&gt;以上是我完成「应试考学」以后，在学习中才后知后觉的一些道理，回头再看之前接受的训练，大部分，完全是出于「应试」的肌肉反射训练，这么说吧，中国素描教学出来的学生，造型都没有问题，大部分瞄一眼对象，自己就能「默写 」了，完全不用考虑对象的真实情况，你说这也是创作，我觉得这只是机械训练的条件反射罢了。&lt;br&gt;&lt;br&gt;而这样训练出来的学生，离「美术」还差很远很远。&lt;br&gt;&lt;br&gt;素描训练是很理性和很客观的事情，很难想象没有一点基本的科学素养和悟性，光靠什么「眯起眼睛看」，「临摹」，「不许用3H的铅笔」，就能画出犀利的素描作品，当然，有悟出这些道理的人，花了很多时间，能用「自己的语言」得到同样的结果，但如果能从科学入手，我觉得会事半功倍。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20691521/answer/16007847
-</link>
-<author>
-水无痕
-</author>
-<title>
-Clash of Clans 具体怎么玩？有什么技巧？
-</title>
-<description>
-昨天把奖杯刷到1250拿了450个宝石之后我决定来码字了……（顿时感慨为什么在知乎上我净是回答打游戏的问题……我是有多hea……）&lt;br&gt;&lt;br&gt;之前在人人平台上玩过类似的这种策略类游戏，比如说《红色警戒》、《星球崛起》什么的。后来因为玩到级别高的时候不花人民币真的是寸步难行，于是就放弃了。&lt;br&gt;&lt;br&gt;不过倒是积攒了许多经验可以给大家分享：&lt;br&gt;首先要明确一点：&lt;b&gt;钱永远不是攒来的，是抢来的！下线的时候记得把钱花光，不攒钱不惹人羡慕来打。要用的时候再去别人那里拿。&lt;/b&gt;&lt;br&gt;第二点感触是：主基地的升级很重要，但是也很困难。基地等级的高低往往产生压制性的优势。&lt;br&gt;第三点经验是：一开始给你的那些宝石什么的不要乱花啊少年！能买工人的买工人，买不了工人的就等着升级主基地用。因为如果单纯靠攒钱的话，要么一气打足够的钱出來，要么就只能祈祷不要在下线的时候钱被人打光了。&lt;br&gt;&lt;br&gt;作为不算第一次玩这种游戏类型的人，说说我是怎么发展的吧。&lt;br&gt;因为之前人人平台上《红色警戒》的教训，我上来的反应是先要把主基地升上去。所以我的宝石基本上都是花在买金币上来升级主基地上了。通过宝石的帮助可以很轻松很快（相当快）的把基地升到五级。&lt;br&gt;之后就是老老实实的该升级就升级该造什么就造什么。&lt;br&gt;建议首先升级气矿和军营。因为他们可以保证你每次登录的时候都可以有足够的气去买到足够强大的兵去抢钱（重视发展而不是奖杯的时候就不要管被打的问题了，反正每次下线钱都花完了怕啥）。&lt;br&gt;等金币富裕了，就开始大规模升级防御（啥？金币太多下线的时候花不完？多的钱你造围墙啊大哥！围墙多吃钱啊！不过记得先造围墙啊！cancel要吃一半的钱）。&lt;br&gt;这个时候就两个选择了，升六本或者是打1250的成就得到450个宝石。这个时候就完全取决于自己的奖杯数了吧，我当时防御什么的都起来了之后差不多有1000个奖杯，于是花了一下午的时间打到1250，打的过程中钱够了，升六本，打完之后就直接买了第三个工人。（第四个工人要1000个宝石，尼玛坑爹呢！）家族里面的长老一直跟我说，你应该被人打到900多个奖杯才对，不然你还没30级给你配对的对手你都太难打。我没听他的，因为找到了一个比较nb的战术，见下文。&lt;br&gt;&lt;br&gt;关于作战：&lt;br&gt;&lt;br&gt;作战的目的有两种，要么是抢资源，要么是拿奖杯。&lt;br&gt;你要是抢资源你就看看资源是不是好打，只要能打到就别管输赢，要是被层层封锁难以接近，别省着那配对钱。&lt;br&gt;要是拿奖杯，眼里就别盯着资源。一共三颗星打到100%伤害，打掉基地给一颗，打掉50%的建筑给一颗，只有100%都打掉了才会给三颗。只要有了一颗星星就不会判定你输，只要不输你就有奖杯拿（虽然少点但至少不会扣你奖杯数）。所以把A类建筑堆到离防御很远的地方是一个不怎么英明的决定。看一下对方的布局，是拿主基地容易些，还是打掉50%容易些。如果都很困难，别省着那配对钱。&lt;br&gt;&lt;br&gt;另外吐个槽：这个游戏的AI很屎。太屎了。当年《红色警戒》在人人平台上各种挨骂，但是好歹可以选择是否人工操作，是否电脑AI。三个手指划个框框，一个手指点击运动，我一开始以为操作是这样呢，结果进了战斗才发现，坑!爹!呢！除了prefer defence的兵种，谁上来都是挑着最近的那个打。&lt;br&gt;这个问题让我头疼了很久……………………所以一开始巨人+wb+bb的组合并没有太大效果，因为wb轰掉围墙开路之后巨人在前面tank抗伤害，可特么这个时候后面的bb根本就没有跟上来输出，还是各打各的，围着个小土楼砍半天，巨人都死光了特么才过来帮忙。&lt;br&gt;&lt;br&gt;&lt;br&gt;之后总结了一下，找到一个战术分享给大家。&lt;br&gt;人海战术。&lt;br&gt;&lt;br&gt;要知道，这个游戏的AI太屎了，这是前提。所以你的兵种即使是再厉害他们也只知道捡着身边最近的那个砍，而且被对方集中火力了死的很快，再而且占的人口多所以每次造出来就那么几个。&lt;br&gt;&lt;br&gt;于是最后这个傻傻的AI愣是把我逼的：&lt;br&gt;全造bb。&lt;br&gt;我现在是三级实验室把bb升到3级，人口有120，所以每次去打的时候都是5个wb加上115个bb。所以外面的A类建筑可以很轻易的一下子啃光。然后直奔围墙。wb撕开口子之后bb们就一拥而上，这个时候就几本不用管了。我115个人你防御在厉害每次发炮都只能杀掉我一个，而我可以在两次发炮的间隙就像切菜一样把你砍掉。&lt;br&gt;&lt;br&gt;这个战术的优点是：&lt;br&gt;花钱少&lt;br&gt;造兵快（120个造满最多也就不到20分钟）&lt;br&gt;火力大（那是相当猛）&lt;br&gt;人多不怕死&lt;br&gt;&lt;br&gt;缺点就是：&lt;br&gt;怕群体伤害的魔法塔和大炮。&lt;br&gt;魔法塔轰几下基本上大家都挂了，一次挂那么三四十个谁受得了。大炮还好，因为发弹有间隙运动快，所以我的对策是上来要么从距离魔法塔远的那部分打，要么就直接冲到魔法塔的下面一下子砍掉他（对炮塔基本上就直接就近砍过去，不会躲在远的那部分进攻（炮塔也没什么远的……伤害半径那么大……））。&lt;br&gt;&lt;br&gt;这个方法大家初期还是可以用一用。不过对方等级到了六本七本的时候就有两三个炮塔和魔法塔了，就不容易选定进攻路线了。（冲1250的时候系统给我的配对都是八本的……我基本上要配对十几次才能找到一个100%不会输的。不过现在拿到450宝石就不用怕啦～接下来就是抢钱发展啦，管他输赢呢）&lt;br&gt;&lt;br&gt;&lt;br&gt;那个时候，嘿嘿，还是多兵种进攻吧。&lt;br&gt;&lt;br&gt;关于防御的阵型什么的网上有很多就不再多说了，不过，围墙真特么吃钱……&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;祝大家游戏好运～～～
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20678547/answer/16337549
-</link>
-<author>
-潘宁羚
-</author>
-<title>
-智利是一个怎么样的国家？
-</title>
-<description>
-仍然在智利首都圣地亚哥交换中，与大家分享这片几乎和中国距离最远的土地上的人事物，会不断更新。&lt;br&gt;&lt;br&gt;刚刚到智利的时候，因为语言不通（一条街上听得懂英语的一只手可以数过来），后来用微信用陌陌搭讪周围的各种中国人或者会说英语的外国人，充分利用对方的各种信息来帮助我们迅速稳定下生活。当时心里滴血地想，当年怎么不好好学习西班牙语呢混蛋。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;食物&lt;/u&gt;：&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;主食 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;食物主要以芝士、黄油等配合各类面包、肉类为主，水果品种丰富，和国内相比部分水果（比如蓝莓、车厘子等）相对比较便宜。&lt;br&gt;智利传统家里的人不吃晚餐，但是会在晚上八九点吃一顿叫 Onces 的类似早餐内容的餐，一边看电视，一边喝啤酒抽烟大声聊天享受阖家欢乐。可能是因为太阳落山晚（通常在晚上 8 点以后），一个月落雨又不足 3 天，所以作息也比较推迟（我从来没见过我爸妈会在半夜一点还放着整栋房子都可以听到的音乐欢乐地看电视的情景），不过也正是这些人让我见识到了什么叫做「活在当下」的「Carpe Diem」，乐观洒脱即使没有很多钱。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;沙拉 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;沙拉很多，但是通常不会提供类似国内的沙拉酱，而是其他两三种口味的酱料（鱼酱、芒果酱、树莓酱等各种奇奇怪怪的口味都遇到过），除了生菜、番茄、黄瓜等传统蔬菜外，通常会有不同口味的芝士（可选择），鸡肉，牛油果等。&lt;br&gt;坑爹的羊奶芝士就不要尝试了，真是余味绕梁一百日。同班一个瑞典的女生非常不能理解我为什么这么讨厌这种芝士，而且常常对我说这是她吃过最好的芝士了。个人还是坚持这种腥骚味不适合亚洲人的口味。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;面点 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;面包什么的就不说了，不过有一种饼比较普遍也很特别，上面是不同的派或者酱料，下面是厚厚的酥饼，因为我实在不爱吃，也就不多作评论了。还有那种大饺子，类似北方的盒子，不过内馅各有不同，因地制宜，食材取自当地。&lt;br&gt;中国菜和中国饭店在当地比较常见，和比比皆是的寿司店不同，中国餐厅多是有中国人在其中经营的，不过口味经过改良，多半还是卖炒饭炒面盖浇饭之类的食物。不过卖中国调料或者其他中国方便面等的小店几乎就都是当地人经营的了。&lt;br&gt;当地最多的店一个是药店（Famacia），另一个是一个叫「Castaño」的面包店，已经达到了「五步一阁，十步一楼」的境界。值得一提的是，这里的药店和国内不同，它是类似于 7-11 这样的便利店，或者华美星辰这样的药房，主要售卖各类非处方药和日用品。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;饮用水 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;圣地亚哥的水不好喝。大多数人家饮用的是会直接从水龙头倒出的自来水，除非需要热水，基本不会高温沸腾，这直接导致了我们喝了很长时间的「游泳池味道」的水。不过后来即使我们煮过水之后也觉得水有一股漂白粉味道。&lt;br&gt;便利店里也不一定会售卖矿泉水，以果汁汽水为主。在餐馆吃饭需要白开水的话一般也会以售卖矿泉水一瓶为主，不过会提供杯子以及是否需要冰块。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;气候&lt;/u&gt;：&lt;/b&gt;&lt;br&gt;&lt;blockquote&gt;智利的国土横跨 38 个纬度，而且各地区地理条件不一，智利的气候复杂多样包括多种形态，使得很难用一句话总结智利全国的气候状况。在智利国境内至少包括了五种主要的气候类型，包括有：&lt;br&gt;&lt;ol&gt;&lt;li&gt;北部的热带沙漠气候&lt;br&gt;&lt;/li&gt;&lt;li&gt;东部和东南部的高山苔原和冰川气候&lt;br&gt;&lt;/li&gt;&lt;li&gt;复活节岛上的湿润亚热带性气候&lt;br&gt;&lt;/li&gt;&lt;li&gt;智利南部的海洋性气候&lt;br&gt;&lt;/li&gt;&lt;li&gt;智利中部的地中海气候&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;全国大多数地区有四个季节：&lt;br&gt;&lt;ul&gt;&lt;li&gt;夏季 - 12 月至 2 月&lt;br&gt;&lt;/li&gt;&lt;li&gt;秋季 - 3 月至 5 月&lt;br&gt;&lt;/li&gt;&lt;li&gt;冬季 - 6 月至 8 月&lt;br&gt;&lt;/li&gt;&lt;li&gt;春季 - 9 月至 11 月&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;早晚温差很大，没有太阳直射的时候天气十分舒适，但是晚上会很凉。圣地亚哥的冬天不太冷，最低温度一般也不低于零度。平日降雨十分少，正午时云彩不多，虽然重金属工业发达，但是天空颜色依旧蓝。傍晚的粉红色天空会配合火烧云十分美丽，这里的傍晚指的多是晚上 8 点，那时候太阳才下山。附图从家里阳台看出去的夕阳。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/71/aa71e485b3cb57c4b1a04266f599ede3_m.jpg&quot; data-rawwidth=&quot;1067&quot; data-rawheight=&quot;693&quot; class=&quot;origin_image&quot; width=&quot;1067&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/aa/71/aa71e485b3cb57c4b1a04266f599ede3_r.jpg&quot;)'&gt;&lt;br&gt;&lt;blockquote&gt;智利北部的热带沙漠气候区是世界上降水最为稀少的地区，不是之一，是最少，有个地方甚至连续 91 年滴雨未下，就算是比较大的城市例如伊基克，也是几年才下一场雨。&lt;/blockquote&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;公共设施&lt;/u&gt;：&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;公共厕所 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;正常的位于大街上的公厕都不免费，均价在 350 比索。在市场或者大排档吃饭的话，你需要和 waiter 说要去 baño（厕所），然后 waiter 会给你一张「免费公厕使用券」，去指定公厕使用。&lt;br&gt;也正因为公厕实现收费制，所以相对比较干净。大多数步行街上的厕所还都是生态循环公厕。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;旅游咨询中心：&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;这样的小 office 在圣地亚哥有不少据点，主要提供各种官方的旅游推荐、免费地图和讲解等，工作人员不一定会英语，但是相关资料有英文版的。通常这些中心的工作时间截止下午 4 点，但是工作环境极佳，非常赏心悦目。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;物价&lt;/u&gt;：&lt;/b&gt;&lt;br&gt;比索和人民币的换算方法：比索单位去掉 2 个「零」后乘以 1.3，即人民币面值。&lt;br&gt;物价大概是杭州的 3-4 倍左右，也包括不同的全球连锁快餐，比如 Subway 的基本餐在圣地亚哥大概折合人民币 60 元左右。&lt;br&gt;普通衣物和国内类似，也有不少中国商人（温州偏多）在当地卖衣服，其实 made in China 的衣服在智利本地市场还是占多数的。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;住房&lt;/u&gt;&lt;/b&gt;：&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;宿舍 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;全智利都没有学校的宿舍&lt;/b&gt;，因此学校其实不怎么管国际生的住宿问题，但是会提供一些网站网址给我们参考。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;贫民区 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;因为在飞南美之前没有找到合适的房子，所以想在 homestay 住一周到当地看房子，就用 airbnb 找了一家看起来很漂亮的住宿来住。房东非常热情，房子也确实挺漂亮，就是比较简陋，是那种自己建的民房不过刷了五颜六色的漆，配合着南美洲灿烂的阳光蔚蓝的天空就很好看。&lt;br&gt;房东来接我们的时候也不知道西区是贫民区，只觉得房子比较落后路上人比较少，后来在附近地铁站遇到了一个中国人（当时真是迫于无奈见到会说英语的长着华人面孔的就搭讪啊），和我们形容这一带的话是「你们再住住就知道了」，心中无限后怕。加上离学校确实非常远，便决定搬走。&lt;br&gt;当时的房价是一个月 500 刀，住在上下铺的不足 10 平米的小房子里。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;市区 -&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;其实圣地亚哥的房子挺多的，中介服务也非常周到，但是服务费比较贵。他们的收费标准主要是根据住房时间长短来定的，住的时间越长就越贵，比如 3-4 个月是收取 40%，5-6 个月收取 45% 的中介费。另外要注意的一点是，这边很多房子的标价都不一定是实价，extra fee 比较多，比如水电费、打扫费、网络费等，七七八八一加，价格不比欧洲便宜多少。&lt;br&gt;我们租了一个二流地段的高层套间，靠近地铁 1 号线（因为学校在山上，只能通过这个方式上学），房子挺大，有 1 个主卧室和 2 个很小的侧卧，以及 3 个厕所（这点实在太实用了），房子挺大，月租折合人民币一万五（三人平摊，各五千左右）。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;酒店、青旅 -&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;还没有体验过，但是知道很贵。（待更新）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;交通&lt;/u&gt;：&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;地铁 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;和其他大城市相似，圣地亚哥的地铁四通八达非常方便，但是在这样 GDP 的国家里价格不低，白天的票价是 610 比索，晚上会变成 690，单趟折合人民币 10 元左右，不记距离。&lt;br&gt;如果有学生卡、老年卡的话还是非常划算的，单趟 190 比索，但是由于办卡手续十分麻烦，大概需要 2 个月才能办下来。&lt;br&gt;地铁上的地图是纸质的，也就是说，具体地铁行驶到了哪一站无法通过小红灯标识识别，加上不是双语报站，所以其实常常容易坐错站，不过幸好这边和北京那种部分站必须出站以换方向不同，它这边换方向非常方便，有写着「solo cambio de anden」的单独穿行通道。&lt;br&gt;南美人的热情在地铁上可以充分发挥，第一次见到在某次足球比赛前后，整整一列车（每个车厢）的人一起大声唱同一首歌，又唱又跳，每一站都有人下车，有人上车，穿着一样的衣服，在车子启动后拍车顶，跳舞。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;公共汽车 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;公共汽车很现代，和地铁相比价格差不多，590 比索一次，2 小时内是不加收费的。公交车内设施比较好，有些线路长的车也比较大，有专门的站立区域和残疾人区域，常常还可以看到有艺人在上面表演（不是国内地铁上那种断手断脚的乞讨歌手），通常会有一个弹琴，一个演唱（见图）。如果有乘客欣赏可以给他们钱，通常演唱几首歌就下车换乘，或者只是刚好经过此地需要乘坐此车。&lt;br&gt;要注意的一点是，公交车是不报站的，站台上的站牌上没有具体的站名，推荐大家使用谷歌地图或者网站：&lt;a href=&quot;http://www.transantiago.cl&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;.: Transantiago :.&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 提前查好线路。用后者有一个方便的是它能告诉你具体坐到哪一站的站牌号，你估摸一下距离留心站牌号，避免过头。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;出租车 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;路途中等的话价格还是非常划算的，特别是几个人 share 车钱的情况，有时候比坐地铁还划算。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;租车&lt;/b&gt; - &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;据其他中国人（一个通过微信周围的人找到的中国汽车商人）提供的消息，中国驾照通过一定的手续是允许在智利境内行驶的，但是需要交 200 美金在当地进行一个简单培训和考试，过程需要一些时间，但相对比较容易，再加上智利租车行业发达以及驾驶座位于左边，十分适合喜欢旅行的中国朋友们。&lt;br&gt;如果在当地停留时间较长并且有此需要的话可以考虑。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;娱乐活动&lt;/u&gt;&lt;/b&gt;：&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;节日 - &lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;每年 2 月有一个持续一周的节日，会有现场表演（在距离圣地亚哥附近的一个沙滩上），还有音乐颁奖、明星表演等，全国电视台都会每天全天直播现场，当地的广场上也会有不少庆祝活动。那天行为艺术表演的人也较多，主题多为表现「爱」、「希望」、「和平」等。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;夜生活&lt;/b&gt; - &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;实在太欢乐了。（待更新）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;关于当地人&lt;/u&gt;&lt;/b&gt;：&lt;br&gt;大多数当地人还是非常 nice 的，遇到过很多人都说智利是南美治安最好的国家了，即使仍然存在不少抢劫和偷盗的行为。&lt;br&gt;单反这样的设备还是比较少见的，所以在大街上走的时候不建议将相机挂在脖子上。&lt;br&gt;不过会说英语的人实在少之又少，强烈建议不会说西语的人在去之前务必小学一番。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;关于中国人&lt;/u&gt;&lt;/b&gt;：&lt;br&gt;因为在智利的中国人还是有一些的，但是很奇怪的是，走在路上遇到其他中国人的时候，对方不会太热情也不会很激动。特别是在路上的一些中国餐馆里，听到中文也都冷冷地一问一答，开始我们都超不能理解为什么在国外中国人这么冷漠。&lt;br&gt;后来才知道，在当地中国人多是抱团生活的，大家都有自己的中国人小圈子，所以不会太激动，不过还是原意互相帮助的。&lt;br&gt;&lt;br&gt;相对于其他拉美国家来说，智利总体还是比较安全的。&lt;br&gt;&lt;br&gt;参考资料：&lt;br&gt;&lt;a href=&quot;http://zhidao.baidu.com/question/159732029.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;智利是什么气候&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;家里网速不佳，无法多传图片，还会继续更新。&lt;br&gt;：）
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20527997/answer/16337347
-</link>
-<author>
-GPepperLiu
-</author>
-<title>
-「一脚踩空」的感觉是如何产生的？
-</title>
-<description>
-回答这个问题之前我们先来考虑下另一个问题：&lt;br&gt;为什么开发出像人一样直立行走的人型机器人这么困难？大部分机器人都是靠轮子前进而不是两足？&lt;br&gt;可能有其他原因我不太懂，不过我知道很重要的一个原因是：创造出一个具有平衡感的系统是非常复杂的。&lt;br&gt;&lt;br&gt;人类的脑在保持身体平衡时进行的计算非常复杂，只不过它不需要动用你的意识，所以让你感觉不到而已。&lt;br&gt;要让身体时刻保持平衡，需要回答三个问题：身体的运动状态是什么样子？身体处在什么姿势？周围的环境什么样子？&lt;br&gt;&lt;br&gt;人进化出了三个系统分别了解这三方面的信息，汇总到小脑，小脑是处理平衡感的中枢。&lt;br&gt;1，前庭系统：告诉你“身体的运动状态”。 前庭系统在耳朵里，就是那个会让你晕车的器官。它负责感知人在三维坐标中的位置、旋转、摇摆，以及定向加速度。&lt;br&gt;2，本体感觉：告诉你“身体处在什么姿势”。所谓本体感觉，是由分布在运动系统的一系列感受器组成的，感受身体众多的肌肉、关节、肌腱处在什么位置和什么运动状态。小脑综合这些信息后就知道你的身体正处在什么姿势。&lt;br&gt;3，视觉系统：告诉你“周围的环境什么样子”，比如前面是不是有一块砖头、地面是硬的还是软的等等，这些信息对保持平衡非常重要，因为人的身体姿势不是瞬间就能调整好的，必须要计算提前量，才能保证几秒钟以后身体仍然处在平衡状态。&lt;br&gt;&lt;br&gt;说起来很有趣，这三方面信息粗略地看，分别代表了平衡感的过去、现在和未来。而小脑，就负责分析这三方面所有的信息，指导身体的姿态，保证平衡的。&lt;br&gt;&lt;br&gt;题目中问到的走台阶，其实就是收集到的信息不够充分。小脑认为前面仍然是一个台阶，于是做好了&lt;br&gt;踩到台阶的准备，正如我前面说到的，这种准备是很复杂的，比如后脚要抬多高，大腿和小腿肌肉什么时候收缩，什么时候舒张，跟腱和脚掌的位置，重心在前后方向和左右方向上分别什么时候做出调整，前脚什么时候开始抬起等等一系列。&lt;br&gt;结果前面其实没有这个台阶，你的身体瞬间就失去了平衡。小脑表示很抱歉。&lt;br&gt;&lt;br&gt;感谢你的小脑吧，它默默无闻的做了这么多工作，甚至只有出现错误的时候你才能感觉到它的存在。
 </description>
 </item>
 </channel>
