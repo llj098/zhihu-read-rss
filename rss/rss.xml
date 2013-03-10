@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19974164/answer/13791636
+</link>
+<author>
+飞得更高
+</author>
+<title>
+做笔记和整理笔记，有哪些实用的窍门和经验？
+</title>
+<description>
+这个方法是一个名叫沃尔特·鲍克的人发明的，目的就是为了帮助学生有效的做笔记。&lt;br&gt; 你笔记本中的一张纸，我们一般记笔记都习惯于从头写到尾，最多分段加小标题什么的，而康奈尔笔记系统正是这种做笔记方式的进化。&lt;br&gt; 康奈尔笔记系统把一页纸分成了三部分，就是左边四分之一左右和下面五分之一左右的空间单独划拨出来。&lt;br&gt; 右上那最大的空间是我们平时做笔记的地方，你按照你的习惯记录就行了；左边那竖着的一条空间叫做“线索栏”，是用来归纳右边的内容的，写一些提纲挈领的东西，这个工作不要在做笔记的时候做，而是在上完课之后马上回顾，然后把要点都写到左边，这样一方面马上复习了内容，另一方面理清了头绪。&lt;br&gt; 下面那横着的一栏是用来做总结的，就是用一两句话总结你这也记录的内容，这个工作可以延后一点儿做，起到促进你思考消化的作用，另外也是笔记内容的极度浓缩和升华。&lt;br&gt; 怎么样，简单的一个划分，使得原来杂乱无章自己都不想看的笔记瞬间变得清新俊俏了，以后复习起来能够很快地提纲挈领，而且也容易促进你的思考，学习效率会有很大的提高。&lt;br&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/19992136/answer/13743399
+</link>
+<author>
+夏晓昊
+</author>
+<title>
+理论上一个超级计算机的 CPU 数量有限制吗？
+</title>
+<description>
+同意 @太阳 的回答，只是因为比较简短，我还是多说几句吧~&lt;br&gt;&lt;br&gt;&lt;i&gt;此回答作为@余天升 的补充，仅仅就软件部分展开。&lt;/i&gt;&lt;ul&gt;&lt;li&gt;首先这个问题让我想起了一句话：“&lt;b&gt;你可以让1个人用60秒挖一个2米深的坑，但是没有办法让60个人用1秒挖一个2米深的坑。&lt;/b&gt;” &lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;但是如果我们将这句话再改一下： “&lt;b&gt;你可以让1个人用60秒打扫一个60平方米的空地&lt;/b&gt;&lt;b&gt;，同时也可以让60个人用1秒&lt;/b&gt;&lt;b&gt;打扫一个60平方米的空地&lt;/b&gt; &lt;b&gt;。&lt;/b&gt;”  &lt;/li&gt;&lt;/ul&gt;从第一句话可以看出计算速度与工作一样，并不能随计算机数量的增加而线性增加；而从第二句话可以看出，计算速度可以随计算机数量的增加而线性增加， 对比这两句话我们就可以看到一个事实， 就是说存在着两种极端情况，分别是&lt;ol&gt;&lt;li&gt;一个计算工作每一次运算的结果如果都与下一次运算存在因果关系，就像挖坑的时候只能从上往下一步一步挖，此时多线程计算就像一个工人在忙活，其余工人在围观一样，超级计算机也完全派不上用场。&lt;br&gt;&lt;/li&gt;&lt;li&gt;每一个计算工作都是相互独立的，这群工人可以每个人完成自己独自的工作而不受他人的影响，那么此时多线程计算就能完全派上用场。&lt;/li&gt;&lt;/ol&gt;总之，超级计算机不仅存在硬件设计上的困难，在软件设计上也需要重新编排。而其核心思想就是算法并行化设计。最大限度地打破原算法的次序并按照计算平台的特性合理设计算法，保证每个CPU都能干上活。当然这也就意味着&lt;b&gt;即便是超级计算机，其对软件运行的加速效果实际上也是与该软件的算法息息相关的。&lt;/b&gt;为了能够有效利用超级计算机的计算性能，重新设计用来跑在超级计算机上的程序代码是必须的。在大学的图书馆，关于&lt;b&gt;并行计算&lt;/b&gt;的书籍与相关资料都会有，也有一些研究所是专门从事并行计算研究的。&lt;br&gt;&lt;br&gt;而所谓的软件就能管理几百几千个CPU，这样的技术恐怕目前还不知是否有可行性。最简单的例子就是，你所用的intel多核处理器体现的优势仅体现在能让你一边看电影一边打游戏。但是还没有什么软件或者驱动声称能够打通CPU的任督二脉，让你的电脑游戏性能成倍提升。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20830524/answer/16322012
 </link>
 <author>
@@ -270,35 +298,7 @@ http://www.zhihu.com/question/20833132/answer/16331595
 右上角一个红色圈的数字，这样的提醒方式是一个好设计吗？
 </title>
 <description>
-&lt;b&gt;首先&lt;/b&gt;回答你的问题，我觉得这种动态提醒是一个非常好的设计。&lt;br&gt;&lt;b&gt;再说&lt;/b&gt;这种提醒方式，如Linus所说，这种提醒方式属于Text-Badge 动态提醒&lt;br&gt;(程序实现方式是：重写图标类，为图标右上角添加一个可以动态设置文本内容的text)&lt;br&gt;我最先看见这种动态提醒是360在PC端的软件update数量提醒(个人阅历有限，但评论里知友告诉我，ios的badge提醒是先于360的)，后来这种动态提醒也被迅雷下载引入。移动设备上的App也很早就引入了新消息badge提醒(ios平台有这个功能，Android平台没见过，Android平台仅在应用内的图标按钮上看见过提醒数量)&lt;br&gt;&lt;b&gt;最后&lt;/b&gt;说说为什么这是一种很好的设计。&lt;br&gt;&lt;b&gt;这种提醒设计很大程度地降低了用户“感知”有新消息到来的成本，减少了用户与某个应用或平台(上的人)互动的等待时间。&lt;/b&gt;&lt;br&gt;试想如果没有这种设计，忙时未及时处理的邮件、来自人人、QQ空间、微博等社交平台的新消息等等内容，都需要自己再打开一次应用，才能获知这个平台是否有消息需要处理互动。有时候我们会隔很长一段时间才进这个应用一次，但应用里的待处理消息却是需要在当时就进行互动的。&lt;br&gt;&lt;b&gt;所以有时候我们进入这个应用，仅仅只是想查看有没有关于自己的新消息而已&lt;/b&gt;，如果没有，我们可能会立即退出来。&lt;br&gt;&lt;b&gt;至于&lt;/b&gt;大家讨论到的关于这种设计引起的人不停查看新消息的&quot;强迫心理&quot;，我想说，垃圾消息只会因为你而存在，你是可以花点时间来彻底拒收这些垃圾消息的。&lt;br&gt;我在想这个设计的好处时，想起了另一件事，就是一种”消息中心“形式的产品设计&lt;br&gt;对很大一部分人来说，社交网络与现实生活已经密不可分了，而处理来自各种社交网络的新消息就成了一个小难题。&lt;br&gt;Windows8系统内置的消息中心、360桌面的消息中心等等的设计就非常不错，它们都是为了更大程度地降低用户“感知”、处理来自社交平台新消息的成本而存在的，事实上他们也一定程度上解决了这个小难题。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19707815/answer/12717178
-</link>
-<author>
-陳浩
-</author>
-<title>
-怎样学习抽象代数？
-</title>
-<description>
- 受邀。vieplivee推荐了很多具体的教材什么的，我就不推荐了。&lt;br&gt;&lt;br&gt;我是中途转数学的，也是大三开始自学群论。不过我的优势是物理系的数学基础本就不错，另外我有物理图像，群论是对物理很重要的一个科目。&lt;br&gt;&lt;br&gt;抽象，就是独立于经验与物理现实，但是抽象不是说和经验现实没关系。&lt;u&gt;经验现实是抽象概念的来源&lt;/u&gt;，人的思维不会凭空造出个东西。因此抽象概念一定能在现实中找对某种程度的实现，这就是&lt;b&gt;数学图像，对于理解是很有用的东西&lt;/b&gt;。以群论为例，维基给相关话题使用了魔方的图片，这就是一个很赞的图像。群就是变换，其意义体现在可以作用于其他对象上，就像是你旋转魔方使其状态改变，子群什么的概念就都显而易见了。&lt;br&gt;&lt;br&gt;但是不能停留在图像上，因为&lt;u&gt;抽像概念毕竟是独立于经验现实的&lt;/u&gt;，是有一系列公理和性质所定义的。&lt;b&gt;有数学图像&lt;/b&gt;&lt;b&gt;不等于理解，&lt;/b&gt;&lt;b&gt;只能帮助理解&lt;/b&gt;。常有人问怎么想象三维以上的空间，事实上我们没有想象。我们有多维空间的数学定义，严格按照定义来推导，有时想想二维三维的情况获得一些启发。这里就是硬工夫了，看能不能静下心，有时还要排除数学图像的干扰。&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;br&gt;我认为这个能力也是可以培养的，途径就是&lt;b&gt;多看多做举一反三&lt;/b&gt;。数学研究中经常说有灵光一现，其实没读大量的文献，没学大量的数学，哪来的灵感。每个数学上的突破都只是在许多其他人的工作上做的微创新，虽然可能数学家本人没有意识到。佩雷尔曼拒绝奖金，因为方法是别人发明的，他用了而已……可谁不是呢。我建议找有答案的教材，先参考着答案做题，然后自己&lt;b&gt;总结方法思路&lt;/b&gt;，自己就开始会做了。问题在是否善于总结归纳。不擅长的话，应试教育所用的题海其实是有道理的，逼你习惯各种方法技巧。&lt;br&gt;&lt;br&gt;引用巴拿赫的名言，体现举一反三的境界：&lt;br&gt;A mathematician is a person who can find analogies between theorems; &lt;br&gt;a better mathematician is one who can see analogies between proofs&lt;br&gt;and the best mathematician can notice analogies between theories. &lt;br&gt;One can imagine that the ultimate mathematician is one who can see analogies between analogies. 
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19796230/answer/16333864
-</link>
-<author>
-言雀
-</author>
-<title>
-和尚化缘到荤菜怎么办？
-</title>
-<description>
-这是个好问题啊！&lt;br&gt;&lt;ul&gt;&lt;li&gt;我同意&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@负二&quot; href=&quot;http://zhihu.com/people/fu-er&quot;&gt;@负二&lt;/a&gt; 说的，现在没有化缘的说法。具体不铺展，都懂。&lt;/li&gt;&lt;li&gt;题主问的，是以前，没有标注确切年份，我就权当是中国近代以前。印度不了解，避而不谈。&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;中国古代的家庭食用油。我不得不说，其实中国几千年来，顿顿能吃得上油的那都是钟鸣鼎食之家。像自耕农、赁农等是很少能吃得上油的，吃油也得放在节庆吃。&lt;/li&gt;&lt;li&gt;食用油的发展史来看，最先出现的一定是动物油。植物油的出现稍晚。动物油有一个显著的优势是利于提炼。植物油的提炼是有很大的难度系数的，每次我看见古装戏大批量使用桐油用于战争，我就纳闷了，那是油又不是水！&lt;/li&gt;&lt;li&gt;油料的来源，我们是农业社会。第一、在自然生产力的情况下，农作物的产值是很低的。1962左右的华北平原一亩地也就产小麦100市斤左右，甚至更低，据长辈描述小麦都没有茅草长得好。公社囤积的化肥都化了，村里人都不敢用，因为不知道这玩意又啥用图。第二、动物油的来源主要就是家畜，猪牛羊、牛是劳作的主要动力pass。知乎也有不少农村出来的，应该知道农村养猪是个啥状况。总的来说，猪在古代的基层是个稀罕玩意，珍贵着呢。&lt;/li&gt;&lt;li&gt;寺庙是有田产的。这些田产来源主要有和尚开垦的、达官仕宦朱门富庶人家捐赠的等。所以一般的和尚都吃的是自家寺院出品的粮食。&lt;/li&gt;&lt;li&gt;化缘到底化的是什么。一般狭义的化缘就是托钵沿街上门乞食。但是真正乞食的和尚大多都是云游的行脚僧，居无定所。他们都是为了修持，普渡众生，所以对食物的要求都是很低的。一粥一饭足矣，赶不上饭点，窝窝头就水就美哉了。和尚化缘另外含义就是募化，僧团向信众公开主动或被动的募集物资广修善缘，募化的所得一般都是修缮庙宇、衣食穿用。&lt;/li&gt;&lt;li&gt;南亚地区，依律托钵的更不可能会遇见动物油。&lt;/li&gt;&lt;/ol&gt;综上：基本上是不会碰见误食动物油的状况。&lt;br&gt;&lt;br&gt;参考：&lt;br&gt;&lt;a href=&quot;http://wenku.baidu.com/view/60896e67ddccda38376bafb4.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;明清以来潮汕寺院田产之变迁&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.doc88.com/p-358268720908.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;唐宋寺院田产来源的变化与影响&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.aec1971.org.cn/art/2012/8/11/art_1331_2621.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中国古代的食用油及其多种用途&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/19819327/answer/15530914&quot; class=&quot;internal&quot;&gt;佛家说不可杀生，所以不吃肉，为什么不包括同样为生命体的植物？&lt;/a&gt;
+&lt;b&gt;首先&lt;/b&gt;回答你的问题，我觉得这种动态提醒是一个非常好的设计。&lt;br&gt;&lt;b&gt;再说&lt;/b&gt;这种提醒方式，如Linus所说，这种提醒方式属于Text-Badge 动态提醒&lt;br&gt;(程序实现方式是：重写图标类，为图标右上角添加一个可以动态设置文本内容的text)&lt;br&gt;我最先看见这种动态提醒是360在PC端的软件管家的更新数量提醒(个人阅历有限，但评论里知友告诉我，badge提醒方式最先出现在Mac OS X中，后被其他产品引入)，后来这种badge提醒也被迅雷下载引入。移动设备上的App也很早就引入了新消息的badge提醒(ios平台有这个功能，Android平台没见过，Android平台仅在应用内的图标按钮上看见过提醒数量)&lt;br&gt;&lt;b&gt;最后&lt;/b&gt;说说为什么这是一种很好的设计。&lt;br&gt;&lt;b&gt;这种提醒设计很大程度地降低了用户“感知”有新消息到来的成本，减少了用户与某个应用或平台(上的人)互动的等待时间。&lt;/b&gt;&lt;br&gt;试想如果没有这种设计，忙时未及时处理的邮件、来自人人、QQ空间、微博等社交平台的新消息等等内容，都需要自己再打开一次应用，才能获知这个平台是否有消息需要处理互动。有时候我们会隔很长一段时间才进这个应用一次，但应用里的待处理消息却是需要在当时就进行互动的。&lt;br&gt;&lt;b&gt;所以有时候我们进入这个应用，仅仅只是想查看有没有关于自己的新消息而已&lt;/b&gt;，如果没有，我们可能会立即退出来。&lt;br&gt;&lt;b&gt;至于&lt;/b&gt;大家讨论到的关于这种设计引起的人不停查看新消息的&quot;强迫心理&quot;，我想说，垃圾消息只会因为你而存在，你是可以花点时间来彻底拒收这些垃圾消息的。&lt;br&gt;我在想这个设计的好处时，想起了另一件事，就是一种”消息中心“形式的产品设计&lt;br&gt;对很大一部分人来说，社交网络与现实生活已经密不可分了，而处理来自各种社交网络的新消息就成了一个小难题。&lt;br&gt;Windows8系统内置的消息中心、360桌面的消息中心等等的设计就非常不错，它们都是为了更大程度地降低用户“感知”、处理来自社交平台新消息的成本而存在的，事实上他们也一定程度上解决了这个小难题。
 </description>
 </item>
 </channel>
