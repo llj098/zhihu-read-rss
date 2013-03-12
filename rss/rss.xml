@@ -15,6 +15,21 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20841775/answer/16359800
+</link>
+<author>
+DeeneJD
+</author>
+<title>
+自我修复的芯片的原理是什么？
+</title>
+<description>
+刚吃完早饭，消化的同时顺手答一下。&lt;br&gt;先去&lt;a href=&quot;http://Scopus.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;Scopus.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;搜了一下加州理工这位拿了6百万美刀经费的幸运儿，按论文引用数量排序，结果如下：&lt;br&gt;&lt;img data-rawheight=&quot;706&quot; data-rawwidth=&quot;1169&quot; src=&quot;http://p4.zhimg.com/cb/f3/cbf33960c966b96ed71cc762ea4ed0be_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;1169&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/cb/f3/cbf33960c966b96ed71cc762ea4ed0be_r.jpg&quot;)'&gt;&lt;br&gt;嗯，基本可以看出这位Ali Hajimiri混得是IEEE这圈子，大方向是搞电路设计的，苗正根红的EE。&lt;br&gt;&lt;br&gt;然后继续看看这位同学最近发表的论文，结果如下：&lt;br&gt;&lt;img data-rawheight=&quot;696&quot; data-rawwidth=&quot;1158&quot; src=&quot;http://p2.zhimg.com/17/f1/17f1b53c6691a84736fb878f34249e6a_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;1158&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/17/f1/17f1b53c6691a84736fb878f34249e6a_r.jpg&quot;)'&gt;&lt;br&gt;其中划横线的论文看上去和题主所问的自我修复芯片有关。那就随便下几篇来看看好了。&lt;br&gt;比如其中的一篇&lt;a class=&quot; wrap external&quot; href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6461483&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IEEE Xplore - 
+		Integrated Self-Healing for mm-Wave Power Amplifiers&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 中有一幅画的很好看的图是这样的[注]：&lt;br&gt;&lt;img data-rawheight=&quot;682&quot; data-rawwidth=&quot;1008&quot; src=&quot;http://p4.zhimg.com/3e/72/3e72cfb4fca69565a35d93c9c6a1fa24_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;1008&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/3e/72/3e72cfb4fca69565a35d93c9c6a1fa24_r.jpg&quot;)'&gt;&lt;br&gt;我觉得这幅图就很能够说明问题了。这位Ali同学的基本思路就是在芯片设计的时候放入一些冗余和可调的电路，然后再通过同时设计好的传感电路来判定系统是否工作正常，如果发现有某个参数超出预期范围，则自动使用冗余和调节电路来代替受损电路，从而实现电路修复功能。&lt;br&gt;&lt;br&gt;太具体的电路设计我也没怎么仔细看，不是搞这个方向的，说多了肯定有错的。但是这个思路本身来说在电路设计中并不罕见，举例来说，你现在用得闪存盘里的存储单元就采用了类似的技术，可以自动感应某个存储模块是不是坏了，如果坏了就用芯片上原本就有的一个冗余的好模块来代替。工艺越复杂的闪存使用的冗余电路越多越复杂，当然从使用者的角度而言是看不到这些自动修复动作的，对用户而言闪存的容量永远就是卖出来的时候标称的那么多。&lt;br&gt;&lt;br&gt;至于用激光轰击不会坏什么的，只是因为他的文章里是使用激光烧坏芯片的某个部分，然后测试修复功能，并不是说激光无法破坏这块芯片。上图里面那个On-chip self healing core被激光打坏了芯片照样报销。&lt;br&gt;&lt;br&gt;总而言之，高科技基本都没什么神秘的。&lt;br&gt;&lt;br&gt;&lt;b&gt;[注] 本文摘录的文章附图版权均属&lt;a class=&quot; wrap external&quot; href=&quot;http://www.ieee.org/index.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IEEE&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;所有，未经许可，不得使用于盈利或商业目的。&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20841216/answer/16357952
 </link>
 <author>
@@ -279,20 +294,6 @@ http://www.zhihu.com/question/20769326/answer/16135527
 </title>
 <description>
 首先是&lt;b&gt;阵容强大&lt;/b&gt;。奥斯卡影帝凯文·史派西担纲主演，前两集的导演是大卫·芬奇，编剧是政治题材电影《总统杀机》的编剧。你也可以看到《阿甘正传》等著名电影里的面孔。&lt;br&gt;&lt;br&gt;其次是&lt;b&gt;主题新颖&lt;/b&gt;。政治剧并不新，毕竟前一段流行一时的《新闻编辑室》中有不少和当下政治话题有关的情节，再往前看，无论是《波士顿律师》还是《白宫风云》，美国政治题材的电影都有不少。但是这一次，我们可以从这部剧中看出「说客」和「参议员」为主的群体是如何工作的，毕竟三权中的行政分支和立法分支都可以从之前的剧集中找到脉络。Raymond Wang律师还在评论中补充道，男主角Underwood和一位男配角Russo都是众议员，二人各自的故事情节，以及彼此之间的政治关系，既涉及国家层面（教育改革），也含有地方层面（就业政策，州长选举），这也是比较好看的地方。&lt;br&gt;&lt;br&gt;再次是&lt;b&gt;全新的发布平台&lt;/b&gt;。《纸牌屋》首发于Netflix，是全新的一种播出形式，独立制作，网络发行，这也许堪称网络媒体在内容方面的一次崛起，不妨来见证一下历史呗。&lt;br&gt;&lt;br&gt;当然，赶上咱们的春节，走完亲戚朋友了，每天看上两三集，挺惬意的。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20368732/answer/16323210
-</link>
-<author>
-许桐楷
-</author>
-<title>
-漱口水有何功效？有何副作用？
-</title>
-<description>
-看了&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/miao-li-42&quot;&gt;@苗力&lt;/a&gt;的回答，信者甚众，作为牙医，不敢苟同，正好在微博上也因为漱口水到底好不好跟人争了几句，发了个长微博，转到这里，供大家参详。&lt;br&gt;&lt;br&gt;&lt;b&gt;摘要：非处方正规大厂漱口水就是好，可以天天用。&lt;/b&gt;&lt;br&gt;&lt;br&gt;超市里的漱口水能不能天天用？&lt;br&gt;今晨昨夜，@衣锦夜行的燕公子 发了条微博：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b9/29/b929e8bdf1f1c6355f0b7065bea080e6_m.jpg&quot; data-rawwidth=&quot;1314&quot; data-rawheight=&quot;892&quot; class=&quot;origin_image&quot; width=&quot;1314&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b9/29/b929e8bdf1f1c6355f0b7065bea080e6_r.jpg&quot;)'&gt;&lt;br&gt;这个燕公子以前就在微博上晒过自己正畸的心路历程，得益于瑞尔正畸医生的口传心授，一些比较基本的点都是清楚的，比如刷牙、牙线是根本，漱口水是辅助等等。&lt;br&gt;但牙医也有不全靠谱的时候，比如：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/92/a6/92a61fd13083bff6d5d5591705f14aff_m.jpg&quot; data-rawwidth=&quot;1290&quot; data-rawheight=&quot;552&quot; class=&quot;origin_image&quot; width=&quot;1290&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/92/a6/92a61fd13083bff6d5d5591705f14aff_r.jpg&quot;)'&gt;&lt;br&gt;所以她对于漱口水的认识是可以偶尔用一用，比如每周一次；然后咱们的同行就有出来裹乱的：&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1e/d3/1ed31f5858546999285b8c42947a0cc5_m.jpg&quot; data-rawwidth=&quot;1216&quot; data-rawheight=&quot;154&quot; class=&quot;origin_image&quot; width=&quot;1216&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1e/d3/1ed31f5858546999285b8c42947a0cc5_r.jpg&quot;)'&gt;&lt;br&gt;      引子已经比较长了，大家有空可以随便搜个漱口水相关的微博，看看评论，看看广大群众对于漱口水这东西是个什么看法，“有副作用、致癌、打乱口腔菌群、完全没用。”而这些似是而非的观点也多来自“我的牙医、专业人士、某某大夫”。洗牙是如何被妖魔化的想必大家都清楚的很，但很少有牙医会对身边的人说“洗牙不好”。而漱口水这一话题就可怕的多了，很多牙医“从专业的角度出发”，不停的抹黑漱口水。今天我就是想说说，漱口水有效、安全，应该每天使用。&lt;br&gt;&lt;br&gt;&lt;b&gt;今天讨论的漱口水，指的是老百姓超市买得到的，处方漱口水不在其中。&lt;/b&gt;&lt;br&gt;&lt;br&gt;先说最严重的，长期使用漱口水会不会导致患口腔癌的风险增高？这种说法也不是没有依据，因为很多漱口水都含有浓度不等的酒精作为溶剂，但这一观点目前还没有被充分证实。为了以防万一，建议高危人群避免使用酒精类漱口水，包括儿童、酒鬼、先天酒精代谢不良者（就是喝酒脸红得很的）。这个仅仅是从对于未知的敬畏的角度出发给出的谨慎建议。今天又找到篇文章，说没有任何证据表明每天使用漱口水和癌变有着任何的关联。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9e/49/9e495b8376d2fddd124c288bc4b7434d_m.jpg&quot; data-rawwidth=&quot;1940&quot; data-rawheight=&quot;766&quot; class=&quot;origin_image&quot; width=&quot;1940&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/9e/49/9e495b8376d2fddd124c288bc4b7434d_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;酒精类的漱口水还有一缺点，就是它相当与二十多度的酒，漱一漱可能就被查出酒驾了，还有一些酒精过敏的同志用了会有不适，还有就是口感会很辣。作为酒精精油类漱口水的代表，李施德林也与时俱进的推出了不含酒精配方的漱口水。我把下边这篇贴出来的目的是说明，每天使用漱口水可以辅助有效控制菌斑和牙龈炎。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/76/a6/76a645fcaec31c916e3dce39ff713b61_m.jpg&quot; data-rawwidth=&quot;1916&quot; data-rawheight=&quot;734&quot; class=&quot;origin_image&quot; width=&quot;1916&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/76/a6/76a645fcaec31c916e3dce39ff713b61_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;市面上还有很多非酒精精油类的漱口水，跟牙膏一样，主要是来自高露洁和佳洁士两家，多为CPC配方漱口水，就是低浓度的西吡氯铵。相比酒精类漱口水具有同样优秀的杀菌性能和安全性，口感也要柔和许多。我现在用的就是这种。&lt;br&gt;&lt;br&gt;觉得漱口水不能天天用也不是咱中国人自己的想法，世界人民都是这么想的，2006年JADA上的文章还在说每天使用漱口水是安全有效的，但遗憾的是很多人并不按照产品说明去使用。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7e/ae/7eae4f0d7931a15e010d660bf085501c_m.jpg&quot; data-rawwidth=&quot;1916&quot; data-rawheight=&quot;854&quot; class=&quot;origin_image&quot; width=&quot;1916&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/7e/ae/7eae4f0d7931a15e010d660bf085501c_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;不过国外的同行们又一次走在我们前边了，针对患者使用漱口水的情况，都有推荐的策略了：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b0/1e/b01ea1dfc8795d9bba3df6c6be7c7922_m.jpg&quot; data-rawwidth=&quot;2362&quot; data-rawheight=&quot;1362&quot; class=&quot;origin_image&quot; width=&quot;2362&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b0/1e/b01ea1dfc8795d9bba3df6c6be7c7922_r.jpg&quot;)'&gt;&lt;br&gt;图表文字并不复杂，不翻译了。总之就是尽量鼓励患者使用漱口水。我想我们身边的人群还都主要处于最初级的阶段：“我不会使用漱口水的。”需要牙医去普及牙周病的知识、普及日常口腔卫生维护的知识。&lt;br&gt;&lt;br&gt;漱口水是好东西，除了要额外花一点钱来买，我没发现有什么缺点。不过现在就在国内大面积的普及使用肯定也是不现实的，从身边的亲朋好友做起吧，除了含氟牙膏、bass刷牙法，你还可以告诉他们更多：）&lt;br&gt;&lt;br&gt;也有同行提醒，现在国内保健市场已经不是一个乱字能够形容的了，很多大仙配制的神器漱口水包治百病还不用刷牙，那肯定都是不靠谱的，要么就是夸大宣传，要么就是添加了什么处方成份，要离得远远的。还是要在超市买大品牌的，如李施德林、佳洁士、高露洁、oral-b等等。
 </description>
 </item>
 </channel>
