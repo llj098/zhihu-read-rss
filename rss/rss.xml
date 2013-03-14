@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20845387/answer/16372432
+</link>
+<author>
+Bill Cheng
+</author>
+<title>
+iCloud 备份应用是怎么备份的？包括我应用的帐号和密码吗？
+</title>
+<description>
+谢三位邀请……这是你们第二次把我从床上逼起来了……&lt;br&gt;iCloud 备份的与应用相关内容主要就是应用的 Document 文件夹下所有内容，在一个就是系统保密库内容&lt;br&gt;至于和你应用的账号密码相关的内容，这里可能的原因有三：&lt;br&gt;1. 你使用的应用使用了 OAuth 进行了账号验证，客户端通过iOS默认 NSUserDefaults standUserDefaults 设置保存方式，或者自定义保存格式将Token保存在了本地的 Document 文件夹中&lt;br&gt;2. 你使用的应用使用了 XAuth 进行了账号验证，并将你的账号用户名和密码通过iOS默认 NSUserDefaults standUserDefaults 设置保存方式，或者自定义保存格式保存在了 Document 文件夹中&lt;br&gt;3. 你使用的应用将你的Token（OAuth）或者密码（XAuth）通过 SFHFKeychainUtils 这个对iOS内置KeyChain 的封装库储存到了系统密码储存库中&lt;br&gt;&lt;br&gt;一般来说，豌豆荚的备份可以备份1、2两种方式储存的密码，对于第三种就无能为力了，哪怕是在越狱之后，备份依旧是极其困难的，因为根据我以往的观察，越狱之后，iOS 系统内置的 Security 库往往会被破坏，导致密码无法读取。比如说我的某软件在越狱之后就是无法提取系统库密码了，再就是传说某个年代的360越狱版直接替换了这一部分内容，导致很多用户密码流失……&lt;br&gt;&lt;br&gt;总的来说，上面三种方式，按照安全性排列应该是3&amp;gt;1&amp;gt;2，不过国内的越狱状况，特别是6.1越狱一出……以后用3的软件会越来越少，而且安全性也不好说了……&lt;br&gt;&lt;br&gt;==========体内酒精含量：0.4%==========&lt;br&gt;顺道一提吧，我的软件都是使用的2方式，不过采取了传说中牛逼叉叉的RSA算法加密（多少位我就不说了……），用户密码肯定是有保障的~~~~~~~
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/19605749/answer/16373276
+</link>
+<author>
+白杨
+</author>
+<title>
+亚马逊为什么做 Kindle ？
+</title>
+<description>
+根据One Click中的说法，整理一下Bezos做Kindle的原因。&lt;b&gt;简言之，iPod是直接原因&lt;/b&gt;。&lt;br&gt;电子书的概念70年代就提出来了，90年代开始有专门的电子阅读器产品出现。2002年开始大厂商和出版商逐渐开始对纸质书进行电子化。从94年开始卖书，Bezos对这个概念肯定不陌生。如果站在2002年看电子书，Bezos的看法应该与大部分人相差无几。按照他一贯以来分析问题的风格，我猜想他会比较一下电子书的优势和劣势。大概的优点在于：&lt;br&gt;&lt;ul&gt;&lt;li&gt;携带方便，易于在不同设备间传递&lt;/li&gt;&lt;li&gt;不需要印刷，规模化之后的成本会比较低&lt;/li&gt;&lt;li&gt;可以集成很多纸质书不具备的功能（字典，摘录，标记，进度等）&lt;/li&gt;&lt;li&gt;购买之后立即可以阅读（省略快递时间）&lt;/li&gt;&lt;/ul&gt;但缺点和挑战显然也是有的：&lt;br&gt;&lt;ul&gt;&lt;li&gt;初始将纸质书电子化的成本高，没有丰富的存量书籍资源&lt;/li&gt;&lt;li&gt;出版行业对电子书抱有抵触心理（电子书价格比纸质书低，会挤压发行商和出版商的利润），不给正版授权&lt;br&gt;&lt;/li&gt;&lt;li&gt;没有足够便利、阅读体验好、且价格可被大众接受的阅读设备&lt;/li&gt;&lt;li&gt;大众对电子书的接受程度尚未确定&lt;/li&gt;&lt;/ul&gt;优劣相抵，即便所有人都认为电子书是阅读的未来，Bezos也并未立即就着手准备电子书。&lt;br&gt;&lt;b&gt;但2003年，iPod的出现完成了那临门的一脚：电子书相对于纸质书，恰恰就是数字音乐相对于唱片。Jobs已经摆平了所有的挑战，iPod+iTunes就是上面所有问题的正解。对Bezos来讲，这是个好消息，意味着大事可期了，但也是个坏消息，Apple盯上电子书可能不会太晚。无论是好是坏，电子书都得上马了。&lt;/b&gt;&lt;br&gt;于是Bezos开始招兵买马，并于2004年秘密成立团队开始研发Kindle，并针对上面的问题进行了一系列的举措，包括：&lt;br&gt;&lt;ul&gt;&lt;li&gt;利用Amazon的产品和流量地位，胡萝卜加大棒，推动大小发行商和出版商提供版权。&lt;/li&gt;&lt;li&gt;逐渐将部分书籍电子化，并测试用户对电子书的接受程度。06年开始提供2美金可预览纸质书的服务。&lt;/li&gt;&lt;li&gt;研发Kindle设备，寻找适合电子阅读的屏幕，改进人机交互（将复杂的按钮操作尽可能简化，并提供云端存储服务）。&lt;/li&gt;&lt;li&gt;等等。&lt;/li&gt;&lt;/ul&gt;三年后才推出Kindle，我想Bezos心里面应该也是担惊受怕了不少。即便如此，Kindle最终还是不敌iPad。再想想看，iPod推出的时候，Apple对唱片业的地位远逊于Amazon相对于出版业。论起创造力，Jobs实在高出Bezos一个级别。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20526153/answer/15417617
 </link>
 <author>
@@ -272,34 +300,6 @@ MrToyy
 </title>
 <description>
 退市风险么？没有的。因为这么大一家公司避开退市处理的方法很多，比如今天（3月12日）就出了公告，拟出售物流业务改善今年的经营状况。&lt;br&gt;&lt;br&gt;我对于航运业不太了解，所以以下分析比较局限，涉及到专业的东西还望有专业人士能在此提供宝贵意见。&lt;br&gt;我整理了中远2011年年报和2012年三季报的相关数据如下：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/74/8c/748ceb44dc00a4e69aabc61bfcc29ba2_m.jpg&quot; data-rawwidth=&quot;1097&quot; data-rawheight=&quot;163&quot; class=&quot;origin_image&quot; width=&quot;1097&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/74/8c/748ceb44dc00a4e69aabc61bfcc29ba2_r.jpg&quot;)'&gt;可以看到，中远业务主要分四大板块，每个子公司正好对应一个板块。&lt;br&gt;2011年，中远严重亏损，净亏损达到88亿。主要来自于两个主要业务（业务收入占比85%）集装箱运输业务和干散货运输业务严重亏损。其原因是，虽然业务量在2011年有小幅上升，但由于航运价格大幅降低，导致收入大幅下滑，毛利率较2010年下降25%～30%。&lt;br&gt;2012年三季报揭示，除干散货业务量有较大下滑外，其他业务量均有较大的增长。其中，集装箱业务货运价格小幅上升，预计该业务2012年亏损会大幅缩小；干散货业务由于业务量下滑，预计亏损有所扩大；物流和码头业务预计利润都会有较大增长。但综合看来，由于两大主要业务的严重亏损，2012年预计亏损较2011年有所缩小。&lt;br&gt;今天，中远公告称拟出售中远物流给控股公司中远集团，以“改善2013年业绩”。而该项交易在会计上应属于同一控制下的企业合并，中远应以“从未合并中远物流”为原则进行合并报表编制，并调整报表上年数。那么，2012年和2013年报表中都应当不含中远物流的经营成果，这将导致2012年和2013年均剔除中远物流的利润，使中远的亏损扩大。这如何“改善业绩”呢？&lt;br&gt;从2011年年报中可以看到，两大主要业务板块资产负债率在90%左右，经过2012年的亏损之后，资产负债率预计将轻松超过95%，其中干散货业务净资产很可能为负。另外，2012年三季度中远财务费用就达到13.46亿，预计全年有近20亿。如此高的资产负债率，加上高额的利息费用，以及持续的经营负现金流量，中远亟需“输血”，以降低资产负债率和利息费用，增加长期坚持的“弹药”。中远此次出售中远物流，正是为了换取现金，给两大主要业务输血，延长其坚持的时间。&lt;br&gt;中远要扭亏，只能期望货运价格回升。目前的全球经济放缓的大背景下，需求疲软，实现这个期望谈何容易。可以看到的是，中远各主要业务市场占有率仍在上升。中远的策略就是坚持下去，拖垮对手。只要撑过了冬天，春天就会回来。&lt;br&gt;&lt;br&gt;另：2012年三季报，前三季度中远就已经收到了政府补贴8.08亿。你真以为政府没有对中远出手相救吗？
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20844366/answer/16369542
-</link>
-<author>
-鄭紫陽
-</author>
-<title>
-苹果旗下为什么有且只有一个 FileMaker 这样独立运作的全资子公司？
-</title>
-<description>
-这是一个历史问题（单击查看大图）：&lt;br&gt;&lt;br&gt;* 粉绿色代表软件产品&lt;br&gt;* 黄色代表公司，制作商或者发行商&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/41/1b/411b076c60a74092185f23ebe28d3f45_m.jpg&quot; data-rawwidth=&quot;1024&quot; data-rawheight=&quot;768&quot; class=&quot;origin_image&quot; width=&quot;1024&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/41/1b/411b076c60a74092185f23ebe28d3f45_r.jpg&quot;)'&gt;&lt;br&gt;(1) Nashoba System 1983 年成立，开发了一款 MS-DOS 平台的软件，叫做 Nutshell，通过 Leading Edge 发行，后者是一个专营 MS-DOS 平台软件的零售商。当时几乎所有的软件分发都通过这种第三方发行商销售，是那个时代的模式。&lt;br&gt;&lt;br&gt;(2) Macintosh 面世以后，Nashoba 揉合 Nutshell 的数据引擎开发了 GUI 界面的新版，但 Leading Edge 一心只做 MS-DOS 软件，无意涉足新版。Nashoba 只好找到另外一个发行商 Forethought Inc.，通过他们发行 Macintosh 平台的 FileMaker，并且新版名字也照着苹果 Mac 硬件的名字，FileMaker Plus 对应 Macintosh Plus.&lt;br&gt;&lt;br&gt;(3) 1987 年，微软为了 Forethought 的 Presenter，而将其收购，并将后者改名为 PowerPoint，并且发布自己的数据库软件 Microsoft File，这在 FileMaker 之前。不过后来，FileMaker 的销量就远远超过 Microsoft File，微软也随即将其下线。随后微软和 Nashoba 谈判想要取得 FileMaker 后续版本的继续发行权（甚至一度想要低价将其收购，有些威胁意味），但 FileMaker 决定自己发行，而且微软开出的收购价对比 FileMaker 的销售收入，并没有太大吸引力。&lt;br&gt;&lt;br&gt;(4) 没隔多久，苹果电脑公司（当时的名字）成立全资子公司 Claris 以市场运作和推广发行旗下一部分软件。随后 Claris 收购 Nashoba，目的是打造自己的软件套装。彼时，Nashoba 遭受管理危机，员工流失等问题，同时和发行商 Leading Edge 的合作关系也因 PC 平台竞争激烈，销量不佳而中止。&lt;br&gt;&lt;br&gt;(5) Claris 立即对 FileMaker 改名，改为 FileMaker II，以求跟套装内的 MacWrite II 等软件逻辑一致，即使功能其实对比 Nashoba 时期没有多少改变。后面一个大的改版是 1990 年的 FileMaker Pro 1.0.&lt;br&gt;&lt;br&gt;(6) 1995 年，Claris 发布兼容 Mac 和 Windows 平台的 FileMaker Pro 3.0，此时 FileMaker 其实是 Claris 产品线裏面唯一一个销售强劲的产品，所以他们把其它产品归入母公司苹果，或下线，公司也改名为 FileMake, Inc.，以便集中资源开发和维护 FileMaker.&lt;br&gt;&lt;br&gt;(7) 现在 FileMaker, Inc. 旗下的产品线包括 FileMaker，FileMaker Go 和 Bento.&lt;br&gt;&lt;br&gt;----&lt;br&gt;&lt;br&gt;&lt;b&gt;结论：&lt;/b&gt;FileMaker 是家从一开始成立就盈利的公司，并且自成体系，有 300 多个员工，8 个全球办公室，几乎垄断了 workgroup database 市场（微软的 Access 不如前者），运作良好，旗下产品跨平台，有独立的售后服务，和市场销售团队。看起来也没有并入母公司管理的需要了。&lt;br&gt;&lt;br&gt;&lt;i&gt;* FileMaker 的四个创始人 Spec Bowers, Alan Albert, Dan Chadwick, Jega Arulpragasam 开始是在美籍华人王安所创办王安实验室（Wang Laboratories）一起工作的同事。&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;_____&lt;/i&gt;&lt;br&gt;延伸阅读：&lt;br&gt;&lt;a href=&quot;http://www.dancing-data.com/filemakerhist.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;FileMaker Early History&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; by Glenn Koenig, 2001&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/FileMaker_Inc.&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;FileMaker Inc. - Wikipedia, the free encyclopedia&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20843234/answer/16368986
-</link>
-<author>
-李皓
-</author>
-<title>
-你在网络上读过最有正能量的文章是哪一篇？
-</title>
-<description>
-我想这大概是我读过的最温馨的灵异故事了：&lt;br&gt;&lt;br&gt;传说世间的一切生灵皆可修炼成仙，而猫自然在其中。每修炼二十年，猫就会多长出一条尾巴，等到有九条尾巴的时候，就算功德圆满了，连天上的神仙都要敬让三分。可是这第九条尾巴却是极难修到的，当猫修炼到第八条尾巴时，会得到一个提示，帮助它的主人实现一个愿望，心愿完成后，会长出一条新的尾巴，但是从前的尾巴也会脱落一条，仍是八尾。这看起来是个奇怪的死循环，无论怎样都不可能修炼到九条尾巴。&lt;br&gt;&lt;br&gt;有一只很虔诚的猫，已经修炼了不知道几百年，也不知道帮多少人实现了愿望，但仍然是八条尾巴，它向佛祖抱怨，这样下去如何才能修炼得道？佛祖只是笑而不答，它只得继续修炼。有一天当它在暴风雨中回到它藏身的村庄，遇到一个少年被狼群围攻，以它的造化，当然不费吹灰之力地赶走了狼群，救下了这个少年，之后发现这个少年是它第一位主人的后代。按照规矩，它需要帮少年实现一个愿望，然后脱落一条尾巴再长出一条新的尾巴，继续它的死循环。&lt;br&gt;&lt;br&gt;少年当然是欣喜若狂，九尾猫的传说在当地不知流传了多少年，而自己何其有幸，竟然成为了八尾猫的主人，还有一个不论多奢侈都能够实现的愿望！八尾猫问少年的心愿是什么，他一时之间竟回答不出来，于是八尾猫变化成一只普通的猫咪，暂且跟少年回到了他家。在之后的几天里，少年小心翼翼地与八尾相处，发现它的眼神里除了看透世事的淡然以外，竟然还有些许悲哀。当他得知了死循环的秘密之后，竟然对这只神通广大的猫产生了怜悯。&lt;br&gt;&lt;br&gt;终于有一天，八尾猫待得不耐烦了，便问少年到底有什么愿望。少年想了想，问，“什么愿望都可以实现吗？”八尾不屑地瞥了他一眼。少年接着一字一顿地说，“那么，我的愿望就是，你能有九条尾巴。”&lt;br&gt;八尾猫愣住了，眼睛里充满了疑惑，随后是一种难以言表的感恩眼神。它俯下身，舔了下少年的手，很温暖。&lt;br&gt;&lt;br&gt;于是，八尾猫长出了华丽的第九条尾巴，变成了真正的九尾猫。而少年的一生，也过得十分幸福美满。&lt;br&gt;&lt;br&gt;故事到这里结束。原来得道的天机是如此，只有遇到一个肯让它圆满的人，八尾猫才能有九条尾巴。以前的人都自私地为自己考虑，觉得八尾猫为他们实现任何愿望都是应该的，从不会考虑八尾猫的感受，可是每一条尾巴都要付出八尾猫几十年的修炼。&lt;br&gt;&lt;br&gt;当我读到少年的愿望时，着实吃了一惊，一直以来，不管是阿拉丁神灯还是雅各布斯的猴爪，人们在得到命运的眷顾时，所许的愿望都是为了自己。对于天上掉下来的馅饼，人们总是享用得如此理所当然。&lt;br&gt;&lt;br&gt;而耗费自己难得的运气去成全别人的圆满，这或许是世间最大的慷慨、最真心的回馈了吧。&lt;br&gt;谨以此故事，为你取暖。&lt;br&gt;&lt;br&gt;&lt;br&gt;出处吗。。。来自人人网。。。这篇文章我保存在私人日志里了，每当觉得难过就看一看，每看一次都哭。。
 </description>
 </item>
 </channel>
