@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20819815/answer/16293931
+</link>
+<author>
+Jayzeng
+</author>
+<title>
+如何制造犀利的吐槽？
+</title>
+<description>
+排名第一的答案根本不叫吐槽好么。吐槽是对他人言行的一种回应，而那个小姑娘顶多叫自嘲。“吐槽”这个词被滥用了，很多人以为损人、无节操、重口味、幽默就是吐槽。想要知道如何制造吐槽，先知道什么是吐槽：&lt;blockquote&gt;所谓‘吐槽’：就是在最短的时间内，对于目睹发生的事件或者听到的话语的不符合常识，不符合逻辑，不符合常人的思维之处用很犀利，很简洁明了的话语给予指出，而通常这些不符合常识，不符合逻辑，不符合常人的思维之处是比较隐晦的，不是清晰可见的，也就是：你能够隐约感觉到存在微妙的不和谐之处，但是一般却又不能够容易的指出。所以，才有了‘吐槽’，吐槽就是指出不和谐之处。&lt;/blockquote&gt;可见题干里“犀利的吐槽”本身就不科学——不犀利就不能叫吐槽。吐槽就是两个犀利的组合：犀利的观察+犀利的表达。吐槽没有同义词，相声里的“棒眼”或“抬杠”都不算严格意义上的吐槽&lt;br&gt;&lt;br&gt;如何制造犀利的吐槽？功夫在诗外。提高思路的清晰、观察能力、表达能力是根本。&lt;br&gt;&lt;br&gt;关于案例，acg看得不多，推荐最近看的一个美剧：破产姐妹。里面有大量的吐槽。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20872518/answer/16463558
+</link>
+<author>
+陈粲然
+</author>
+<title>
+传 Jony Ive 正在推动 iOS 采用扁平化设计（Flat Design），这会有怎样的影响？
+</title>
+<description>
+我觉得很多人都没有理解“扁平化”（Flat）和“拟物化”和skeuomorphism的概念，这也是我为什么不主张把这两个词做翻译的原因。如图所示，很多人都会认为左边是“扁平化”设计，但实际上以下两张图都是skeuomorphism设计，也就是很多人所说的“拟物化”（实际上这么翻译并不准确），skeuomorphism强调的是对实体设备在操作模式（信息获取方式）上的模拟。设计风格的扁平和软件设计上的所指的扁平化并不是一个概念。微软的Windows 8是真正的Flat，你会发现他不仅仅是设计风格的扁平，&lt;b&gt;flat最好的理解应该是“极简化设计”，即强调利用最轻量、简单的设计来传递核心信息，强调通过对视觉焦点的引导来让用户快速地完成操作。&lt;/b&gt;当然，为了去处那些冗余的设计（例如模拟质感、外形等），flat的设计往往都是一个平面结构，所以往往让人误以为平面型的设计就是flat设计。不知道苹果会不会做相关的尝试，还是十分期待的。我写过一篇&lt;a href=&quot;http://www.pingwest.com/skeuomorphism-and-flat-different-target-different-way/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;“skeuomorphism”还是“flat”，苹果和微软为何选择了截然相反的设计风格？&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，欢迎指教。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b2/f2/b2f21c67bd1f99f181383368b454f0b0_m.jpg&quot; data-rawwidth=&quot;1000&quot; data-rawheight=&quot;298&quot; class=&quot;origin_image&quot; width=&quot;1000&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b2/f2/b2f21c67bd1f99f181383368b454f0b0_r.jpg&quot;)'&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20872518/answer/16461823
 </link>
 <author>
@@ -263,34 +291,6 @@ http://www.zhihu.com/question/20848610/answer/16451251
 </title>
 <description>
 谢邀&lt;br&gt;&lt;br&gt;一句话的话就是，Android需要深度整合Google Apps，而Sundar Pichai一直是Google Apps的头(Google Apps和Chrome在Google是同一个部门)，他是最适合带领Google Apps和Android完成深度整合的人选。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;好的创业者并不一定是好的守业者&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Andy Rubin是个很好的创业者。在他的带领下Android team充满了entrepreneur，startup和开源社区的味道。这种entrepreneur的领袖气质在创业初期非常适合Android发展，在他的带领下Android高速发展，在智能手机的市场占有率超过60%。高速发展的创业初期过去以后，Andy这样的entrepreneur就不再适合Android进一步发展，Google需要Sundar Pichai这样的守业者。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Android需要和Google Apps的深度整合&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;Amazon Kindle，小米，阿里云，谁都想基于Android做二次开发。而这些二次开发的第一步往往就是把Android原生的Google Apps替换成自己的服务。对于Google和用户而言，这都是对Android生态环境的损害。而这件事的根本原因在于，Android系统和Google Apps (Gmail/Calendar/Google Plus/Play Store/Youtube...)是以一种松耦合的形式的存在，甚至可以说是独立存在。这样的Android系统，与同样安装了Google Apps的iOS相比并没有什么特别的优势。&lt;br&gt;深度整合会提高Android相对于iOS的核心竞争力，提升Google Apps和Android整体的用户体验。与此同时，也大大加大Android二次开发的难度，缓和Android分化的问题。即使Amazon要进行二次开发，也得保留绝大多数Android系统服务和Google Apps。这对Google、用户而言都是好事情。&lt;br&gt;而这样大规模的整合，Google Apps的头Sundar Pichai显然是最好的人选。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20603928/answer/15616407
-</link>
-<author>
-闫旭涛
-</author>
-<title>
-好耳机和差耳机的差别在哪？
-</title>
-<description>
-在&lt;b&gt;合适（乱搭配的不行）&lt;/b&gt;的前端（播放器直推或者播放器+耳放或者转盘+解码+耳放）下：&lt;br&gt;差耳机：&lt;ol&gt;&lt;li&gt;声音挤在一起，三频分不开（人声跟器乐声混成一团；本该悠扬的竖琴声却混在低低的贝司声中死气沉沉）；&lt;br&gt;&lt;/li&gt;&lt;li&gt;高低频延展性不佳（高频暗淡无光，张靓颖的海豚音成了奶牛牟牟声；低频硬邦邦，太极琴侠的开场大鼓像饭盒敲在桌子上）；&lt;br&gt;&lt;/li&gt;&lt;li&gt;细节少，解析差（本该展现的乐曲细节却直接消失）；&lt;/li&gt;&lt;li&gt;结像虚，定位虚、声音散（歌手的声音空洞无物，弥散在整个声场中，飘忽不定）；&lt;/li&gt;&lt;li&gt;声场差（整个声音不能营造一个声场的感觉，声音几乎是从一个点发出来的）；&lt;/li&gt;&lt;li&gt;声音干冷硬（戴佩妮的小女人听上去就像容嬷嬷的哀悼词，听了一会儿便兴趣索然）；&lt;/li&gt;&lt;/ol&gt;好耳机：&lt;ol&gt;&lt;li&gt;声音分离度好（10点钟方向有一把吉他，1点钟方向的歌手正在唱歌）；&lt;/li&gt;&lt;li&gt;三频延展性好（高频悠扬，许美静的想与你乘着流逝的时光,不管是沙漠或海洋唱起时，你的鼓膜被她嘹亮的高音震动，想一起去看海洋；加勒比海盗的主题曲一响起，你的整个嘴巴都张起，跟着一去嗡嗡）；&lt;/li&gt;&lt;li&gt;细节多，解析好（从没听到过如此丰富的细节，你发现原来这首曲子的乐器原来这么多）；&lt;/li&gt;&lt;li&gt;结像解释、定位准、声音凝聚（魔鬼的颤音里那把小提琴一想起，你会赫然发掘，啊，小提琴在11点钟方向，对，就是在那儿）&lt;/li&gt;&lt;li&gt;声场大（GD的light it up开始播放，鼓声从2点钟方向的最远处传来，5秒钟后，钢琴在身边的左前方弹起，20秒后，人声在正前方响起---声音有远有近，有距离感）&lt;/li&gt;&lt;li&gt;声音温润有感情（听着梁静茹的good night，声音婉转动听，口水声间或传来，你被歌曲中梁静茹表达的跟爱人道晚安时的欣喜幸福之情所感染，无他，唯单循N遍耳）&lt;/li&gt;&lt;li&gt;空气感、泛音丰富（听地中海留情大提琴，你会听到整个空气都跟着提琴弦弹弹的震动）&lt;/li&gt;&lt;li&gt;耐听（耐听的耳机不像有的耳机一耳朵听上去很惊艳，这种耳机多半是三频失衡，比如低频轰的你眼冒金星，高频挑的你直上云霄，中频腻的你都湿了。耐听的耳机三频分布均衡，你可以戴好几个小时都不累、都不愿意摘下来）&lt;/li&gt;&lt;/ol&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20867347/answer/16445565
-</link>
-<author>
-知乎用户
-</author>
-<title>
-怎样的厨房设计（整体或局部）是最好的？
-</title>
-<description>
-&lt;ul&gt;&lt;li&gt;预留网络和电视接口，你会发现做饭时无聊等待油烧热、水烧开、菜蒸熟的时候很无聊。音乐播放器和电视都是打发这些零碎时间不错的选择。&lt;/li&gt;&lt;li&gt;有家人/客人坐下来和你互动的地方，你不能让他们站在边上陪你打发做饭发呆的时间吧？如果他们能一边帮你剥豆子/喝茶，一边和你聊天，你的做饭会充满乐趣。&lt;/li&gt;&lt;li&gt;最好有单独的台面放一些不产生油烟的厨具，比如榨汁机，料理机，打蛋器，电饼铛等等。&lt;/li&gt;&lt;li&gt;台面上方留够足够的电源插孔，离台面大约30公分高就好。举个反例引用&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@YUYU&quot; href=&quot;http://zhihu.com/people/yuyu-88&quot; data-tip=&quot;p$b$yuyu-88&quot;&gt;@YUYU&lt;/a&gt;的图片，我看不到这样漂亮的厨房烧水壶放哪里，怎么接电源。这种非常不实用的设计只能在风格上参考。将来厨房电器只会越来越多，不会越来越少。请为这些新的家庭成员留好地方，漂亮的厨房会轻易地被一个插线板给毁掉。&lt;img src=&quot;http://p2.zhimg.com/e2/c8/e2c8a868c864485ffe0471de25e69b33_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;375&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e2/c8/e2c8a868c864485ffe0471de25e69b33_r.jpg&quot;)'&gt;&lt;/li&gt;&lt;li&gt;一定要为橱柜灯预留好电源，没有家庭成员喜欢吃带虫子的青菜，橱柜灯一定要嵌入藏起来，不要站在橱柜边眼睛能直接看到。&lt;/li&gt;&lt;li&gt;抽油烟机用侧吸的，不碰头，而且灶台前面墙面面积变小，更容易清理。现在侧吸的抽油烟机有非常好看的。&lt;/li&gt;&lt;li&gt;水槽前面留一些挂东西的钩子，架子，总有洗完的东西（刷子/抹布）需要晾干，还是前面那张图，岛式的台面好看，可是洗完的东西你打算放哪里呢？&lt;/li&gt;&lt;li&gt;尽量地柜都用抽屉，那么低的地方弯腰去掏最下面一格的东西会非常痛苦。&lt;/li&gt;&lt;li&gt;都说L型或者U型的台面布局最好，这话只对了一半，操作是方便，但是角上的橱柜很难用，浪费很多储物空间，实际上还是一字形或者二字型最好用。如果是一字型，可以依次为水盆（洗菜）、大台面（加工）、灶台（做菜）、小台面（放做好的菜）。&lt;/li&gt;&lt;li&gt;给垃圾桶预留地方，垃圾桶不是装修完最后找个角落放下那么简单，如果离水槽太远，你会把水槽里捞出的垃圾拎过半个厨房放到垃圾桶里，然后留下一路的水渍和垃圾。&lt;/li&gt;&lt;li&gt;照明一定要亮，最好暖光，冷光影响做饭和吃饭胃口。&lt;/li&gt;&lt;li&gt;洗碗机！不多说了，参见我另外问题的回答&lt;a href=&quot;http://www.zhihu.com/question/19798040&quot; class=&quot;internal&quot;&gt;为什么中国人（总的来说）不用烘干机、洗碗机？&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;可选项：电烤箱！看你的饮食习惯而定。&lt;/li&gt;&lt;/ul&gt;暂时这么多，以后想到再补充吧。&lt;br&gt;&lt;br&gt;另：本人男士，但是有丰富的厨房战斗经验。
 </description>
 </item>
 </channel>
