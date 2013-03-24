@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19683183/answer/16325660
+</link>
+<author>
+马力
+</author>
+<title>
+交互设计师经常上什么网站找灵感？
+</title>
+<description>
+「最美应用」，是一个帮助设计师、产品经理和所有移动互联网圈内人收集那些用户体验最美的 App 的微信公众账号。（微信账号：nice-app）&lt;br&gt;&lt;br&gt;最美，是产品概念的最美，是交互设计的最美，是视觉设计的最美。作为移动互联网圈内人，我们就是需要不断的积累美感，每一天一个最美应用，每一天多一点积累。&lt;br&gt;&lt;br&gt;这是我们做的一个开放项目，希望能够将我们日常探索和发现的最美应用分享出来，将那些在产品、交互和视觉的某一方面值得揣摩、借鉴的 App 分享给大家，一起学习。期待大家都能做出“更美的应用。&lt;br&gt;&lt;br&gt;我们推荐的不是App，是用户体验，是产品概念、交互设计和视觉设计，是给行业内的大家来看。不希望涉及到任何商业推广，请不要联系我们做任何App推广之类的活动。&lt;br&gt;&lt;br&gt;//不断的收到大家的感谢，非常开心。周围的很多朋友关注了「最美应用」，都和我说觉得非常有帮助，这让我们非常有动力。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&lt;b&gt;//如果大家觉得这个事情有意义，这个内容有帮助，能否化“感谢”为“赞同”，谢谢！这个支持更有力 ^_^&lt;/b&gt;&lt;/blockquote&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/26/d3/26d3348c8a5edf1d3c9d7df96efdb10a_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image&quot; width=&quot;640&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/26/d3/26d3348c8a5edf1d3c9d7df96efdb10a_r.jpg&quot;)'&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20878209/answer/16477381
+</link>
+<author>
+大山
+</author>
+<title>
+因为苹果漏洞导致被盗 iCloud 照片、电话簿、800G 的三年数据、我的邮件资料，要报案或者要起诉么？
+</title>
+<description>
+首先表示同情。&lt;br&gt;如果数据重要的话，先找人恢复试试，优先找Apple旗舰店的工作人员。一般被快速抹掉的数据都可以恢复——彻底删除800G的文件是需要很长时间的。&lt;br&gt;如果你还会继续使用Apple设备，如iMac，建议使用TimeMachine功能。&lt;br&gt;另外，你还在图片里暴露了你家的位置，请注意修改。&lt;br&gt;再次，是否要报案，取决于你对攻击的判断，是被人有目的的攻击还是无意中扫到，威胁有多大。另外报案后如果技侦介入，你的设备列入证物，基本上会被搞得面目全非，隐私暴露，这是否是你所愿？&lt;br&gt;从你描述的情况看，Apple方面可能不一定需要负责任，密码泄露有多种渠道，是否由于Apple方面的漏洞导致这是个很复杂的技术问题。&lt;br&gt;这次攻击，也许是你的密码过于简单，也许是你在某些场合泄露了密码，譬如在公共WiFI上iCloud。在你改动密码时，对方正好在线并意识到了，他发现以后再也不能控制这个账户就动了毁灭心理（这从抹掉时刻可以反映出来）。&lt;br&gt;&lt;br&gt;&lt;b&gt;再次修改答案：&lt;/b&gt;&lt;br&gt;&lt;b&gt;我已经验证了题主提到的漏洞，非常严重！！！不敢相信apple的程序员&lt;/b&gt;&lt;b&gt;也会写出&lt;/b&gt;&lt;b&gt;这么低级的bug——居然意识不到安全性数据需要保持在后台而不是通过url传参！&lt;/b&gt;&lt;br&gt;&lt;b&gt;漏洞简要描述：在icloud的密码找回页面，只要知道apple id对应的生日，选择密码找回问题方式验证，就可以绕过其他问题直接修改密码！（漏洞：&lt;a href=&quot;http://t.cn/zYFtHKo&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;SQLI|XSS|QUERIES|Pen-Testing&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;b&gt;）&lt;/b&gt;&lt;br&gt;&lt;b&gt;该漏洞仍然存在（经&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/ratoo&quot; data-tip=&quot;p$b$ratoo&quot;&gt;@Ratoo&lt;/a&gt; 提醒，bug已部分修复——最后一步修改不会成功），请大家努力转发题主的微博！而题主很可能是被熟人坑了！&lt;/b&gt;&lt;br&gt;&lt;b&gt;用自己真实生日做密码问题之一的，颤抖了没有！&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20647091/answer/16476131
 </link>
 <author>
@@ -263,34 +291,6 @@ http://www.zhihu.com/question/20876024/answer/16470246
 </title>
 <description>
 发射药在枪膛中燃烧后，会推动子弹以很高的速度飞出枪管，一般你枪口速度在800m/s以上，这个速度比音速大很多，会产生音爆（子弹和刚出枪管的燃气）；&lt;br&gt;当战斗机在超音速飞行的时候，也会产生音爆。&lt;br&gt;&lt;br&gt;枪口上跳可以看下面这个图：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5a/11/5a110736a19d0ea9bc433224b325e80d_m.jpg&quot; data-rawwidth=&quot;680&quot; data-rawheight=&quot;184&quot; class=&quot;origin_image&quot; width=&quot;680&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/5a/11/5a110736a19d0ea9bc433224b325e80d_r.jpg&quot;)'&gt;&lt;br&gt;开枪后，枪管轴线上会有一个向后的后座力，而枪托和肩膀的接触点为转动轴，后座力和这个转动轴不在一条直线上，形成一个力矩，是这个力矩导致枪口上调的。&lt;br&gt;&lt;br&gt;减少枪口上调的方法，&lt;br&gt;一个是在浅口安装一个能够导向气体朝上喷射的装置，利用燃气产生一个相反的力矩抵消后座力力矩。&lt;br&gt;汤姆逊冲锋枪的防跳器：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7c/2a/7c2a75a91e9724dc636b2262d13f07ea_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;287&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;AKM的斜口防跳器：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e7/b4/e7b4f1faa35cad810cedf865fd36df04_m.jpg&quot; data-rawwidth=&quot;1000&quot; data-rawheight=&quot;650&quot; class=&quot;origin_image&quot; width=&quot;1000&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e7/b4/e7b4f1faa35cad810cedf865fd36df04_r.jpg&quot;)'&gt;&lt;br&gt;另一个是将枪托变成和枪管在一条直线上的直托，没有了力臂L，F再大也只能产生直接朝后的移动，而不是枪口的跳动，M16系列就是这个思路。&lt;br&gt;增加一幅M16的图：(仔细对比他们的枪托部分)&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/6f/95/6f95ffe16fcb0e2f8ab2836e21106127_m.jpg&quot; data-rawwidth=&quot;650&quot; data-rawheight=&quot;185&quot; class=&quot;origin_image&quot; width=&quot;650&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/6f/95/6f95ffe16fcb0e2f8ab2836e21106127_r.jpg&quot;)'&gt;这是AK47的图:&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/af/6f/af6f1678ec1e93cfb7d2aff02bc2ef4e_m.jpg&quot; data-rawwidth=&quot;1000&quot; data-rawheight=&quot;350&quot; class=&quot;origin_image&quot; width=&quot;1000&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/af/6f/af6f1678ec1e93cfb7d2aff02bc2ef4e_r.jpg&quot;)'&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19704488/answer/16333912
-</link>
-<author>
-丁一
-</author>
-<title>
-蹲监狱是怎样的体验？
-</title>
-<description>
-去过中部一个省份的省看守所，里面关押的有未决犯也有已决犯，基本是厅级以上的各种人员。&lt;br&gt;按照刑诉法规定，剩余刑期一年以上的已决犯应该转到监狱继续服刑（新修订刑诉法变成了三个月以上），但因为这个省级看守所条件比较好，所以不少人想方设法留在看守所。当然能留下也不容易，因为房间有限，这些年进去的又多，竞争激烈。&lt;br&gt;&lt;br&gt;怎么说条件比较好呢，去的时候没有想到这个看守所就在闹市区附近，一条不起眼的窄路开到头，从外面看起来像是个军营或者地方武装部，很是闹中取静的地方。&lt;br&gt;关押区的楼是两层的，被押人员关在一层，一人一个单间，里面很简单，除了床桌子也没什么东西，几个房间中间有个活动室，可以在活动室下下棋洗洗衣服看看电视，管教人员按时来巡查，巡查在二楼，因为下面每个房间都没有天花板，只有铁丝网，所以从二楼能很清楚看到下面在干什么，他们也早就适应经常有人从上面窥视，即使有笑声议论声，该干嘛干嘛，头都不会抬一下。&lt;br&gt;放风区不大，不过关押区外面（看守所墙内）有一块很大的农田，只要没什么病，每天要在田里干几小时活，种菜喂猪等等事情，种出的菜就供给管教人员和他们自己吃，我看那些菜长得都不错，猪是大黑猪，养得很象样。&lt;br&gt;已决犯会轻松些，因为判决已经下了，只需要好好活着争取减刑就可以了。未决犯不知道自己是三年五年十年八年还是无期杀头，这种焦虑感要伴随很久。&lt;br&gt;不可讳言，一些官员是有才华的，一个市委书记关在里面的时候写了两本书，想出版但是后来被剥夺政治权利终身，就没有机会了，即使出版也不能署名。&lt;br&gt;有的人虽然以前很牛逼，但关进去之后就从没人看望过，有的人关进去还没判，仍然有很多人不避嫌疑去看望，那这就是郭德纲说的一贵一贱交情乃现，一死一生乃现交情了。&lt;br&gt;有个国企的经理我印象很深刻，已经关了好几年，他嘴很严把事情都揽了，案子一直没审理完，他也就一直关着，我看到他的时候他正在自己下围棋，站在桌子边，左手跟右手下，管教人员说他经常这样，一下好几个小时。&lt;br&gt;&lt;br&gt;里面关的有各种市委书记、各种市长副市长、国企老总、厅局长，一些名字是在轰动全国的大案窝案里出现的，不说都一手遮天，至少也都曾不可一世，现在也都成了“专政”的对象，一下子被剥掉种种光环，就变得真实很多。&lt;br&gt;可以唾骂这些咎由自取的官员们，但却不得不承认每个人都是活生生有血有肉的人，服刑是个把人的尊严逐渐践踏到底的过程，如果没有对人性的敬畏，就不会有真正的人权，如果我说我支持对这些腐败官员保持优待，不知道会被骂成什么样。这样的看守所太少了，也应该更开放让更多人去看看里面的情况，如果十个人看完后有九个说应该打倒这些官员再踏上一只脚，那至少还有一个可能会说，不是打倒他们，而是应该像对待他们一样对待更多犯人。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20012937/answer/16467896
-</link>
-<author>
-张晓翔
-</author>
-<title>
-Dribbble 上有哪些优秀的中国设计师？
-</title>
-<description>
-鄙人就是Celegorm，感谢提及。&lt;br&gt;向总的资料比较老了，目前中国区Player（具备发作品和评论的权限）有463位，Prospects有3380位，以上两个数据还不包括有设计师把自己的账号注册成Scout的，以及没有标注所在地的。&lt;br&gt;&lt;br&gt;目前Dribbble中国区Top 10（以粉丝数为基准，地区标注为China的设计师，每位设计师的配图均以我认为无法被超越为标准放的）：&lt;br&gt;&lt;br&gt;&lt;b&gt;1. Paco：&lt;a href=&quot;http://dribbble.com/pacoxiao&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - Paco&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bf/d0/bfd0a4eab33e0c2cb320422da339dc72_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;2. Sanadas：&lt;a href=&quot;http://dribbble.com/Sanadas&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - Sanadas young&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0f/37/0f3729d419395593edda822d3185dd9d_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;3. MVBen：&lt;a href=&quot;http://dribbble.com/MVBen&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - MVBen&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/04/6f/046fc929cdb731963e4fe668ed1bf95c_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;4. ididi：&lt;a href=&quot;http://dribbble.com/ididi&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - ididi&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5c/00/5c00e85ff275947fed60045b7f29d0fd_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;5. Celegorm（鄙人）：&lt;a href=&quot;http://dribbble.com/celegorm&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - Celegorm&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/77/8b/778b7e4b336d4174239a9aacb27fb7ff_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;6. Aric：&lt;a href=&quot;http://dribbble.com/aric&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - Aric&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9b/29/9b293640abd67da1a6ea749c5380d462_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;7. Chee Fang：&lt;a href=&quot;http://dribbble.com/jordanfc&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - Chee Fang&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c0/49/c0494d4f06d973febc99b219ffa05780_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;8. chnvan（赤顽设）：&lt;a href=&quot;http://dribbble.com/-chnvan&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - chnvan&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bc/66/bc66eb637b9e2e46154256477cc28eb9_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;9. JJ.Ying：&lt;a href=&quot;http://dribbble.com/JJYing&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - JJ Ying&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/56/aa5654199f1dc0cad8d0abc697bf11e0_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;10. Shin：&lt;a href=&quot;http://dribbble.com/Shin&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - Shin&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/18/82/1882373cd135caa70141d4e5e601504c_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;PS. 第一名和第七名在锤子科技。
 </description>
 </item>
 </channel>
