@@ -15,10 +15,38 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20875834/answer/16473931
+</link>
+<author>
+钟螺
+</author>
+<title>
+上海真的像郭敬明与安妮宝贝里描述的这么精致奢华吗？
+</title>
+<description>
+当你从灯火辉煌的人民广场出发，驱车10分钟后，你会到达另一个世界。棚户区或者平房，看起来灰暗、沉默、寂静。但是这样的地方也有穿着睡衣出来洗头发的漂亮小姑娘，光着屁股跑来跑去的小孩子，老阿姨烧菜的油烟味道香得要命，一群老头子坐在树下着糟烂的象棋直到被老太婆揪着耳朵回去吃饭。&lt;br&gt;魔幻现实主义的陆家嘴商务楼，早晨八点尚未醒来。地铁里满是睡眼朦胧地吃蛋饼的白领，车厢里一股蛋饼味儿。旁边的陌生姑娘靠在我肩膀上睡着了，不知道该不该推醒她。好不容易到站，小心地推推她，看她一秒钟从=_=变O_O再变&amp;gt;_&amp;lt;，我同手同脚快速冲出地铁。&lt;br&gt;我们也有大排档，烤串啤酒，海鲜不是太新鲜但也还行。到处都是光着膀子或者穿个工字背心的男青年，全中国的口音汇聚在摊边，和着炭烟和汗味儿一起盘旋上升。&lt;br&gt;上海的特殊服务洗头店大多门窗紧闭，房屋结构曲折回环，玻璃门望进去只看到柜台。女客来倒也洗头发，大部分洗得挺干净。晚上出门找食的时候和一个附近见过的性工作者拼桌，长得颇清秀，南方口音，话很少。这家店的馄饨好，我和她各自要了一碗。她那碗端上来一层红油，看不见馄饨。我吃不了辣，被这加强版的味道熏得眼睛通红，她一直笑。&lt;br&gt;山阴路算是挺典型的上海老居民聚居地，一路上全是早点店，每家都好吃。有家店用扇面当作菜单，老板自己写的，字很好看，“豆沙包壹元伍角 蟹殼黃壹元貳角”之类。春联也自己写，词句很文气。老板娘年轻时候估计是个大美人，现在也风韵犹存，和气而得体。老板一直在后厨，很少出现，沉默寡言。&lt;br&gt;这是我熟悉的上海的一个角。上海是有奢华的一面（精致不好说，我还是觉得旧租界的洋房挺精致的），然而大部分上海人和大部分中国人一样，其实都是普通人。大家都上班上学吃饭回家，挤公交坐地铁或者堵在高架上隧道里。我是上海土著，也走过不少地方，觉得上海人和中国其他地方人唯一不同的，大概就是我从来没见过上海人打架吧……
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20870129/answer/16479047
+</link>
+<author>
+孙尉翔
+</author>
+<title>
+普通镜子照出来的画面是多少分辨率的？
+</title>
+<description>
+这种问题很适合用来胡扯。&lt;br&gt;&lt;br&gt;分辨率是描述模拟-数字转换效果概念，不是描述模拟信号本身的概念。无论是图象还是音频，模拟信号是连续的。只有当需要把它离散化的时候，才要这一步的分辨能力。&lt;br&gt;&lt;br&gt;如果非要讨论，应该先讨论人眼的分辨率。成像在人眼的那什么膜上面，那上面有很多感光细胞，有的能感受色彩，有的只对亮度敏感，具体啥名称忘了。也许一个细胞只能向大脑报告一个亮度值或RGB值（假如它是那种彩色感光细胞的话），那么所成的像就由这些感光细胞离散化了。复杂的是人脑是个很牛的图像处理系统，它也许帮你进行了很牛的插值，所以你感觉不到“像素”。&lt;br&gt;&lt;br&gt;镜子是反射成像，光在镜子上发生反射是跟镜底的汞齐作用。之所以能反身是因为金属的电子是到处跑的，吸收了光的能量之后只能又放出来。因此光照在汞齐面的哪儿都能反射，真的没有分辨率可言。&lt;br&gt;&lt;br&gt;胡扯完毕。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20875755/answer/16479087
 </link>
 <author>
-知乎用户
+YuDan
 </author>
 <title>
 电竞游戏算不算体育？
@@ -172,7 +200,7 @@ http://www.zhihu.com/question/20878209/answer/16478869
 http://www.zhihu.com/question/20875755/answer/16478519
 </link>
 <author>
-知乎用户
+karaki
 </author>
 <title>
 电竞游戏算不算体育？
@@ -186,7 +214,7 @@ http://www.zhihu.com/question/20875755/answer/16478519
 http://www.zhihu.com/question/20493493/answer/16482135
 </link>
 <author>
-知乎用户
+南山子
 </author>
 <title>
 为什么伯罗奔尼撒战争后雅典城邦制度就由盛转衰？
@@ -264,34 +292,6 @@ HTML5 游戏移植为 iOS 原生应用，需要注意哪些地方？有什么经
 <description>
 很巧去年11月份我们开始决定进行HTML5手机页游《猎魔佣兵》的iOS版本打包工作。这也是我们首次进行iOS版本的封包，此前坊间有各种各样说法流传，苹果已经对WebApp加大了审核的严格程度，有一大批HTML5的游戏和应用纷纷都被斩于马下。带着这样忐忑不安的心情，我们开始了将手中基于HTML5开发的角色扮演网游《猎魔佣兵》封包上线的悲壮之路，期间历经各种坎坷又峰回路转，跌宕起伏，很值得回味。我不敢敝帚自珍，于是一一记录下来，以飨知乎上的游戏创业者朋友。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/47/df/47dfb82453449ad785fabb8a96697e70_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/47/df/47dfb82453449ad785fabb8a96697e70_r.jpg&quot;)'&gt;（手机页游：《猎魔佣兵》）&lt;br&gt;&lt;br&gt;&lt;b&gt;1&lt;/b&gt;&lt;b&gt;）游戏封包仓促上线，产品定价遭遇冷脸；&lt;/b&gt;&lt;br&gt;      项目会后我们把需求提给技术人员，起初大家并没有把这个事情看的很难，因为我们的HTML5游戏引擎完全是自主研发的，而内核采用的是Canvas和Dom混合模式。我们预先设定的方案也是直接在苹果平台上用Xcode进行打包，把自己的Javascript脚本，美术资源和webview组件封装在一起。经过测试发现本地加载读取是可行的，于是安装包分分钟就做好了。很快我在苹果商店做好了文字说明，截图以及安装包上传。正在为自己的高效工作沾沾自喜，几天后苹果的测试结果就打回来了，拒绝上线，原因却是游戏中仍保留了一封内测的邮件。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1c/4a/1c4af9c73a4ce28d6a08c25ea7b7d0c8_m.jpg&quot; data-rawwidth=&quot;545&quot; data-rawheight=&quot;235&quot; class=&quot;origin_image&quot; width=&quot;545&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1c/4a/1c4af9c73a4ce28d6a08c25ea7b7d0c8_r.jpg&quot;)'&gt;所以不管是游戏内部还是游戏描述，千万不要有“内测”啊，test啊，demo啊， beta啊这些字样，苹果会以为你对用户不负责，拿用户来测试你的产品。（可国内的页游为了规避政策不都这么做的嘛 =_=...）很快我们就删掉了所有相关字眼，仔细检查后，怀着忐忑的心情，再次提交AppStore。&lt;br&gt;一周后，杯具继续传来，我们又被拒了。&lt;br&gt;      这次被拒绝的原因是游戏的内置付费问题。苹果上网游的内置付费的道具的标价很重要，单价千万不要超过99美金。我们的某个道具单价为648￥，完全超过99美金。于是我们被打回，继续埋头修改，将单价降到 68￥，继续提交，虔诚的等待结果。（看来太过于贪婪真的是祸根呀...囧rg）&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1d/a3/1da3b2c70f84592471bcc75816044968_m.jpg&quot; data-rawwidth=&quot;516&quot; data-rawheight=&quot;257&quot; class=&quot;origin_image&quot; width=&quot;516&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1d/a3/1da3b2c70f84592471bcc75816044968_r.jpg&quot;)'&gt;可是福不双至，祸不单行，结果又被打回。苹果说，你的道具一次性售出的总价也不能超过99美金。这个怎么理解呢？我们将道具单价将为 68￥，但是我们允许用户一次性购买10份，那总价就是680￥，结果又毫无压力超出99美金。苹果说了，这还是不行啊，总价也不能超过99美金啊，于是我们又哼哧哼哧修改，改好提交上去了。（分特，你早怎么不说呢。对于游戏内计费的苛刻，苹果也算是计较到了极点，其实放在国内的哪个商店或者平台不是都希望扣用户钱越多越好呢~）&lt;br&gt;然后我们就在欢天喜地中又迎来了第四次被打回。这次依然是付费问题。这一次比较小纠结。上回不是说总价也不能超过99美金嘛，那好办，当用户购买5份，以及以上的份数，我们都不予他购买。这是神马意思呢，玩家点旁边那个 加号，加到5以后，他点购买会没有反应，但是加到5之前，都是正常购买的。这不是为了响应苹果的号召，总价必须低于99美金嘛。但是苹果又喊停了，为啥呢？为啥我加到5没反应啊？这是bug! 既然你不允许玩家买5份，干嘛你又允许玩家加到5呢？于是我们无言以对，又默默把 5以及 5以上的选择都取消了，点加号只能加到4...(哇呀呀，心中无数只草泥马奔腾而过呀~)&lt;br&gt;&lt;br&gt;&lt;b&gt;2&lt;/b&gt;&lt;b&gt;）搬来高手精研学习，评审经验互通有无；&lt;br&gt;&lt;/b&gt;接二连三的被打回，让几个老大们真的着急了。眼瞅着就要过年，大家实在都一筹莫展。实在不行就去找高手聊聊吧，于是几个老大出面，请到了几位据说是有着与苹果丰富斗争经验的大牛来到公司座谈交流。“三个臭皮匠，顶一个诸葛亮” 尔后大家针对我们的游戏产品给出了不少干货的建议。他们建议关键字的选择不要涉及版权，建议尽量多的把文字写在游戏截图上，建议图标设计的需要把握的尺度，不要贪心一次提交很多版本，同时也给了第一次接到苹果审核的拒绝结果后两个小时应该有的反馈...林林总总这里就不一一赘述了。但这让我想起了曾经的高考前夕，化学老师曾对小编说过的那些话，七月流火，八月融金，数百高考判卷老师汇集火炉南京挥汗如雨给百万考生审卷，你们想想如果字迹不工整，卷面不整洁下场会是如何？囧rg，我想苹果的审核大神们估计也有同感吧。终于在同志们的春天般关怀下，我们终于把看似完美的包提交了上去，再次忐忑不安的等待着再次表白的结果...&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/17/09/1709bfd9bff93aad227ae825f9f44584_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/17/09/1709bfd9bff93aad227ae825f9f44584_r.jpg&quot;)'&gt;&lt;br&gt;&lt;b&gt;3&lt;/b&gt;&lt;b&gt;）连受打击屡败屡战，咬牙切齿Web&lt;/b&gt;&lt;b&gt;拒版；&lt;br&gt;&lt;/b&gt;最最不幸的事情终于发生了，我们的游戏在春节前最后一周接到了苹果的「病危通知书」，他说我们的游戏是基于web的游戏，建议我们提交给流量几乎为零的WebAppStore，宛如一桶凉水泼下来，从头到脚，这基本宣判了我们产品的死刑，（T_T）。我怀着沮丧的心情回家度过了难忘的2013年春节，强颜欢笑，食不知味…&lt;br&gt;&lt;br&gt;&lt;b&gt;4&lt;/b&gt;&lt;b&gt;）炮竹一声辞别旧岁，来年新春路转峰回；&lt;br&gt;&lt;/b&gt;春节收假后，大家重新回到了公司。心有不甘有木有，各种撞墙有木有，于是老大把项目组的人重新召集到了大会议室开小诸葛会。虽然桌上摊满了各地带回来的特色零食，可是谁也没有心情吃，很快你一言我一语气氛开始活跃起来，讨论目标就是如何能让《猎魔佣兵》正式上线。首先我们检查了一下之前所碰到的各种零零碎碎的问题，都可以得到了技术和产品的全面解决。我们又找到了AppStore上有一部分跟我们类似的原生与网页混合打包产品，分析后得出的结论是，无论从画面，还是用户操作，投入一些细节的设计和修改，我们是可以把Webapp产品做到原生的体验，同时也捂脸之前图快图省事的想法。一方面我们也觉得是否在于之前被打回来的次数过多，所以苹果加强了对我们这款游戏的审核力度，导致最后杯具的结局。通过分析出这些原因，也就详细的拟定了修改的方案，安排技术大牛光哥又重新开始了我们的苹果之旅。&lt;br&gt;      这一次我们大大增加了原生代码的数量，将游戏的登录注册选服加载客服等等界面都用原生代码完成，适当的增加了动画特效，进入游戏后，我们替换了底栏菜单和聊天部分，同时加入了游戏的背景音乐。新完成的安装包，基本可以说原生代码和网页脚本比例达到了3:7的程度。&lt;br&gt;最后我们重新注册了苹果账号，换了个马甲，继续提交（你懂的）。&lt;br&gt;结果很快下来了，Ready for sale，过了！&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ab/03/ab03c26fca252cec1c188c6f0ce18b1e_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/ab/03/ab03c26fca252cec1c188c6f0ce18b1e_r.jpg&quot;)'&gt;&lt;br&gt;&lt;b&gt;5&lt;/b&gt;&lt;b&gt;）回首长叹经验总结，抛砖引玉造福社会；&lt;/b&gt;&lt;br&gt;经过这一番折腾，老大让我总结一下这次的经验，不过我一直觉得最大的决定因素还是在于人品，人品值不行的还需要继续修炼呀。(*^__^*) &lt;br&gt;&lt;br&gt;1）苹果的审核确实非常尽职尽责，每一个可能的细节都不会放过。但感觉单机游戏如果只是下载收费要比有内置计费的网游容易通过的多，所以网游开发的同学们一定要在计费接口部分多下功夫，一定要严格遵守苹果的规范呀！&lt;br&gt;&lt;br&gt;2）在提交时候，不要贪心同时提交iPhone和iPad两个版本，我们因为《猎魔佣兵》是HTML5技术可以自动适配屏幕分辨率于是全机型打钩提交上去，结果被苹果打回来的时候告知完全没区别嘛，囧rg&lt;br&gt;&lt;br&gt;3）HTML5的游戏开发应该尽量使用Canvas来渲染画面，而Dom可以用在菜单和一些文字输入类控件即可。原生代码则主要用来制作框架容器和部分菜单，并且完成游戏进入前的界面和各种动画特效，声音声效的播放以及对话框和聊天部分。所有游戏第一次进入用到的图像和声音等资源打包为bundle模式，全部放在本地，更多的地图，副本的图像声音资源可以考虑分阶段下载。最后我们完成的安装包大小为33M，便于下载安装。一句话，多加一些Native的代码让你的HTML5游戏产品制作的更加接近原生体验吧！&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d9/76/d976d20c02ce6043c9210f423f7cdb51_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d9/76/d976d20c02ce6043c9210f423f7cdb51_r.jpg&quot;)'&gt;&lt;br&gt;4）苹果对于Webapp的顾虑可能会在外链，第三方计费控制等问题吧，所以我建议这方面还是老实一点，不耍小聪明，万一上了线乱搞也有可能会被苹果踢下来。因此我们也会继续踏踏实实的做好游戏产品，遵守苹果的规范，认真服务于玩家。&lt;br&gt;&lt;br&gt;5）在游戏的打包中我们也可以通过原生代码不但增加了一键登录同时也把第三方统计平台加入进来，比如友盟，appcpa等等。&lt;br&gt;&lt;br&gt;不过说到这里恐怕会有不少看官质疑，你们干脆用原生开发多好呀，干嘛非死乞白赖的用HTML5打包呢？我下面就阐述一下我们之所以选用HTML5技术开发手机游戏的理由：&lt;br&gt;&lt;br&gt;1）用HTML5开发手机应用和游戏的效率会稍高一些，成本也会略有降低。这主要体现在各种智能手机终端的移植上，我们前端都是javascript工程师，而打包移植的工作有1个人就可以快速搞定。不需要同时维护若干个团队和若干个版本。这是我们安卓版本下载地址：&lt;a href=&quot;http://g.duopao.com/apk/download?utm_source=ghzj_v1.2.1&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;g.duopao.com/apk/downlo&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;ad?utm_source=ghzj_v1.2.1&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;2）用HTML5开发，游戏升级版本更新会更方便，只要不涉及原生代码的改动，我们都可以在后台安排脚本更新即可，无需用户再去下载安装覆盖等麻烦，也减少了因此而带来的用户流失。&lt;br&gt;&lt;br&gt;3）用HTML5开发的网页游戏跨平台的能力较强，可以运行在PC，平板，手机等所有支持HTML5的浏览器内，这样可以让玩家无论是在电脑还是手机都可以跨平台体验游戏的乐趣，从后台数据看，大部分用户是愿意接受在不同的时段使用不同设备，电脑和手机来体验我们的游戏。随时可以访问我们的网站：&lt;a href=&quot;http://g.duopao.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;光辉战纪官网-多泡游戏&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e6/0f/e60f0d407cf1e49490901aeec36c5eff_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;186&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e6/0f/e60f0d407cf1e49490901aeec36c5eff_r.jpg&quot;)'&gt;&lt;br&gt;4）HTML5开发手机应用和游戏相对来讲会比较安全，由于浏览器的限制，我们是无法读取用户的隐私信息或设置暗扣陷阱。&lt;br&gt;&lt;br&gt;5）虽然HTML5页游有以上的好处，但目前HTML5游戏的市场环境还并不成熟，很多用户还是比较习惯安装app来玩游戏的习惯，所以我们也采用同时推安装包和链接两种方式来尽可能的覆盖我们的用户群，因此webapp的推广方式还是非常灵活的。&lt;br&gt;&lt;br&gt;我们作为一个HTML5页游的创业团队已经根植这项技术3年了，这期间我们从未对自己的方向有所怀疑，我们也欣喜的看到随着浏览器发展越来越成熟，我们的伙伴也越来越多，吾道不孤矣。我们也希望通过这篇小文，也带给跟我们一样在路上的伙伴们一些鼓励，一点帮助。加油！最后借此文感谢项目中一直努力奉献和付出的大牛光哥，跃强，雪冰，高妹，Cae还有小寒，何叶等等同学们，没有你们的百折不挠顽强努力，上线是不可能的！我爱你们~&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9b/69/9b69174bd9cf488f44df801cb679d01b_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;900&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/9b/69/9b69174bd9cf488f44df801cb679d01b_r.jpg&quot;)'&gt;&lt;br&gt;目前这款游戏已经开始免费下载，如果大家觉得这篇小文对你们有所帮助的话，也请大家支持一下我们，轻点一下app下载，给留个好评，谢谢啦！&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;《猎魔佣兵》苹果商店地址：https://itunes.apple.com/cn/app/lie-mo-yong-bing./id605684016?ls=1&amp;amp;mt=8 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;或在AppStore搜索 “猎魔佣兵”&lt;br&gt;或用手机扫一扫：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/23/51/235131ee6cd77754378572730a0af15c_m.jpg&quot; data-rawwidth=&quot;260&quot; data-rawheight=&quot;260&quot; class=&quot;content_image&quot; width=&quot;260&quot;&gt;再次感谢大家百忙之中抽空阅读这篇小文！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20295313/answer/15685128
-</link>
-<author>
-匿名用户
-</author>
-<title>
-作为一个富二代，压力大吗？
-</title>
-<description>
-就随便聊聊我一个兄弟。&lt;br&gt;他是在英国出生的温州人。他高中伊顿，本科牛津PPE（跟某瓜瓜同一专业），开一辆顶配S6和Panorama，社交圈里不乏各种政商大腕之后，在伦敦有一个两百坪的单身公寓。表面很风光，很符合平常媒体渲染的“富二代”标准了吧？&lt;br&gt;&lt;br&gt;事实是，他在牛津读书的时候每天只睡四个小时，他做的试卷上的课和每个单修 哲学/经济/政治 的普通牛津学生完全相同。大三期末，他读书读到鼻血止不住，硬拖去医院检查才发现他颅内压过高。没有像某瓜瓜渲染的纸醉金迷，更没有什么香槟派对。&lt;br&gt;&lt;br&gt;他还在伊顿的时候就开始给BBC当最初级的跑腿，等到他毕业时，他已经是BBC正式编制体系内的摄像师，已经给贝爷Man VS Wild 当过三号机位，帮忙拍过Top Gear等等。&lt;br&gt;&lt;br&gt;去牛津之前，他特地应征入伍一年，象个普通士兵一样服役。期间还顺便拿了特种车驾驶执照，飞行执照。&lt;br&gt;&lt;br&gt;我曾问过他的愿望是什么，这么早早拥有普通人想要的一切。我很好奇他是不是和我一样，不知道想要什么，只是盲目的随从家里的安排。答案很让我吃惊：&lt;br&gt;&lt;br&gt;”我想要让中国变的更好。因为我真的很爱我的国家。“&lt;br&gt;&lt;br&gt;过完十八岁生日后，他做的第一件事，就是抛弃伴随了他十八年的英国护照换回了中国国籍。&lt;br&gt;&lt;br&gt;每次他回国，当他拿出那本棕色护照过海关时，他都会哭，他说：&lt;br&gt;“因为我真的很为中国自豪。”&lt;br&gt;我无地自容。&lt;br&gt;&lt;br&gt;现在他在某世界顶级政经学校读研，读的课题是南海政治关系研究。课余时间开了家小公司。&lt;br&gt;&lt;br&gt;我们的梦想离我们还很遥远，每次想到都会觉得困难重重遥不可及，但这只会给我们更大动力去实现这个梦想。&lt;br&gt;&lt;br&gt;真正决定一个人的上限的，不是他的家庭背景，不是他的生活环境，是他的勤奋，以及在那个胸膛里怀揣着一个多大的梦想。&lt;br&gt;&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;2013.02.19&lt;br&gt;最近稍微空一点，上来回应下一些观点。&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;富二代起点高，所以他容易成功：家境提供的是平台，一个人可能因为父辈的成功而过上衣食不愁的生活，但他永远不会因为父辈的成功而成功。开名车住豪宅不是成功。成功的定式里永远只是与汗水相连。就算他高中不是伊顿，就算他不住豪宅开名车，以他的努力程度我相信他依旧能达到今天的成就。太多人只会质疑表面的璀璨，而忽视背后的汗水。改一句名言：以大多数人的努力程度还轮不到抱怨拼爹。&lt;br&gt;&lt;/li&gt;&lt;li&gt;民族主义不靠谱，爱国不爱党：爱党？呵呵。但是通过改变政党来改变国家最直接有效的途径。想扫除黑暗，试问不切身进入黑暗，该如何切破黑暗迎来光明？心存黑暗者自然会被已有的黑暗同化。但是只要你心存光明，永持希望，即便此刻你手上浸漫黑暗，最终迎来的依然是光明。套用一句名言：“你所站立的地方，就是你的中国；你怎么样，中国便怎么样；你是什么，中国便是什么；你有光明，中国便不再黑暗。”&lt;/li&gt;&lt;li&gt; 五毛！五毛文！：呵呵。&lt;/li&gt;&lt;li&gt;这文好矫情： ;)&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20488521/answer/16474011
-</link>
-<author>
-曹留
-</author>
-<title>
-听过刘欢《西方音乐史》的同学，对他的课有什么评价？
-</title>
-<description>
-&lt;i&gt;末尾有专为知友上传的刘欢老师最后一节课讲述&lt;b&gt;音乐的意义&lt;/b&gt;的视频&lt;/i&gt;&lt;br&gt;&lt;br&gt;这贴简直炸起一群知乎上的UIBER!!!!&lt;br&gt;&lt;br&gt;之前回答过的贸大校友们：&lt;br&gt;&lt;br&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@丛谚&quot; href=&quot;http://zhihu.com/people/summereyes&quot; data-tip=&quot;p$b$summereyes&quot;&gt;@丛谚&lt;/a&gt; 同学的答案讲了很多刘欢老师上课的细节&lt;br&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李孟晓&quot; href=&quot;http://zhihu.com/people/gennylee&quot; data-tip=&quot;p$b$gennylee&quot;&gt;@李孟晓&lt;/a&gt; 同学的答案描述了刘欢老师的气质。&lt;br&gt;&lt;br&gt;我补充一点刘欢老师对于&lt;b&gt;古典音乐的理解&lt;/b&gt;吧。&lt;br&gt;&lt;br&gt;如果不看刘欢老师的光环，如果暂且不谈刘欢老师之前的成就，刘欢老师对于古典音乐的挚爱也让人印象深刻。&lt;br&gt;&lt;br&gt;暑假看中国好声音的时候，刘欢老师给媒体评审团鞠躬，恳请他们多关注民族音乐，多关注不同种类的音乐的时候，我就觉得老师其实是有一种使命感的，老师以保护，发掘各种类型的美好的音乐为己任。&lt;br&gt;&lt;br&gt;后来暑假之后上了刘欢老师的课，我发现这种使命感来自刘欢老师对音乐的纯粹的美的追求，热爱。&lt;br&gt;&lt;br&gt;平时讲课的时候，每每讲到那些伟大的音乐家，那些历史上才华横溢的人物的时候，老师就会用一种“我操真可惜我晚生了XXX年要不然就能亲耳聆听XXX的钢琴协奏曲了”的声音告诉我们这些无知的少年：音乐里蕴含着的最纯粹的美是&lt;b&gt;跨越时空，跨越种族，永恒存在&lt;/b&gt;的。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/09/14/0914dca0b745b575feb6a773941db725_m.jpg&quot; data-rawwidth=&quot;3264&quot; data-rawheight=&quot;2448&quot; class=&quot;origin_image&quot; width=&quot;3264&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/09/14/0914dca0b745b575feb6a773941db725_r.jpg&quot;)'&gt;图：老师在讲文艺复兴时期的音乐 &lt;br&gt;&lt;br&gt;&lt;br&gt;我觉得，也正因为这种热爱，老师才愿意在百忙之中，来到对外生意买卖大学给我们讲述音乐之美，老师愿意也极想和年轻人分享他对音乐的热爱，分享纯粹的音乐之美给他带来的愉悦和享受。&lt;br&gt;&lt;br&gt;---------------------------------------------以上纯属我对刘欢老师不负责任的猜测--------------------------------------------&lt;br&gt;&lt;br&gt;后来，当我们上最后一节课的时候，刘欢老师给我们分享了他对古典音乐有用无用的理解：&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&lt;b&gt;&lt;i&gt;音乐真的没有什么作用，我们这个世界就是这样，我们看到西方音乐走来的这个历程了，我们看到了这么多美好的音乐，这么多优秀的音乐家不断的努力，但是怎么了，音乐没有消除过贫困，没有阻挡过战争，那些缔造出那么多那么好音乐的民族，他们照样去屠杀（应该指纳粹），他们照样劣迹斑斑，音乐没有什么作用，但是对于我们来说，音乐可能又有作用，有作用就是因为在我们心底，因为我们.....&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;br&gt;&lt;br&gt;视频请戳：&lt;a href=&quot;http://www.56.com/u39/v_ODkyMTkzNTY.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;这个视频仅限知乎传播..._视频在线观看&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;All in all,刘欢老师教给我最重要的一点是：&lt;b&gt;有些时候不要计较做一件事有用没有用，不要计较读文青一点的书有没有用，不要计较选哲学课有没有用，不要计较出去旅行有没有用，你自己喜欢，就是有用的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;PS:我们考试的时候，刘欢老师还来监考了！当时吓得我小心肝一颤一颤的啊。。本来题就不容易。。那么多音乐家的名字，生平和作品。。。
 </description>
 </item>
 </channel>
