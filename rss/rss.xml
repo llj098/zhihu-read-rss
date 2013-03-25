@@ -15,6 +15,48 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20705648/answer/16480301
+</link>
+<author>
+知乎用户
+</author>
+<title>
+如果没有商业银行的工作经验，可以通过哪些书籍补充商业银行日常业务及实际操作的相关知识？
+</title>
+<description>
+谢邀。&lt;br&gt;&lt;br&gt;现阶段大型商业银行多实行事业部制，大致分为前、中、后台。各部门相对独立，工作内容差异很大，例如国际业务部和保卫部。没有一本或一类书可以涵盖所有部门日常业务所需知识。&lt;br&gt;&lt;br&gt;商业银行最大的特点是工作流程化。流程体现为规章制度。规章制度主要是监管规则和金融产品的个性化，监管规则又是法律、法规的细化。简而言之，宏观的法律、法规，中观的部门监管规则，微观的行内规章制度。&lt;br&gt;&lt;br&gt;假设LZ处于尚未入职。随便看看“银行业从业资格”教材就好。按优先程度依次为《公共基础》、《公司信贷》、《风险管理》、《个人理财》、《个人贷款》。其内容基本来自央行、银监会的部门规章，属于中观规则。虽然操作性不及行内规章制度，但至少比法律、法规来的具体。PS：上述教材过于简单，新人容易发生信心爆棚的症状。&lt;br&gt;&lt;br&gt;假设LZ已经入职。这里又要区分LZ的知识背景和所在部门而有所不同。所以只好继续泛泛而谈。&lt;br&gt;&lt;br&gt;1）首先，专注本部门相关“规章制度”，重要规则熟悉到脱口而出。因其涵盖你全部工作流程，内容也已经承继了宏观、中观规则。&lt;br&gt;&lt;br&gt;2）其次，学习目标部门“规章制度”。你的目标部门，因人而异。从部门资源看，大体有两个标准。一是权力资源。以行长室为圆心向外扩展，半径越小权力越大，举例：办公室最近，人力部居中，财务部居后。二是资金资源。以创收占比为标准。举例：公司部最强，个金部居中，基金托管部居后。在这点上各类机构都差不多，不多说。&lt;br&gt;&lt;br&gt;3）再次，学习通识。掌握业内通识，不仅有利于日常跨部门沟通，更有利于你在部门间流动。个人认为，商业银行第一通识是信贷业务基本规程，尤以对公授信为重。第二通识是财务知识。第三通识是风险管理。三部分知识又有交集，如果你已经入职，就应该知道去看哪些材料。&lt;br&gt;&lt;br&gt;总结下，没入职就学“银行从业资格”，入职后就学规章制度+业内通识。供参考。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20883370/answer/16492397
+</link>
+<author>
+知乎用户
+</author>
+<title>
+如何评价路径纪录应用 Moves 的用户体验设计？
+</title>
+<description>
+这个应用的最大优点就是使用成本低。只要安装，后面的事情无需操心。&lt;br&gt;&lt;br&gt;事实上第一次安装打开之后我就再也没有理它，几天后再打开，看到过去几天已经记录好的路径轨迹和里程数据，首先是惊喜，然后感觉非常舒心。&lt;br&gt;&lt;br&gt;调用 core location，工作以否跟应用是否在后台打开毫无关系。&lt;br&gt;&lt;br&gt;至于电量消耗，没有感觉到大的差别。可能我平时就不太理会定位的开启。&lt;br&gt;&lt;br&gt;界面设计方面，非常简约精致，没有多余的元素。底纹、光暗、阴影，看起来都经过精雕细琢。过场动画很棒，绝非那种 fade out / fade in 式的草草应对，而是如 Dark Sky 那般，看得到部件移动结合的过场，看得到变形（金刚）。&lt;br&gt;&lt;br&gt;我很欣赏。就像 WSJ 前段时间一篇采访 Loren Brichter 报道里面说的：&lt;br&gt;&lt;br&gt;**apps based on how people move objects in the real world.**&lt;br&gt;&lt;br&gt;如果不是地图的偏移，可以满分。&lt;br&gt;&lt;br&gt;过去一周的统计视图: &lt;img src=&quot;http://p1.zhimg.com/8d/b1/8db15921a444edfddae5b8a5c51f9b81_m.jpg&quot; data-rawwidth=&quot;1136&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image&quot; width=&quot;1136&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/8d/b1/8db15921a444edfddae5b8a5c51f9b81_r.jpg&quot;)'&gt;&lt;br&gt;（补充关于其他人遇到的问题。我翻看了自己的纪录，跑步是紫色，走路是绿色，打的是灰色，都能对上。关于 GPS 工作方式和电量的担心可以看官方提供的 &lt;a href=&quot;http://www.moves-app.com/faq&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;FAQ&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，裏面有详细解释）
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20878308/answer/16488738
+</link>
+<author>
+苏杰
+</author>
+<title>
+iPhone 5 新广告中「这一切都得益于 Apple 科学家们开创的独特电池化学技术，而不是勉强使用大块的现成电池」所指的新技术是什么？
+</title>
+<description>
+其实水果这个提法是不对的，水果5的电池容量仍然还是1440mAh，在相同的负载下后备时长是相同的。唯一能够延长后备时长的是降低软硬件负载。&lt;br&gt;化学性能方面可以改善的：&lt;br&gt;1、循环寿命；&lt;br&gt;2、能量比，也就是体积更小重量更轻；&lt;br&gt;3、温度性能；&lt;br&gt;4、放电稳定性。&lt;br&gt;但这些都与后备时长无关，至少是与1000次循环以内的后备时长无关。&lt;br&gt;看到楼上面有说电压的，暂且不说聚合物电池标称都是3.7V，即使真能实现3.8V，由于锂离子电池都是平台放电，平台末端在放电时都是陡降（不知道有没有表述清楚，我不会在这里画图）放出容量也是相差无几（5%以内）。&lt;br&gt;据我所知，水果在电池上本次是投资巨大，并且大量投资是检测设备。化学性能上的突破倒是未现转折点。&lt;br&gt;锂电行业的新技术目前倒是有两个，但如果不增加电池容量的话，和水果5增加后备时间都不沾边：&lt;br&gt;1、石墨烯负极的锂电，体积重量更小；&lt;br&gt;2、空气锂，也就是没有负极材料，正极与大气发生反应，体积重量更低，稳定性也更高，但还在斯坦福的实验室。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20874249/answer/16467374
 </link>
 <author>
@@ -249,48 +291,6 @@ http://www.zhihu.com/question/20700416/answer/15897563
 </title>
 <description>
 浪漫的说法：博斯普鲁斯海峡&lt;br&gt;&lt;blockquote&gt;......她喉咙下方有块小小的凹处，我们叫它&lt;b&gt;博斯普鲁斯海峡&lt;/b&gt;。我会从她的肩膀看到博斯普鲁斯海峡。将眼光停在那里徜徉休息。我跪下身来。她低头茫然地看着我，似乎我是一个外星来客。她一脸茫然的表情，在开罗的一辆公车上，她冰冷的手突然触摸我的脖子。我们搭上一辆隐密的出租车，我们在伊斯梅里亚桥和蒂帕拉里俱乐部的车程间享受短暂的欢愉。或者到博物馆三楼的大厅，她伸手捂住了我的脸，阳光透过了她的指甲......&lt;/blockquote&gt;——《英国病人》 &lt;br&gt;&lt;br&gt;学名叫： 胸骨上凹
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20870640/answer/16457016
-</link>
-<author>
-闻佳
-</author>
-<title>
-如何评价冯菲设计的「花瓶」服装？
-</title>
-<description>
-1、同意&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@石韦属&quot; href=&quot;http://zhihu.com/people/shi-wei-shu&quot; data-tip=&quot;p$b$shi-wei-shu&quot;&gt;@石韦属&lt;/a&gt; 指出的，毕业设计和市场化设计定位不同。&lt;br&gt;事实上，他提及的设计师比如Alexander McQueen，生前正常的时装秀设计也根本不是市场化设计。&lt;br&gt;在他背后，有一个市场化设计的团队，专门把他的秀场设计做成实穿的款式。&lt;br&gt;&lt;br&gt;2、如果不能去现场看秀，那也不要看平面照片，起码要看视频。时装秀必须看整体，仅贴一张照片是无法评价整套作品的。&lt;br&gt;&lt;br&gt;不过冯小姐的这个视频翻不到，youtube上只有这个：&lt;a href=&quot;http://www.youtube.com/watch?v=nMIERsn4Upo&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;youtube.com/watch&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;?v=nMIERsn4Upo&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;算是可以看她整台秀整体的一个描述。&lt;br&gt;&lt;br&gt;这是设计师本人在vogue china网站上的一个自述。以下照片均引自设计自己自述附的照片。&lt;br&gt;&lt;a href=&quot;http://space.vogue.com.cn/blog-474992-321453.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中央圣马丁毕业服装设计师冯菲（fei feng) 毕业作品“春色满园关不住&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3、题主问如何评价，那我来说我的看法：&lt;br&gt;1）花瓶的廓形只是一个噱头，好的服装设计师是非常懂得制造话题的。比如卡尔拉格斐，这些年来给香奈儿做这么多闷蛋衣服（但是商业上非常成功），每次秀的故事和话题都可圈可点。&lt;br&gt;&lt;br&gt;而且她也很聪明地说好了整场秀的故事：东方元素、仕女发型，发型还是她的妈妈亲手梳的。这些都是非常好的，可以被媒体报道出去的点。&lt;br&gt;所有成熟的设计师在做一场秀之前，都会充分给媒体提供各种有趣的元素，使它便于被报道。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ad/ff/adff3e01f55c24a6f5efd29c68b97c43_m.jpg&quot; data-rawwidth=&quot;698&quot; data-rawheight=&quot;464&quot; class=&quot;origin_image&quot; width=&quot;698&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/ad/ff/adff3e01f55c24a6f5efd29c68b97c43_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;2）在花瓶这个怪廓形基础上，冯菲可以把这种怪异的整体感把握得很好，体现了她很好的审美水平。&lt;b&gt;审美是设计师的天分，就像嗓子是歌手的天分。&lt;/b&gt;&lt;br&gt;&lt;br&gt;3）一个怪廓形可以做成一整个系列的衣服，每件都不同，但是整体很统一——这是整个系列的设计完整度，是很考验设计师才华，尤其对这么怪的一个新廓形而言。&lt;br&gt;&lt;br&gt;4）怪廓形衣服本身，没有现成的服装版子可以借鉴，要做得成熟很难。不要说她一个学生，就算一些独立设计师，拿出来的衣服也经常因为条件所限，做得这里那里看起来就是不体面。何况冯菲的这些廓形完全是新创的。&lt;br&gt;&lt;br&gt;看下面这张图，这个怪廓形的整体平衡感很好，面料、配色也都有很好的品位。&lt;br&gt;&lt;br&gt;而且这么怪的廓形（不仅衣服廓形怪，还有一个非常整体的大配饰轮廓）能真正被做成可以穿上身的衣服，并且模特穿上还能走（看视频，她们是穿木屐小碎步的），是非常非常难的。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5b/47/5b47bf88f7783b8211ef176a6feef8a4_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;662&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/5b/47/5b47bf88f7783b8211ef176a6feef8a4_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;用知乎上可能更容易被接受的话来说，&lt;b&gt;这是一种产品形态上的巨大创新，而且产品的完成度非常好。&lt;/b&gt;&lt;br&gt;&lt;br&gt;5）设计上主要的手工是knit wear，这是时装设计上的一个大类，好的手工也是设计师才华很被认可的部分。可以去看那个视频，有不少她手工编织这些花朵的镜头。&lt;br&gt;&lt;br&gt;6）冯菲整场秀的主题很完整，除了模特的服装之外，还有在时装秀之前的完整静态展示。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4a/4e/4a4ef18e9ec96086b640d3169c57892d_m.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;467&quot; class=&quot;origin_image&quot; width=&quot;700&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/4a/4e/4a4ef18e9ec96086b640d3169c57892d_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;7）她的设计主题书，设计系学生都会做本书或册子来说明自己的整个系列设计意图。&lt;br&gt;做得也非常好。不信你去看看东华服装设计系的学生，他们毕业时都做过点什么书。差太远了。&lt;br&gt;&lt;br&gt;截取几张。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d1/8d/d18d08191aaccb0b5557e06ac4621edc_m.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;467&quot; class=&quot;origin_image&quot; width=&quot;700&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d1/8d/d18d08191aaccb0b5557e06ac4621edc_r.jpg&quot;)'&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/fb/4f/fb4f952b1cf46afe4c1cbd5920b6f0a3_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;315&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/fb/4f/fb4f952b1cf46afe4c1cbd5920b6f0a3_r.jpg&quot;)'&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a0/b2/a0b2307a1fce0bfd31665f316f5680b2_m.jpg&quot; data-rawwidth=&quot;439&quot; data-rawheight=&quot;299&quot; class=&quot;origin_image&quot; width=&quot;439&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/a0/b2/a0b2307a1fce0bfd31665f316f5680b2_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;看到这些，你们不会认为她审美不好了吧？&lt;br&gt;&lt;br&gt;8）她对东方元素的理解是真正的中国式东方，不是日本式东方。这无疑又是一个创新。&lt;br&gt;&lt;br&gt;仔细看下来，我觉得这姑娘还是蛮厉害的。初试啼声，能够把所有东西都做得这么完整，这么取巧，又确实要在短时间里付出非常大的工作量——这就是才华了。&lt;br&gt;&lt;br&gt;&lt;br&gt;------------------------------------------------------------------------------------------------------------&lt;br&gt;一些备注，可以作为一个简单版的说明。&lt;br&gt;&lt;br&gt;注1：&lt;br&gt;冯菲那些怪衣服的难度主要在于把设计完整又美观地实现。而且她没有现成的版子可以借鉴。&lt;br&gt;关于服装的版子，又是一个话题。看衣服好不好，一定要看剪裁。比如国母这次的衣服面料和配色都很不错，但是打版真不行。两条袖子又肥又过长，尤其是袖笼和小臂这处的剪裁，简直是灾难，只有廉价衣服才会有。&lt;br&gt;&lt;br&gt;注2：&lt;br&gt;家门口的裁缝也许可以给你做好一件衬衫，但是他绝不可能做出这样的设计。天分不够。&lt;br&gt;而拥有高天分和好品位的设计师退回到商业化设计上来，会更游刃有余。做出能为市场所接受的好创新的机率也更高些。&lt;br&gt;也不排除这些高天分的设计师做商业的普通衣服做不好。但无论如何，他们成功的机率更高一点。&lt;br&gt;人人都想证明自己有才华，这就是这些怪设计出现的原因。&lt;br&gt;&lt;br&gt;注3：&lt;br&gt;并不是所有的怪设计都是好设计。大部分时候怪设计都是灾难。&lt;br&gt;要判断它是不是好的话，只有看审美，和对这个行业的深入了解。&lt;br&gt;死活看不惯？那也没办法，这是人家的专业。WWD和vogue这样行业内比较权威的媒体报道的一般都不会相差太远。&lt;br&gt;&lt;br&gt;------------------------------------------------------------------------------------------------------------&lt;br&gt;私人看法，随便说说，求不转载。谢谢。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20866045/answer/16459683
-</link>
-<author>
-Danny-Wang
-</author>
-<title>
-投行和商行的 VP 或者 SVP 算什么级别的 title ？
-</title>
-<description>
-谢谢邀请，这几天一直没有电脑，刚有了才能回答这个问题。&lt;br&gt;&lt;br&gt;　　首先，商行的完全不一样，这个我就不了解&lt;br&gt;&lt;br&gt;　　说说投资银行。前几天看到这个问题，问了一圈投行和基金的朋友，每个地方分级是不一样的，相比较大型投行会级别比较分明一些，精品投行（Boutique 稍微不是那么明显一些），主要体现在前中后台上。&lt;br&gt;&lt;br&gt;　　以下投资银行主要是以欧洲，美国和香港为标准，国内分的比较乱。&lt;br&gt;&lt;br&gt;　　先回答你为什么会觉得VP会比较多，你见到的应该是Front Desk的VP，而且很可能是Sales&amp;amp;Trading中的Sales Dpt或者是IBD的。因为VP LEVEL是需要直接出去对接客户或者项目，所以你会见到的比较多一些，就我遇到的VP来说主要是经过一段时间的工作（不论任何类型）之后具备专业技能的执行力人才，虽然很多VP会自嘲，但是我个人觉得还是不错的&lt;br&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李楠&quot; href=&quot;http://zhihu.com/people/evenstar&quot; data-tip=&quot;p$b$evenstar&quot;&gt;@李楠&lt;/a&gt; ，GS是在全球有10,000VP/ED，2000+ MD &amp;amp; Par，我刚刚发过邮件给在GS的朋友核实过了。&lt;br&gt;&lt;br&gt;　　下面回答下比较详细的不同Level，这里比较侧重Front Desk， Middle Desk / Back office - Desk会不太一样，但是follow up的是同样的进阶位置。有时候Middle 和Back的人会选择跳槽到front的，会让这个不太一样。另外，这个分级是站在Sale Side角度上， Buy side又不太一样，更扁平一点，我晚点说Buy side。同时这里说的Buy Side会说我知道的两种，一种是Pure Trading / Hedge Fund / Prop Trading Desk ， 一种是VC/PE level，实际情况看情况为准，因为各个公司分级是具体公司定的，尤其是Firm / Fund / Boutique&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Business Analyst: 分析师主要是负责例如行业调查，报告等等等等&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Associate：第一轮接触，处理，分析&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;VP/ED：VP for internal , ED for external,其实这个级别能力级别比较强，有较强的执行力，主要在于技能和执行力上，有一定独立项目带领分析能力。&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;MD Level：VP上来是MD Level， MD级别更偏重管理，风险把控，大级别项目。&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Par：合伙人级别，现在的大投行里面因为是上市公司，所以Par荣耀意义比较大&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Core-Management Level：这个是牵涉到管理上，需要有专业技能，同时是管理任务类型，各种O，分管各种不同的部门。&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Head级别：这个是看各个公司情况而定。有的部门喜欢叫Head of ……之类的。&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;另外，JPM-Chase中的Chase 是商业银行部门- comm-bank， 又不太一样，里面的VP我不是特别清楚&lt;br&gt;&lt;br&gt;VC PE - Buy side分的稍微乱一些，但是具体其实和上面差不多，但是因为Buy-Side有些扁平，所以有可能会这样分：&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Associate : 一个-2个，有时候是兼任分析工作有时候就做辅助（在有分析师部门或者团队情况下）&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;VP ：负责项目对接，汇报，评估等等等等&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;AD: Assistant Director: 这个有的Buy-side会存在，我的理解是国内的部门总，对于项目和公司情况有详细把握，最清楚知道什么能做什么不能做，另外有的机构中AD是一个过渡&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;MD：职位和面所说的一样。 &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Par：Buy-side的Par就不太一样了，两种不同的：Managing Partner，这个很多都是后期找来具有专业技能的；有Par会专门负责IR的，另外还有就是Co-founder / Partner，这个一般都是创始人，是专门带大的项目，大客户和大资金进来的。所以有人说其实Buy-side最强和最重要的是Par级别的，就是这个原因。还有的Par是有内部管理专业技能，或者是带技术进来的。&lt;/li&gt;&lt;/ul&gt;　　有的PE-VC会不分的这么细，或者是专门有一个分析部门。有的ＰＥ-ＶＣ，大一点的分的更细，会在asso之后再加Senior,VP后面加Director, ED, MD看各个公司需要。&lt;br&gt;&lt;br&gt;&lt;b&gt;　关于是否烂大街，我个人认为：不&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;　原因是因为体量问题。IB, Fund这种类型我们自己的定位是Pro-services，尤其是基金，人数不会很多，管理的资金量比较大，所以出去对接项目的人其实对接的资源是比较多的，而且对于技能要求比较高。很多其实都是有些行业内部原来就是管理人员级别的，出去对接的也是副总，董事长，总监级别的人，所以用VP的title对接出去是正常的，从上面的流程你也可以看到其实VP在往上对接，除了大的Par比较难，MD级别还是能对接到的。大家是小团体快干活的模式，跟大企业不同。&lt;br&gt;&lt;br&gt;这种问题上我不喜欢看抬头，喜欢看个人技能层面，背景和价值，所以我觉得大部分我认识的VP级别的还是可以的&lt;br&gt;&lt;br&gt;为什么你会觉得烂大街呢？如果你是一个好公司的话，尤其是互联网公司，你会一天见好几个基金不同级别的VP，自然会有到处都是VP的感觉，但是其实每个基金能到VP的还可以不多。&lt;br&gt;&lt;br&gt;另外VP有的时候自己觉得烂大街的原因是在于Buy-side中很多关键资源是Par带来的，作为执行方的VP有时候会觉得不太重要。但是我认识的大多数VP职业技术职能还是可以的。&lt;br&gt;&lt;br&gt;&lt;br&gt;另外，Buy-side有时候不需要像Sell-side那样，所以对表面要求其实会低一些，你专业技能特别强就可以。&lt;br&gt;&lt;br&gt;Hedge Fund / Prop desk / Trading desk 又不太一样。整个公司结构又是一套。&lt;br&gt;&lt;br&gt;最后如果VP你都觉得烂大街，那么伟大的KPCB所有title全部都是par，下面带Analyst 不是强爆了……
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20877663/answer/16478043
-</link>
-<author>
-王佳
-</author>
-<title>
-亚马逊是一家重设计的公司吗？
-</title>
-<description>
-&lt;b&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Keith&quot; href=&quot;http://zhihu.com/people/keithin&quot; data-tip=&quot;p$b$keithin&quot;&gt;@Keith&lt;/a&gt;  设计不是「设计感」&lt;/b&gt;，排。&lt;br&gt;亚马逊没有把页面做成又清爽又大气简约时尚国际范可能还和老美的习惯有点儿关系。craigslist的页面简直都有点丑陋了，老美还是用的乐滋滋的。亚马逊在北美市场做的非常大非常久了，用户早已习惯了目光看向哪里可以研究有没有货，鼠标移到长什么样子的图标上可以下单，也习惯了不接受商家的好评及商家美美的图片，而习惯于找买了这件商品后的长篇评论与购买者自己上传的商品照片。这些习惯的作用非常大，可能稍微一点有&lt;b&gt;「设计感」&lt;/b&gt;的设计就会严重增加用户的误操作。&lt;br&gt;&lt;br&gt;零延迟的下拉菜单当然是亚马逊的优秀设计。同时，亚马逊的商品页面滚动到底部的时候，出现的不是返回顶部浮动标签，而是商品的简要信息和加入购物车的图标，这不是设计吗？更不要提亚马逊的分布式算法，这些太底层了用户无法直观的感受到。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2f/0d/2f0db5cc92f1de473782665b07aac235_m.jpg&quot; data-rawwidth=&quot;1361&quot; data-rawheight=&quot;168&quot; class=&quot;origin_image&quot; width=&quot;1361&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2f/0d/2f0db5cc92f1de473782665b07aac235_r.jpg&quot;)'&gt;（顶部浮动信息栏）&lt;br&gt;&lt;br&gt;而亚马逊的设计除了上面提到的，还有它牛逼闪闪的推荐算法……在亚马逊买书经常不经意的瞟了一眼它的推荐就多买好几本，真是掬一把冷汗，掏人钱包于无形之间。&lt;br&gt;&lt;br&gt;另外亚马逊还有一个值得一提的&lt;b&gt;「&lt;/b&gt;点&lt;b&gt;」&lt;/b&gt;是他有一个wish list。而这个wish list是可以分享与公开的。这默认了可以&lt;b&gt;「&lt;/b&gt;要礼物&lt;b&gt;」&lt;/b&gt;，这样“老公买下收藏夹里所有的物品做礼品”就更容易实现了。购物车与wish list的区别相比淘宝的下单和收藏更具有区分度与实际意义，在我看来。&lt;br&gt;&lt;br&gt;另外不好意思，我不是很同意&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@刘涛&quot; href=&quot;http://zhihu.com/people/oleiliya&quot; data-tip=&quot;p$b$oleiliya&quot;&gt;@刘涛&lt;/a&gt; 所说的淘宝页面华丽。淘宝主面其实不比亚马逊的强多少。反而是一些店主自己拍的照片干净清爽排版简洁大方，值得称赞。（这方面也可以看出一点国内网上购物和北美网上购物的区别：北美用户热爱写反馈，并且不太在乎卖东西的拍了多少图写了多少好话（可能也有完善和极其宽容的退货制度作保障的原因），而国内用户（因为买了就是买了想退挺难的）不得不花心思去研究详尽的商品信息，所以希望从商家那里接收到尽可能完美的各种信息）
 </description>
 </item>
 </channel>
