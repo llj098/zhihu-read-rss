@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19751020/answer/15314063
+</link>
+<author>
+罗登
+</author>
+<title>
+为什么有那么多人支持汤唯？
+</title>
+<description>
+对不起，我个人觉得，汤唯不会演戏。基本是不会。&lt;br&gt;她只能演状态，但是她不能塑造，不能添彩，不能提高，不能升华。&lt;br&gt;她没有可塑性，她就演她自己。她放不开，她要用技巧放开，但是一看就是技巧。&lt;br&gt;她的地位是因为李安用了她以后，专门关照大老板江志强，要江以后“照顾她”，所以，你知道的……&lt;br&gt;其实李安对演员要求很高，大红大紫的章子怡的玉娇龙，李安并不认可。&lt;br&gt;我倒觉得，李对汤唯可能有同样的感觉，但是他毕竟是个好人……&lt;br&gt;很多角色，她演的吧，怎么说呢，蒙文艺青年行，但是蒙不了专业人士。&lt;br&gt;再一次重申，我觉得汤唯不是一个好的“演员”。&lt;br&gt;至于人品，德行，那是另外一回事，也许她是一个不错的人，一个Nice Girl。&lt;br&gt;但是她真的不是好的演员。&lt;br&gt;大部分喜欢她的人，是因为她的气质和国内其他所谓女星不一样。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20885794/answer/16505799
+</link>
+<author>
+大果
+</author>
+<title>
+Pianoid 生成音乐片段的原理是什么？
+</title>
+<description>
+&lt;b&gt;Pianoid 生成音樂片段的原理&lt;/b&gt;&lt;br&gt;Pianoid 能夠生成在某個固定調式、某個固定調性下，長度不限，由鋼琴演奏的一段簡單音樂。簡單地說，是將一段音樂視爲由若干個「塊（block）」構成，一般爲四個；每個塊由 16 個「音位」構成，用以填充音符（或空白）；每個塊分爲左手（伴奏）及右手（旋律），左手部分由齊奏或分解的和絃構成，右手部分由按一定規則生成的旋律構成；四個塊構成一個較大的單位，稱爲「包（progression）」；1~8 個包構成一個更大的單位，稱爲「段（verse）」。通過對塊生成過程的控制，可以獲知塊的和絃名字，通過獲知一個包各個塊的和絃名字，可以得到該包的調性；通過對包和段的處理，可以掌握/編排整個片段的曲式結構。有一些特殊的塊或包——舉個最簡單的例子——例如位於頭部的包，我們把它叫做「intro」，相應地，處於末尾的包/塊則叫做「outro」。特殊的包塊，對應着不同的特性。&lt;br&gt;&lt;br&gt;旋律方面則主要是以從流行音樂中總結得出的一些 ear candies[1]，或簡言之「公式化的 licks」爲底，加上若干條處理規則，與一定比例的隨機發生而生成。&lt;br&gt;&lt;br&gt;至於更加具體、更加細節化的原理，我爲了令協作的工程師&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李忠(无网不剩)&quot; href=&quot;http://zhihu.com/people/lzyy&quot; data-tip=&quot;p$b$lzyy&quot;&gt;@李忠(无网不剩)&lt;/a&gt; 明白，文檔寫逾萬字，顯然不是幾句話能講清楚。&lt;br&gt;&lt;br&gt;&lt;b&gt;一些絮語&lt;/b&gt;&lt;br&gt;做這個 App 的初心，就是近十年前便想做一個方便寫歌的用具。寫歌本是一件極其簡單的事情，尤其當代流行歌曲/樂曲中樂理相關的元素及其組合是有窮的，常用的部分[2]更是如語法、詞組一般印在每個 songwriter 的腦海裏，當寫歌時，無非從腦中存貯的和絃進行、節奏/律動與旋律模式中挑選一些，以某種方式組合起來。如果做一個軟件抓住這三個要素，僅以鋼琴演奏（以規避不同配器爲流行音樂披上的炫目而無用的外衣），應該是一件有趣的事情吧？大家這樣想着，未經嚴密論證便立項開工，途中又剋制不住不停加入種種貌似雄心壯志，實則不很實際的 &lt;a href=&quot;http://www.xiami.com/song/2053310&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;big ideas&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，例如加上爵士、古典、雷鬼等風格包，加上作品分享社區，加入人聲錄製，甚至創制一門面向對象編曲的語言...，&lt;i&gt;they're not gonna happen&lt;/i&gt;. 從 Pianoid 上架之後的玩家反饋中，我讀到了各位對一個作曲器應該做到的各種功能之希冀，在這裏我想告訴大家——我也想到了，我也想要，但並不容易。不過，不會放棄。&lt;br&gt;&lt;br&gt;「應加而未加」的功能/特性之中，除了「一鍵生成一首聽上去蕭邦再世、李斯特重生的鋼琴曲」這種實在做不到的之外，我們實現了不少，但最終決定不放入 Pianoid 裏，實在因爲產出物品質過不了良心關——聽聽馬拉加大學用 1,620 颗 CPU、885 TB 硬盘和 6,752GB 内存搭建的自動作曲器 &lt;a href=&quot;http://en.wikipedia.org/wiki/Melomics&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Melomics109&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（以及 &lt;a href=&quot;http://melomics.com/iamus&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IAMUS&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）的作品[3]便知。Melomics 系列所做的事情，無非藉助巨大的存儲空間而得以採用大量真實樂器採樣填充、藉助巨型 CPU 矩陣而得以創作天文數字的作品（超過 10 億首），而在音樂性方面，不能說有多大突破。&lt;br&gt;&lt;br&gt;我想，與其給玩家許許多多莫名其妙的東西以消除單調感，不如僅奉上自己覺得還算過得去的一些配搭。人家都說保持剋制是做一樣產品時的寶貴品德呀。不講規則的話，「樂曲」隨便生成多少都有，但從浩如煙海的音樂作品中提取規則出來，應用在 Pianoid 之上，必定是一條漫長的道路。&lt;br&gt;&lt;br&gt;文學、繪畫等其它方面的藝術工作，目前計算機已經頗多染指，但在音樂創作領域，仍有大片處女地亟待探索。&lt;br&gt;&lt;br&gt;Pianoid 最終成爲一個「生成音樂片段」的玩意，而非如最初我們的內部開發代號那樣，成爲一個「作曲器」，着實令我有幾分失落。不過看到仍然有朋友給予好評，我一面欣喜，一面感覺受之有愧。出於爲了解決創造者本身的切膚之痛的目的，曾誕生過許多偉大的產品。我們自然希望作曲器亦然。然而，Pianoid 與「偉大」並不沾邊，至多算作「還算有趣」，由於音樂品味方面衆口難調，對一部分朋友而言，連有趣也算不上自然是存在的。做的不好，懇請大家批評。若如&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@ACMilanprince&quot; href=&quot;http://zhihu.com/people/acmilanprince&quot; data-tip=&quot;p$b$acmilanprince&quot;&gt;@ACMilanprince&lt;/a&gt; 兄臺說的「糊弄」，那是絕對沒有，也萬萬不敢。敝司雖然草創，但也如每個致力於把世界變好一點點的創業團隊一樣，想要通過精益求精的設計與堅持不懈的努力，爲大家奉上好用、有趣的產品。敝司下一款出品回到 &lt;a href=&quot;http://www.zhihu.com/topic/19751551&quot; class=&quot;internal&quot;&gt;Once Touch &lt;/a&gt;的老路上，會是一款遊戲（不過不是音樂類遊戲），敬請各位朋友關注。&lt;br&gt;&lt;br&gt;&lt;b&gt;致謝&lt;/b&gt;&lt;br&gt;感謝每一位下載 Pianoid 的朋友。&lt;br&gt;感謝&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@梁欢&quot; href=&quot;http://zhihu.com/people/lianghuan&quot; data-tip=&quot;p$b$lianghuan&quot;&gt;@梁欢&lt;/a&gt;、&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李忠(无网不剩)&quot; href=&quot;http://zhihu.com/people/lzyy&quot; data-tip=&quot;p$b$lzyy&quot;&gt;@李忠(无网不剩)&lt;/a&gt; 、&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@胡维&quot; href=&quot;http://zhihu.com/people/whale&quot; data-tip=&quot;p$b$whale&quot;&gt;@胡维&lt;/a&gt; 把我腦中那些無稽的片段意識變爲活生生的可觸摸的東西。&lt;br&gt;感謝 &lt;a href=&quot;http://www.zhihu.com/people/gaohanyu&quot; class=&quot;internal&quot;&gt;高涵玙&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/bluermask&quot; class=&quot;internal&quot;&gt;bluermask&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/lianghuan&quot; class=&quot;internal&quot;&gt;梁欢&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/kermit&quot; class=&quot;internal&quot;&gt;杨可名&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/underland&quot; class=&quot;internal&quot;&gt;underland&lt;/a&gt; 邀請回答。&lt;br&gt;&lt;br&gt;* * *&lt;br&gt;&lt;br&gt;[1] &lt;a href=&quot;http://www.zhihu.com/question/20351660&quot; class=&quot;internal&quot;&gt;流行音乐写作及编曲中常用的 Ear Candy 有哪些？&lt;/a&gt;&lt;br&gt;[2] &lt;a href=&quot;http://imgur.com/wTpnp&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Here's a little cheat sheet to writing a song&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;[3] &lt;a href=&quot;http://melomics.com/search?q=__23instrument:piano&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Melomics - Piano&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; | &lt;a href=&quot;http://melomics.com/@vico/nokia&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nokia Variations&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20845328/answer/16497468
 </link>
 <author>
@@ -60,7 +88,7 @@ http://www.zhihu.com/question/20885279/answer/16504868
 http://www.zhihu.com/question/20675275/answer/16504718
 </link>
 <author>
-南山子
+知乎用户
 </author>
 <title>
 该怎样评价武则天？
@@ -74,7 +102,7 @@ http://www.zhihu.com/question/20675275/answer/16504718
 http://www.zhihu.com/question/20883565/answer/16503224
 </link>
 <author>
-南山子
+知乎用户
 </author>
 <title>
 你什么时候感觉到做中国人是骄傲的？
@@ -88,7 +116,7 @@ http://www.zhihu.com/question/20883565/answer/16503224
 http://www.zhihu.com/question/20886080/answer/16503802
 </link>
 <author>
-YuDan
+知乎用户
 </author>
 <title>
 疯狂晃动鸡蛋，煮熟后便得到了一个黄金鸡蛋，这是真的吗？
@@ -186,7 +214,7 @@ http://www.zhihu.com/question/20400666/answer/16500329
 http://www.zhihu.com/question/20851621/answer/16396917
 </link>
 <author>
-徐银朋
+知乎用户
 </author>
 <title>
 信托公司的运作方式是怎样的？投资项目同信托公司之间是什么关系？
@@ -262,35 +290,7 @@ http://www.zhihu.com/question/20876418/answer/16499783
 BBC 97 以年来采用的新 logo 真的花了 180 万美金设计吗？
 </title>
 <description>
-180万美金买的不是Logo，而是Branding&lt;br&gt;&lt;br&gt;用我的一个项目来大概形容下你看不到的部分：&lt;br&gt;本人手上A项目全球知名度颇高，请来了几家全球知名品牌公司为该项目品牌策划报价。&lt;br&gt;&lt;br&gt;首先，为什么要做品牌策划？&lt;br&gt;A项目主要卖点在于项目体验。B2C方面，东方跟西方的文化背景差异极大的情况下，如何在项目体验的主题上在global market取得双赢，需要品牌策划公司协助做市场调研归纳和总结。B2B方面，你的商业伙伴也会有很多。品牌上考量的话，选择哪些商业伙伴才能符合我的企业形象？譬如，如果强调古典体验的话，我就会去找可口可乐而不会找百事。&lt;br&gt;项目内部人员需要由上至下统一对品牌的认知。对内或对外都要有一致的形象。因此我们需要一本”Bible“来指导。&lt;br&gt;&lt;br&gt;其次，这些品牌公司都做了什么？&lt;br&gt;各家有个家的分类方法，但基本的框架如下：&lt;br&gt;1. 基础分析&lt;br&gt;品牌公司需要了解本项目管理层和投资人的vision，需要做前期的市场调查、行业调查，摸索出品牌的大方向。&lt;br&gt;2. 品牌策略&lt;br&gt;提炼出品牌的精华部分形成自己的品牌策略。该策略将会是区分你与竞争者的重要一环，以后所有的品牌体验都会以此为基准（大概可理解为宪法与其他法律的关系）。通常会给我们几个alternative去选。&lt;br&gt;3. 品牌的表达&lt;br&gt;设计师会在品牌策略的方向上设计出来一系列的key identity elements。什么意思？就是让你看到我的品牌就想起我的项目体验，甚至看到类似的颜色和形状就能想起我们。大至logo形状颜色，小至全公司书面字体大小，你的logo怎么摆到letterhead上，公司的车上应该怎么喷漆，办公室内部如何设计线条+调色，设计师会给出几十种表达方案，而这些方案都是与你的品牌体验高度统一的。比如下面展示的伦敦奥运会的色彩线条字体：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/90/d2/90d2ac4ccbaae23646003d5935dffb69_m.jpg&quot; data-rawwidth=&quot;818&quot; data-rawheight=&quot;578&quot; class=&quot;origin_image&quot; width=&quot;818&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/90/d2/90d2ac4ccbaae23646003d5935dffb69_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p2.zhimg.com/1b/6d/1b6d42f3f642588a36b26e9d2c3471a3_m.jpg&quot; data-rawwidth=&quot;818&quot; data-rawheight=&quot;545&quot; class=&quot;origin_image&quot; width=&quot;818&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1b/6d/1b6d42f3f642588a36b26e9d2c3471a3_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p3.zhimg.com/61/d6/61d6ff40250ebb74691b5775239d3d81_m.jpg&quot; data-rawwidth=&quot;818&quot; data-rawheight=&quot;604&quot; class=&quot;origin_image&quot; width=&quot;818&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/61/d6/61d6ff40250ebb74691b5775239d3d81_r.jpg&quot;)'&gt;4. 未来的指导规划&lt;br&gt;我总有设计不完的东西，见不完的商业伙伴，但我不能老给设计师钱。品牌公司最终会给我一个guideline，告诉我应该怎么走，如何在未来我需要的地方应用我的品牌设计概念，如何B2C建立统一的品牌形象，如何B2B寻找合适的商业伙伴。&lt;br&gt;&lt;br&gt;最后回答你的问题：&lt;br&gt;为什么一个如此简单的 logo花180万美刀？&lt;br&gt;因为我们看到的，往往是冰山的一角&lt;br&gt;&lt;br&gt;它究竟需要花费多少钱去设计？&lt;br&gt;品牌公司会一路与你保持沟通，每一步都需要你的认可。很难说做出来的东西值多少钱，更多的是取决于你准备好了多少钱去做这个品牌，而不是做完了再付款。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20810963/answer/16259018
-</link>
-<author>
-张宇辰
-</author>
-<title>
-如何培养更简练的表达？
-</title>
-<description>
-.&lt;br&gt;一般来说，论述性的语句表达的结构大致是树状的：论点（→分论点）→论据→修辞，对于对于简单的论述可能就是链状的。如果以人作为比喻，那么论点是骨骼，论据是血肉，修辞是衣妆。&lt;br&gt;&lt;br&gt;举一个简单的例子，比如说下边这句话：&lt;u&gt;今天真冷，比昨天整整低了十度，把我都冻成冰棍了。&lt;/u&gt;「今天真冷」就是论点，「低了十度」就是论据，「冻成冰棍」就是修辞。&lt;br&gt;&lt;br&gt;如何更简练呢？我的建议就是：概括论点，挑选论据，精简修辞。必要的时候，舍去修辞或论据。&lt;br&gt;&lt;br&gt;如何培养更简练的表达呢？我的建议是从读和听做起，在平时看到一些论述性的文字时，有意识地问自己：他的论点是什么？支持论点的论据有哪些？他的修辞是怎样的？要学会逐层剥离「衣妆」和「血肉」，之后就能得到他的「骨架」。具体的方法可以参考这个：&lt;a href=&quot;http://www.zhihu.com/question/20375755?group_id=13631810#1101722-comment&quot; class=&quot;internal&quot;&gt;如何区分出论证的认知力和情感力？&lt;/a&gt;&lt;br&gt;&lt;br&gt;当你熟练掌握了这种分析文字的方法之后，当你想要表达时，就只须把方法反过来就可以了：首先确定中心论点，其次确定分论点。之后根据实际需要挑选可以证明各论点的论据和一些适当的修辞。比如有的场合需要严谨简练，这时可能就需要论点丰富一些，修辞少一些。有的场合我们只是需要表达我们的态度，这时可能就不需要论据，但是修辞要强一些。&lt;br&gt;&lt;br&gt;&lt;b&gt;总结一下，我的建议是：先练「输入」，再练「输出」。输入时：剔除修辞，找到论据，理清论点。输出时：概括论点，挑选论据，精简修辞。&lt;/b&gt;&lt;br&gt;&lt;br&gt;这个方法需要一点时间训练，一开始可能觉得会很不习惯或者很不适应，但是当你数练掌握这种方法之后，运用起来就会很轻松，成为一种本能的条件反射式的习惯。这种方法对于说话和写作，都会有很大的帮助。&lt;br&gt;&lt;br&gt;知乎上就是一个不错的平台，大家不妨在知乎上阅读和答题时，都试着使用一下这个方法。&lt;br&gt;.
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20874249/answer/16467374
-</link>
-<author>
-周晓农
-</author>
-<title>
-哪些工作细节会影响你对这个人的评价？
-</title>
-<description>
-安排工作时，不用心听的；&lt;br&gt;可以细致而不细致的；&lt;br&gt;明明本事不够，干得不好，却以工作没多大意思为说辞的；&lt;br&gt;约定出发时间，老是迟到的；&lt;br&gt;有头无尾，或发现干不了，却不提出来试图蒙混过去的；&lt;br&gt;必须走的程序不走而导致差错又不认账的。&lt;br&gt;&lt;br&gt;一切视工作为儿戏，在工作中表现出虚假性的细节，都会让我反感。&lt;br&gt;我始终认为， 职场之中，无论干什么工作，都应有起码的敬业态度。&lt;br&gt;&lt;br&gt;可以不能干，不能不努力。&lt;br&gt;可以不能干，不能不认真。&lt;br&gt;如果不喜欢，可以辞职，但干一天就应认真一天，努力一天。&lt;br&gt;&lt;br&gt;谢邀。
+180万美金买的不是Logo，而是Branding&lt;br&gt;&lt;br&gt;用我的一个项目来大概形容下你看不到的部分：&lt;br&gt;手上A项目全球知名度颇高，请来了几家全球知名品牌公司为该项目品牌策划报价。&lt;br&gt;&lt;br&gt;首先，为什么要做品牌策划？&lt;br&gt;A项目主要卖点在于项目体验。B2C方面，东方跟西方的文化背景差异极大的情况下，如何在项目体验的主题上在global market取得双赢，需要品牌策划公司协助做市场调研归纳和总结。B2B方面，你的商业伙伴也会有很多。品牌上考量的话，选择哪些商业伙伴才能符合我的企业形象？譬如，如果强调复古体验的话，我就会去找可口可乐而不会找百事。&lt;br&gt;项目内部人员需要由上至下统一对品牌的认知。对内或对外都要有一致的形象。因此我们需要一本”Bible“来指导。&lt;br&gt;&lt;br&gt;其次，这些品牌公司都做了什么？&lt;br&gt;各家有各家的分类方法，但基本的框架如下：&lt;br&gt;1. 基础分析&lt;br&gt;品牌公司需要了解本项目管理层和投资人的vision，需要做前期的市场调查、行业调查，摸索出品牌的大方向。&lt;br&gt;2. 品牌策略&lt;br&gt;提炼出品牌的精华部分形成自己的品牌策略。该策略将会是区分你与竞争者的重要一环，以后所有的品牌体验都会以此为基准（大概可理解为宪法与其他法律的关系）。通常会给我们几个alternative去选。&lt;br&gt;3. 品牌的表达&lt;br&gt;设计师会在品牌策略的方向上设计出来一系列的key identity elements。什么意思？就是让你看到我的品牌就想起我的项目体验，甚至看到类似的颜色和形状就能想起我们。大至logo形状颜色，小至全公司书面字体大小，你的logo怎么摆到letterhead上，公司的车应该怎么喷漆，办公室内部如何设计线条+调色，设计师会给出几十种表达方案，而这些方案都是与你的品牌体验高度统一的。比如下面展示的伦敦奥运会的色彩线条字体：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/90/d2/90d2ac4ccbaae23646003d5935dffb69_m.jpg&quot; data-rawwidth=&quot;818&quot; data-rawheight=&quot;578&quot; class=&quot;origin_image&quot; width=&quot;818&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/90/d2/90d2ac4ccbaae23646003d5935dffb69_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p2.zhimg.com/1b/6d/1b6d42f3f642588a36b26e9d2c3471a3_m.jpg&quot; data-rawwidth=&quot;818&quot; data-rawheight=&quot;545&quot; class=&quot;origin_image&quot; width=&quot;818&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1b/6d/1b6d42f3f642588a36b26e9d2c3471a3_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p3.zhimg.com/61/d6/61d6ff40250ebb74691b5775239d3d81_m.jpg&quot; data-rawwidth=&quot;818&quot; data-rawheight=&quot;604&quot; class=&quot;origin_image&quot; width=&quot;818&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/61/d6/61d6ff40250ebb74691b5775239d3d81_r.jpg&quot;)'&gt;4. 未来的指导规划&lt;br&gt;我总有设计不完的东西，见不完的商业伙伴，但我不能老给设计师钱。品牌公司最终会给我一个guideline，告诉我应该怎么走，如何在未来我需要的地方应用我的品牌设计概念，如何B2C建立统一的品牌形象，如何B2B寻找合适的商业伙伴。&lt;br&gt;&lt;br&gt;最后回答你的问题：&lt;br&gt;为什么一个如此简单的 logo花180万美刀？&lt;br&gt;因为我们看到的，往往是冰山的一角&lt;br&gt;&lt;br&gt;它究竟需要花费多少钱去设计？&lt;br&gt;品牌公司会一路与你保持沟通，每一步都需要你的认可。很难说做出来的东西值多少钱，更多的是取决于你准备好了多少钱去做这个品牌。
 </description>
 </item>
 </channel>
