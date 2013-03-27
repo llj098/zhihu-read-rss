@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20849677/answer/16509765
+</link>
+<author>
+王宇
+</author>
+<title>
+微信的大规模使用真的会过多占用信令，影响通讯稳定吗？
+</title>
+<description>
+主要问题还是出在运营商，特别是中国移动落后的2G网络承载能力（电信和联通3G承载能力强很多）。&lt;br&gt;&lt;br&gt;开发过基于GPRS的无线模块。本来GPRS应该是永远在线的，实际上移动运营商会主动断掉连接（各地断开的时间不同，短的20秒，长的数分钟）。所以&lt;strong&gt;仅仅建立http长连接是不可以的，还要防止运营商断开连接，解决方式是所谓的“心跳包”&lt;/strong&gt;（定时发送数据，防止连接断开），当然“心跳包”的数据也可以利用（发送诊断数据和位置信息？为了节省流量可以只发1个字节）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;至于说信令占用更加可能有问题&lt;/strong&gt;，凡是语音，短信，联网都要占用信令（低级at指令），需要实时推送功能的app也都需要心跳包，不止微信。微信的问题是用户多，使用频繁。 
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20889858/answer/16512057
 </link>
 <author>
@@ -46,7 +60,7 @@ http://www.zhihu.com/question/20881213/answer/16504656
 http://www.zhihu.com/question/20875757/answer/16504403
 </link>
 <author>
-luckystar
+知乎用户
 </author>
 <title>
 据说三星 Galaxy S4 使用 PHOLED 屏幕，PHOLED 相比 Super AMOLED 有哪些优势？两者是对等的概念吗？
@@ -186,7 +200,7 @@ http://www.zhihu.com/question/20886080/answer/16507256
 http://www.zhihu.com/question/20201469/answer/16506862
 </link>
 <author>
-南山子
+知乎用户
 </author>
 <title>
 汉武帝统治相当折腾，首先为了收钱搞了很多特许经营，然后公开买官卖官，后来因为巫蛊之乱弄了很多动乱，感觉比秦始皇还折腾，为啥没有亡国？
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/19751020/answer/15314063
 </title>
 <description>
 对不起，我个人觉得，汤唯不会演戏。基本是不会。&lt;br&gt;她只能演状态，但是她不能塑造，不能添彩，不能提高，不能升华。&lt;br&gt;她没有可塑性，她就演她自己。她放不开，她要用技巧放开，但是一看就是技巧。&lt;br&gt;她的地位是因为李安用了她以后，专门关照大老板江志强，要江以后“照顾她”，所以，你知道的……&lt;br&gt;其实李安对演员要求很高，大红大紫的章子怡的玉娇龙，李安并不认可。&lt;br&gt;我倒觉得，李对汤唯可能有同样的感觉，但是他毕竟是个好人……&lt;br&gt;很多角色，她演的吧，怎么说呢，蒙文艺青年行，但是蒙不了专业人士。&lt;br&gt;再一次重申，我觉得汤唯不是一个好的“演员”。&lt;br&gt;至于人品，德行，那是另外一回事，也许她是一个不错的人，一个Nice Girl。&lt;br&gt;但是她真的不是好的演员。&lt;br&gt;大部分喜欢她的人，是因为她的气质和国内其他所谓女星不一样。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20885794/answer/16505799
-</link>
-<author>
-大果
-</author>
-<title>
-Pianoid 生成音乐片段的原理是什么？
-</title>
-<description>
-&lt;b&gt;Pianoid 生成音樂片段的原理&lt;/b&gt;&lt;br&gt;Pianoid 能夠生成在某個固定調式、某個固定調性下，長度不限，由鋼琴演奏的一段簡單音樂。簡單地說，是將一段音樂視爲由若干個「塊（block）」構成，一般爲四個；每個塊由 16 個「音位」構成，用以填充音符（或空白）；每個塊分爲左手（伴奏）及右手（旋律），左手部分由齊奏或分解的和絃構成，右手部分由按一定規則生成的旋律構成；四個塊構成一個較大的單位，稱爲「包（progression）」；1~8 個包構成一個更大的單位，稱爲「段（verse）」。通過對塊生成過程的控制，可以獲知塊的和絃名字，通過獲知一個包各個塊的和絃名字，可以得到該包的調性；通過對包和段的處理，可以掌握/編排整個片段的曲式結構。有一些特殊的塊或包——舉個最簡單的例子——例如位於頭部的包，我們把它叫做「intro」，相應地，處於末尾的包/塊則叫做「outro」。特殊的包塊，對應着不同的特性。&lt;br&gt;&lt;br&gt;旋律方面則主要是以從流行音樂中總結得出的一些 ear candies[1]，或簡言之「公式化的 licks」爲底，加上若干條處理規則，與一定比例的隨機發生而生成。&lt;br&gt;&lt;br&gt;至於更加具體、更加細節化的原理，我爲了令協作的工程師&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李忠(无网不剩)&quot; href=&quot;http://zhihu.com/people/lzyy&quot; data-tip=&quot;p$b$lzyy&quot;&gt;@李忠(无网不剩)&lt;/a&gt; 明白，文檔寫逾萬字，顯然不是幾句話能講清楚。&lt;br&gt;&lt;br&gt;&lt;b&gt;一些絮語&lt;/b&gt;&lt;br&gt;做這個 App 的初心，就是近十年前便想做一個方便寫歌的用具。寫歌本是一件極其簡單的事情，尤其當代流行歌曲/樂曲中樂理相關的元素及其組合是有窮的，常用的部分[2]更是如語法、詞組一般印在每個 songwriter 的腦海裏，當寫歌時，無非從腦中存貯的和絃進行、節奏/律動與旋律模式中挑選一些，以某種方式組合起來。如果做一個軟件抓住這三個要素，僅以鋼琴演奏（以規避不同配器爲流行音樂披上的炫目而無用的外衣），應該是一件有趣的事情吧？大家這樣想着，未經嚴密論證便立項開工，途中又剋制不住不停加入種種貌似雄心壯志，實則不很實際的 &lt;a href=&quot;http://www.xiami.com/song/2053310&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;big ideas&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，例如加上爵士、古典、雷鬼等風格包，加上作品分享社區，加入人聲錄製，甚至創制一門面向對象編曲的語言...，&lt;i&gt;they're not gonna happen&lt;/i&gt;. 從 Pianoid 上架之後的玩家反饋中，我讀到了各位對一個作曲器應該做到的各種功能之希冀，在這裏我想告訴大家——我也想到了，我也想要，但並不容易。不過，不會放棄。&lt;br&gt;&lt;br&gt;「應加而未加」的功能/特性之中，除了「一鍵生成一首聽上去蕭邦再世、李斯特重生的鋼琴曲」這種實在做不到的之外，我們實現了不少，但最終決定不放入 Pianoid 裏，實在因爲產出物品質過不了良心關——聽聽馬拉加大學用 1,620 颗 CPU、885 TB 硬盘和 6,752GB 内存搭建的自動作曲器 &lt;a href=&quot;http://en.wikipedia.org/wiki/Melomics&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Melomics109&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（以及 &lt;a href=&quot;http://melomics.com/iamus&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IAMUS&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）的作品[3]便知。Melomics 系列所做的事情，無非藉助巨大的存儲空間而得以採用大量真實樂器採樣填充、藉助巨型 CPU 矩陣而得以創作天文數字的作品（超過 10 億首），而在音樂性方面，不能說有多大突破。&lt;br&gt;&lt;br&gt;我想，與其給玩家許許多多莫名其妙的東西以消除單調感，不如僅奉上自己覺得還算過得去的一些配搭。人家都說保持剋制是做一樣產品時的寶貴品德呀。不講規則的話，「樂曲」隨便生成多少都有，但從浩如煙海的音樂作品中提取規則出來，應用在 Pianoid 之上，必定是一條漫長的道路。&lt;br&gt;&lt;br&gt;文學、繪畫等其它方面的藝術工作，目前計算機已經頗多染指，但在音樂創作領域，仍有大片處女地亟待探索。&lt;br&gt;&lt;br&gt;Pianoid 最終成爲一個「生成音樂片段」的玩意，而非如最初我們的內部開發代號那樣，成爲一個「作曲器」，着實令我有幾分失落。不過看到仍然有朋友給予好評，我一面欣喜，一面感覺受之有愧。出於爲了解決創造者本身的切膚之痛的目的，曾誕生過許多偉大的產品。我們自然希望作曲器亦然。然而，Pianoid 與「偉大」並不沾邊，至多算作「還算有趣」，由於音樂品味方面衆口難調，對一部分朋友而言，連有趣也算不上自然是存在的。做的不好，懇請大家批評。若如&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@ACMilanprince&quot; href=&quot;http://zhihu.com/people/acmilanprince&quot; data-tip=&quot;p$b$acmilanprince&quot;&gt;@ACMilanprince&lt;/a&gt; 兄臺說的「糊弄」，那是絕對沒有，也萬萬不敢。敝司雖然草創，但也如每個致力於把世界變好一點點的創業團隊一樣，想要通過精益求精的設計與堅持不懈的努力，爲大家奉上好用、有趣的產品。敝司下一款出品回到 &lt;a href=&quot;http://www.zhihu.com/topic/19751551&quot; class=&quot;internal&quot;&gt;Once Touch &lt;/a&gt;的老路上，會是一款遊戲（不過不是音樂類遊戲），敬請各位朋友關注。&lt;br&gt;&lt;br&gt;&lt;b&gt;致謝&lt;/b&gt;&lt;br&gt;感謝每一位下載 Pianoid 的朋友。&lt;br&gt;感謝&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@梁欢&quot; href=&quot;http://zhihu.com/people/lianghuan&quot; data-tip=&quot;p$b$lianghuan&quot;&gt;@梁欢&lt;/a&gt;、&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李忠(无网不剩)&quot; href=&quot;http://zhihu.com/people/lzyy&quot; data-tip=&quot;p$b$lzyy&quot;&gt;@李忠(无网不剩)&lt;/a&gt; 、&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@胡维&quot; href=&quot;http://zhihu.com/people/whale&quot; data-tip=&quot;p$b$whale&quot;&gt;@胡维&lt;/a&gt; 把我腦中那些無稽的片段意識變爲活生生的可觸摸的東西。&lt;br&gt;感謝 &lt;a href=&quot;http://www.zhihu.com/people/gaohanyu&quot; class=&quot;internal&quot;&gt;高涵玙&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/bluermask&quot; class=&quot;internal&quot;&gt;bluermask&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/lianghuan&quot; class=&quot;internal&quot;&gt;梁欢&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/kermit&quot; class=&quot;internal&quot;&gt;杨可名&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/underland&quot; class=&quot;internal&quot;&gt;underland&lt;/a&gt; 邀請回答。&lt;br&gt;&lt;br&gt;* * *&lt;br&gt;&lt;br&gt;[1] &lt;a href=&quot;http://www.zhihu.com/question/20351660&quot; class=&quot;internal&quot;&gt;流行音乐写作及编曲中常用的 Ear Candy 有哪些？&lt;/a&gt;&lt;br&gt;[2] &lt;a href=&quot;http://imgur.com/wTpnp&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Here's a little cheat sheet to writing a song&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;[3] &lt;a href=&quot;http://melomics.com/search?q=__23instrument:piano&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Melomics - Piano&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; | &lt;a href=&quot;http://melomics.com/@vico/nokia&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nokia Variations&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 </channel>
