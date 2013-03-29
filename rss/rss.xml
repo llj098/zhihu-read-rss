@@ -15,6 +15,49 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19580953/answer/15992415
+</link>
+<author>
+范文杰
+</author>
+<title>
+中医为什么会衰落？
+</title>
+<description>
+我是一名中医学生，我来说一些自己的看法&lt;br&gt;&lt;br&gt;首先，现在的中医教育制度很有问题，最早先的师带徒模式可以保证出师后的学生的独立行医能力和水平，而且很多中医的技巧和经验不是学院教育能够传授的。&lt;br&gt;&lt;br&gt;再者当下的很多中医医生技术不纯熟却急于赚钱，我每次放假时跟着实习的老师相当鄙视那些动不动就十几、二十几付药，连方都不变就开出去的医生，老师开方必4付一次去开，复诊时要仔细询问，酌情加减。除非是周围其他城市的患者来就诊（或实在不方便一周后来）才会一次开10付，而且必须嘱咐病人回去得来电话。&lt;br&gt;&lt;br&gt;不得不承认，现在的中医处境相当困难。你随便找个论坛你提中医，骂的人不超过一半就谢天谢地了。很多人没有独立思考的能力，简直可以称为无脑黑，跟风力度相当大。&lt;br&gt;&lt;br&gt;说些题外话，我理解一些人由于不了解中医而不信任中医，但是不能不信任就一棍打死吧？你要是非得认为电视上午夜档反复播的祖传多少代潜心钻研出的啥啥啥啥丸也能算中医的话我也没什么好说的了。。。。。&lt;br&gt;&lt;br&gt;说说疗效的问题吧，因为我接触的临床中医医生比较有限，所以给不出一个全面的数据，但是说中医没有疗效或者说安慰剂、心理疗效（这点最让人生气了，有疗效就说是心理作用）我是坚决反对的。&lt;br&gt;因为我接触了很多临床效果显著的病例，在我实习跟的老师那经常可以听到这样的对话：&lt;br&gt;“大夫啊，我又来了”&lt;br&gt;“哎，又哪不舒服了啊？你家那XXX怎么样了？”&lt;br&gt;“他好差不多了就不来了，你帮我看看我怎么怎么怎么怎么....”&lt;br&gt;或者&lt;br&gt;“大夫你好，我是XXX的邻居（朋友、同事、家人）他不在你这看过病嘛，介绍的我来的。”&lt;br&gt;“啊，XXX啊，有印象，他最近咋样啊？”&lt;br&gt;老大夫的名声就是这么一传十十传百传出去的，医院（综合医院）里的其他科室的或医生或护士也经常来讨几付药、咨询咨询保健问题。&lt;br&gt;&lt;br&gt;总而言之中医的衰落有很多方面的问题，但是希望大家攻击中医、讽刺中医的时候，能够独立思考，自己究竟是因为不了解而不信任，还是你对中医的认识很深刻而否定它。&lt;br&gt;&lt;br&gt;PS：我相当鄙视那些P都不懂就大谈中医理论多么荒谬，中药如何如何，想当然的对中医进行解读的无脑黑们。&lt;br&gt;PPS：家母为心血管内科主任医师。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20866976/answer/16447565
+</link>
+<author>
+张涛
+</author>
+<title>
+上市公司新都酒店放高利贷没有收回，会计上应该如何处理？
+</title>
+<description>
+公司此种做法不符合《贷款通则》，非金融企业间拆借资金是个有很大争议的问题，个人以为这类资金往来不应该出现在上市公司的财务报表中。管理层说这是“对外财务资助”，审计师也睁一只眼闭一只眼地过了。&lt;br&gt;&lt;br&gt;若只从会计分录的角度来讲，&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/norman-hong&quot; data-tip=&quot;p$b$norman-hong&quot;&gt;@Norman Hong&lt;/a&gt;说的没错；但是从合规和内部控制的角度来讲，公司这样的做法是对股东的不负责，审计师也没有尽到自己应尽的责任。&lt;br&gt;&lt;br&gt;以下节选自公司2012年年报：&lt;br&gt;&lt;br&gt;&lt;i&gt;公司于2013年1月18日预计亏损3,200-3,800万元是基于对外财务资助的6,500万元除收回315万元利息外，其余本息均逾期未还，按谨慎性原则，对该逾期的本金计提了30%的坏账准备。财务资助逾期后，公司也积极与被资助单位进行沟通，被资助单位均以口头或书面形式向本公司承诺尽快偿还本息，根据这些情况，本公司对账务处理调整为：不确认外借款项的投资收益，收回的315万元利息冲抵本金，对其余的6,185万元本金计提5%的坏账准备，本公司认为这样的财务处理能更为准确恰当。本公司实际亏损25,474,075.19元，比之前的预计亏损减少25.64%-49.20%。 &lt;/i&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20106709/answer/16528615
+</link>
+<author>
+黄典典
+</author>
+<title>
+怎么编写 Gtalk 机器人？
+</title>
+<description>
+GTalk 采用的协议是广泛使用的 xmpp 协议，这个协议的格式是以 xml （有点恶心）为基础的，实际上所谓的消息发送和接受是以订阅和被订阅实现的，当你加了某人好友以后，你实际上就订阅了他发送给你的信息，也就是当他发消息给你的时候，你可以收到这个消息；否则，如果你没有加他为好友，他还是可以发送消息，但是你是收不到的，因为你没有订阅。&lt;br&gt;&lt;br&gt;那是不是意味这我们需要自己写传输和协议解析呢，当然不用，如果只是为了实现一个机器人，以python为例，我们可以使用一个第三方包——xmpppy（好开心啊）,具体接口使用方法可以参考这个网站的&lt;br&gt;&lt;a href=&quot;http://xmpppy.sourceforge.net/apidocs/xmpp-module.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;xmpppy.sourceforge.net/apidocs&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/xmpp-module.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;下面给一个很简单的一个实现消息发送的例子：&lt;br&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;c&quot;&gt;#!/usr/bin/env python # coding: utf8 import xmpp  &quot;&quot;&quot; 获取好友列表 &quot;&quot;&quot; def get_rosters(connection):     roster = connection.getRoster()     rosters = roster.getItems()     return rosters   &quot;&quot;&quot; 发送消息 &quot;&quot;&quot; def send(msg, contact):     acount = 'xxxxxx'     passwd = 'oooooo'     host = 'gmail.com'      connection = xmpp.Client(host, debug=[])     connection = connect(server=('talk.google.com', 5223))     connection.auth(acount, passwd, resource='my-bot')     rosters = get_rosters(connection)     for roster in rosters:         connection.send(xmpp.Message(roster, msg))   def main():     send('xxoo', 'xo@gmail.com')   if __name__ == &quot;__main__&quot;:     main()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20880784/answer/16492169
 </link>
 <author>
@@ -249,48 +292,6 @@ http://www.zhihu.com/question/20892424/answer/16525223
 </title>
 <description>
 06年在做PR的时候，公司接到一个临时加进来的加急CASE。&lt;br&gt;李宁的几十款产品要写说明文案，就是“XX鞋：流线型气垫，赋予跑步前所未来的轻松感，翼式流线设计，超凡空气动力（类似，瞎编的）&lt;br&gt;而李宁MARKETING提供的资料就是一个简单的EXCEL表，除了型号之外，里面有图，上面简单地注明” Y型气垫“几个字。最后工作被派给了一个几乎不懂的小女孩儿，她按自己的想象编完了所有的说明（不仅是广告宣传语，同时包括产品功能说明），半天后发给了对方。&lt;br&gt;然后，几天后，我看到了这些说明变成了李宁的彩页以及网站资料，甚至还有一两则出现在电视（视频）广告中。&lt;br&gt;当时回家就跟LG说，李宁这样的公司能做大做好才怪了。这种重要的产品资料居然交给外面人做，而且为什么没有长期合作的广告公司？（或者说是内部MARKETING难道没有审查，外头随便写的就能直接用吗？）&lt;br&gt;因为不是自己负责的此案，具体记不清了，到底是李奥贝纳负责李宁的人交过来的CASE，还是李宁内部交过来的CASE，也不能确定。只记得那年要推的那些产品都是和大鲨鱼奥尼尔合作的新项目，里面有好多产品叫shark.可怜我认识的体育明星也就这么几个，要不然也记不住。&lt;br&gt;或许找找以前备份的公司资料，应当还找得到对方当时发过来的邮件。&lt;br&gt;&lt;br&gt;&lt;b&gt;增补：有朋友质疑此回答的细节有问题。好在我这几年虽然搬来搬去，但多少还有点爱备份的习惯，终于今天早上搜到了一个当年小姑娘CC给我的文件残渣。&lt;/b&gt;&lt;br&gt;截图如下。黄色部分是小姑娘凭自己想象写上去的产品说明（我想这不能称为文案了），其余部分是李宁提供的资料。究竟如何感觉，大家自由心证。（又及，我刚才重温了下，不得不以女性角度看来，小姑娘还编得挺能说服人的）&lt;br&gt;&lt;img data-rawheight=&quot;298&quot; data-rawwidth=&quot;941&quot; src=&quot;http://p1.zhimg.com/d7/5b/d75b3d55ff939447114ad6711a54a471_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;941&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d7/5b/d75b3d55ff939447114ad6711a54a471_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawheight=&quot;131&quot; data-rawwidth=&quot;979&quot; src=&quot;http://p4.zhimg.com/77/4c/774cc095bea49755592c3a2537ed3e3f_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;979&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/77/4c/774cc095bea49755592c3a2537ed3e3f_r.jpg&quot;)'&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20892127/answer/16524728
-</link>
-<author>
-陈甫鸼
-</author>
-<title>
-从法律角度看，Smartisan OS 改第三方应用的图标可行吗？
-</title>
-<description>
-非专业，抛砖而已。但回答法律问题前，我必须先补充一点计算机专业知识。没有证据和事实，空谈法律或用户选择，只会越扯越远。&lt;br&gt;&lt;br&gt;=== 以下为事实 ===&lt;br&gt;Android rom中修改应用程序图标的做法由来已久，各家Android启动器（即桌面管理器，Launcher）都有实现过，但少有系统化的解释。CSDN 曾对小米公司负责换肤机制的几位程序员们进行过一次专访，说的就是这个。目前我们确实没有锤子手机的实现细节，但考虑到两者底层同是Android，原理应该是类似的。我在下面列出了专访的几个链接。考虑到非计算机专业的朋友可能不太清楚原理，我在此简单说明：&lt;br&gt;&lt;br&gt;更改图标属于系统级资源修改。一般来说修改图标的方法有两种：一种是破坏性的，即解密 Android app 的安装包（apk 文件）并修改其中的图标资源。第二种是非破坏性的，其中又分为两种：一、 在启动器级别修改，即利用启动器能够获取程序启动图标的机会，建立一张自己的图标表和 app 的映射表；二、 在系统级别修改 AssetManager 服务。这种方法可以更全面地修改整个程序的界面等信息，不只是图标。但需要更改 rom 的代码。考虑到一个个破解并修改程序安装包的工作量，多数启动器都应该不会采用第一种方法作为首选，而会采用映射表方法；至于AssetManager，则只有在需要修改全局主题时才会遇上。&lt;br&gt;&lt;br&gt;我暂时还不能接触锤子 rom 的具体代码，但小米工程师的讲座可以作为参考。考虑到锤子rom显然自己设计了启动器，它有足够的条件使用非破坏性方法将显示图标修改为它需要的任何内容，同时包含一个例外：如果锤子 rom 试图修改的不仅是程序图标而包括程序内资源，那么它可能会用到修改AssetManager 的做法。&lt;br&gt;&lt;br&gt;&lt;br&gt;=== 以下是法律讨论 ===&lt;br&gt;理解了事实之后，我们才可以谈法律。我考虑从著作权角度切入。假定我们试图证明锤子rom的做法违法，根据上面的说明，我们不难得出两种可能的思路：&lt;br&gt;&lt;ol&gt;&lt;li&gt;从锤子 rom 修改图标的手段界定其是否违反法律。&lt;/li&gt;&lt;li&gt;从程序图标本身是否属于程序观感的一部分界定锤子手机的做法是否违反法律。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;后一种举证困难，我也不是专业人士，只好忽略。前一种比较容易界定事实。一般如果说侵权问题，我们的主要参考来自&lt;a href=&quot;http://www.gapp.gov.cn/cms/html/21/396/200601/447333.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中华人民共和国新闻出版总署&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，《计算机软件保护条例》。因为它是规定计算机软件保护的最直接的条文。其中第二十一条规定了合法持有软件复制品的单位和公民（课堂教学、科学研究、国家机关执行公务）可以享有的权利。&lt;br&gt;&lt;blockquote&gt;　　第二十一条  合法持有软件复制品的单位、公民，在不经该软件著作权人同意的情况下，享有下列权利：&lt;br&gt;　　（一）根据使用的需要把该软件装入计算机内；&lt;br&gt;　　（二）为了存档而制作备份复制品。但这些备份复制品不得通过任何方式提供给他人使用。一旦持有者丧失对该软件的合法持有权时，这些备份复制品必须全部销毁；&lt;br&gt;　　（三）&lt;u&gt;为了把该软件用于实际的计算机应用环境或者改进其功能性能而进行必要的修改。但除另有协议外，未经该软件著作权人或者其合法受让者的同意，不得向任何第三方提供修改后的文本。&lt;/u&gt;&lt;/blockquote&gt;&lt;br&gt;注：此法条的最后一部分有明显问题。因为修改并不仅仅意味着文本，也包括图标等二进制文件。但在这个语境下我们可以忽略此问题。严格地说，三种替换图标的方法都可以通过此条规范判断：&lt;br&gt;&lt;ol&gt;&lt;li&gt;破坏性方法。显然违反第二十一条（三）。&lt;/li&gt;&lt;li&gt;非破坏性方法一（启动器）。无修改 app 情节，不违反上述条款。&lt;/li&gt;&lt;li&gt;非破坏性方法二（rom 级别修改）。无修改 app 情节，不违反上述条款。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;注二：&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Raymond Wang&quot; href=&quot;http://zhihu.com/people/raymond-wang&quot; data-tip=&quot;p$b$raymond-wang&quot;&gt;@Raymond Wang&lt;/a&gt; 律师提到这个问题首先是一个商标权的问题。我对此的考虑是，Rom开发者虽然更改了 app 的图标，但有两个理由使得它不违反商标法的商标侵权认定：一、主观上修改图标的行为并不是为了误导消费者；二，客观上说，rom 使用者不会因为图标被改变而将 app 误认为其他类似产品。但我承认我不懂商标法，所以也许我的思考有错，希望有真正的专家解释。&lt;br&gt;&lt;br&gt;至于说丑化原产品的嫌疑么，我认为这个说法过于主观，也难取证。老实说，我不认为这样的理由可以作为诉讼的起点。&lt;br&gt;&lt;br&gt;参考：&lt;br&gt;&lt;a href=&quot;http://www.csdn.net/article/2012-03-02/312675&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Android系统如何实现换肤及MIUI-CSDN.NET&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://subject.csdn.net/cmdn0229/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;CMDN CLUB 14期：Android系统主题风格实现与系统资源访问机制&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.sipo.gov.cn/sipo/flfg/sb/fljxzfg/200703/t20070329_147971.htm&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中华人民共和国国家知识产权局&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;商标法。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20881571/answer/16522699
-</link>
-<author>
-卫新律师
-</author>
-<title>
-一个抵押合同，若其主债合同是企业之间的借款合同，这个抵押还有效吗？
-</title>
-<description>
-&lt;b&gt;一、主合同的效力&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;1&lt;/b&gt;&lt;b&gt;、相关法律规定&lt;br&gt;&lt;/b&gt;&lt;br&gt;根据中国人民银行&lt;u&gt;《贷款通则》第六十一条&lt;/u&gt;的规定，“各级行政部门和企事业单位、供销合作社等合作经济组织、农村合作基金会和其他基金会，不得经营存贷款等金融业务。企业之间不得违反国家规定办理借贷或者变相借贷融资业务。”&lt;br&gt;最高人民法院对企业间资金借贷，出借方尚未取得利息情况下如何裁决亦作出了答复，根据该答复内容，“行政部门、企事业单位、股份合作经济组织、供销合作社、农村合作基金会和其他基金会擅自发放贷款的；企业之间擅自办理借贷或者变相借贷的，由中国人民银行对出借方按违规收入处以1倍以上至5倍以下罚款，并由中国人民银行予以取缔。”&lt;br&gt;&lt;b&gt;2、&lt;/b&gt;&lt;b&gt;分析&lt;br&gt;&lt;/b&gt;&lt;br&gt;根据我国现行的法律，非金融机构的企业之间是不能贷款的。如果发生贷款，根据&lt;u&gt;《合同法》第五十二条&lt;/u&gt;的规定：“有下列情形之一的，合同无效：（五）违反法律、行政法规的强制性规定。”，其法律后果自然是&lt;b&gt;合同无效&lt;/b&gt;，本金返还，利息理论上国家是要没收追缴的。&lt;br&gt;那么此时这个问题就变为了，当主合同无效时，担保合同作为从合同的效力如何？&lt;br&gt;&lt;br&gt;&lt;b&gt;二、担保合同的效力&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;1&lt;/b&gt;&lt;b&gt;、相关法律规定&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;u&gt;《物权法》第一百七十二条第一款&lt;/u&gt;规定：“设立担保物权，应当依照本法和其他法律的规定订立担保合同。担保合同是主债权债务合同的从合同。主债权债务合同无效，担保合同无效，但法律另有规定的除外。”&lt;br&gt;&lt;u&gt;《担保法》第五条&lt;/u&gt;规定：“担保合同是主合同的从合同，主合同无效，担保合同无效。担保合同另有约定的，按照约定。”&lt;br&gt;&lt;b&gt;2、&lt;/b&gt;&lt;b&gt;分析&lt;br&gt;&lt;/b&gt;&lt;br&gt;担保以保障债权实现为第一宗旨，如果主合同无效，其约定的债权债务便失去法律的约束力，与其相关的担保合同所约定的担保权利义务则成为无本之木，自然也应归于&lt;b&gt;无效&lt;/b&gt;，对担保当事人不产生法律效力。&lt;br&gt;&lt;br&gt;&lt;b&gt;三、当事人所需承担的责任&lt;/b&gt;&lt;br&gt;&lt;b&gt;1&lt;/b&gt;&lt;b&gt;、相关法律规定&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;u&gt;《物权法》第一百七十二条第二款&lt;/u&gt;和&lt;u&gt;《担保法》第五条第二款&lt;/u&gt;同时规定：“担保合同被确认无效后，债务人、担保人、债权人有过错的，应当根据其过错各自承担相应的民事责任。”&lt;br&gt;&lt;u&gt;《最高人民法院关于适用〈中华人民共和国担保法〉若干问题的解释》第八条&lt;/u&gt;规定：“主合同无效而导致担保合同无效，担保人无过错的，担保人不承担民事责任；担保人有过错的，担保人承担民事责任的部分，&lt;b&gt;不应超过债务人不能清偿部分的&lt;u&gt;三分之一&lt;/u&gt;&lt;/b&gt;。”&lt;br&gt;&lt;u&gt;第九条&lt;/u&gt;规定：“担保人因无效担保合同向债权人承担赔偿责任后，可以向债务人&lt;b&gt;追偿&lt;/b&gt;，或者在承担赔偿责任的范围内，要求有过错的反担保人承担赔偿责任。&lt;br&gt;担保人可以根据承担赔偿责任的事实对债务人或者反担保人另行提起诉讼。”&lt;br&gt;&lt;b&gt;2、&lt;/b&gt;&lt;b&gt;当事人的责任分析&lt;br&gt;&lt;/b&gt;&lt;br&gt;以下分析基于实践中法官的判案结果：&lt;br&gt;对于&lt;b&gt;借款人&lt;/b&gt;和&lt;b&gt;贷款人&lt;/b&gt;，法官一般认为，双方对借款合同的无效均有过错，所以对于由此造成的损失，因各自承担。&lt;br&gt;对于&lt;b&gt;担保人&lt;/b&gt;，法官一般认为，担保人理应知道企业间的借款行为系无效行为，仍为借款人提供保证，担保人作为具有完全民事行为能力的公民应当知道这种非法借款关系的后果。其行为客观上增加了无效借款合同成立的可能性和贷款人的风险，显然对造成保证行为的无效亦存在过错，故担保人对于其过错，应当按照法律的规定承担相应的民事责任。&lt;br&gt;所以，在大多数情况下，法院的判决结果是：&lt;br&gt;（1）借款人归还贷款人借款本金，不包括利息。&lt;br&gt;（2）借款人和担保人不承担连带清偿责任。&lt;br&gt;  担保人对借款人的借款不能清偿部分的承担不超过三分之一的赔偿责任。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20201469/answer/16507907
-</link>
-<author>
-姜振鹏
-</author>
-<title>
-汉武帝统治相当折腾，首先为了收钱搞了很多特许经营，然后公开买官卖官，后来因为巫蛊之乱弄了很多动乱，感觉比秦始皇还折腾，为啥没有亡国？
-</title>
-<description>
-&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@南山子&quot; href=&quot;http://zhihu.com/people/nan-shan-zi&quot; data-tip=&quot;p$b$nan-shan-zi&quot;&gt;@南山子&lt;/a&gt; 回答的很精彩。 但是只是讲了汉武为何这么做，而没有讲为何没有亡，而秦亡了， 补充一下。 &lt;br&gt;&lt;br&gt;先说秦的问题： 商鞅变法以来，秦对六国的攻击和少数民族对汉族的攻击是一个路数，经济极端落后（远逊于魏齐等强国）的秦国，靠极低的战争成本（生产建设兵团vs职业军人），勒索战争赔款形成战争收益。 秦的优势在于组织机构能更好的整合全国的资源，而六国却受制于各种世家豪强的掣肘，国君只是最大领主而已，秦国并不强过六国，但秦王比六国之王要强大的多。这也是为何长平之战这种举国国力的对抗，秦国能赢（拼国家整合资源的能力），但是一些小兵团的战斗秦国屡屡失败的原因（农民兵当然打不过职业军人）。&lt;br&gt;&lt;br&gt;到了嬴政时代，秦开始了灭国战争， 攻下一地需要驻军，生产建设兵团变为了职业军人，这种变化摧毁了秦国原有的经济体系。 只好通过看得见的手调节。 统一度量衡的本质就是军方套购物资，当时秦半两的含铜量比魏齐等国货币低一半都不止，却被强制等值。 结果就是劣币驱逐良币，物价飞涨。 这个时候只好采取货币回笼政策（收天下之铜铸12金人）， 从极度通胀一下过渡到流动性枯竭的极度通缩，再上马铁公鸡（长城，驰道）拉动内需，同时配合一轮货币超发，发行含铜量更低的秦大钱，再然后就是陈胜吴广了。 &lt;br&gt;&lt;br&gt;秦末农民起义为何会一呼百应，因为普通劳动人民的生活已经无法维持，国家的经济完全崩溃了，因此六国贵族才能浑水摸鱼，迅速组织了如火如荼的反秦势力。 而秦国组织国家资源的优势已经在上述过程中瓦解了，才造成了覆灭。 &lt;br&gt;&lt;br&gt;我们再看汉武：汉武的“折腾”配合了比较适合当时情况的经济政策，保证了中下层人民的生活， 因此没能出现秦末的局面。 桑弘羊的盐铁论可谓上承管子，下影响了中国几千年，到现在还在被部分实践。在汉武时代是极为成功和重要的经济政策。 详情请大家自行百度，作用是保证了中央凝聚国家资源的能力，平抑地方物价，  结果是干强枝弱， 人民生活过得去，自然反不了了。&lt;br&gt;&lt;br&gt;其实最应该跟汉武比的不是秦而是隋炀帝， 隋炀帝的折腾其实和汉武是如出一辙的，也是在前朝积累的基础上，开始了以消灭权贵豪强增强君权为目的的折腾。 不过欠缺了相应的经济政策，把自己折腾死了。 后来唐太宗的折腾路线跟隋炀帝是一脉相承的。
 </description>
 </item>
 </channel>
