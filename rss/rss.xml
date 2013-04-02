@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19839233/answer/15404853
+</link>
+<author>
+田牧
+</author>
+<title>
+怎么用一句话概括私募股权投资（PE）的业务？
+</title>
+<description>
+爱因斯坦老师这句话虽然对，但是最简单的语言有时候也得很多句话。有的事情一句话说不全面说不清楚，比如罗姆尼和奥巴马谁更适合当选，中国应不应该实行多党制，和PE到底是怎么赚钱的。&lt;br&gt;&lt;br&gt;&lt;b&gt;PE是所有对非公开流通股权投资的通称，投资对象不一定是公司，也可以是其他基金(fund of funds)或者基础建设项目。投的公司也不一定是有问题的公司或者有困难的公司--国内贷款买房子做投资的人是不是专买卖不出去的房子，漏水断电的房子？不是。买房子是因为以后可以卖更贵，是因为当时贷款便宜。黄金地段的楼盘更受欢迎，这和PE买卖公司道理是一样的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;大家比较熟悉的是LBO公司/基金，我讲讲他们单个项目和公司本身怎么赚钱。&lt;br&gt;&lt;br&gt;单个项目：&lt;br&gt;三大赚钱方式：股权增值，收取贷款利息和收取股利。&lt;br&gt;1）股权增值主要靠四种方式：发现低估值公司，掌握行业周期，提高营运效率和运用杠杆。重要性排序由高到低。解释一下第三个，其余应该大家都明白：提高运营效率主要来自几个方面，首要的就是节省开支，其次是杠杆收购给公司带来的巨额债务逼迫管理层用心经营，然后是私有化后受股东约束少（或者在集团公司里不受重视的子公司分离出来后约束少），提高了决策能力，最后是PE本身在商界的关系网帮助公司获取利润。&lt;br&gt;当股权增值后可以通过上市或者倒手转卖(secondary buyout)的方式获利。&lt;br&gt;&lt;br&gt;2）收取贷款利息。杠杆收购公司在收购成功后会给该公司提供贷款（实际上私募自己的本金部分记为目标公司所有者权益，部分记为目标公司负债）。私募的利润相当一部分是从这里来的。实际上很多外行以为卖公司是唯一赚钱方法，开玩笑，一笔投资周期都是5、6年，这中间大家喝西北风吗；）&lt;br&gt;&lt;br&gt;3）收取股利。在杠杆贷款没有还清的时候目标公司是不发股利的。还清之后暂时还卖不出好价钱怎么办？资本家的思路当然要灵活。去借一笔钱，拿来给自己发股利！&lt;br&gt;&lt;br&gt;公司本身：&lt;br&gt;管理费，投资回报分成，咨询费和分手费。&lt;br&gt;这个估计大家都明白。管理费很少，算过收购公司成本后根本不挣钱。第二个在经济上升期是绝对大头，但是现在就没那么多了。咨询费和投行还有咨询公司是一样的。私有化成功还是上市成功，都是要收劳务费的。最后一个也是不小的一笔钱。&lt;br&gt;&lt;br&gt;最后说一句，衰退时期杠杆收购不是PE投资的主流。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19898773/answer/13295895
 </link>
 <author>
@@ -192,7 +206,7 @@ zgd
 买房的贷款时间是否是越长越好？
 </title>
 <description>
-做了个小计算，为了计算方便，假设一年只还一次钱：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/52/c2/52c22540bb2889bf2aaed40c1145b990_m.jpg&quot; data-rawwidth=&quot;324&quot; data-rawheight=&quot;124&quot; class=&quot;content_image&quot; width=&quot;324&quot;&gt;&lt;br&gt;&lt;br&gt;有些朋友认为20年期比10年期多还了不少钱（差额部分）所以不划算，这其实是忽略了20年内的两种按揭年限下现金流差额再投资的收益。&lt;br&gt;&lt;br&gt;根据上述表格，我们假设买房人每年的总现金流入就是278860.71元，并且在20年保持不变；&lt;br&gt;那么两种按揭模式下的各个年份的现金流余额如下表所示：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0a/bf/0abf6b2f940c42b424b1ea13d2c23af4_m.jpg&quot; data-rawwidth=&quot;278&quot; data-rawheight=&quot;52&quot; class=&quot;content_image&quot; width=&quot;278&quot;&gt;&lt;br&gt;&lt;br&gt;20年按揭的情况下，等于每年你都省下了124911.12元可以用于个人投资；10年按揭的情况下，前10年由于偿还按揭分文不剩所以没有任何投资，但第11年开始你每年都有278860.71元可以用于投资，接下来就看看两种方法的投资收益有什么差别（投资收益率暂时按6.55%计算，后面会做敏感性分析）：&lt;br&gt;（1）20年按揭情形，假设都是期末缴款，20年后你的财富总额就是一套房子加上如下现金余额：=fv（6.55%,20,124911.12)=4876070.43&lt;br&gt;（2）10年按揭情形，你从第11年开始投资，20年后你的财富总额为一套房子加上如下现金余额：&lt;br&gt;=0+fv(6.55%,10,278860.71)=3771937.92&lt;br&gt;20年按揭情形下终值多了1104132.52元。&lt;br&gt;&lt;br&gt;&lt;i&gt;***注：为了便于比较，这里的4876070.43也可以分解成A+B两部分，A部分是1~10年期间的投资本利之和再按照投资收益率进行为期10年的复利投资；B部分就是11~20年间每年124911.12元的投资本利和。&lt;/i&gt;&lt;br&gt;&lt;br&gt;接下来是敏感性分析，看投资收益率变动情况下二者的差额（为了缩小空间，这里的单位是万元）&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bb/12/bb12618dc4d448e8e495864c73575d3e_m.jpg&quot; data-rawwidth=&quot;599&quot; data-rawheight=&quot;37&quot; class=&quot;origin_image&quot; width=&quot;599&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/bb/12/bb12618dc4d448e8e495864c73575d3e_r.jpg&quot;)'&gt;&lt;br&gt;可以看出，如果个人有收益率更高的投资渠道，两种不同按揭模式下的财富终值会差异更大，20年按揭可以获得更多的收益。那么再看看个人投资收益率要低到什么水平，二者之间才不会有任何区别呢？通过Excel的迭代计算，这个收益率为2.11%，存银行定期都比这高很多，所以基本不用考虑了。
+&lt;b&gt;非常抱歉，各位知乎的朋友。&lt;/b&gt;&lt;b&gt;这里算错了。最终结果是 10年和20年无差别。&lt;/b&gt;&lt;br&gt;&lt;b&gt;本人疏忽大意，这两天也在自我怀疑为什么会有这种结果，然后检查表格的发现犯了一个极其愚蠢的错误。错在我本来是想算10年和30年的差别，结果后来还款期写成20年，但是按揭现金流还是按30年来算的。由于刚登微博发现已被主页君转发，误导了大量网友，非常抱歉。下面是更正后的结果：&lt;/b&gt;&lt;br&gt;&lt;br&gt;做了个小计算，为了计算方便，假设一年只还一次钱：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/43/b2/43b291a131cf67b6cbe3f58fabd5bb43_m.jpg&quot; data-rawwidth=&quot;324&quot; data-rawheight=&quot;124&quot; class=&quot;content_image&quot; width=&quot;324&quot;&gt;&lt;br&gt;根据上述表格，我们假设买房人每年的总现金流入就是278860.71元，并且在20年保持不变；&lt;br&gt;那么两种按揭模式下的各个年份的现金流余额如下表所示：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4a/96/4a9645b4d3965ce11ab93f3bfb6a47e8_m.jpg&quot; data-rawwidth=&quot;289&quot; data-rawheight=&quot;52&quot; class=&quot;content_image&quot; width=&quot;289&quot;&gt;&lt;br&gt;20年按揭的情况下，等于每年你都省下了124911.12元可以用于个人投资；10年按揭的情况下，前10年由于偿还按揭分文不剩所以没有任何投资，但第11年开始你每年都有278860.71元可以用于投资，接下来就看看两种方法的投资收益有什么差别（投资收益率暂时按6.55%计算，后面会做敏感性分析）：&lt;br&gt;（1）20年按揭情形，假设都是期末缴款，20年后你的财富总额就是一套房子加上如下现金余额：=fv（6.55%,20,96626.37)=3771937.92&lt;br&gt;（2）10年按揭情形，你从第11年开始投资，20年后你的财富总额为一套房子加上如下现金余额：&lt;br&gt;=fv(6.55%,10,278860.71)=3771937.92&lt;br&gt;&lt;br&gt;&lt;b&gt;两种情形相同。&lt;/b&gt;&lt;br&gt;&lt;br&gt;接下来是敏感性分析，看投资收益率变动情况下二者的差额（为了缩小空间，这里的单位是万元）&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/72/0e/720e16538384e8188017365d3158371d_m.jpg&quot; data-rawwidth=&quot;599&quot; data-rawheight=&quot;37&quot; class=&quot;origin_image&quot; width=&quot;599&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/72/0e/720e16538384e8188017365d3158371d_r.jpg&quot;)'&gt;&lt;br&gt;可以看出，除非个人有收益率更高的投资渠道，不然两种按揭期限没有更大差别。&lt;br&gt;&lt;br&gt;补充一点：这里假设个人能够以6.55%复利投资，这是乐观的情景。现实中由于金融产品不是无限细分，市场上能够达到5%以上的相对安全的投资产品基本都是存在准入门槛的（5万起步的理财还没有5的收益率，信托基本都是100万，风险更高），这意味着你省下来的钱（实际中是按月还按揭，每月省下来的钱更少）可能必须要先存定期或者买收益率低的货币基金，攒到一个门槛值（比如5万、20万）才能进行高一些收益率的投资。所以在投资收益率不如贷款利率高的情况下，缩短贷款期限是合理的。&lt;br&gt;&lt;br&gt;再次道歉，原来自己才是最大的傻子，此贴留着警示自己。
 </description>
 </item>
 <item>
@@ -206,7 +220,7 @@ littleben
 2013 年愚人节各大网站有哪些彩蛋？
 </title>
 <description>
-简单有爱的「豌豆洗白白」发布全新洗空气功能：搭配精致便携的手机外设硬件「空气洗白白 plus」，全面洗净你身边的 PM2.5，带来清新好空气！&lt;br&gt;&lt;a href=&quot;http://www.wandoujia.com/xibaibai/air&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;空气洗白白 - 豌豆荚&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;//策划很赞，视频、页面制作非常精良，灰常欢乐。&lt;br&gt;//如果真能做出来这种产品就真心赞死啊...&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/09/49/094980fdee983eca543155703a854a51_m.jpg&quot; data-rawwidth=&quot;1012&quot; data-rawheight=&quot;524&quot; class=&quot;origin_image&quot; width=&quot;1012&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/09/49/094980fdee983eca543155703a854a51_r.jpg&quot;)'&gt;&lt;b&gt;在活动微博那边看到的一些评论和转发，乐死我了&lt;/b&gt;&lt;br&gt;@xzdisbest：该死的豌豆荚，愚弄人太专业了，什么'空气洗白白'，我真的相信了 &lt;br&gt;@正午1987：做的这么认真。。我还真信了。。不带这样玩的 &lt;br&gt;@王可东-联劝：高端大气显档次的愚人节礼物 &lt;br&gt;@一山灰灰：有技术含量的搞笑&lt;br&gt;@木遥:这尼玛做得也太精致了吧！ &lt;br&gt;@刘凡L：看了半天，居然信了，狂点订购，居然是……&lt;br&gt;@木芽_：#愚人节#一天没受骗，最后竟然败在了@豌豆荚 ，豌豆荚太坏了，讲的头头是道的，我只能说这真是一个极佳的#营销手段#，选择的噱头极具吸引度，不仅传达了环境思想，还巧妙地推广了自己的洗白白功能，关键是这么个简单的骗局就挣了天猫和华强北的广告费了，高，实在是高（个人喜欢那个视频）！！！ &lt;br&gt;&lt;br&gt;&lt;b&gt;常在河边走，怎能不湿鞋&lt;/b&gt;&lt;br&gt;@小黄是也：没想到啊 今天第一个骗我的居然是个软件@豌豆荚 (￢_￢)&lt;br&gt;@风起向北：想我英名一世，居然被豌豆荚给愚到了 &lt;br&gt;东月星子：今天愚人节，没想到被豌豆荚恶搞了，&quot;空气洗白白&quot;，我去，太搞了，我竟然信了，赞一个。 &lt;br&gt;@行者劉某人：矮油！沒想到一天平安度過，晚上回到家，被豌豆莢給耍了。呵呵，這個愚人節呀！ &lt;br&gt;@Sun王小A：一天没人骗我，快睡了竟然被@豌豆荚 给愚了… &lt;br&gt;@锦江戏鲤：今天唯一被愚弄的就是@豌豆荚 的空气洗白白啊！！
+简单有爱的「豌豆洗白白」发布全新洗空气功能：搭配精致便携的手机外设硬件「空气洗白白 plus」，全面洗净你身边的 PM2.5，带来清新好空气！&lt;br&gt;&lt;a href=&quot;http://www.wandoujia.com/xibaibai/air&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;空气洗白白 - 豌豆荚&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;//策划很赞，视频、页面制作非常精良，灰常欢乐。&lt;br&gt;//如果真能做出来这种产品就真心赞死啊...&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/09/49/094980fdee983eca543155703a854a51_m.jpg&quot; data-rawwidth=&quot;1012&quot; data-rawheight=&quot;524&quot; class=&quot;origin_image&quot; width=&quot;1012&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/09/49/094980fdee983eca543155703a854a51_r.jpg&quot;)'&gt;&lt;b&gt;在活动微博那边看到的一些评论和转发，乐死我了&lt;/b&gt;&lt;br&gt;@xzdisbest：该死的豌豆荚，愚弄人太专业了，什么'空气洗白白'，我真的相信了 &lt;br&gt;@正午1987：做的这么认真。。我还真信了。。不带这样玩的 &lt;br&gt;@王可东-联劝：高端大气显档次的愚人节礼物 &lt;br&gt;@一山灰灰：有技术含量的搞笑&lt;br&gt;@木遥:这尼玛做得也太精致了吧！ &lt;br&gt;@刘凡L：看了半天，居然信了，狂点订购，居然是……&lt;br&gt;@木芽_：#愚人节#一天没受骗，最后竟然败在了@豌豆荚 ，豌豆荚太坏了，讲的头头是道的，我只能说这真是一个极佳的#营销手段#，选择的噱头极具吸引度，不仅传达了环境思想，还巧妙地推广了自己的洗白白功能，关键是这么个简单的骗局就挣了天猫和华强北的广告费了，高，实在是高（个人喜欢那个视频）！！！ &lt;br&gt;&lt;br&gt;&lt;b&gt;常在河边走，怎能不湿鞋&lt;/b&gt;&lt;br&gt;@小黄是也：没想到啊 今天第一个骗我的居然是个软件@豌豆荚 (￢_￢)&lt;br&gt;@风起向北：想我英名一世，居然被豌豆荚给愚到了 &lt;br&gt;东月星子：今天愚人节，没想到被豌豆荚恶搞了，&quot;空气洗白白&quot;，我去，太搞了，我竟然信了，赞一个。 &lt;br&gt;@行者劉某人：矮油！沒想到一天平安度過，晚上回到家，被豌豆莢給耍了。呵呵，這個愚人節呀！ &lt;br&gt;@Sun王小A：一天没人骗我，快睡了竟然被@豌豆荚 给愚了… &lt;br&gt;@锦江戏鲤：今天唯一被愚弄的就是@豌豆荚 的空气洗白白啊！！&lt;br&gt;&lt;br&gt;&lt;b&gt;2013.04.02 15:20 update：&lt;/b&gt;&lt;br&gt;这个愚人节玩笑开得蛮有技术含量的，果壳上有人专门写了篇文章介绍这些技术&lt;br&gt;&lt;ol&gt;&lt;li&gt;什么是无纺布滤网？&lt;br&gt;&lt;/li&gt;&lt;li&gt;什么是纳米材料自我清洁？&lt;br&gt;&lt;/li&gt;&lt;li&gt;什么是静电除尘？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如果真的要实现「空气洗白白 Plus」类似的概念产品，需要满足什么条件？&lt;br&gt;&lt;/li&gt;&lt;li&gt;革命会到来吗？&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;来源戳这里：&lt;a href=&quot;http://www.guokr.com/post/449759/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Killer App？智能手机也能洗净 PM 2.5？&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 <item>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20896391/answer/16562967
 </title>
 <description>
 对很多人来说使用 Mailbox 最大的障碍是学习 Gmail 的 Archive 功能。至少我认识的很多人是没有这个习惯或不知道 Archive 功能存在的。然后他们用上 Mailbox 之后，看到成千上万封邮件不疯才怪。&lt;br&gt;&lt;br&gt;大概两年前我也不知道 Archive 是嘛玩意儿。邮箱嘛，来一封看一封，顶多攒多了批量标记为已读，隔一段时间搜索一下 is:unread，再设置几个 filter，就觉得自己是 Gmail 老用户兼高手了。直到有人在我身后看到满屏邮件大叫：我靠你怎么不归档！&lt;br&gt;&lt;br&gt;简单来说，不用 Archive 功能，根本无法理解 Mailbox 的设计理念。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20409902/answer/15053989
-</link>
-<author>
-张佳玮
-</author>
-<title>
-95版神雕是已经成为不可超越的经典了吗？
-</title>
-<description>
-谢邀。&lt;br&gt;&lt;br&gt;古天乐可能是史上最好杨过（李铭顺和刘德华都不比他强，黄晓明呵呵呵呵，任贤齐不值一提）。&lt;br&gt;李若彤应该是史上前二的小龙女，只有陈玉莲可比（范文芳气质不对，刘亦菲木头人，吴倩莲其实气质对了，但容貌和打扮不对）。&lt;br&gt;李绮虹可能是史上最好的郭襄（其实杨幂郭襄着实不错，可惜了）。&lt;br&gt;但，到此为止了。&lt;br&gt;布景、剧情、配角、对白、情节安排等等，相当平庸。&lt;br&gt;&lt;br&gt;任贤齐版的神雕，配角远在95版之上，李立群的欧阳锋、孙兴的郭靖、夏文汐的黄蓉、潘虹的丘处机、岳跃利的赵志敬，都堪称经典，可惜错用了任贤齐。&lt;br&gt;张纪中那版神雕，其实也不在1995版之下，只是黄晓明和刘亦菲没能把握住，加上大量华丽滥细节溢出。&lt;br&gt;&lt;br&gt;所以95版神雕说是目下最好的神雕之一，没问题。但那只是因为其他神雕普遍不够好，而刘德华和陈玉莲那个版本太老。&lt;br&gt;至于“无法超越”，大大的不敢苟同。“无法超越”能用到的范围，包括老红楼、老三国和《大时代》这级别的神片。95版神雕在金庸剧里，连93版倚天、83版射雕、03版天龙八部都压不过，其在神雕范围内出色，更多是时无英雄而已。
 </description>
 </item>
 </channel>
