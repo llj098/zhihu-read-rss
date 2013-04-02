@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20082676/answer/13976047
+</link>
+<author>
+涂恒
+</author>
+<title>
+为什么国内的RPG尤其是回合制的RPG这么多迷宫？大家都喜欢走迷宫吗？
+</title>
+<description>
+迷宫的出现是有一定技术原因的。当年的游戏制作受到很大的硬件限制，容量也很有限（在任天堂16位机时代，24mb以上的游戏就算大容量，合计算机容量才3MB，当时最大号的游戏也不过64mb）。在没有3D技术的前提下，如何用重复元素构建不重复的体验非常重要，因此素材拼接技术应运而生，这也是迄今为止2D游戏都大量使用拼接的原因。&lt;br&gt;&lt;br&gt;在素材拼接中，迷宫是非常著名的衍生物。为了冲淡素材的单调，又引进了地雷机制来淡化枯燥场景对玩家心理的负面影响，貌似不可预期的踩地雷使玩家转移了注意力。加上迷宫往往不能随便存盘，更加增加了挑战性。有很多游戏在迷宫里放一些宝箱和存盘点来缓解战斗流程对玩家的压力，在最终放一个BOSS来给予玩家明确的关卡结束的信息及奖励。从当时的制作环境来看，这些都是极其成功的设计思路。&lt;br&gt;&lt;br&gt;当然，到了今天，容量已经不再是困扰开发者的问题，迷宫这一早期RPG游戏中最为成功的要素，逐渐被更自由，更庞大，更富有探索趣味的“大世界”所取代。但它的难度递进、布怪策略、压力释放等设计思路为后世的各种游戏制作尤其是关卡设计都提供了弥足珍贵的经验。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/19631080/answer/16181989
+</link>
+<author>
+吴梓杰
+</author>
+<title>
+如何做好 Android 界面设计？
+</title>
+<description>
+不要抄iOS，遵循Google的Android Design规范。君可见现在新浪微博Android官方客户端以及腾讯微信的UI照搬iOS显得那么无可吐槽，而优秀的Android app应该像the Verge或者Falcon那样，遵守Android Design规范:&lt;br&gt;根据Google官方的设计规范&lt;a href=&quot;http://developer.android.com/design/index.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Design | Android Developers&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; (最近发现了国内有网站竟然非官方翻译了,有兴趣的知友可以猛击这里--- &lt;a href=&quot;http://www.apkbus.com/design/index.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Android Design&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)中提到，一个好的Android app设计可以分为三个要点：&lt;br&gt;1.&lt;b&gt;Style&lt;/b&gt;（风格）&lt;img src=&quot;http://p4.zhimg.com/7b/15/7b15f4205d4b4ae5fb0f3d32b66c136d_m.jpg&quot; data-rawwidth=&quot;760&quot; data-rawheight=&quot;495&quot; class=&quot;origin_image&quot; width=&quot;760&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/7b/15/7b15f4205d4b4ae5fb0f3d32b66c136d_r.jpg&quot;)'&gt;2.&lt;b&gt;Patterns&lt;/b&gt;（布局）&lt;img src=&quot;http://p3.zhimg.com/fe/89/fe892ab5fc9dfd16f920b0936edf0bdb_m.jpg&quot; data-rawwidth=&quot;760&quot; data-rawheight=&quot;578&quot; class=&quot;origin_image&quot; width=&quot;760&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/fe/89/fe892ab5fc9dfd16f920b0936edf0bdb_r.jpg&quot;)'&gt;3.&lt;b&gt;Building Blocks&lt;/b&gt;（控件）&lt;img src=&quot;http://p1.zhimg.com/81/f6/81f63f814b8754f9182f93ebae3f358f_m.jpg&quot; data-rawwidth=&quot;760&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image&quot; width=&quot;760&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/81/f6/81f63f814b8754f9182f93ebae3f358f_r.jpg&quot;)'&gt;&lt;br&gt;设计规范中，Style就是整个app的外观，其中包括：&lt;blockquote&gt;&lt;b&gt;Devices and Displays&lt;/b&gt;*1、&lt;b&gt;Themes&lt;/b&gt;*2、 Touch Feedback、 Metrics and Grids*3、 Typography、Color、Iconography、Writing Style.&lt;/blockquote&gt;注：&lt;br&gt;*1：指的是要注意不同间的设备有不同的分辨率以及系统UI；&lt;br&gt;*2：主题，也就是所说的&lt;b&gt;Holo&lt;/b&gt;，其中包括Holo Light、Dark、以及Light和Dark混血= .=&lt;img src=&quot;http://p4.zhimg.com/30/0c/300ceb8efd501a2d8291bbb89fa003b4_m.jpg&quot; data-rawwidth=&quot;246&quot; data-rawheight=&quot;390&quot; class=&quot;content_image&quot; width=&quot;246&quot;&gt;Holo light&lt;img src=&quot;http://p2.zhimg.com/54/08/540866e0e868938b80257208329d813f_m.jpg&quot; data-rawwidth=&quot;246&quot; data-rawheight=&quot;390&quot; class=&quot;content_image&quot; width=&quot;246&quot;&gt;HoloDark &lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/47/8547827a65fb2f7dafe7df9685ccf4a2_m.jpg&quot; data-rawwidth=&quot;246&quot; data-rawheight=&quot;390&quot; class=&quot;content_image&quot; width=&quot;246&quot;&gt;&lt;br&gt;Holo Light with dark action bar&lt;br&gt;*3：直接翻译是度量与网格，其实指的是就DPI的控制大小，Google大部分用的是48DPI；&lt;br&gt;总的来说，这部分规范了一个好的Android app应有的外观设计。&lt;br&gt;&lt;br&gt;第二部分的Pattern，个人觉得这就是整个app的重点了，其中包括了手势（&lt;b&gt;Gestures&lt;/b&gt;）、app的逻辑结构（&lt;b&gt;App Structure&lt;/b&gt;）、滑动（&lt;b&gt;Swipe Views&lt;/b&gt;）等在内的交互等多个设计要点：&lt;blockquote&gt;New in Android*1、&lt;b&gt;Gestures&lt;/b&gt;、&lt;b&gt;App Structure&lt;/b&gt;、Navigation、Action Bar、Multi-pane Layouts、&lt;b&gt;Swipe Views&lt;/b&gt;、Selection、Confirming &amp;amp; Acknowledging、Notifications、Widgets、Settings、Help、Compatibility、Accessibility、&lt;b&gt;Pure Android&lt;/b&gt;*2.&lt;/blockquote&gt;注：*1：在4.x的系统里面，Google在其中增添了新的元素，其中包括新的通知系统（4.1+），可调节Widget大小，新的辅助功能，Navigation Bar，Action Bar，Multipane layouts及新的Selection，这些都是设计是要考虑的元素；&lt;br&gt;&lt;br&gt;*2：何为&lt;b&gt;Pure Google&lt;/b&gt;，指的是不要移植或抄袭其他平台的UI元素或者按钮:&lt;img src=&quot;http://p3.zhimg.com/b8/7e/b87e145e7266e840a35b283470df61ae_m.jpg&quot; data-rawwidth=&quot;460&quot; data-rawheight=&quot;284&quot; class=&quot;origin_image&quot; width=&quot;460&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b8/7e/b87e145e7266e840a35b283470df61ae_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p1.zhimg.com/08/54/085442369f3ceb3659644e3c5ec48514_m.jpg&quot; data-rawwidth=&quot;460&quot; data-rawheight=&quot;174&quot; class=&quot;origin_image&quot; width=&quot;460&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/08/54/085442369f3ceb3659644e3c5ec48514_r.jpg&quot;)'&gt;诸如iOS的底部标签栏、返回标签键（一大堆app中枪，渣浪微信倒地不起）：&lt;img src=&quot;http://p3.zhimg.com/62/64/6264b6aae590c048bd85844160daa833_m.jpg&quot; data-rawwidth=&quot;448&quot; data-rawheight=&quot;393&quot; class=&quot;origin_image&quot; width=&quot;448&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/62/64/6264b6aae590c048bd85844160daa833_r.jpg&quot;)'&gt;&lt;br&gt;左：Android      右：iOS&lt;img src=&quot;http://p1.zhimg.com/d8/4c/d84c4e2cef328a31ff5b333c77f5d88d_m.jpg&quot; data-rawwidth=&quot;448&quot; data-rawheight=&quot;392&quot; class=&quot;origin_image&quot; width=&quot;448&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d8/4c/d84c4e2cef328a31ff5b333c77f5d88d_r.jpg&quot;)'&gt;&lt;br&gt;左：Android      右：iOS&lt;br&gt;&lt;br&gt;最后的Building Block，控件，就是细节处的按钮，进度条，标签等，包括：&lt;blockquote&gt;Tabs、Lists、Grid Lists、Scrolling、Spinners、Buttons、Text Fields、Seek Bars、Progress &amp;amp; Activity、Switches、Dialogs、Pickers.&lt;br&gt;&lt;/blockquote&gt;细节嘛，&lt;br&gt;个人看的最多就是这个：&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;img src=&quot;http://p2.zhimg.com/98/e1/98e1a7b10f3c467b28efb2d72d72b2cc_m.jpg&quot; data-rawwidth=&quot;160&quot; data-rawheight=&quot;62&quot; class=&quot;content_image&quot; width=&quot;160&quot;&gt;万恶的菊花&lt;br&gt;。&lt;br&gt;。&lt;br&gt;。&lt;br&gt;Google甚至还规范不建议用这个↓（但是在Google Play的进入过程中可以看到这个官方app与这个规范的矛盾）&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a3/c6/a3c6b8a344dbb170b45e9c5f72d3c88a_m.jpg&quot; data-rawwidth=&quot;160&quot; data-rawheight=&quot;61&quot; class=&quot;content_image&quot; width=&quot;160&quot;&gt;&lt;br&gt;以上。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20641016/answer/15903644
 </link>
 <author>
@@ -88,7 +116,7 @@ littleben
 http://www.zhihu.com/question/20457439/answer/16568462
 </link>
 <author>
-知乎用户
+鄭紫陽
 </author>
 <title>
 为何苹果产品里面唯独 iPhone 划分了中国、欧洲、美洲这样的保修区域，跨区无法保修？
@@ -228,7 +256,7 @@ Arikid
 http://www.zhihu.com/question/20906222/answer/16564047
 </link>
 <author>
-知乎用户
+沈嘉文
 </author>
 <title>
 通过哪几个简单的观察指标能判断一个男人是不是渣男？
@@ -242,7 +270,7 @@ http://www.zhihu.com/question/20906222/answer/16564047
 http://www.zhihu.com/question/20906447/answer/16564045
 </link>
 <author>
-知乎用户
+鄭紫陽
 </author>
 <title>
 2013 年 4 月 1 日苹果更新中国区保修标准以后，整机更换的概率是不是变低了？
@@ -263,34 +291,6 @@ http://www.zhihu.com/question/20905672/answer/16561993
 </title>
 <description>
 泻药。&lt;br&gt;租车的预授权款项主要用来垫付以下款项：&lt;br&gt;1、道路违法自动处罚（如闯红灯）的罚款金；&lt;br&gt;2、车辆小故障／小事故损坏赔偿；&lt;br&gt;3、租用期间及可能延期产生的租金。&lt;br&gt;&lt;br&gt;而对于车辆防丢，这样的小数额预授权显然是没用的，所以实际防盗是采取如下办法：&lt;br&gt;1、所有的租借车辆都会被安装特殊的GPS设备，车辆的位置会实时反馈到租车公司，如有异常，租车公司可以采取进一步措施（报警、远程锁死车辆等）；&lt;br&gt;2、所有的租借车辆都会投上专门的保险，一旦车辆确认被盗，由保险公司进行理赔；&lt;br&gt;3、信用卡本身就是客户真实身份的保证，一旦被盗公安介入后可以进一步追查客户线索（这就是租车公司不接受能明显带来现金流的现金押金的原因之一）。&lt;br&gt;&lt;br&gt;手机码字，就这些吧。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20445162/answer/16551846
-</link>
-<author>
-warfalcon
-</author>
-<title>
-如何集中精神看资料？
-</title>
-<description>
-首先不太同意&lt;a class=&quot;member_mention&quot; data-title=&quot;@梁星玫&quot; data-editable=&quot;2&quot; href=&quot;http://zhihu.com/people/starose&quot; data-tip=&quot;p$b$starose&quot;&gt;@梁星玫&lt;/a&gt; 的建议，如果只是读书这种方法对某类人士会有用，我也经常在各种交通工具上看书，但这种方法并不适合于高强度的阅读和思考，特别是在阅读一些专业性强的资料，除了阅读，还要理解、记忆和思考，本来就容易分神，更别提在干扰很大的情况能把这一切做好。&lt;br&gt;&lt;br&gt;&lt;br&gt;今天有时间，把这个问题展开一下回答，写一个长一点的答案，分享一些实用的技巧&lt;br&gt;&lt;br&gt;&lt;strong&gt;注意&lt;/strong&gt;：下面的答案有条件范围的，限定在资料已经收集完成并一个人的情况，否则再谈谈资料收集、合作性学习，还要写好多，稍微扩展一下就能写本书了。&lt;br&gt;&lt;br&gt;&lt;b&gt;1、阅读目的：&lt;/b&gt;&lt;br&gt;&lt;br&gt;不同的目的所使用的方法不同，如果有可能把这个目的写下来，越明确越好。比如考试、三天之后出个报告、 读懂一个陌生行业的项目说明书、解决某个具体问题,&lt;br&gt;&lt;br&gt;大脑更喜欢具体详细的目标&lt;br&gt;&lt;br&gt;目的明确后能估算出自己有多少时间，去收集资料、阅读和整理。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;花一点时间计划一下准备做什么。&lt;/li&gt;&lt;li&gt;把工作划分成可控制的小块，每次专心做好一块。&lt;/li&gt;&lt;li&gt;一个任务有了明确的最后期限能对时间的消耗有个判断，很多人都会在临近最后期限时效率大增。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;2、阅读时间：&lt;/b&gt;&lt;b&gt;在精神最充沛的时候阅读&lt;/b&gt;&lt;br&gt;&lt;br&gt;人一天的注意力有高有低，从早上一起床开始不断的消耗注意力，而注意力的高点无外乎清晨、上班后半小时（8：30-10：00之间））、下午3-4点，半夜这四五个时间段内，通常在这些时间内阅读能让效率更好。&lt;br&gt;&lt;br&gt;最推荐的时间是清晨和上班后半小时，不推荐半夜，其中一个原因是如果在11、12点或更晚，一旦看的入神，当天的睡眠时间很短，会直接影响第二天上午的效率，一上午都没精神。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;3、阅读环境：&lt;/b&gt;&lt;br&gt;&lt;br&gt;如果你的家和办公班环境好一点没有打扰，那是首选。&lt;br&gt;其次是图书馆、自习室、咖啡厅这类环境安静的地方，除了阅读，还可以做笔记。&lt;br&gt;要注意：&lt;br&gt;&lt;ul&gt;&lt;li&gt;培养成在固定时间、固定地点专心学习工作的好习惯。&lt;/li&gt;&lt;li&gt;如果可能，在进入学习或者工作状态前做一些小仪式，比如摆个姿势，戴上学习帽什么的。就好像在运动前做准备活动一样，给身体一个提示。&lt;/li&gt;&lt;/ul&gt;一定要注意去除各种干扰，关闭网络，把电话调成静音，等休息时查看并回复过去。&lt;br&gt;&lt;br&gt;&lt;b&gt;4、集中注意力：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;可以使用番茄工作法，在开始之前可以通过一些小技巧来集中注意力，比如橘子集中法或2-3分钟的深呼吸。&lt;br&gt;&lt;br&gt;&lt;b&gt;橘子集中法&lt;/b&gt;：这种方法可以让你在30秒内集中注意力：&lt;br&gt;&lt;ul&gt;&lt;li&gt;把准备要看的文章放在面前，先不要开始阅读&lt;/li&gt;&lt;li&gt;闭上眼睛，放松心情。从头顶到脚尖都要意识到自己本身。挺直背脊，身体放松，以平缓的节奏呼吸&lt;/li&gt;&lt;li&gt;在心里面说出此次阅读的目的。（例如：“我要在接下来的10分钟阅读这本杂志，好让自己善于利用时间，或是获得灵感。”） &lt;/li&gt;&lt;li&gt;想像你把橘子放在后脑勺上方。&lt;/li&gt;&lt;li&gt;意识到自己正处于精神集中的放松状态。眼角和嘴角显出微微的笑意，松弛脸部，消除紧张。感觉自己虽然闭着眼睛，而视线却不断在扩展。现在你的眼睛和内心已经有了直接的联系。&lt;/li&gt;&lt;li&gt;一面维持这种精神集中的放松状态，一面轻轻地张开眼睛，以你觉得最适合的速度开始阅读&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;呼吸法：&lt;/b&gt;&lt;br&gt;在《意志力》一书中有科学家通过试验发现，在事情开始之前，通过2-3分钟的深呼吸能有效的集中注意力，建议在刚开始时，呼吸的节奏控制在10秒左右，吸气10秒、呼气10秒，持续2-3分钟左右。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;番茄工作法：&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.write.org.cn/pomodoro-mind-map-reading-notes-2.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;《番茄工作法》思维导图读书笔记&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.write.org.cn/fan-qie-gong-zuo-fa-tu-jie-si-wei-dao-tu-du-shu-bi-ji.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;《番茄工作法图解》思维导图读书笔记&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.write.org.cn/fan-qie-gong-zuo-fa-tu-jie-si-wei-dao-tu-du-shu-bi-ji-2.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;《番茄工作法图解》思维导图读书笔记（2）&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;strong&gt;在写字台旁如何集中注意力&lt;/strong&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;给思考布置一些挑战性的任务：可以在学习之前订一下难度略高一点的任务的目标&lt;br&gt;&lt;/li&gt;&lt;li&gt;您打算向讲述学过的东西？在学习的时候就设想自己已经在向他人传授是极为有效的&lt;br&gt;&lt;/li&gt;&lt;li&gt;不要忘记游戏，在学习的时候别忘了想像和游戏&lt;br&gt;&lt;/li&gt;&lt;li&gt;记录学习时间并增加内容：每次学习时，详细记录学习的起止时间，然后在这段学习时间里加入尽可能多的东西。尽可能多的时间。&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;其它的建议&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;别喝糖分过大的饮料，最好是清水&lt;/li&gt;&lt;li&gt;别喝酒、吃的过油、味道太重，也别吃的过饱这些都直接干扰注意力&lt;/li&gt;&lt;li&gt;短时间集中注意力，可以用咖啡、红牛之类的，但如果是长时间，尽量避免，只是清水&lt;/li&gt;&lt;li&gt;别在刚吃完饭时阅读，容易发困.&lt;/li&gt;&lt;li&gt;限制碳水化合物的摄入量，但不要一点也不吃。&lt;br&gt;&lt;/li&gt;&lt;li&gt;如果不能保持正确的姿势，反而会觉得更疲劳。不管是站还是坐着，应当收腹立腰，放松双肩，脖子有稍稍伸展的感觉。&lt;br&gt;&lt;/li&gt;&lt;li&gt;整理好周围的物品。准备好工具和水在身边，别让其它东西或物品来分散你的注意力&lt;br&gt;&lt;/li&gt;&lt;li&gt;当你精力无法集中时，别强看，放松一下，做些活动，花上3-5分钟，比如俯卧撑、压腿之类。&lt;/li&gt;&lt;li&gt;或者使用5分钟的小睡来恢复注意力，那怕只是闭上眼睛趴一会&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;5、&lt;/b&gt;&lt;b&gt;阅读技巧：&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20152015/answer/14145268&quot; class=&quot;internal&quot;&gt;读专业书籍总是分神，读不下去，怎么办？&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;先阅读题目然后再阅读第一个段落&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　一般可以根据材料的标题来确定这篇文章的难度是否超出自己的知识范围，超出太多则会放弃或找一篇难度稍底一些的材料阅读。 有时间会遇到必须要读懂的时候，这时可以找到一个对相关材料比较熟悉的人，给讲解一下，然后让他推荐几天相关的，来帮助阅读这份材料。   &lt;ul&gt;&lt;li&gt;&lt;b&gt;寻找主要脉络&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　打开思维导图软件，参照题目、标题、副标题并挑出关键性的句子，制作这个材料的思维导图。   &lt;ul&gt;&lt;li&gt;&lt;b&gt;翻查生词&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　在阅读材料时会遇到很多的专业词汇，这时利用推荐图书、网络和图书馆，来查找遇到的专业词汇并整理到一起用来帮助以后的阅读。   &lt;ul&gt;&lt;li&gt;&lt;b&gt;持续审查你的理解&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　每阅读完一章或段落时，不断的把自己的阅读心得归纳到思维导图上。   &lt;ul&gt;&lt;li&gt;&lt;b&gt;重读一遍&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　当你阅读完第一篇之后还是无法了解核心内容，再重读一遍。最好把思维导图也从新做一遍，看一下第一篇做的思维导图跟第二次做的有什么不同。   &lt;ul&gt;&lt;li&gt;&lt;b&gt;读完全文&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　最好把全文阅读完一遍，在从新总结一遍，并修改你的思维导图。看一下做完的思维导图，哪部分做的不好，再从新阅读相应部分。   &lt;ul&gt;&lt;li&gt;&lt;b&gt;边写边做简单笔录&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;　　一边阅读一边做思维导图有注于你集中注意力，并一直关注材料中的核心内容。&lt;br&gt;&lt;br&gt;&lt;b&gt;6、笔记方式：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;采用多种形式，保持大脑活跃。学习的时候可以记笔记、划重点、自问自答、组织讨论、融会贯通、形象化概念等等。&lt;/li&gt;&lt;li&gt;隔一段时间就换个主题做做，保持新鲜感。&lt;/li&gt;&lt;/ul&gt;大脑喜欢色彩和图像，在做笔记时可以用多种方式比如：思维导图、康奈尔、六色荧光笔。特别是用彩笔手绘思维导图，会让记得更牢&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.read.org.cn/html/87-activate-the-brain-thinking-of-learning.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;《开动大脑》一一思维导图学习法&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.read.org.cn/html/689-cornell-notes-system.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;康奈尔笔记系统&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.read.org.cn/html/314-six-color-fluorogenic-pen-study-the-law.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;六色荧光笔学习法（１）&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;7、知识地图&lt;/b&gt;&lt;br&gt;&lt;br&gt;不管用哪种方式，手写、手绘、思维导图、PPT、摘录、书评都可以，个人经验是越花时间和精力效果越好。整理内容的同时，进一步的思考把内容变成自己，看看如何应用或归纳到个人知识体系中，把你学到的东西变成一个知识地图，一点一点的完善.。&lt;br&gt;&lt;br&gt;同时要记得，在学习的时候就设想自己已经在向他人传授，用自己的话尽可能简单的去解释学到的东西。&lt;br&gt;&lt;br&gt;&lt;b&gt;8、测试复习&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;最好的学习方法是完成当天的计划之后，花时间对自己做个小测试，看看自己到底能学到了多少东西，然后针对自己的没有记住的部分定期复习，如果有时间可以用Supermemo、Anki，自己来做题库，不过我自己最常用的方法是思维导图&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;使用思维导图来确认没有掌握的知识&lt;/strong&gt;：&lt;br&gt;准备一张白纸从最重要的知识点开始，完全按记忆来手绘这部分的内容，越详细越好。全部完成之后，看看你自己到底掌握了多少知识。再把你自己手绘的思维导图跟软件制作的思维导图做下对比。没有完成的内容就是你没掌握或不会的内容，这部分需要更点复习。不断的重复这个过程，一直到你不需要任何帮助或提示就能全部完成所有的思维导图为止。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;使用思维导图来快速复习：&lt;/strong&gt;&lt;br&gt;做完的思维导图打印出来，帖在床边上放在办公室或其它你一天经常在的地方，早上起来、晚上睡觉前，工作中休息时都可以看一遍。复习的思维导图不要太大。而且主要分支最好在（7+-2）之内，最多不能超过9个，不要超过7层，一篇课文或一章最合适。一般来说看完一篇的思维导图只需要2-5分钟或者更短，复习完一本书也只需要20-30分钟，一天最少要复习二遍。还可以把思维导图转为图像，设为电脑桌面、屏幕保护和传到手机中。除了早晚还可以做车时、吃饭前、饭后、休息等一切可以利用的时间来不断的复习。&lt;br&gt;&lt;br&gt;&lt;strong&gt;附注：&lt;/strong&gt;这个答案中的实用性非常强，绝对要比一些收费几千元上万元的培训有价值，但要注意，这是很多实用技巧的集合，但并不意味看完就用到自己身上并且可以马上看到效果，想应用里面的任意一条技巧都要多试并花上一些时间才行。&lt;br&gt;&lt;br&gt;&lt;strong&gt;插播条广告：对学习方法、阅读技巧和注意力方法有兴趣的朋友欢迎关注我的微信(read01 )和Blog ( &lt;a href=&quot;http://www.read.org.cn&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;www.read.org.cn&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; )&lt;/strong&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19918179/answer/16428671
-</link>
-<author>
-黄翠珊
-</author>
-<title>
-为什么款式设计好看的胸罩一般没有大码的？
-</title>
-<description>
-谢邀！（喂我会说这是我回答的第一个问题所以故意这样写的吗）&lt;br&gt;&lt;br&gt;&lt;b&gt;首先，&lt;/b&gt;大码文胸在中国理所当然的定义里，是下胸围大并且罩杯大——满足这两个条件的大概有两类人——肥婆、大妈。观察一下肥婆的穿着，基本是黑灰棕（总之是要显瘦），至于大妈的穿着，基本就要便宜，很多大妈根本不知道胸围和罩杯是两个独立的维度。&lt;br&gt;&lt;br&gt;&lt;b&gt;再者，&lt;/b&gt;70A-75B占了中国女人胸部比例的大部分，所以新潮精巧的款式总是在70A-75B的文胸里出现，这点不解释了。&lt;br&gt;&lt;br&gt;&lt;b&gt;另外，&lt;/b&gt;中国文胸业一直在传递一个信念——越聚拢越好！聚拢大码文胸的理念：宽肩带、多排扣、宽下围设计以固定沉重的胸部，这三点就决定了大码文胸不可能做得精巧可爱。反观聚拢小码文胸对肩带或是否多排扣无甚要求，细肩带、交叉肩带、后排扣、侧排扣、前排扣等，多样化造型决定了花式多样化，而且你能想象图1的花式放在宽肩带、多排扣、宽下围的大码文胸是多么奇怪吗？&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/29/3c/293c3dd0abdeca570deb3ca8d13bb8e8_m.jpg&quot; data-rawwidth=&quot;620&quot; data-rawheight=&quot;620&quot; class=&quot;origin_image&quot; width=&quot;620&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/29/3c/293c3dd0abdeca570deb3ca8d13bb8e8_r.jpg&quot;)'&gt;图1，这样的文胸设计精巧可爱，但绝对不适合胸部比较大的女生，因为它的下围过于单薄，也没有龙骨来使钢圈下围紧贴胸部，结果往往是罩杯往上移，不能很好承托胸部。&lt;br&gt;&lt;br&gt;&lt;b&gt;最后，&lt;/b&gt;也是我最想吐槽的一点，中国文胸业把大码文胸和大罩杯文胸混淆（上面我一直说的都是大码文胸——下胸围大并且罩杯大），导致小部分下胸围小而罩杯大的女生一直没能穿上合适的内衣。我自己做例子：在实体店是绝对不会有70C存在的，导致学会网购之前一直穿的都是75B，75B的罩杯和70C的罩杯差不多，但是下胸围不够紧贴。学会网购之后穿了两年70C，没什么不妥但是会有一点点副乳挤在外面，胸部下侧也会有勒痕。到最近，淘到一家外贸文胸店，才发现原来70D才是自己的Size。穿码数偏小的内衣，会导致一个严重的问题——乳头左移。姐妹们可以检查一下自己是否存在这样的问题，毕竟在中国，穿小码内衣来追求乳沟的女生不少见。&lt;br&gt;&lt;br&gt;&lt;b&gt;最后的最后&lt;/b&gt;，来一张最近淘到的外贸文胸店的一款，既满足了我的尺寸需要又满足了我对款式的追求——女人对内衣款式的追求是永远不会随年龄而褪去的吧。见下，图2。Size从70A-85E。还有一个问题，既然70A和85E的价钱是一样的，哪个厂家会乐意去做大码？物料不用钱的吗。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/68/e7/68e7241135c7e89602d1249a28e06132_m.jpg&quot; data-rawwidth=&quot;620&quot; data-rawheight=&quot;620&quot; class=&quot;origin_image&quot; width=&quot;620&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/68/e7/68e7241135c7e89602d1249a28e06132_r.jpg&quot;)'&gt;&lt;br&gt;以上！
 </description>
 </item>
 </channel>
