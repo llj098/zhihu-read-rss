@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20902240/answer/16557532
+</link>
+<author>
+匿名用户
+</author>
+<title>
+罗永浩为什么有这么大口气把自己的ROM取名为OS？
+</title>
+<description>
+纯就事论事的讨论：&lt;br&gt;&lt;br&gt;CentOS&lt;br&gt;Ubuntu JeOS&lt;br&gt;ClearOS&lt;br&gt;...&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_Linux_distributions&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;List of Linux distributions&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 里用 OS 冠名的 Distribution 不是个案，是一种广泛被接受的行为。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;按技术来讲，Android本身都不敢自称OS，只是称运行在Linux上的Framework（框架）。&lt;br&gt;&lt;/blockquote&gt;这个说法不知道出处在哪里，但是我认为是不合适的。Linux 是 Kernel，而操作系统并不仅仅是 Kernel，更包含了周边的一系列软件，是他们协同工作，使得一台硬件机器进入了可被人使用的状态。&lt;br&gt;&lt;blockquote&gt;An &lt;b&gt;operating system&lt;/b&gt; (&lt;b&gt;OS&lt;/b&gt;) is a collection of software that manages &lt;a href=&quot;http://en.wikipedia.org/wiki/Computer_hardware&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;computer hardware&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; resources and provides common &lt;a href=&quot;http://en.wikipedia.org/wiki/Operating_system_services&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;services&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; for &lt;a href=&quot;http://en.wikipedia.org/wiki/Computer_program&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;computer programs&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/blockquote&gt;&lt;br&gt;举个例子来说，我们平时使用的 Linux，完整的称呼应该是 GNU/Linux，下面是 GNU 官方的解释：&lt;br&gt;&lt;blockquote&gt;Most operating system distributions based on Linux as kernel are basically modified versions of the GNU operating system. We began developing GNU in 1984, years before Linus Torvalds started to write his kernel. Our goal was to develop a complete free operating system. Of course, we did not develop all the parts ourselves—but we led the way. We developed most of the central components, forming the largest single contribution to the whole system. The basic vision was ours too.&lt;br&gt;&lt;br&gt;&lt;b&gt;In fairness, we ought to get at least equal mention.&lt;/b&gt;&lt;/blockquote&gt;简单来说，仅仅是 Linux Kernel 自身无法成为一个有用的系统，因此，GNU 的一系列软件，至少应当获得与 Kernel 同等的&quot;mention&quot;。&lt;br&gt;&lt;br&gt;事实上，说 Linux 是一种操作系统，反而是一种错误的说法，它是 Kernel。真正称得上操作系统的，反而是被题主所轻视的 Distribution。从这个意义上来说，Andriod 可以算是一种 Distribution，称之为操作系统没有问题。&lt;br&gt;&lt;blockquote&gt;Examples of popular modern operating systems include &lt;a href=&quot;http://en.wikipedia.org/wiki/Android_(operating_system)&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Android&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/BSD&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;BSD&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/IOS&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iOS&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Linux&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Linux&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Mac_OS_X&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mac OS X&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/QNX&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;QNX&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Microsoft_Windows&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Microsoft Windows&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;,&lt;a href=&quot;http://en.wikipedia.org/wiki/Operating_System#cite_note-netapplications-3&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;[3]&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Windows_Phone&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Windows Phone&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and &lt;a href=&quot;http://en.wikipedia.org/wiki/IBM_z/OS&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IBM z/OS&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;. All these, except Windows and z/OS, share roots in &lt;a href=&quot;http://en.wikipedia.org/wiki/UNIX&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;UNIX&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/blockquote&gt;&lt;br&gt;而其他的各种 ROM 是基于 Andriod 的二次开发与再发行，本身作为 Distribution，称为 OS 我认为也没有什么原则上的问题。（可以参考各类基于 Debian 二次开发的 Distribution。）&lt;br&gt;&lt;br&gt;实施上，我认为，用自行开发的一个 Distribution 号称“我国自主研发的操作系统”来骗经费是可耻的，因为他们总是暗示整个系统是自行开发的，并有将细节描述完整。&lt;br&gt;&lt;br&gt;而锤子的海报上很清楚的写着 “Based on Andriod“，另外也提及了改进自 CM。所以我觉得无论从客观的定义层面，还是道德层面，都没有什么问题。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20486540/answer/15558848
 </link>
 <author>
@@ -60,7 +74,7 @@ http://www.zhihu.com/question/20889089/answer/16514215
 http://www.zhihu.com/question/20186077/answer/16570626
 </link>
 <author>
-知乎用户
+天光
 </author>
 <title>
 在北上广一辈子租房住现实吗？
@@ -158,7 +172,7 @@ http://www.zhihu.com/question/20909238/answer/16574062
 http://www.zhihu.com/question/20631320/answer/16570694
 </link>
 <author>
-知乎用户
+YuDan
 </author>
 <title>
 在太平洋中心把一块拳头大小的花岗岩扔下去，会沉到海底吗？
@@ -172,7 +186,7 @@ http://www.zhihu.com/question/20631320/answer/16570694
 http://www.zhihu.com/question/20894000/answer/16573799
 </link>
 <author>
-知乎用户
+金钊立
 </author>
 <title>
 樱花怎么拍可以突出重点又不杂乱无章？
@@ -256,7 +270,7 @@ http://www.zhihu.com/question/20364158/answer/15248304
 http://www.zhihu.com/question/20905917/answer/16567410
 </link>
 <author>
-知乎用户
+张晓
 </author>
 <title>
 为什么看 Smartisan OS（锤子系统）发布会视频与看网上的图文直播会有完全相反的两种感受？
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20186077/answer/16571797
 </title>
 <description>
 我列几个简单数字吧。&lt;br&gt;我同学甲：07年买房，首付20万，如今增值180万。&lt;br&gt;我同学乙：05年买第一套房，首付10万，后陆续在郊区买了两套房，如今增值300万。&lt;br&gt;我：去年买房，一年不到，增值60万。&lt;br&gt;一直没有买房的几个同学：可以预见的近期再也不可能买房。&lt;br&gt;&lt;br&gt;以上都是普通工薪族人家。往后会怎么变，谁也不好说。但是往前数七八年里，北上广这些城市买到房就算赚到。&lt;br&gt;&lt;br&gt;高晓松哪怕拎个吉他街边卖唱都赚得到酒店房钱和酒吧的酒水钱，你行不行？他哪怕一无所有，张嘴一唱，有女孩子愿意跟着他浪迹天涯，你行不行？身为普通人，不要乱学成功人士，到头来两头落空。一直租房是否合适，我的答案是：呸！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20186077/answer/16571484
-</link>
-<author>
-顾扯淡
-</author>
-<title>
-在北上广一辈子租房住现实吗？
-</title>
-<description>
-&lt;blockquote&gt;有人问音乐人高晓松，为什么结了婚还租房住，不买自己的房？高晓松回答：我不买房，全天下都是我的，想住哪儿就住哪儿，买了房就只剩一个角落是我的，我妹也没买房，但我俩都走遍了全世界。&lt;/blockquote&gt;&lt;br&gt;高晓松那种话就是扯王八犊子，说的好像是他不买房然后拿买房的钱走遍天下一样。&lt;br&gt;&lt;br&gt;实际上人家身家几亿，又不是集体户口还是美国绿卡，本身又有社会地位，租房上的时间成本精力成本对他来说可以忽略不计，哪怕每年租套别墅装修成不同风格也不是什么大事，缺了什么丢了什么再买就行，不就是钱吗，真想买房了愿意买几套就买几套，子女读书以后也肯定是送出国，一般人行吗？&lt;br&gt;&lt;br&gt;许多人为什么要把买房和梦想互相对立呢？觉得买了房就失去了追逐梦想的机会一样，甚至鄙视买了房的人，说得他们好像没有梦想，活的行尸走肉一样。这种观念很奇怪啊。。。&lt;br&gt;&lt;br&gt;其实也大可不必，在天朝很多城市里尤其是大城市，买房=创业，目前这两者可以划等号的。很多年轻人靠早买房提早完成梦想的例子大家也应该看得很多。好吧我真的很羡慕那种弄个30套房子出租每天出门都可以收次租的大叔大妈。&lt;br&gt;&lt;br&gt;前几天常去的论坛有人挖坟，有一个老贴被顶起来了&lt;br&gt;&lt;a href=&quot;https://www.253874.com/new/adminfo.asp?html=0&amp;amp;id=134284&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;给你一百万，买房子还是创业？ &lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;大部分人都说肯定是创业   &lt;br&gt;然后都在在讨论各种创意的思路。&lt;br&gt;这个是08年的帖子。。。&lt;br&gt;&lt;br&gt;5年后重提，各种新的回复看到令人唏嘘不已，说肯定是创业的老ID大部分都后悔了，创业成功的真的是少数。更多的说法是如果当时早买了，现在的生活肯定会更如何如何。&lt;br&gt;&lt;br&gt;回到楼主的问题，在中国北上广一辈子租房现实吗？&lt;br&gt;不是准备肉身翻墙为最终目的配合目前的政策来看，真的不现实。&lt;br&gt;&lt;br&gt;租房的好处很多，我也知道，可是真租房过一辈子需要太多的前提了，首先需要一个强大的内心、然后需要媳妇也有强大的内心、再加上丈母娘强大和包容的内心，最后孩子也要有强大的内心，你怎么和孩子解释为什么不能上好的学校，为什么爸爸和妈妈老是要搬家？&lt;br&gt;&lt;br&gt;在没有完善的租赁法规下面，租房过一辈子是不现实的。&lt;br&gt;&lt;br&gt;现实情况如果是好不容易租到了上班近交通便利租金合理的房子，住了几个月，觉得已经稳定了，于是花了不少精力添置了喜欢的家具电器准备和女友恩恩爱爱的时候，房东飕的一下窜进来，带着几个陌生人进来看这看那，完全不管你在干什么，过了1周告诉你，房子我已经卖了，你下个月就搬走吧，房东良心好的话还可以这几天不收你房租顺便再赔你两个月的房租，良心不好挑个续租的时间你也完全没辙，而且搬家是重劳动找房源更是费心，你一个人单身的话还好，如果两个人工作都特别忙，女友已经大肚子或者更悲催的是孩子才几个月的那种情况你怎么办。。。&lt;br&gt;&lt;br&gt;一辈子在北上广不买房小孩子读书怎么报户口？高考时候回老家去考吗？别抬杠出国去读，能计划孩子国外留学的房子都早买好了。&lt;br&gt;&lt;br&gt;其实这个事情也简单，等收入攒到一定程度了，自然而然就会买了。小时候我还总是在纠结考北大还是考清华，现在看来，我真的是想多了。
 </description>
 </item>
 </channel>
