@@ -15,6 +15,76 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20360098/answer/14987184
+</link>
+<author>
+大风
+</author>
+<title>
+中国有哪些知名且名副其实的 Geeks 和 Hackers？他们做了什么？
+</title>
+<description>
+谢邀。看到前面的回答太有压力了。如果把geeker与hacker定义为linus、richard stallman这种类型的人，那么前面的回答已经很好了。&lt;br&gt;&lt;br&gt;我这里再补充一些安全领域里的“黑客”们。&lt;br&gt;&lt;br&gt;其实什么样的人才是“牛人”本身就极具争议，带有主观性。我发现很多学生、年轻人心目中的“牛人”、“hacker”似乎就是掌握了某种看起来很酷的技术，比如去年黑帽大会上被热捧的“黑掉卫星”、“开锁高档车”等。又或者是做了很“酷”的事情，比如入侵了facebook或google（确有发生过）。&lt;br&gt;&lt;br&gt;但其实这些人往往只是在某个细分领域有过一些研究，其中有的研究甚至都不是很深入，但完成了某个“project”，让人看起来似乎很牛。&lt;br&gt;&lt;br&gt;从另一个方面讲，一些影响力大的牛人们，似乎在后期又开始转型，或者不再关注技术细节，要比coding能力肯定是比不过一线程序员和架构师的。比较典型的是coolfire，估计不少安全研究者都是读着这位台湾黑客教父的“黑客守则”成长的，但coolfire现在的工作和安全没有关系，仅仅是和安全圈保持着联系。&lt;br&gt;&lt;br&gt;列举谁是牛人永远是充满口水仗的，谁上榜、谁没上榜，都会有争议。所以制定一个黑客榜单没有意义。黑客在民间。&lt;br&gt;&lt;br&gt;但既然来回答问题了，就还是勉为其难的爆料几个技术层面上我认为争议比较小的牛人吧。&lt;br&gt;&lt;br&gt;病毒时代的王江民、江海客。以及“冰河”--黄鑫。&lt;br&gt;&lt;br&gt;后来的小榕，估计我们这批人基本都是用着小榕的“流光”长大的。&lt;br&gt;&lt;br&gt;这些是影响力较大的，下面是技术灰常牛的。&lt;br&gt;&lt;br&gt;0x557的村长，精通linux kernel安全研究。0x557的swan，太妖孽了，国内挖漏洞数一数二的能力吧。0x557的dm，现在还在mcafee做大内高手吧，黑帽大会speaker，真才实学。&lt;br&gt;&lt;br&gt;我读大学那阵子，学习绿盟小四、watercloud的文章比较多。&lt;br&gt;&lt;br&gt;现在在瀚海源的alert7，我是看着他的背影成长的，那时候特崇拜他。直到有一天，我也成为了别人的背影。瀚海源的flashsky，在微软传奇般的挖漏洞比赛，扬我国威了，可惜圈外的人知道的不多。&lt;br&gt;&lt;br&gt;还有我幻影的emm和czy，这两位太神秘，不多提了。&lt;br&gt;&lt;br&gt;还有彗星一般崛起的wordexp，当然大家都知道这是个马甲，没人见过真面目。&lt;br&gt;&lt;br&gt;team509的wushi，挖了无数漏洞，卖给ZDI（这个能公开说吗？），挖漏洞已经整理成方法论，可以开山立派了。&lt;br&gt;&lt;br&gt;yuange，无可争议的挖漏洞高手，现在国外公布的挖漏洞技巧经常被他鄙视，同时一天到晚鄙视微软的安全，微软也不敢说半个不字。现在被360圈养了。&lt;br&gt;&lt;br&gt;最后，我说的都是错的。没列在这里的黑客，才是最牛的。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20664714/answer/15790115
+</link>
+<author>
+云舒
+</author>
+<title>
+Nicira 和 Big Switch 等美国创业公司从事的网络虚拟化（network virtualization）到底是什么？
+</title>
+<description>
+这方面我有一定了解，描述一下个人看法。&lt;br&gt;&lt;br&gt;首先说一下云计算的好处。ec2所谓弹性计算云通过服务器虚拟化让计算成为资源，业务发展快了需要扩展马上就能实现，收缩了马上就能释放，没有庞大的固定资产问题，而且具备快速交付的好处。类似的s3让存储成为资源。既然成为资源具备像ec2一样的好处。说通俗点，成为资源的计算和存储就像大米一样，大家达到了小康水品，心思不用老是在大米上，吃完了去米缸挖就行了，可以思一下淫欲，我是说可以专注于业务。&lt;br&gt;&lt;br&gt;在计算和存储成为资源用户可以自由支配后，还有一样东西没有开放出来，那就是网络。网络依旧由云计算提供商所掌控，用户不能通过程序自动化调节网络需求。&lt;br&gt;&lt;br&gt;sdn作为一种开放的标准解决了这个问题。首先让网络成为有弹性的软管，不再局限于物理布局而是可以实时修正。其次，这些修正能力通过统一api开放出来。这两点，足以引起一个大的浪潮，类似于虚拟化之于传统服务器。所以，思科、vmware各种大佬都行动起来。&lt;br&gt;&lt;br&gt;最后说一下，在我的眼里，sdn能帮我将二维的扁平的vm网络变得立体，我将在2013年借此实现安全设备虚拟化资源化，即使离职也在所不惜。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20922936/answer/16616505
+</link>
+<author>
+丛谚
+</author>
+<title>
+《Merry Christmas, Mr. Lawrence》哪个版本最值得推荐？
+</title>
+<description>
+作为一名（自封的）《Merry Christmas Mr.Lawrence》鉴赏专家，首先，对于没有被邀请回答，我表示震惊和遗憾。&lt;br&gt;其次，对于这首曲，我一直觉得有它就足够成就版本龙一的永垂不朽。并且，我一直力推并仅力推钢琴版本，因为觉得它天生就“冷得像冰”，而钢琴声恰好能体现它的这种特性。靠近它，闻闻它，再在钢琴上过一遍，手指就该冻僵了。至于宇田多光的人声版本，真心不知道她在唱的什么。——这样一首“弹越慢越好”的曲，编曲硬往热闹了编，有法儿听么还。&lt;br&gt;&lt;br&gt;1.纯钢琴曲版本--听这个你得一直盯着这视频看才算不侮辱他……&lt;div class=&quot;video-box&quot; onclick=&quot;ZH.playVideo(this, 'http://player.youku.com/player.php/sid/XMzAyNzA1ODky/v.swf')&quot;&gt; &lt;div class=&quot;video-box-inner&quot;&gt;   &lt;img class=&quot;video-subnail&quot; src=&quot;http://g3.ykimg.com/0100641F464E69F31286570446C968020608E9-374D-B698-4968-FA7E90FC1BC3&quot;&gt;&lt;div class=&quot;video-play-icon&quot;&gt;&lt;/div&gt; &lt;div class=&quot;video-box-body&quot;&gt; &lt;strong class=&quot;video-title&quot;&gt;一副眼镜，一头银发，一片星空...Merry Christmas Mr. Lawrence (...&lt;/strong&gt; &lt;p class=&quot;video-info&quot;&gt;http://v.youku.com/v_show/id_XMzAyNzA1ODky.html&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;2.钢琴+小提琴版本 ，也还不错，感觉弹快了&amp;gt;&amp;lt;。&lt;br&gt;&lt;div class=&quot;video-box&quot; onclick=&quot;ZH.playVideo(this, 'http://player.youku.com/player.php/sid/XNDI5NzEzNjg=/v.swf')&quot;&gt; &lt;div class=&quot;video-box-inner&quot;&gt;   &lt;img class=&quot;video-subnail&quot; src=&quot;http://g4.ykimg.com/0100641F464B0E9227640100A9C8838E7255C7-4CD7-D883-BAE2-2674EC0D7E1B&quot;&gt;&lt;div class=&quot;video-play-icon&quot;&gt;&lt;/div&gt; &lt;div class=&quot;video-box-body&quot;&gt; &lt;strong class=&quot;video-title&quot;&gt;比宣泄更宁静！一首不可错过的绝世名曲Merry Christmas Mr Lawrence&lt;/strong&gt; &lt;p class=&quot;video-info&quot;&gt;http://v.youku.com/v_show/id_XNDI5NzEzNjg=.html&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;优酷上的东西太少啦……&lt;br&gt;&lt;br&gt;3.曲谱在这里：&lt;a href=&quot;http://wenku.baidu.com/view/62b7eb0e7cd184254b3535a5.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;坂本龙一《Merry Christmas,Mr.lawrence》钢琴曲谱&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;4.其实个人认为获得最好版本的方法是：看一遍这部电影。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20431197/answer/16618047
+</link>
+<author>
+知乎用户
+</author>
+<title>
+为什么 Debian 在国内的人气远不如国外？
+</title>
+<description>
+我是debian用户，我不认为是因为“软件过旧”导致debian没有像样社区，debian的SID和experimental源里的软件是非常新的，比如新版firefox，debian比opensuse支持的更及时。&lt;br&gt;我认为debian国内社区比较小主要还是用户少，少的原因有几点&lt;br&gt;1 安装比较费事。debian适合作为桌面的版本有testing和sid，实际上安装testing是一件很愁人的事，因为在安装grub2的时候需要联网，这就需要用户有一台路由器，好吧有人说可以dd装进去，dd对新手的折腾程度还不如买台路由器。stable虽然可以不必联网安装（squeezy可以，wheezy成为7.0后还不清楚怎么回事），但是stable绝对不适合作为桌面使用。&lt;br&gt;2 配置略微麻烦，本来使用命令行对新手就不够友好，好吧，debian安装之后需要配置一大摊子，添加sudoers，配置apt源，字体，如果gnome3不适应，好吧你还得弄个cinnamon，这些东西虽然不难，但是一个新用户显然不易了解。他们发现sudo apt-get install命令提示当前用户不在sudoers中，头就晕了，进行不下去了。&lt;br&gt;3 debian 华语圈DD的不作为，我不知道知乎上有没有debian 大陆或者台湾的DD，总之我从未听说哪位现身来说点什么（也许是我不怎么混社区的缘故），而国内也不是没有搭建过非官方的debian社区，但是由于没有官方支持，很难办下去。debian本来就属于较高层次的系统，一般用户不易掌握，如果仅仅靠民间力量，发展不易。&lt;br&gt;4 ubuntu的不兼容，卡在ubuntu和debian之间的主要问题是一个库：libc6,由于很多软件运行需要这个库，而ubuntu的版本为2.14,偏偏debian wheezy和sid还是2.13。还有其他问题，比如安装steam所需要的库有两个debian没有，这些都得自行解决，无形增加了使用难度。&lt;br&gt;总之我觉得debian用起来很方便，我是从ubuntu升级倒debian的，中间用过一段时间fedora，后来觉得还是deb系方便。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20922080/answer/16617438
+</link>
+<author>
+江医师
+</author>
+<title>
+iPhone 可以记住不同耳机的最后音量是什么原理？
+</title>
+<description>
+&lt;u&gt;&lt;i&gt;&lt;b&gt;请看我今晚最新的测试，这个功能是存在的，没时间的请看结尾&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;i&gt;&lt;b&gt;我只证明了①三环耳塞阻抗说是错误的。&lt;br&gt;                               ②iphone可以记录多个耳塞。&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;br&gt;至于四环，也许阻抗检测真的可以（如果是节点检测，还需证明mic那个圈 或者四环其他位置是一个节点。每个猜想都需要多个证明），公开号为CN102457793A的专利，公开日虽然是2012年，看了内容，还是非常可行的， 早前也存在类似的技术。我手上没有定制的线材，和独立的3.5mm插头，没有办法继续测试。否则可以设计不同的方案来验证不同的猜想&lt;br&gt;=========================&lt;br&gt;2013 04 07 12:28&lt;br&gt;刚测试了我的earpods ，mx90  ，GR06，测试结果是记录只分为两组，CTIA标准的苹果和非CTIA的森海和vsonic。我的另外两副是用来听音乐的，不是手机专用的CTIA和 OMTP标准。&lt;i&gt;&lt;u&gt;&lt;b&gt;mx90和gr06参数差多了&lt;/b&gt;&lt;/u&gt;&lt;/i&gt;（楼上有说通过不同阻抗的。GR06阻抗24欧姆，灵敏度108dB；mx90阻抗64欧姆，灵敏度117dB。。。&lt;u&gt;&lt;i&gt;&lt;b&gt;ps，阻抗和整个耳塞有关系，发声单元，线材，不是插头那的，mx90还有个阻抗棒。我调后插入，ios的音量毫无变化&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;）。不以参数来辨别的话，只能是连接标准，连接标准就那么几个。所以根本没这事。当然，我的测试样本不够多，欢迎拍砖&lt;br&gt;=================&lt;br&gt;①想到一个办法，我去借条延长线，通过延长线再连接不同的耳塞，看看测试结果&lt;br&gt;&lt;br&gt;②你们再试试将earpod插入一半，插头上第三个白圈不要插入，就会发现音量和普通耳塞记录位置是一样的，这更证明了辨别是通过不同的接口标准，而不是所谓的每个耳塞的参数&lt;br&gt;&lt;br&gt;③ &lt;u&gt;&lt;i&gt;&lt;b&gt;我的实验否决了阻抗辨别的可能性&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;，&lt;u&gt;&lt;i&gt;&lt;b&gt;但是还没有证明支持OMTP或者CITA标准的多条耳塞是否可以被ios系统区别对待&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;。有待测试&lt;br&gt;&lt;br&gt;ps：对草率说人扯淡的话我表示抱歉，并且删除那句话。&lt;br&gt;&lt;br&gt;==================================&lt;br&gt;19:57&lt;br&gt;做了两条CTIA标准的earpod插拔测试，共计五组。&lt;br&gt;先插A，音量位置x，再插入B，音量位置显示为x。保持B插入，调整音量x为y，再插入A，音量显示为y。&lt;br&gt;反复上述步骤五次，并更改y值或者同时更改x与y值&lt;br&gt;每次结果都一样&lt;br&gt;=============&lt;br&gt;22:00&lt;br&gt;感谢&lt;a data-title=&quot;@鄭紫陽&quot; data-editable=&quot;true&quot; class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/zhengziyang&quot; data-tip=&quot;p$b$zhengziyang&quot;&gt;@鄭紫陽&lt;/a&gt; 的提醒，19:57的测试搞错了。。。两条同样的耳塞，识别为同一条。翻箱倒柜，发现自己有延长线，借了一条4s的原配。&lt;br&gt;&lt;br&gt;&lt;img data-rawheight=&quot;1260&quot; data-rawwidth=&quot;1888&quot; src=&quot;http://p2.zhimg.com/e9/45/e9453afcead2e5ed4858c0ef09a7b0ad_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;1888&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e9/45/e9453afcead2e5ed4858c0ef09a7b0ad_r.jpg&quot;)'&gt;重新做测验&lt;br&gt;图片第一行左起，earpod（CTIA），水货4s原配（CTIA），MX90（阻抗64Ω），GR06（阻抗24Ω）&lt;br&gt;第二行左起，9100的行货原配（未知CTIA还是OMTP），sony延长线&lt;br&gt;从照片里我们可以看到耳塞插头上有白色或者黑色的圈，CTIA或者OMTP标准的都有&lt;b&gt;三个有色圈+尖端=四环&lt;/b&gt; ，普通没有mic功能的就是&lt;b&gt;两个有色环+尖端=三环&lt;/b&gt;。环的颜色只对个别品牌的个别产品有标识采用哪个标准的功能。例如苹果的earpod，黑色环的就是OMTP，白色的就是CTIA。只有黑环的CTIA兼容各个地区的苹果产品。&lt;br&gt;&lt;img data-rawheight=&quot;407&quot; data-rawwidth=&quot;650&quot; src=&quot;http://p4.zhimg.com/3f/44/3f44a431c979be8c75dac8c0c1989b30_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;650&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/3f/44/3f44a431c979be8c75dac8c0c1989b30_r.jpg&quot;)'&gt;好了，我们开始说正事。&lt;br&gt;插入earpod， 调整音量至a&lt;br&gt;插入4s原配， 调整音量至b&lt;br&gt;插入9100的，调整音量至c&lt;br&gt;开始插拔，插入三个不同的设备，显示的音量都不同，分别为a，b，c，为了避免一些误差等等，我用了一些测试的方法，这里不作描述。&lt;br&gt;&lt;br&gt;插入mx90，GR06，延长线的状态下，分别给予x，y，z音量，下一个插入的设备的音量等同于上次设备的调试音量。&lt;br&gt;延长线+上面五种耳塞，音量永不变。&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;i&gt;&lt;b&gt;总结：&lt;br&gt;①有识别不同耳塞的功能，只对四环耳塞有效。&lt;br&gt;②对于没有mic的三环设备（耳塞，插头，延长线）音量不变。&lt;br&gt;③测试样本不够多，需要更多的OMTP或者CTIA标准的耳塞&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;br&gt;如我中午第三条指出的一样，我否决了阻抗。那OMTP和CTIA标准的设备是否携带一定的设备识别码呢？？？还是由其他信息来判断出不同的耳塞？这个我就真不知道了。。。&lt;br&gt;&lt;br&gt;看了公开号为CN102457793A的专利。我觉得我的实验太不严谨了，只能用来排除某个单一的可能性。要证明到底是什么，要做的还有很多。。。Orz了&lt;br&gt;接下去应该是不同的猜想，然后一一去证明。。。我勒个去，我已经有几个猜想了，我还是睡觉去吧。。。Orz
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19833860/answer/16618920
 </link>
 <author>
@@ -221,76 +291,6 @@ York Cheung
 </title>
 <description>
 &lt;img src=&quot;http://p2.zhimg.com/ed/c7/edc78a382126d2bb504f8acf23656801_m.jpg&quot; data-rawwidth=&quot;1355&quot; data-rawheight=&quot;609&quot; class=&quot;origin_image&quot; width=&quot;1355&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/ed/c7/edc78a382126d2bb504f8acf23656801_r.jpg&quot;)'&gt;先回答这个问题的后半句”&lt;b&gt;为什么卖蜡烛能全世界开连锁店？&lt;/b&gt;“ 这是一个准伪问题，从Google Map的查询结果来看，绝大多数的Yankee Candle专卖店还是分布在美国本土，欧洲、亚洲和大洋洲有少量的分布。但如果这个问题换成是问“为什么全世界都能买到Yankee Candle”，主要是拜&lt;a href=&quot;http://Amazon.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;Amazon.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;的全球网络所赐。&lt;br&gt;&lt;br&gt;在质量和品质上，&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@纸比尔&quot; href=&quot;http://zhihu.com/people/zhi-bi-er&quot; data-tip=&quot;p$b$zhi-bi-er&quot;&gt;@纸比尔&lt;/a&gt; 已经给出了很详细的回答，我试着从营销的角度回答前半句问题“扬基蜡烛（Yankee Candle）有什么样的特色”。&lt;br&gt;&lt;br&gt;首先，Yankee Candle&lt;b&gt;不仅仅是卖的蜡烛，而是卖的是香氛（fragrance），味道（scent&lt;/b&gt;&lt;b&gt;），甚至可以说卖的是一种生活方式（Lifestyle）&lt;/b&gt;。我在09年去马萨诸塞的UMass拜访一位长辈时，去过Yankee Candle位于South Deerfield的工厂店，偌大的店面全是各类的蜡烛，各种异香混合在一起，感觉很奇妙。 从其中店面的布置就可以知道他们主打的诉求点，完全不是以品类/规格/型号来分类的，而是以生活场景来划分，就如同宜家的样板间一样。&lt;br&gt;&lt;br&gt;其次，Yankee Candle的名字本身也很关键。在美国，Yankee Candle对生活方式的贩卖符合了美国中产阶级对生活品质的追求，而更为重要的是，&lt;b&gt;主打了Made In USA的美国国货品牌&lt;/b&gt;，并且这个理念赤裸裸的体现在了品牌名称上（Yankee Candle直接翻译过来就是“美国佬的蜡烛”）。在美国国内的流行，为在中国等世界其他地区的流行奠定了基础（尤其是在目前美国文化仍是强势文化的情况下）。&lt;br&gt;&lt;br&gt;第三，Yankee Candle作为一种带有&lt;b&gt;很高礼品属性的商品，非常容易在消费者中形成口碑(WOM)&lt;/b&gt;，尤其是在社会化媒体的时代，这种口碑被加速放大和扩散了，更加提升了这个品牌在全球市场的认知度。&lt;br&gt;&lt;br&gt;在中国市场上，我认为第二点和第三点原因的双重作用加速了市场认可。随着中美交流的日益频繁，Yankee Candle以礼品的形式被华人华侨或者出国旅游留学的人们带回国内，再加上赶上了中国人生活水平提升的这波浪潮，人们更加愿意在这些Nice-to-Have而非Must-to-Have上花更多的钱。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20819815/answer/16294656
-</link>
-<author>
-杨筱
-</author>
-<title>
-如何犀利地吐槽？
-</title>
-<description>
-精神病人思維廣，腦殘兒童歡樂多。我來說說高中時期受到的專業吐槽訓練。（人家老師明明是訓練你立論不是訓練你吐槽好嘛！&lt;br&gt;&lt;br&gt;我們語文老師是個美女，不愛笑。（這和問題有什麼關係啦，人家又不是問如何逗美女笑！&lt;br&gt;&lt;br&gt;每節課上課之前會要同學講&lt;b&gt;一個最近的新聞，或者講一個故事。然後她會花大於等於十分鐘來提問「你有什麼看法」。&lt;/b&gt;要求所有的「看法」不能相同。如果回答了一個類似的，她就會「這個不行，說過了喔，你先想一會兒，等等再問你」地一直追問下去（難不成美女都意外地固執麼！&lt;br&gt;&lt;br&gt;導致我現在看新聞的時候都還是會條件反射一樣進行“發散”，然後我發現，這真是一個充滿槽點的世界啊（最大的槽點其實是你自己吧= =&lt;br&gt;&lt;br&gt;老師最讓我敬佩的地方就在於不論給的答案多麼不主旋律，只要是有聯繫的，她都承認。她說這叫「訓練發散性思維」。（老師其實您是槽王星球派來的吧！&lt;br&gt;&lt;br&gt;看吧，每一句話其實都可以吐槽……（那是因為你的話漏洞百出……&lt;br&gt;&lt;br&gt;正經的回答：&lt;br&gt;&lt;br&gt;吐槽嘛，要想犀利，就要看見別人沒看見，或者沒有注意到的地方。同一個事件，一個角度只能看見這個事件的一部份，還有其他部份必須換角度才能看見。所以最簡單的方法就是：&lt;b&gt;知人論世，從儘量多的角度來看這個事件（原因、情感、可能導致的結果、等等），並且考慮不同的可能性。&lt;/b&gt;（啊……老師我愛您&lt;br&gt;一張圖完美地解釋了我的意思……（話說發這種圖真的沒問題么= =&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/88/b7/88b7f48d9e6d9e1c7b63bd241fa89e46_m.jpg&quot; data-rawwidth=&quot;261&quot; data-rawheight=&quot;600&quot; class=&quot;content_image&quot; width=&quot;261&quot;&gt;（来源过于久远……不可考……&lt;br&gt;&lt;br&gt;接著，&lt;b&gt;根據需要找槽點。&lt;/b&gt;槽點就是不合場景的地方啦，或者不該被看到的地方，或者不合邏輯的地方。可能性那麼多總有那麼一兩個違和的地方，少年，不要被它的表像欺騙了，&lt;b&gt;要有自己的思路&lt;/b&gt;！別人看到的是美女，你要看到她的美瞳戴歪了……&lt;br&gt;&lt;br&gt;利用槽點的這個性質，&lt;b&gt;在對白描寫中槽點就能發揮“場景補完，背景介紹，性格突出，”&lt;/b&gt;等等作用。&lt;br&gt;&lt;br&gt;例如：（以下，隨便現編的……不要吐槽我……&lt;br&gt;&lt;br&gt;-“我沒有生你的氣，你很安全。”&lt;br&gt;-“少俠，能把你手上的刀先放下再說么……”&lt;br&gt; (你看，场景补完了吧！&lt;br&gt;&lt;br&gt;-“等你長大就懂了，有些道理只有成熟了，才會知道。”&lt;br&gt;-“師父，您能不能不要一邊和路邊邊的小朋友搶冰淇淋一邊說這種臺詞……” &lt;br&gt;（你看，更有画面感了吧！&lt;br&gt;&lt;br&gt;-“人的一生總要有一兩次這樣的經歷，才能算了無遺憾吧。”&lt;br&gt;-“我以為你七歲那年隔壁家的那孩子囔著要嫁給你的時候，你就已經了無遺憾了。當時那張英勇就義的臉啊……” &lt;br&gt;（你看，背景介绍了吧？&lt;br&gt;&lt;br&gt;-“師父，雪融化了會變成……春天。”&lt;br&gt;-“其實只會變成污水而已。” &lt;br&gt;（你看，突出消极性格了吧！&lt;br&gt;&lt;br&gt;-“十年之後，你若未娶，我若未嫁……”&lt;br&gt;-“我們就一起去出家。” &lt;br&gt; （你看，突出欠揍以及这两个人感情很好却不会在一起的构思了吧！如果碰巧A还喜欢B不是还欢乐地突出了他的悲剧么~&lt;br&gt;&lt;br&gt;&lt;br&gt;哎喲，吐槽這麼有愛的事情，還是不要一條條地分析啦，意會一下嘛~&lt;br&gt;&lt;br&gt;（老師我對不起您的苦心教導……您教我如何立論……我卻學會了如何吐槽……人生不能掌握的事情實在是太多了……
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20905015/answer/16615740
-</link>
-<author>
-陳浩
-</author>
-<title>
-我们如何用传统的中文去去除、代替49年后跟意识形态有关的词汇？
-</title>
-<description>
-太可怕了……人为改变语言，以此影响思想，这难道不正是你们所厌恶的「洗脑」？&lt;br&gt;真的以为通过这样的手段，能消除历史的影响，让一种意识形态彻底消失吗？&lt;br&gt;&lt;br&gt;我在许多答案里看到的，分明是「关键字」出炉的思维过程：&lt;br&gt;因为「解放」被意识形态不同的人用过，所以以后要说林肯「自由化」黑奴，盟军「攻占」巴黎？&lt;br&gt;因为「起义」「革命」有褒义，而「暴动」「叛乱」有贬义，所以以后要说「法国大……冲突」？&lt;br&gt;我还看到「国庆节」成了有意识形态的词……这得和其他国家商量商量再说吧？&lt;br&gt;「毛主席」不喜欢听，那我可以说 President Obama 吗？&lt;br&gt;还有什么「永远永远不要碰在 XX 地区的人的作品」……这我无话可说……&lt;br&gt;&lt;br&gt;两德时期，东德的&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E8%99%9F%E8%AA%8C%E5%B0%8F%E4%BA%BA&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;交通灯小人&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;很可爱。统一后，要统一两德的各种标志，抹去共产主义色彩的东西。其中一条就是把交通灯小人换掉。但是东德人民不愿意，甚至集会抗议，最终把交通灯小人给留下了。现在小人仍然是东德文化的标志。&lt;br&gt;没错，政客们可能罪大恶极，但&lt;b&gt;并非「凡是」他们用过的，我们就要反对&lt;/b&gt;。&lt;br&gt;如果这个问题下的许多想法成为现实，被强力推行，又是怎样的腥风血雨……
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20922880/answer/16615586
-</link>
-<author>
-纸比尔
-</author>
-<title>
-坐长途飞机时以什么姿势配合什么配件可以让人最舒适？
-</title>
-<description>
-要论舒适一定是公务舱头等舱一路睡去最舒适了，作为无米的学生党，还是分享一下低成本的方法吧。问题略有诡异哦，坐长途飞机/汽车/火车，肯定没有一个或几个「姿势」可以救得了你，躺久了还累呢。坐长途飞机要搞定两件事，一是舒适尤其要防止腿部血脉不行，二是消磨时间，我就以这两个为目的来说。&lt;br&gt;&lt;br&gt;&lt;b&gt;选座位：紧急通道位，首排位，走道位为优&lt;/b&gt;&lt;br&gt;当然要从珍贵的legroom来考虑，就算是个子不高腿不长的人，也是需要伸展空间的。紧急通道位、座舱首排位都是legroom很大的位置（但很可能要贵一些，属于Economy Plus）。挑座位请找SeatGuru：&lt;a href=&quot;http://www.seatguru.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Airline Seat Maps, Flights shopping and Flight information- Best Airplane Seats&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;有时候SeatGuru上显示的好位子都买不到，不愿意加钱的我一般秉承无脑挑走道位原则，至少走动方便。&lt;br&gt;&lt;br&gt;&lt;b&gt;枕头、拖鞋、娱乐设备&lt;/b&gt;&lt;br&gt;我个人非常不喜欢旅行用的枕头，对那些塑料之类的材料非常敏感，那个构造我也觉得没啥用，飞机上原配的枕头拿来垫背倒是不错。还有眼罩之类的，大家看个人习惯吧。&lt;br&gt;拖鞋是非常重要的，必带！不想带太大太重的东西，就带个纸质的宾馆拖鞋就好了，用完就扔。&lt;br&gt;娱乐设备的话，耳机（消噪为佳）是必需品，国际航班的娱乐节目都还不错，会有很新的电影，电脑iPad什么的都看个人需求了，看书打游戏啥的。&lt;br&gt;&lt;br&gt;好了，准备工作完成，可以开始讲坐飞机的过程了。&lt;br&gt;&lt;b&gt;飞行过程：消遣和休息&lt;/b&gt;&lt;br&gt;十几个小时的旅程完全不睡的人也不是没有，但以下是我的建议&lt;br&gt;1、上飞机就睡。从登机到起飞初期的时候还算打扰比较少的，除了开头有很多广播通知之外，坐在你内侧的人不会一开始就要起身走动或去洗手间，餐车也还在准备状态不会立刻就出来serve. 理想的话可以就这么睡2-3小时（在我还没有「初老」症状的时候，这样睡下去基本可以到降落才醒）。不太建议上来就玩，哪怕飞机是上午的，你刚在家睡醒。一开始就high后面会累的很快，但又不容易睡着，因为还在兴奋或者餐车、走动的乘客等干扰过多。&lt;br&gt;2、第一觉睡醒就可以开玩了，看个电影，看几章书，打会儿游戏随意。私以为还是看电影比较好，时间过得很快，看到无聊的电影还有催眠功能。&lt;br&gt;3、每3-4个小时可以活动一下，减少腿部水肿僵硬，据说还会产生一些致命的不良后果，据 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Jing&quot; href=&quot;http://zhihu.com/people/jing-22&quot; data-tip=&quot;p$b$jing-22&quot;&gt;@Jing&lt;/a&gt; 的回复，「致命后果是指长时间不动导致腿部静脉血栓然后随血液循环去了心脏或者大脑中的小动脉导致心肌梗塞或中风吧。除了多运动之外可以买防止血栓的袜子，也能起到效果」（感谢！）。个人经验来看太久不动到最后穿鞋都很痛苦。&lt;br&gt;这里推荐一个很久以前在人人网看到的方法：去洗手间搁腿10分钟，就是把脚架到门或水台上。别把人家洗手间的东西蹬坏或者熏臭了就行 =D&lt;br&gt;4、然后把以上1、2、3排列组合就好了，十几个小时其实很快的！&lt;br&gt;&lt;br&gt;另外还有一些有创意的消遣方式，比如这位摄影师姐姐&lt;a href=&quot;http://www.ninakatchadourian.com/index.php&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nina Katchadourian&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;就在洗手间里用纸巾等道具来自拍…… &lt;a href=&quot;http://www.ninakatchadourian.com/photography/sa-flemish.php&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ninakatchadourian.com 的页面&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;我还有个朋友整段行程都在跟邻座帅哥哥聊天，差一点点就是一段金玉良缘（对留学生来说很make sense啊，因为很大可能你们在外国和中国的居住地都是一个城市嘛）
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20002509/answer/16615370
-</link>
-<author>
-知乎用户
-</author>
-<title>
-希腊戏剧中的「三一律」指的是什么？
-</title>
-<description>
-看到yol叔和大家都答得很清晰了，补充几点吧。&lt;br&gt;三一律是属于古典主义艺术特征的，且由古典主义理论家布瓦洛发展成&lt;b&gt;需围绕单一的剧情进行，排除一切次要的插曲；在一天中进行；在一个地点进行&lt;/b&gt;的理论。&lt;br&gt;亚里士多德《诗学》中提到这些规则（情节整一论）：&lt;i&gt;按照我们的定义，悲剧是对于一个完整而具体有长度的行动的摹仿（一件事情可能完整而缺乏长度）。所谓“完整”，指事之有头，有身，有尾。在《诗学》第八章，他又说：情节既然是行动的摹仿，它所摹仿的就是只限于一个完整的行动，里面的事件要有紧密的组织。&lt;/i&gt;（不包括地点一致哦！）亚里士多德的目的是使得剧情的结构完美，而不是古典主义者理解的那样。从三一律一被提出，争论就未曾断绝，但是即使是达西埃和其他人正确解释亚里士多德之后，仍然由于古典主义者的艺术抑或政治的需要坚持这种所谓的艺术手段，使得三一律的规则束缚戏剧界几百年之久。艺术需求即使得&lt;b&gt;剧情集中，冲突尖锐，&lt;/b&gt;却导致艺术形式的绝对化和形式化，削弱了艺术作品的表现力。而政治需求是因为当时的法国唯理主义盛行，&lt;b&gt;唯理主义的核心是崇尚理性，忽视情感&lt;/b&gt;。如同中国的宋明理学一样，唯理主义也是为君主专制服务的。（背景:法国刚刚经历文艺复兴，文艺界混乱不利统治）此时便需要三一律为文艺界立下法则。&lt;br&gt;&lt;br&gt;主要作家有高乃依（古典主义创始人，代表作品《熙德》），莫里哀（灵活运用了三一律，代表作品《伪君子》）。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19975958/answer/16614912
-</link>
-<author>
-刘景煦
-</author>
-<title>
-为什么酒店里的被子大多用白色？用彩色不更吸引人吗？
-</title>
-<description>
-白色显示出我们经常清洗很干净，这是显而易见的。然而在大概2，30年前，酒店床具还都是花的呢。&lt;br&gt;床具为何一夜之间全部变白？请听我吃过饭后慢慢道来。&lt;br&gt;额。。抱歉。。记得某节课讲过这个问题，去翻了slides，readinds都没找到。。我也从不做笔记。&lt;br&gt;只能凭记忆大概说一下。&lt;br&gt;80年代末，90年代初左右，酒店业龙头老大Marriot 发布了一系列革新计划，其中包括所有床上用品改为白色。当时对于这个计划的宣传，或许因为时间有点久远，我在wiki，marriot官网都没有找到。但是酒店的relaunch的口号大同小异，无非舒适干净全新升级。至于marriot为什么选择白色，显示经常清洁，漂白粉，好与其他装潢搭配等等，常识性的因素，也有巧合因素。&lt;br&gt;&lt;br&gt;然而床，是酒店里最最重要的一个环节。1981年，marriot花了100万美金作了一个research，问出差的business traveler，你们到底想要什么？结果简单直接到气着了bill marriot（多年ceo，创始人儿子）- better room lower price. 至于better room，酒店最主要功能- 睡觉。对于床的改进，床垫，床具，都使得marriot更加受到消费者的青睐。 &lt;br&gt;（这个research的直接结果是marriott新增了courtyard这个品牌）&lt;br&gt;&lt;br&gt;看到marriot换了白色床具后人气爆棚，其他集团紧随其后，hilton，starwood纷纷relaunch，开搞hallmark，signature bedding experience。升级床垫，并都学marriot把床具换成了白色。&lt;br&gt;&lt;br&gt;老大们都白了，小弟们也意识到白色的时代到来了，一一效仿。从此酒店床具就都白了。&lt;br&gt;现如今，还用过去那种花花的床具的酒店，说明比较老旧。那些床具用了多少年了？呵呵呵 &lt;br&gt;还有一些low scale的酒店，你可能会发现，他们床具，床垫上写着marriot，那都是二手货。。。&lt;br&gt;&lt;br&gt;所以总结来说，为什么现在酒店床具都是白色？本身的优点不说，行业标杆的带头效应 。 &lt;br&gt;&lt;br&gt;
 </description>
 </item>
 </channel>
