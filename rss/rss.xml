@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20720365/answer/16428172
+</link>
+<author>
+弓辰
+</author>
+<title>
+如何从头开始编一个拼音输入法？
+</title>
+<description>
+輸入法程序與操作系統交互多。即使利用現有框架，起步時也有諸多障礙，如：&lt;br&gt;  * 需要學習輸入法框架的 API；不同系統的輸入法框架有較大差異，可能會涉及一些系統底層的細節&lt;br&gt;  * 調試困難；Windows 的輸入法以 DLL 注入方式加載，需要事先注冊到系統，且不可運行時替換 (hot-swap)；Mac OS 對輸入法做超時控制，難以利用斷點單步調試&lt;br&gt;&lt;br&gt;我的建議是，在理解輸入法工作原理的基礎上，先寫一個邏輯純粹的、在命令行上以 REPL (Read-eval-print loop) 方式工作的輸入法原型。&lt;br&gt;&lt;br&gt;比方說，首先實現輸入一串編碼、查詞典、輸出查詢結果。&lt;br&gt;如果是做拼音輸入法，可進一步在詞典查詢基礎上完成詞組、語句的轉換。&lt;br&gt;&lt;br&gt;然後，再增加選字、編輯等功能鍵的處理邏輯。&lt;br&gt;不可顯示爲字符的按鍵，可通過轉義序列模擬，例如 `rime_api_console` 採用 花括弧+IBus鍵名 表示任意的按鍵：`shuruufa{Left}{Left}{BackSpace}{End}`&lt;br&gt;&lt;br&gt;&lt;a class=&quot; external&quot; href=&quot;https://github.com/lotem/librime/blob/master/tools/rime_api_console.cc#L144&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;github.com/lotem&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/librime/blob/master/tools/rime_api_console.cc#L144&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;這樣做的好處是可以將測試用的按鍵序列保存爲文本，通過輸入重定向重放測試場景：&lt;br&gt;```&lt;br&gt;$ rime_api_console &amp;lt; test_key_sequence.txt&lt;br&gt;```&lt;br&gt;&lt;br&gt;原型將輸入法所需邏輯完全實現後，即可集成到真實的輸入法框架，完善用戶介面等等。&lt;br&gt;&lt;br&gt;最後，藉機宣傳一下 RIME：&lt;br&gt;&lt;br&gt;RIME／中州韻輸入法引擎，是一套跨平臺的輸入法算法框架，即在輸入法與操作系統接口之上封裝了一套輸入法常用的算法和邏輯組件，允許用戶以 YAML 文檔格式自定義輸入方案和碼表，快速建立拼音、注音、五筆及類似形態的輸入法。對於需要特殊邏輯的輸入法，可通過編程擴展該框架，使開發者只須專注於相關邏輯。目前這一框架的不足是接口尚未完全定型、缺少開發文檔。&lt;br&gt;&lt;br&gt;其他可供參考的開源項目有：&lt;br&gt;  * [SunPinyin](&lt;a class=&quot; external&quot; href=&quot;http://code.google.com/p/sunpinyin/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;code.google.com/p/sunpin&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;yin/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)&lt;br&gt;  * [libpinyin](&lt;a class=&quot; external&quot; href=&quot;https://github.com/libpinyin/libpinyin&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;github.com/libpinyi&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;n/libpinyin&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)&lt;br&gt;  * [OpenVanilla](&lt;a class=&quot; external&quot; href=&quot;http://openvanilla.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;openvanilla.org/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)&lt;br&gt;  * [BYVoid：基於統計語言模型的拼音輸入法](&lt;a class=&quot; external&quot; href=&quot;http://www.byvoid.com/blog/slm_based_pinyin_ime&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;byvoid.com/blog&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/slm_based_pinyin_ime&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19560119/answer/12799032
 </link>
 <author>
@@ -46,7 +60,7 @@ Smartisan OS 把延时发送机制用在短信上，对体验的提升有多大�
 http://www.zhihu.com/question/20570516/answer/16618078
 </link>
 <author>
-知乎用户
+费诺費
 </author>
 <title>
 松下公司为什么走到今天的窘境？
@@ -158,7 +172,7 @@ http://www.zhihu.com/question/20926635/answer/16627735
 http://www.zhihu.com/question/20250029/answer/16625969
 </link>
 <author>
-知乎用户
+杜绍斐
 </author>
 <title>
 男生如何找准自己的穿衣风格，提升衣着品味？
@@ -256,7 +270,7 @@ http://www.zhihu.com/question/20922936/answer/16616505
 http://www.zhihu.com/question/20431197/answer/16618047
 </link>
 <author>
-知乎用户
+gamux鸡
 </author>
 <title>
 为什么 Debian 在国内的人气远不如国外？
@@ -277,20 +291,6 @@ iPhone 可以记住不同耳机的最后音量是什么原理？
 </title>
 <description>
 &lt;u&gt;&lt;i&gt;&lt;b&gt;请看我今晚最新的测试，这个功能是存在的，没时间的请看结尾&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;i&gt;&lt;b&gt;我只证明了①三环耳塞阻抗说是错误的。&lt;br&gt;                               ②iphone可以记录多个耳塞。&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;br&gt;至于四环，也许阻抗检测真的可以（如果是节点检测，还需证明mic那个圈 或者四环其他位置是一个节点。每个猜想都需要多个证明），公开号为CN102457793A的专利，公开日虽然是2012年，看了内容，还是非常可行的， 早前也存在类似的技术。我手上没有定制的线材，和独立的3.5mm插头，没有办法继续测试。否则可以设计不同的方案来验证不同的猜想&lt;br&gt;=========================&lt;br&gt;2013 04 07 12:28&lt;br&gt;刚测试了我的earpods ，mx90  ，GR06，测试结果是记录只分为两组，CTIA标准的苹果和非CTIA的森海和vsonic。我的另外两副是用来听音乐的，不是手机专用的CTIA和 OMTP标准。&lt;i&gt;&lt;u&gt;&lt;b&gt;mx90和gr06参数差多了&lt;/b&gt;&lt;/u&gt;&lt;/i&gt;（楼上有说通过不同阻抗的。GR06阻抗24欧姆，灵敏度108dB；mx90阻抗64欧姆，灵敏度117dB。。。&lt;u&gt;&lt;i&gt;&lt;b&gt;ps，阻抗和整个耳塞有关系，发声单元，线材，不是插头那的，mx90还有个阻抗棒。我调后插入，ios的音量毫无变化&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;）。不以参数来辨别的话，只能是连接标准，连接标准就那么几个。所以根本没这事。当然，我的测试样本不够多，欢迎拍砖&lt;br&gt;=================&lt;br&gt;①想到一个办法，我去借条延长线，通过延长线再连接不同的耳塞，看看测试结果&lt;br&gt;&lt;br&gt;②你们再试试将earpod插入一半，插头上第三个白圈不要插入，就会发现音量和普通耳塞记录位置是一样的，这更证明了辨别是通过不同的接口标准，而不是所谓的每个耳塞的参数&lt;br&gt;&lt;br&gt;③ &lt;u&gt;&lt;i&gt;&lt;b&gt;我的实验否决了阻抗辨别的可能性&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;，&lt;u&gt;&lt;i&gt;&lt;b&gt;但是还没有证明支持OMTP或者CITA标准的多条耳塞是否可以被ios系统区别对待&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;。有待测试&lt;br&gt;&lt;br&gt;ps：对草率说人扯淡的话我表示抱歉，并且删除那句话。&lt;br&gt;&lt;br&gt;==================================&lt;br&gt;19:57&lt;br&gt;做了两条CTIA标准的earpod插拔测试，共计五组。&lt;br&gt;先插A，音量位置x，再插入B，音量位置显示为x。保持B插入，调整音量x为y，再插入A，音量显示为y。&lt;br&gt;反复上述步骤五次，并更改y值或者同时更改x与y值&lt;br&gt;每次结果都一样&lt;br&gt;=============&lt;br&gt;22:00&lt;br&gt;感谢&lt;a data-title=&quot;@鄭紫陽&quot; data-editable=&quot;true&quot; class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/zhengziyang&quot; data-tip=&quot;p$b$zhengziyang&quot;&gt;@鄭紫陽&lt;/a&gt; 的提醒，19:57的测试搞错了。。。两条同样的耳塞，识别为同一条。翻箱倒柜，发现自己有延长线，借了一条4s的原配。&lt;br&gt;&lt;br&gt;&lt;img data-rawheight=&quot;1260&quot; data-rawwidth=&quot;1888&quot; src=&quot;http://p2.zhimg.com/e9/45/e9453afcead2e5ed4858c0ef09a7b0ad_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;1888&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e9/45/e9453afcead2e5ed4858c0ef09a7b0ad_r.jpg&quot;)'&gt;重新做测验&lt;br&gt;图片第一行左起，earpod（CTIA），水货4s原配（CTIA），MX90（阻抗64Ω），GR06（阻抗24Ω）&lt;br&gt;第二行左起，9100的行货原配（未知CTIA还是OMTP），sony延长线&lt;br&gt;从照片里我们可以看到耳塞插头上有白色或者黑色的圈，CTIA或者OMTP标准的都有&lt;b&gt;三个有色圈+尖端=四环&lt;/b&gt; ，普通没有mic功能的就是&lt;b&gt;两个有色环+尖端=三环&lt;/b&gt;。环的颜色只对个别品牌的个别产品有标识采用哪个标准的功能。例如苹果的earpod，黑色环的就是OMTP，白色的就是CTIA。只有黑环的CTIA兼容各个地区的苹果产品。&lt;br&gt;&lt;img data-rawheight=&quot;407&quot; data-rawwidth=&quot;650&quot; src=&quot;http://p4.zhimg.com/3f/44/3f44a431c979be8c75dac8c0c1989b30_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;650&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/3f/44/3f44a431c979be8c75dac8c0c1989b30_r.jpg&quot;)'&gt;好了，我们开始说正事。&lt;br&gt;插入earpod， 调整音量至a&lt;br&gt;插入4s原配， 调整音量至b&lt;br&gt;插入9100的，调整音量至c&lt;br&gt;开始插拔，插入三个不同的设备，显示的音量都不同，分别为a，b，c，为了避免一些误差等等，我用了一些测试的方法，这里不作描述。&lt;br&gt;&lt;br&gt;插入mx90，GR06，延长线的状态下，分别给予x，y，z音量，下一个插入的设备的音量等同于上次设备的调试音量。&lt;br&gt;延长线+上面五种耳塞，音量永不变。&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;i&gt;&lt;b&gt;总结：&lt;br&gt;①有识别不同耳塞的功能，只对四环耳塞有效。&lt;br&gt;②对于没有mic的三环设备（耳塞，插头，延长线）音量不变。&lt;br&gt;③测试样本不够多，需要更多的OMTP或者CTIA标准的耳塞&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;br&gt;如我中午第三条指出的一样，我否决了阻抗。那OMTP和CTIA标准的设备是否携带一定的设备识别码呢？？？还是由其他信息来判断出不同的耳塞？这个我就真不知道了。。。&lt;br&gt;&lt;br&gt;看了公开号为CN102457793A的专利。我觉得我的实验太不严谨了，只能用来排除某个单一的可能性。要证明到底是什么，要做的还有很多。。。Orz了&lt;br&gt;接下去应该是不同的猜想，然后一一去证明。。。我勒个去，我已经有几个猜想了，我还是睡觉去吧。。。Orz
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19833860/answer/16618920
-</link>
-<author>
-GayScript
-</author>
-<title>
-类似于魑魅魍魉、螽蟁蟊蠹这样的词汇还有那些？
-</title>
-<description>
-转自网络：&lt;a href=&quot;http://tieba.baidu.com/p/1315272505&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;一则笑话让你领略汉字的博大精深，外国人你伤不起啊&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;主持人：请说出同一偏旁四个不同字。&lt;br&gt;&lt;br&gt;普通青年：江河湖海。&lt;br&gt;&lt;br&gt;文艺青年：琴瑟琵琶。&lt;br&gt;&lt;br&gt;二逼青年：哼嗬哈嘿！&lt;br&gt;&lt;br&gt;化工青年：烷烯炔烃。&lt;br&gt;&lt;br&gt;追问：五个字？其他人沉默。&lt;br&gt;&lt;br&gt;化工青年：钾钙钠镁铝。&lt;br&gt;&lt;br&gt;含泪问：六个字？&lt;br&gt;&lt;br&gt;化工青年：氦氖氩氪氙氡。（推眼镜）我给大家背一下镧系和锕系：镧铈镨钕钷钐铕钆铽镝钬铒铥镱镥。&lt;br&gt;&lt;br&gt;看到化工青年的风光，药学青年不甘示弱——&lt;br&gt;&lt;br&gt;药学青年：吡啶嘧啶哌啶噻吩噻唑噻啶恶唑呤喹啉卟啉咕啉，苯苄蒽芘萜莰，酸醛醚酯酚醇。&lt;br&gt;&lt;br&gt;看着这堆乱码，医学青年镇定地出招了——&lt;br&gt;&lt;br&gt;医学青年：我擦，我只知道作为医学生我今天有看到腓肠肌腱膜和结缔组织纤维！脑胸膜肺肝胆胰脾膀胱腓肠肌，默默地爬走继续写病历。&lt;br&gt;&lt;br&gt;二逼伪医学青年：玩玻璃球，膀胱肿胀，痔疮疼痛，没法洗澡……拍桌狂笑( ´ ▽ ` )ﾉ &lt;br&gt;&lt;br&gt;于是进入了百家争鸣阶段——&lt;br&gt;&lt;br&gt;机械青年：钳铣镗锪钻锯。&lt;br&gt;&lt;br&gt;汽车系的：轴辋轮辐轩辕。&lt;br&gt;&lt;br&gt;船舶青年：舡舢舣舨舰舫般舭舯舱舳舴舵舶舷舸船舻舾艄艇艉艋艏艘艚艟。&lt;br&gt;&lt;br&gt;某青年：涂润滑油。&lt;br&gt;&lt;br&gt;纺织青年：绒绸纶纸绉缝纫绞绛绘绗绖绝绚绕络绔纤维缄缂缓缑缔缏编缆缕缅缌缒缃缐缈缗缇纱线绠继绢绥绦绨绤绡绣结缎纹绻绮绵缵绺绫绩绲纺绷绱绳绶绬缠缞缚缟缙缛缢缜缣缍绹缁缀绽综绾经纬组织！&lt;br&gt;&lt;br&gt;地质青年：硫硅砂矿。&lt;br&gt;&lt;br&gt;环科青年：淋洗渗滤污泥池。&lt;br&gt;&lt;br&gt;金属青年：铂铑钯锇铱钌……&lt;br&gt;&lt;br&gt;林业青年：林林植树种柳树杨树桦树枫树松树榕树柏树橡树樟树椰。&lt;br&gt;&lt;br&gt;生物青年：鳾鸱鴞鹨鶹鸺鸲鶺鴒鸫鵐鳽鴴鸨鹇鹎鸏鹗鵎鵼鹪鹩鶲。&lt;br&gt;&lt;br&gt;寿司师傅：鲔鲑鱿鲹鲸鲙鳝鳗鲨鮨鮓鲭鲷鲣鲫鲂鲥鲤。&lt;br&gt;&lt;br&gt;生物青年：虾蟹蛇蛹蝉蛎虭虰蛐蝇蝎蝽蚯蚓蟑螂蜻蜓蜈蚣蚂蚁蛞蝓。&lt;br&gt;&lt;br&gt;鱼虾贝类引来了吃货青年——&lt;br&gt;&lt;br&gt;吃货青年A：馅饼馄饨。&lt;br&gt;&lt;br&gt;吃货青年B：炒炖炸烤煸焖烩。&lt;br&gt;&lt;br&gt;吃素青年抱怨了——&lt;br&gt;&lt;br&gt;吃素青年：怎么没人说个葡萄草莓菠萝芭蕉荸荠莴苣蒜薹蘑菇茉莉芍药芙蓉苜蓿芦苇薄荷菖蒲茱萸？大家都不爱吃水果蔬菜不喜欢花草吗？&lt;br&gt;&lt;br&gt;然后武当和少林青年出现——&lt;br&gt;&lt;br&gt;武当青年：打推捻搂扎捶拗抛抓护擒捉插抹擂拦扫托掩摆按挺挑。&lt;br&gt;&lt;br&gt;出家青年：喇嘛唠叨唵吗呢叭咪吽……&lt;br&gt;&lt;br&gt;当然，有出世的就有入世的……&lt;br&gt;&lt;br&gt;淘宝青年说：折扣拼抢拍。&lt;br&gt;&lt;br&gt;穷酸青年：Iphone，ipad，itouch，ipod。&lt;br&gt;&lt;br&gt;JAVA青年无压力：java.*;java.applet.*;java.awt.*;java.awt.color.*……&lt;br&gt;&lt;br&gt;历史青年的大招：禔礽祉禛禶祺祚佑祀禟禌祹祥禵禨禑禄礼祄禝祎禧祜祁禐。&lt;br&gt;&lt;br&gt;听到这里，角落里灰头土脸的考古青年淡淡一笑：玌玏玎玑玐玙玛玒玓玔玕玖玗玘玚玥珁玬玮玞玣玠玡玢玤玦玧珏玩玪玭环玝玜玟玸珐玾玴玵珃珋珀玶玿玲玳玷玹玻玽珂珄珅珇珈珉珊珌珍珎珏珑珆珱珰珒珚珡珤珜珨玼珔珓珕珖珗珘珟珙珛珝珞珠珢珣珥珦珧珩珪珫珯。&lt;br&gt;&lt;br&gt;法学青年也来一发：诉讼讣讨议论讹诈讥讽许诺诏诚诡讲话诘讯诵读诽谤谩诰……以及历史青年那个是穿越女的大招吧！ &lt;br&gt;&lt;br&gt;众青年暴走了…..法学青年：劓剕割刺剐刎刑。&lt;br&gt;&lt;br&gt;中文青年也不甘示弱——&lt;br&gt;&lt;br&gt;中文青年：听说过“达道远近通逍遥”、“客宦寄寓穷家，寒窗寂寞”么？&lt;br&gt;&lt;br&gt;文艺青年甲：江河湖海浪淘沙波涛汹涌。&lt;br&gt;&lt;br&gt;文艺青年乙：汀浦滨滩潮漫浒洲渚沉浮。&lt;br&gt;&lt;br&gt;文艺青年一下hold住了全场。&lt;br&gt;&lt;br&gt;然后性情青年突然出手——漂泊江湖流浪汉，伺候仙佛伶仃僧，寂寞寒窗空守寡，苍蒿茕墓莫落荒。&lt;br&gt;&lt;br&gt;流氓青年：拖拉拽扛……&lt;br&gt;&lt;br&gt;有位青年：摸捏挺插……&lt;br&gt;&lt;br&gt;苦逼青年：撸……&lt;br&gt;&lt;br&gt;文科青年： “淳汁满溢濡湿滑溜潺涓流淌汗津渐浮淫波荡漾泛滥潮淹渣滓溅汝……理科生不要在文科生面前得瑟，你们那些连一点点剧情都没有。” &lt;br&gt;&lt;br&gt;二逼音乐青年冷冷一笑开始唱《忐忑》：“啊哦 啊哦唉 啊嘶嘚啊嘶哆 啊嘶嘚咯嘚咯哆 啊嘶嘚啊嘶嘚咯哆啊哦 啊哦唉 啊嘶嘚啊嘶嘚 啊嘶嘚咯嘚咯嘚  啊嘶嘚啊嘶嘚咯吺 啊 啊 啊 啊 啊呀呦 啊呀呦 啊嘶嘚咯呔嘚咯呔嘚咯呔 嘚咯呔嘚啲吺嘚咯呔嘚咯吺 呔咯嘚呔咯嘚呔咯嘚呔咯嘚呔咯啲嘚呔咯嘚咯吺  唉呀呦 啊哦 啊哦唉 啊嘶嘚啊嘶嘚 啊嘶嘚咯嘚咯嘚 啊嘶嘚啊嘶嘚咯吺 啊哦 啊哦唉 啊嘶嘚啊嘶嘚 啊嘶嘚咯嘚咯嘚 啊嘶嘚啊嘶嘚咯吺 啊啊 啊 啊  啊呀呦 啊呀呦 啊嘶嘚咯呔嘚咯呔嘚咯呔 嘚咯呔嘚啲吺嘚咯呔嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺 唉呀呦 啊咿呀咿 啊咿呀咿  啊咿呀咿啊咿呀咿 嘚咯呔嘚咯呔嘚咯呔 嘚咯呔嘚啲吺嘚咯呔嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺 唉呀呦 呔卟啲呔卟啲呔卟啲呔卟啲  呀儿咿儿呦 呔卟啲呔卟啲呔卟啲呔卟啲呔卟啲呔咿呦 呔哈啦哈啦哈啦哈哩哈啦哈啦哩哈啦哈啦哩 呀咿呀咿呦 啊唉 啊咿啊咿呦 啊 啊咿呦 啊  咳咿呀咿呦 咳呀 啊哦 啊哦唉 啊嘶嘚啊嘶嘚 啊嘶嘚咯嘚咯嘚啊嘶嘚啊嘶嘚咯吺 啊哦 啊哦唉 啊嘶嘚啊嘶嘚 啊嘶嘚咯嘚咯嘚 啊嘶嘚啊嘶嘚咯吺 啊 啊  啊 啊 啊呀呦 啊呀呦 啊嘶嘚咯呔嘚咯呔 嘚咯呔嘚咯呔嘚啲吺 呔咯嘚呔咯嘚呔咯嘚呔咯嘚呔咯啲嘚呔咯嘚咯吺 唉呀呦 呔咯嘚呔咯嘚呔咯嘚  呔咯嘚呔咯啲嘚呔咯嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺呔咯嘚呔咯嘚呔咯嘚  呔咯嘚呔咯啲嘚呔咯嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺 呔咯嘚呔咯嘚呔咯嘚  呔咯嘚呔咯啲嘚呔咯嘚咯吺呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚 呔咯嘚呔咯啲嘚 呔咯嘚呔咯啲嘚  呔咯嘚呔咯啲嘚呔咯嘚咯吺 啊咿呦咿 啊咿呦咿啊咿呦咿 啊咿呦咿 呦 咳呀 呔咯嘚呔咯嘚呔咯嘚 呔咯嘚呔咯啲嘚呔咯嘚咯吺”&lt;br&gt;&lt;br&gt;最后，朴实青年说：俺信任你们。&lt;br&gt;&lt;br&gt;当大家以为一切都结束时，殊不知，又一轮小高潮开始了。&lt;br&gt;&lt;br&gt;围观青年：哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈。&lt;br&gt;&lt;br&gt;府宅青年：囯囹囸囻図四囡囦困圊囝因圉囨团回団园围困囤囬囦囮囧囵囫囥囲囩囷囶图囼囿圀圃圄圂圆圁圅圊圉国囵圈圌圐圞圙圂。&lt;br&gt;&lt;br&gt;广东青年：嗰啲嘢啫喱嚟噶咋吓哇……&lt;br&gt;&lt;br&gt;设计青年： Adobe Photoshop, Adobe Dreamweaver, Adobe flash professional, Adobe  Fireworks, Adobe Acrobat, Adobe Illustrator, Adobe Soundbooth, Adobe  Contribute, Adobe Flash Builder, Adobe Flash Catalyst, Adobe Premiere,  Adobe After Effects, Adobe Encore, Adobe OnLocation......&lt;br&gt;&lt;br&gt;气象青年：雷霆霈霖霜雪霁，霞雯雾霭露霾震。&lt;br&gt;&lt;br&gt;消化科医生说：痔疮痢疾。神经科医生说：癫痫瘫痪。皮肤科医生说：痤疮瘢痕疱疹痣痈疖疤癣，毫无压力。&lt;br&gt;&lt;br&gt;五行青年：金木水火土鑫森淼焱垚&lt;br&gt;&lt;br&gt;英语青年：realism, neorealism, liberalism, neoliberalism, constructivism,  Marxism, Neo-Gramscianism, feminism, post-colonialism,  post-modernism……&lt;br&gt;&lt;br&gt;东北青年表示：吵吵吧嚯嘎哈呀？&lt;br&gt;&lt;br&gt;性情女青年：嗯呃~嗯啊呃~哦喔~吖嗯~吖嗯~嗯~&lt;br&gt;&lt;br&gt;卖萌青年表示：喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 喵 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵……
 </description>
 </item>
 </channel>
