@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20321341/answer/14749568
+</link>
+<author>
+金秉文
+</author>
+<title>
+为什么世界上会有完全不相关的人却长得像？
+</title>
+<description>
+不考虑发型，不考虑耳朵，不考虑不同肤色，不考虑非对称的人脸特征，只考虑正面人脸的外观的前提下，一个人的脸的形状大致可以用14维的向量来表示，通俗地说，就是14个数字，它们的计算方法如下：&lt;img src=&quot;http://p2.zhimg.com/a2/ee/a2ee090f0e9b1b486f10ef497cd27d7f_m.jpg&quot; data-rawwidth=&quot;324&quot; data-rawheight=&quot;36&quot; class=&quot;content_image&quot; width=&quot;324&quot;&gt;对应的定义如下图&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b4/2d/b42d31df185a7f1e0d7bb3a5474ae246_m.jpg&quot; data-rawwidth=&quot;473&quot; data-rawheight=&quot;237&quot; class=&quot;origin_image&quot; width=&quot;473&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b4/2d/b42d31df185a7f1e0d7bb3a5474ae246_r.jpg&quot;)'&gt;（图片和定义来自微软亚研院的论文&lt;a href=&quot;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.9049&amp;amp;rep=rep1&amp;amp;type=pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;citeseerx.ist.psu.edu/viewdoc&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/download?doi=10.1.1.119.9049&amp;amp;rep=rep1&amp;amp;type=pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;接着大家可以估算一下各个数的取值范围有多大，每个数最少发生多少变化才能让人觉得有较为明显的不同，这样就能算出每个数有多少种取值的可能。然后把14个数可能的取值个数全部乘起来，就可以大致算出有多少种不同的人脸了。最后再考虑现在世界上有多少黄种人，并假设每个人的脸长成任何样子的概率都是相等的（实际上，人脸的外形必定受遗传影响，父母和孩子的脸相似的概率会大一些，所以这个假设实际上是在降低人脸重复的概率），就可以算出任意两个黄种人的脸都不相同的概率了，如果概率很小，则可以一定程度上说明重复很可能发生了。有兴趣的同学可以自己估算一下。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20532805/answer/15401506
+</link>
+<author>
+谢郁宁
+</author>
+<title>
+都说早上的空气质量比较差，那为什么早上的天空更蓝？
+</title>
+<description>
+    首先这个和空气中的污染物、阳光的角度都有关。&lt;br&gt;    城市早上空气差，这个说法一般来说是没错的，不管是夜间由于冷却作用导致的污染物富集，还是早高峰时段的汽车尾气排放都将导致空气中污染物浓度的上升。空气中颗粒物或者气体污染物影响大气能见度的方式千差万别，比如城市覆盖的棕红色的烟雾就是由于氮氧化物含量较高造成的。在太阳开始照耀大地以后，空气的活动开始，扩散作用加剧，这时候污染物浓度就会开始降低。&lt;br&gt;    maggie姐姐说的AQI高于100,0900-1200的空气会好一点，算是统计的角度来对北京的空气质量做了个总结吧。这一点我觉得完全是要看天气来定的，比如说早上刚好冷锋到了，吹起了大风，或者刚好下了一场大雨，那么空气一下子就干净了，但是如果碰上今年6月10日南京的情况，那么两三天都不会有好转。&lt;br&gt;    至于题主说的早上看到的天比较蓝，我的理解是题主在早上一出门（大约九点左右）的时候，大晴天，万里无云的时候看到的吧。在北京，基本上秋冬季节的冷空气南下以后都会出现这样的情况。那么，基本上你看到的的确是比较蓝的情况！因为：&lt;br&gt;1、大气蓝色主要是由空气散射阳光造成的，早上阳光斜射，大气的颜色更多由散射而来。对比正午阳光直射，这时更蓝的原因主要是由于太阳辐射此时不够强烈，其余颜色的散射不会更多，而主要是由和气体分子尺度相同的蓝紫光散射组成。&lt;b&gt;正午太阳辐射增强，其余各波长的散射也增强了，所以就开始“泛白”了，而不是不比早上蓝了。&lt;/b&gt;很有意思的是，按理说傍晚应该如同早上一样，也是很蓝的情况，但是晚霞的出现又是另外一回事儿，这个其实是大气中水汽的作用。有兴趣的朋友可以看看百度百科等等，哈哈。&lt;br&gt;2、早上的空气污染重，为什么题主还会觉得天很蓝呢？&lt;u&gt;因为题主看到的是普遍意义下的早上污染重，而特别蓝的情况下污染并不一定很重！&lt;/u&gt;细颗粒物的可以前向散射，粗颗粒物起到遮挡光的作用，污染气体他还是散射。。不过不管怎么样，若是污染到了一定程度，绝对会对能见度产生一定的影响。比如颗粒物：&lt;img src=&quot;http://p4.zhimg.com/3b/ec/3bec501533afa328462353a8fb332d7e_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;772&quot; class=&quot;origin_image&quot; width=&quot;800&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/3b/ec/3bec501533afa328462353a8fb332d7e_r.jpg&quot;)'&gt;（图来自美国EPA报告《Introduction to Visibility》）&lt;br&gt;    这是在细颗粒物影响下的视觉印象，a是早上六点，d就接近正午了。一大早的颗粒物的前向散射（这时候是顺着太阳光方向散射，细颗粒物的散射特性）很大，所以白茫茫的，正午这个散射就比较小了。这幅图也揭露了一个事实：能见度其实还是挺主观的。因为一大早，到达地面的辐射也不多，地面景物反射的光与颗粒物反射的光差不多，能见度很低。正午，太阳辐射强烈，地面景物反射的光很多了，这时候看东西就清晰了很多，能见度自然上升了不少。&lt;br&gt;3、用一个比较经验性的结论（早上空气差）来试图和非经常性的现象（大蓝天！）做相关，表面上说得过去，但是里面需要考究的东西非常多。&lt;br&gt;&lt;br&gt;关于能见度，空气中各种现象，推荐美国环保署的一个报告，写的非常好：&lt;br&gt;《Introduction to Visibility》&lt;br&gt;搜索就有。&lt;br&gt;哈哈，顺便说一下我头像就是大早上的拍的，大概八点左右
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20855346/answer/16413305
 </link>
 <author>
@@ -74,7 +102,7 @@ http://www.zhihu.com/question/20024313/answer/16646053
 http://www.zhihu.com/question/20899960/answer/16643326
 </link>
 <author>
-知乎用户
+海布里炮兵
 </author>
 <title>
 为什么醋能减轻食物的油腻感？是醋和食物发生了反应，还是影响了人的味觉？
@@ -263,34 +291,6 @@ http://www.zhihu.com/question/20926617/answer/16636798
 </title>
 <description>
 以前也觉得是因为中国人爱热闹, 人土鳖之类. 后来才发现怎么日本网站也是这样. &lt;br&gt;&lt;br&gt;比如跟阿里相对的, 日本最大的电商网站乐天(&lt;a href=&quot;http://rekuten.co.jp&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;rekuten.co.jp&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/14/09/1409cf73f4e895f0092cde6d75ccd987_m.jpg&quot; data-rawwidth=&quot;1069&quot; data-rawheight=&quot;979&quot; class=&quot;origin_image&quot; width=&quot;1069&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/14/09/1409cf73f4e895f0092cde6d75ccd987_r.jpg&quot;)'&gt;&lt;br&gt;比淘宝还乱有没有? 上面标签那一排无力吐槽的颜色.&lt;br&gt;但这好歹还是有设计师摆弄整理的, 再点进去到内页:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a3/af/a3af56f10786f93fdc474afa1b520eed_m.jpg&quot; data-rawwidth=&quot;1068&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image&quot; width=&quot;1068&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/a3/af/a3af56f10786f93fdc474afa1b520eed_r.jpg&quot;)'&gt;&lt;br&gt; 绝对半点也不比中国网站好. 我进来是想买汽车贴纸这都飞出来是神马...&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;发现这个以后让我很迷茫. 如果是中国的情况用教育, 收入水平不高, 加上文化管制所以普遍缺乏美感还可以解释, 那日本绝不是这样. &lt;br&gt;&lt;br&gt;日本讲禅意, 讲空白, 讲整洁, 讲空间. 90%中产, 全民教育程度极高, 文盲几乎是0. &lt;br&gt;&lt;br&gt;不管是平常的禅院: &lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/58/ce/58ce5705f694825118bae478425d9918_m.jpg&quot; data-rawwidth=&quot;490&quot; data-rawheight=&quot;320&quot; class=&quot;origin_image&quot; width=&quot;490&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/58/ce/58ce5705f694825118bae478425d9918_r.jpg&quot;)'&gt;&lt;br&gt;还是建筑设计:&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/79/1e/791e570ffed2cb67b9ecd388ca755741_m.jpg&quot; data-rawwidth=&quot;1391&quot; data-rawheight=&quot;873&quot; class=&quot;origin_image&quot; width=&quot;1391&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/79/1e/791e570ffed2cb67b9ecd388ca755741_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;或者平面广告:&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/83/b2/83b2aff8d01cf01daaf0336c41d45036_m.jpg&quot; data-rawwidth=&quot;1840&quot; data-rawheight=&quot;1232&quot; class=&quot;origin_image&quot; width=&quot;1840&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/83/b2/83b2aff8d01cf01daaf0336c41d45036_r.jpg&quot;)'&gt;&lt;br&gt;你都找不到那些网页设计中的混乱. &lt;br&gt;&lt;br&gt;跟几个朋友喝酒聊过这个问题之后都发现很奇怪这个事但想不出个原因来. 于是憋不住学究范就去搜了一些对比亚洲和欧美网站设计的论文来看. 发现研究过这个问题的学者还不少. 其中最主流的结论是关于&lt;b&gt;文化差异&lt;/b&gt;的.&lt;br&gt;&lt;br&gt;&lt;br&gt;Edward T. Hall是一个美国的人类学家和跨文化学者. 他在1976年提出了一个概念. &lt;b&gt;高情景文化 (High-context culture) &lt;/b&gt;与 &lt;b&gt;低情景文化 (Low-context culture)&lt;/b&gt;. &lt;br&gt;&lt;br&gt;(其实context是一个很难翻译的英文, 它表示的是当前周遭的一切&quot;环境&quot;, 包括时间, 地点, 人物, 环境, 正在进行的行为, 群体的情绪, 等等. 在计算机中也有context awareness computing, 意思是根据你所在的“境遇”进行自我调节的计算机服务.)&lt;br&gt;&lt;br&gt;在高情景的文化中, 许多东西都是不言自明的, 只要少数词就可以有效的传达复杂的含义, 而剩下的通过文化和当前的&quot;情景&quot;两个圈内人之间就可以互相理解. 比如日本人几乎从不会表达“拒绝”, 或者说&quot;不&quot;这个字. 他们会用一个很微妙的词 &quot;稍微...&quot; (拼音大概是qiu do, 在日剧动漫里经常听到). 后面不会说任何别的词, 就可以表达否定的意思. 这在英文文化中是完全无法表达的状态. 相当于 &quot;Wanna have dinner with me?&quot; &quot;well...&quot; 对西国人来说这里信息完全没有传达是可以还是不可以. &lt;br&gt;&lt;br&gt;这样高情景的沟通风格通常在多元性低的国家, 这些国家团体与社群的价值高于个人, 所以文化是高度迎合“圈内人口味的”, 这样圈内人的经验也是相似, 所以可以对事物有相同的推论.&lt;br&gt;&lt;br&gt;所以很明显的中国，日本, 印度, 阿拉伯等都属于高情景国家, 而美国, 西欧, 北欧, 澳洲都属于典型的低情景国家. &lt;br&gt;&lt;br&gt;很多论文对不同国家网页的对比研究发现, 用户对网页设计的偏好也是按照高情景文化和低情景文化的分布的.&lt;br&gt;&lt;br&gt;所总结出来的一部分基本的特征是: &lt;br&gt;&lt;br&gt;&lt;b&gt;高情景国家用户&lt;/b&gt;: 偏好大量的动画, 图片, 有很多菜单和连接, 丰富的色彩, 点击连接的方式是弹出新窗口/Tab, 弹出的视频, 图片竟然也可以被接受, ...&lt;br&gt;&lt;br&gt;&lt;b&gt;低情景国家用户&lt;/b&gt;: 基本跟上面相反.&lt;br&gt;&lt;br&gt;不同的人也提出了一堆不同的理论来解释这两种用户之间的区别. 不过看起来也没有什么定论. 这里也就不转述了. 一个比较有趣的观点是在数字界面上是没有“情景(context)”的, 所以高情景文化用户需要大量的信息呈现在面前. &lt;br&gt;&lt;br&gt;&lt;br&gt;最后还想分享一个跟问题无关的事. &lt;br&gt;&lt;br&gt;遇到过一个很牛掰的意大利交互设计师, 在日本中国都呆了一些年. 有次在一个项目里遇到需要给内容排版, 他突然提出了一个问题: &lt;br&gt;&lt;br&gt;&lt;i&gt;东亚文字, 特别是汉字, 跟拉丁语系的文字是完完全全不同的,  汉字不管是象形与会意, 还是外形特点都跟英文差别非常大. 但现在所有的中国文字排版规则都是依照英文而来的. 你随便翻一番中国的杂志, 看起来跟英文杂志没有什么区别. 而这种排版到底是不是适合汉字的? 有没有更适合汉字的排版方式? &lt;/i&gt;&lt;br&gt;&lt;br&gt;很惭愧这样的思考是来自一个外国人, 而不是我们自己. &lt;br&gt;&lt;br&gt;现在我们在整体的复制和学习西方的美学, 西方的准则, 西方的设计, 在文化上几乎只有输入. 用这样的标准来审视自己, 得到的结论总是落后无知愚昧, 然后开始更加急迫的学习这些东西. 反而很少有机会像这样来对&quot;为什么&quot;进行一些更有意义的思考, 来找到更适合自己文化的设计. &lt;br&gt;&lt;br&gt;60年代奥运过后的日本也是这样, 全国疯狂的输入美国的一切. 但半个世纪以后, 至少还能看到他们的书很大一部分还是竖排. 也是翻到了这些书的时候才想得起来其实只有汉字是可横可竖不影响阅读的, 而英文无法.&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5f/ba/5fba3f8413c0d3e6867319ca0cceff09_m.jpg&quot; data-rawwidth=&quot;830&quot; data-rawheight=&quot;1400&quot; class=&quot;origin_image&quot; width=&quot;830&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/5f/ba/5fba3f8413c0d3e6867319ca0cceff09_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;以上.&lt;br&gt;&lt;br&gt;一些文献:&lt;br&gt;&lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2006.tb00313.x/full&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Intercultural Communication on Web sites: A Cross-Cultural Analysis of Web sites from High-Context Cultures and Low-Context Cultures&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://dl.acm.org/citation.cfm?id=345238&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Crosscurrents: cultural dimensions and global Web user-interface design&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://job.sagepub.com/content/47/2/189.short&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The Influence of High- and Low-Context Communication Styles On the Design, Content, and Language of Business-To-Business Web          Sites&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20923339/answer/16637019
-</link>
-<author>
-知乎用户
-</author>
-<title>
-病毒人际传播的生物学基础是什么？
-</title>
-<description>
-我先试着尽可能简单介绍一下H7N9所属的A型流感病毒。&lt;br&gt;&lt;br&gt;&lt;b&gt;除了包被在外的衣壳，一个A型流感病毒的颗粒还包括：&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. 基因组。A型流感病毒的基因组是由8个单链反义RNA组成的，其中每条链可以编码1-2种蛋白。&lt;br&gt;2. 血凝素（HA，haemagglutinin）。A型流感病毒中HA有16个亚型。HA的作用是作为配体，介导病毒和细胞上的受体结合。&lt;br&gt;3. 神经氨酸苷酶（NA，neuraminidase）。A型流感病毒中NA有9个亚型。NA的作用是除掉唾液酸，使病毒从感染细胞中释放出去。&lt;br&gt;4. RNA聚合酶（PA、PB1、PB2三个亚基）和核蛋白（NP，nucleoprotein）。负责病毒RNA的复制和转录。&lt;br&gt;5.干扰素拮抗剂NS1。抑制细胞的先天免疫应答。&lt;br&gt;6. PB1-F2蛋白。可能起到维持病毒复制的作用。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c2/04/c204ed8ea5e7d2e49e621f980586124d_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;400&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/c2/04/c204ed8ea5e7d2e49e621f980586124d_r.jpg&quot;)'&gt;&lt;br&gt;&lt;i&gt;A型流感病毒的命名，是由HA和NA两种蛋白决定的。H1N1，表示含有H1型HA蛋白和N1型NA蛋白，H5N1、H7N9也是同理。&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;A型流感病毒复制的过程是：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1. 病毒经过HA的介导感染细胞；&lt;br&gt;2. 病毒释放基因组RNA和早期蛋白；&lt;br&gt;3. RNA在早期蛋白的作用下复制、转录，翻译出更多蛋白；&lt;br&gt;4. 新生成的RNA和蛋白组装成病毒颗粒；&lt;br&gt;5. 病毒经过NA的作用释放到细胞外。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9d/e2/9de2921b88798a10f41115375dc0e408_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;592&quot; class=&quot;origin_image&quot; width=&quot;800&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/9d/e2/9de2921b88798a10f41115375dc0e408_r.jpg&quot;)'&gt;&lt;br&gt;不知道有没有讲清楚？接下来回到问题本身。凡是和上述过程有关的突变、重组，都可能改变病毒的宿主范围。&lt;br&gt;&lt;br&gt;HA蛋白介导病毒和细胞的结合。它结合细胞表面含有唾液酸（SA，sialic acid）的受体，所以最容易决定某病毒能否感染某物种。&lt;br&gt;人流感病毒一般结合SA-alpha-2,6-Gal（常见于人的气管上皮）；而禽流感病毒一般结合SA-alpha-2,3-Gal（常见于水禽小肠束上皮）。蛋白的功能由其氨基酸序列决定。HA蛋白氨基酸的改变就会影响到亲和性。H2、H3这两种HA蛋白，如果226位上的氨基酸是谷氨酰胺，228位上是甘氨酸，那么就易结合禽类受体，如果这两个位点变成亮氨酸和丝氨酸，则易结合人类受体。&lt;br&gt;而且，不但HA蛋白某个位点的改变会影响病毒的宿主范围，那些不参与介导受体识别的蛋白，如果发生突变，同样会改变病毒的宿主范围。突变导致的种间传播，和病毒基因组重组（reassortant）共同起效，使得病毒的宿主范围不断变化。典型的例子，应该就是H1N1了：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/07/c0/07c0eac82ab296c1dbc7aae13f5db392_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;732&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/07/c0/07c0eac82ab296c1dbc7aae13f5db392_r.jpg&quot;)'&gt;&lt;br&gt;以上内容和图片，主要参考2009年&lt;i&gt;Nature&lt;/i&gt;的一篇综述：&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/19525932&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;ncbi.nlm.nih.gov/pubmed&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/19525932&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。欢迎大家批评指正。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20529399/answer/16641200
-</link>
-<author>
-匿名用户
-</author>
-<title>
-医生超长时间工作，全天候为病人及医院工作，你觉得到底为了什么？
-</title>
-<description>
-绝大部分回答地非常正能量的，救死扶伤的，生命所系的，身份都是医~学生，对，不是医生，所以请不要代表工作在最一线的医生们。&lt;br&gt;为什么，赞同李永乐说的，就是因为，第一为了工作，我生病了高烧了怎么还上班啊，因为请不了假啊，不然就旷工啊，领导就不高兴啊，要找我谈话啊，这是我的唯一工作啊&lt;br&gt;第二，为了责任，我生病了高烧了怎么还上班啊，因为不上班我的那份工作就要同事为我完成啊，门诊一百多个挂号病人还加上许多！许多宣称我就看个结果而拒绝挂号然后其实问一堆问题占用很多出诊时间的病人们，三个医生却变成两个医生，同事们12点下班就要变成2点下班然后不能吃饭直接继续上 下午班啊。&lt;br&gt;第三，为了病人？一个上午8点到12点4个小时出诊时间，只因为医生中途只离开诊室一次且只是去上个厕所于是就对护士发飙了的病人？NO&lt;br&gt;&lt;br&gt;得到的赞同不知是不是都来自同行，于是诚恳地补充一些：最后是因为工作性质和工作制度，对于外科医生来说，手术时间短的1、2小时，长的可能长达7、8小时（我说的是常规术式，也就是日常工作，每天可能都要参与的手术，而不是非常规的耗时几十小时各专科齐上的疑难杂症），所以手术不完成，是不可能下班的，一线医生还要在术后负责送病人回监护室，交待病情，追踪复查结果，所以手术完成了，也不一定能下班。内心希望下班吗，当然，但一定会做完这些必须做的（而且请不要意淫我们是草率的完成工作只为早下班）。我这么说不是要说医生多伟大，在刚工作的2年里我，以及我的大部分同事都因为巨大的工作强度而萌生过辞职的念头，至于为什么大多没辞职，只能呵呵了，但现在，只能说已经习惯了~&lt;br&gt;至于工作制度，医生值班制度是24小时制，今日8点至第2天8点，然后不是下班哦，只是值班结束，回到原岗位继续上正常班，依然是干完自己分内工作，下午有的科室会补休一个下午，有的没有，就酱。
 </description>
 </item>
 </channel>
