@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20934810/answer/16653171
+</link>
+<author>
+张一弘
+</author>
+<title>
+交互设计中，如何制作一个优秀的动画？有哪些技巧和注意事项？
+</title>
+<description>
+虽然我不是做UI的，但是对做Motion Graphic有一点经验。&lt;br&gt;&lt;br&gt;概念：&lt;br&gt;做视觉感受顺畅的动画，不管是角色动画还是动态图像，最重要的两点就是&lt;b&gt;「节奏Timing」&lt;/b&gt;和&lt;b&gt;「幅度Spacing」&lt;/b&gt;。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d6/de/d6de5f6e25c200d3d8a3cb66a26db80a_m.jpg&quot; data-rawwidth=&quot;609&quot; data-rawheight=&quot;391&quot; class=&quot;origin_image&quot; width=&quot;609&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d6/de/d6de5f6e25c200d3d8a3cb66a26db80a_r.jpg&quot;)'&gt;&lt;i&gt;此图摘自《原动画基础教程》&lt;/i&gt;&lt;br&gt;要做好这两点，最基础和普适的练习莫过于小球弹跳了。&lt;br&gt;详细的就不写了，网上到处是，最直接的请看视频版的《原动画基础教程》&lt;br&gt;这一节就行：&lt;a href=&quot;http://v.youku.com/v_show/id_XMzUzMTI2NzYw.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;【高清】原动画基础教程（2）&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;当然要真正做好是不可能通过这几个练习就能完全解决的。善于观察，多看好的，经验积累都必不可少。&lt;br&gt;=======================================================================&lt;br&gt;更具体一点的技巧：&lt;br&gt;要动画看上去舒服说白了就是要&lt;b&gt;「&lt;/b&gt;&lt;b&gt;接近人的视觉经验&lt;/b&gt;&lt;b&gt;」&lt;/b&gt;。&lt;br&gt;通常上自然界&lt;b&gt;柔和&lt;/b&gt;动作的表现为&lt;b&gt;「两头慢，中间快」&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/13/5a/135a68de10d7e393504ab1732b90d4bd_m.jpg&quot; data-rawwidth=&quot;576&quot; data-rawheight=&quot;250&quot; class=&quot;origin_image&quot; width=&quot;576&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/13/5a/135a68de10d7e393504ab1732b90d4bd_r.jpg&quot;)'&gt;两头的堆积会显得这个动画更有&lt;b&gt;「生命感」&lt;/b&gt;。&lt;br&gt;在锤子ROM的UI中普遍使用了这种动画手段。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c8/92/c892b9c01241d587f2fd5fe798d7045e_m.jpg&quot; data-rawwidth=&quot;570&quot; data-rawheight=&quot;400&quot; class=&quot;origin_image&quot; width=&quot;570&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/c8/92/c892b9c01241d587f2fd5fe798d7045e_r.jpg&quot;)'&gt;动画曲线是两头平缓的S型.。&lt;br&gt;&lt;blockquote&gt;我做了源文件，请用CS3以上版本打开：&lt;a href=&quot;http://pan.baidu.com/share/link?shareid=395796&amp;amp;uk=2701434922&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;01.fla&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/blockquote&gt;当然，如果你要做其他效果，可以使用不同的曲线，会使动画更有变化。&lt;br&gt;&lt;br&gt;然后，自然界越有力量的动作，会有越强的「反馈」。在动画中称其为「逆向缓冲」。&lt;br&gt;这种方法可以增强动画的&lt;b&gt;「力量感&lt;/b&gt;&lt;b&gt;」&lt;/b&gt;。锤子ROM中，解锁后图标弹出的效果就是这样。&lt;br&gt;角色动画中一般会使用与动作相反的小动作作为大动作的预备来突出这个效果，不过鉴于UI对时间的要求有限，并不建议你这么做。&lt;br&gt;&lt;blockquote&gt;参考：&lt;a href=&quot;http://pan.baidu.com/share/link?shareid=395816&amp;amp;uk=2701434922&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;02.fla&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;接着是两兄弟，「拉伸」和「挤压」。这两者都是为了使动画获取&lt;b&gt;「弹性」&lt;/b&gt;。&lt;br&gt;学过物理的都知道，尽管有些时候肉眼察觉不出，物体受力的时候都会产生形变。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/66/cf/66cfc765369fc9d3cc9addcd9adf656b_m.jpg&quot; data-rawwidth=&quot;773&quot; data-rawheight=&quot;506&quot; class=&quot;origin_image&quot; width=&quot;773&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/66/cf/66cfc765369fc9d3cc9addcd9adf656b_r.jpg&quot;)'&gt;&lt;br&gt;&lt;blockquote&gt;参考:&lt;a href=&quot;http://pan.baidu.com/share/link?shareid=395868&amp;amp;uk=2701434922&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;03.fla&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/blockquote&gt;同时，由于「视觉残留原理」，高速运动物体会显得「模糊」并且「拉长」了。这也是拉伸的另一个用处，会在时间不变的情况下，视觉感受上物体动的更快了，增加动画的&lt;b&gt;「&lt;/b&gt;&lt;b&gt;速度感&lt;/b&gt;&lt;b&gt;」&lt;/b&gt;。这比较好理解，就不做例子了。上面那个球坠落的过程中也有拉长，同样会产生这种效果。&lt;br&gt;&lt;br&gt;另外，如果几个动画同时进行，稍稍错开几个动画之间的时间，会显得动画更有&lt;b&gt;「层次感&lt;/b&gt;&lt;b&gt;」。&lt;/b&gt;这个也很好理解。同样可以看一下锤子ROM解锁后的弹出动画，所有图标并不是同时放大的。&lt;br&gt;&lt;br&gt;剩余的例如在颜色，大小，形态，明暗，透明度上的变化，都可以使动画看上不那么「素」。这个还是要自己多尝试比较好，比较考验一个人对审美的综合能力。&lt;br&gt;&lt;br&gt;算抛砖引玉了，期待各位交互设计师的回答。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20041858/answer/13781964
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20590958/answer/16028412
 </title>
 <description>
 补充一个：纽约之所以能够超越波士顿、费城等地成为美国和世界的金融中心，与有限责任制（limited liability）首先在纽约采纳有关。试想，如果没有有限责任制，公司的股东就可能会因为会因为公司的潜在风险而亏得倾家荡产，没准还要坐牢，所以投资人只敢投信得过的熟人。正是因为纽约州在1811年首先通过了有限责任制的法律，使得投资人和公司竞相涌向纽约以降低风险，让纽约的金融行业获得了空前的发展，进而大步领先于当时美国东部的其他大城市。&lt;br&gt;&lt;br&gt;&lt;br&gt;参见：&lt;a href=&quot;http://www.economist.com/node/347323&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Millennium issue: The key to industrial capitalism: limited liability&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19994013/answer/16595154
-</link>
-<author>
-Palalin
-</author>
-<title>
-你觉得最好用的笔是哪一支？
-</title>
-<description>
-最好用的当之无愧的是“&lt;strong&gt;三菱 MITSUBISHI UM-100 中性笔&lt;/strong&gt;”，我曾经看过无数名人，企业在被采访的时候、开会的时候，桌上放的全都是这种笔，非常非常好用。&lt;br&gt;【缺点：摔在地上容易坏  |  原因：金属笔头较重，虽可保持笔的重心靠下部以获得良好手感，但是坠落时笔尖更容易先着地】&lt;br&gt;        绝大部分比较有名的文具品牌，比如真彩、晨光、金万年等等，或多或少的都抄袭了这支笔的设计，甚至是直接照搬，例子就不举了。&lt;strong&gt;可是说是中性笔设计的经典之作。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e2/5e/e25eeb9818971b04107c053c8453365d_m.jpg&quot; data-rawheight=&quot;500&quot; data-rawwidth=&quot;500&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e2/5e/e25eeb9818971b04107c053c8453365d_r.jpg&quot;)'&gt;&lt;br&gt;UM - 100的特点：&lt;br&gt;&lt;ul&gt;&lt;li&gt;SIGNO是颜料墨水，受光照也不易褪色，且不渗透；&lt;/li&gt;&lt;li&gt;可以保持线条持久鲜艳；&lt;/li&gt;&lt;li&gt;双珠设计，防止漏墨；&lt;/li&gt;&lt;li&gt;笔芯加大墨液存量，书写长度可达1000米。&lt;/li&gt;&lt;/ul&gt;中国官网介绍：&lt;a href=&quot;http://www.mpuni.com.cn/index.php/Product/30.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;UM-100(05) 亮彩中性笔 三菱铅笔-uni Mitsubishi Pencil&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;-------------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;       不过要说最出名的笔，工作起来最稳定、最值得人信赖的笔，是&lt;strong&gt;“三菱 UB-150 签字笔”&lt;/strong&gt;，因为我们温总理在做政府工作报告的时候手里挥动的笔就是这款。（本来想搜一下这幅图的，但是由于种种你懂得原因，实在太难找到了）&lt;br&gt;       这支笔特别耐用，适合在一些特殊情况下书写使用，不容易坏，书写流利、可连续书写的时间长，不怕摔，笔迹长时间不褪色，颜料可防水（plus,  曾经还看过某跨国汽车公司在水下进行XX测试的时候，用这支笔在水下进行数据记录。）   &lt;strong&gt;可以说，几乎没有明显的缺点。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4c/cb/4ccbb49a34c4862d460b3eb0d3d909ff_m.jpg&quot; data-rawheight=&quot;480&quot; data-rawwidth=&quot;450&quot; class=&quot;origin_image&quot; width=&quot;450&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/4c/cb/4ccbb49a34c4862d460b3eb0d3d909ff_r.jpg&quot;)'&gt;UB - 150 特点：&lt;ul&gt;&lt;li&gt;“UNI-FLOW系统”确保了稳定的书写性能，直至最后一滴墨水书写殆尽；&lt;/li&gt;&lt;li&gt;从墨水瓶中吸取的过量墨水能够暂时储存起来，以确保到达笔尖的墨水流量保持恒定；&lt;/li&gt;&lt;li&gt;钨碳滚珠，不锈钢嘴；&lt;/li&gt;&lt;li&gt;采用“直注式”控墨系统；&lt;/li&gt;&lt;li&gt;使用防水及防变色墨液；&lt;/li&gt;&lt;li&gt;配有透视窗，可监察墨液存量；&lt;/li&gt;&lt;li&gt;笔杆PP材料制成，提感舒适。&lt;/li&gt;&lt;/ul&gt;中国官网介绍：&lt;a href=&quot;http://www.mpuni.com.cn/index.php/Product/15.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;UB-150 直液式耐水性水笔 三菱铅笔-uni Mitsubishi Pencil&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;----------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;        UB - 150这支笔我从初中用到大一，大二开始用UM - 100.  近十年的使用让我对这两支笔有了非常深厚的感情，现在哪怕换用任何另外一只其他的笔，我都用不习惯，感觉手已经慢慢长成适合这种笔的形态了。&lt;br&gt;&lt;br&gt;三菱笔全球官网链接：&lt;a href=&quot;http://www.uniball.com/home/index.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;uni Mitsubishi Pencil Official Global Website&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 </channel>
