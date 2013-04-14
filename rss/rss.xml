@@ -119,7 +119,7 @@ http://www.zhihu.com/question/20944506/answer/16680600
 engos
 </author>
 <title>
-手机指南针校正为什么要绕8字？
+手机指南针校正为什么要绕 8 字？
 </title>
 <description>
 mark下，电脑上来回答。&lt;br&gt;----------------------------------------------------&lt;br&gt;手机要想得到compass的值需要由三个sensor来确定，accel， gyro， magnetic。&lt;br&gt;accel可以判断重力感应的放心，来确定手机所在的三个轴向XYZ&lt;img src=&quot;http://p3.zhimg.com/25/5c/255cdb71ebb4d8ad5153c7118b14d155_m.jpg&quot; data-rawwidth=&quot;215&quot; data-rawheight=&quot;183&quot; class=&quot;content_image&quot; width=&quot;215&quot;&gt;（用小画家画的。。。。能讲明白事情就好，别在意画工。。。）&lt;br&gt;gyro可以判断出机器在三个轴向的转动。&lt;br&gt;magnetic可以判断出在三个轴向的磁感应量。这个值并不是我们所能直观看懂的compass的值。&lt;br&gt;那么通过orientation的设置，使机器能够知道XYZ三个方向哪个是指北的。&lt;br&gt;一般机器在打开compass的application时只有知道自己的orientation和default offset。这时候就需要各位转动手机。虽然是说的8字，但是其实是想让你把三个轴向都转一转这样在每个轴向会形成一个螺旋线的球体（我用小画家画不出来，大家脑补，或者换个时间我去弄个图来）。这个就是周围的磁场。在这一刻传感器就开始计算当前的三个轴向offset并加以纠正，加上适当的补偿值。如此你就可以得到准确的北。并且通过gyro和magnetic共同计算就可以知道你在水平方向的旋转度数，这样你除了东西南北还能知道其他方向的角度（东西南北对应的是-X，+X，-Y，+Y，比较好算，转过这些点就要混合计算了。）如果算法足够先进，再加上accel的判断就可以计算出机器是否是在倾斜的状况下旋转并计算出compass的值。&lt;br&gt;&lt;br&gt;&lt;br&gt;所以你可以把手机拿好了，然后默默的沿着图示的三个轴各转三圈，一样能达到效果。
