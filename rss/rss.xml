@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20372266/answer/16622919
+</link>
+<author>
+陈珂
+</author>
+<title>
+每天早起两小时（80年下来就多出将近7年），你会用来干什么？
+</title>
+<description>
+女：你抽烟吗？ &lt;br&gt;男：抽。 &lt;br&gt;女：每天多少包？ &lt;br&gt;男：三包。&lt;br&gt;女：每包多少钱？&lt;br&gt;男：10英镑。&lt;br&gt;女：你抽烟多久了？ &lt;br&gt;男：15年。&lt;br&gt;女：所以这些年来每年你抽烟就花了10800英镑。&lt;br&gt;男：正确。 &lt;br&gt;女：1年10800英镑，不考虑通货的话，过去的15年里你抽烟总共花了162000英镑对吗？ &lt;br&gt;男：嗯。 &lt;br&gt;女：你知道吗？如果你没有抽烟，把这些钱放在一个高利息的储蓄账户里，按复合利率来算。你现在能买一辆法拉利了。 &lt;br&gt;男：你抽烟吗？ &lt;br&gt;女：不。 &lt;br&gt;男：那麻痹你的法拉利呢？&lt;br&gt;&lt;br&gt;开个玩笑。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20874376/answer/16715940
 </link>
 <author>
@@ -116,7 +130,7 @@ http://www.zhihu.com/question/20334985/answer/14799972
 http://www.zhihu.com/question/20957622/answer/16719623
 </link>
 <author>
-kun yu
+知乎用户
 </author>
 <title>
 波士顿爆炸中真的有新闻图片造假的吗？
@@ -200,7 +214,7 @@ http://www.zhihu.com/question/19897918/answer/13309998
 http://www.zhihu.com/question/20955981/answer/16715287
 </link>
 <author>
-谭力凯
+知乎用户
 </author>
 <title>
 实验室是如何分离生物病毒的？
@@ -214,7 +228,7 @@ http://www.zhihu.com/question/20955981/answer/16715287
 http://www.zhihu.com/question/20721079/answer/16714536
 </link>
 <author>
-陈马登Morden
+知乎用户
 </author>
 <title>
 为什么拥有 6.5 亿用户的 Skype 没能做成腾讯那样的大公司？
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20953299/answer/16710280
 </title>
 <description>
 实际上，早在 2012 年 11 月份，豌豆荚已经正式对外公开了 「挑选最安全的优质应用——豌豆荚应用搜索的安全标准」。这是我当时用的 PPT：&lt;a href=&quot;http://vdisk.weibo.com/s/jakp9/1354087094&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;挑选最安全的优质应用——豌豆荚应用搜索的安全标准.pdf&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 这个搜索找到的一份报道：&lt;a href=&quot;http://mobile.pconline.com.cn/news/changshang/1212/3099648.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;豌豆荚公布Android应用行业安全数据&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;回到应用审查制度这个话题上来，文中提到的盛大通知栏广告 SDK，之前广告特征扫描没有发现这个，导致漏网。而且据我了解，盛大集团广告部门会在盛大所有旗下的应用加上通知栏广告的 SDK，目前有的 App 团队发现之后会做一些「绕道」处理，还有很多团队并不知道啥时候被插入了这个 SDK，直到豌豆荚告知。&lt;br&gt;&lt;br&gt;在最近收到用户的抱怨之后，我们集中对几家做了补充处理，将原来漏掉的重新加了进来。由于豌豆荚做的是应用搜索，有不少应用都来自合作伙伴提供，也没有直接跟开发者打交道，确实很难就每一个的改动影响到的应用通知到每一个开发者；不过你的建议很好，我们之后也会更努力的做到。如 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@liuyaping&quot; href=&quot;http://zhihu.com/people/liuyaping&quot; data-tip=&quot;p$b$liuyaping&quot;&gt;@liuyaping&lt;/a&gt; 所言，我们非常欢迎和任何高质量的应用合作，我们有独家发布、豌豆荚设计奖等等各种方式来为用户推荐你们，希望为 Android 开发者这个生态圈贡献一点我们的力量。重点是，这一切都是免费的。联系：developer@wandoujia.com。&lt;br&gt;&lt;br&gt;回来看看我们为什么要做这样一个标准，首先来看几个整体数据：&lt;br&gt;就我们能够索引到的 Apk 数量来看，来自各家不同 Apk 的广告分布，近 26.4% 的应用含有通知栏广告，比例并不低。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/89/ea/89eaee70ce0919b4176268b8127c7ff9_m.jpg&quot; data-rawwidth=&quot;607&quot; data-rawheight=&quot;423&quot; class=&quot;origin_image&quot; width=&quot;607&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/89/ea/89eaee70ce0919b4176268b8127c7ff9_r.jpg&quot;)'&gt;&lt;br&gt;如大家所知，每一个 Android 应用或游戏，Google 为了保证开发者的权益，均为每一个 Apk 设计了数字签名证书，被非原作者篡改后的应用是无法覆盖安装的，也会被提示 “签名不一致”，我们来看看我们能看到的一些情况。国内各种「山寨」的比例也高的吓人。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/75/0a/750a651ca5e1a164ca70ffd1b62a5419_m.jpg&quot; data-rawwidth=&quot;602&quot; data-rawheight=&quot;410&quot; class=&quot;origin_image&quot; width=&quot;602&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/75/0a/750a651ca5e1a164ca70ffd1b62a5419_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;提问的老师提到 「通知栏广告是安卓允许的广告形式，且无明确危害。」，我们来看看一些含 「推送广告」的用户评论，从这里可以明确的看到，通知栏广告并不是无明确危害，而且用户抱怨也很大，并且会认为这是豌豆荚没有尽到责任，什么垃圾软件都接进来！&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/77/7a/777a76719829a5457c003c4c19d3e1b9_m.jpg&quot; data-rawwidth=&quot;682&quot; data-rawheight=&quot;449&quot; class=&quot;origin_image&quot; width=&quot;682&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/77/7a/777a76719829a5457c003c4c19d3e1b9_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;下图是我们这套标准上线后的一个直观变化（明眼人一看就明白，上面这两个版本都是各家市场收录的非正版应用，并且还是加入通知栏广告或恶意篡改 VersionCode 来拉升级量的）。&lt;br&gt;实际上，就到今天为止，还有不少同行（就不点名了，大家用一下就知道了）在升级应用时仍然不校验开发者的签名，而直接给升级到各种非原作者开发的版本上。甚至还有一些市场会不管三七二十一，把作者所有的包会重新解开加上一些「内容后」重新打包，并用自己的签名替换。这个风险不用我说，大家都明白。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bd/57/bd576af72d14b2c72d9bc729a7e76fe1_m.jpg&quot; data-rawwidth=&quot;496&quot; data-rawheight=&quot;590&quot; class=&quot;origin_image&quot; width=&quot;496&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/bd/57/bd576af72d14b2c72d9bc729a7e76fe1_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;实际上，豌豆荚推出这套策略，也包括今天在做的「豌豆洗白白」，都是为了更好的帮助用户摆脱「山寨」，摆脱那些不知道怎么回事就会推送的「通知栏广告」。而且从我们收集到的用户反馈来看，大家对很多软件也是很有需求的，很多时候无奈被迫选择接受这个通知栏广告，一旦有的好一点的版本选择，都会替换。这份数据也分享给大家：&lt;br&gt;目前洗白白每日有几百万用户在使用，每天洗出来的「山寨应用」在 200W 量级，「推送通知栏广告的应用」在 100W 量级，其中大部分的用户都会选择升级到正版，或者替换掉无通知栏广告的版本。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20951805/answer/16710998
-</link>
-<author>
-朱印
-</author>
-<title>
-一个好的交互设计师是怎样成长起来的？
-</title>
-<description>
-每个设计师的成长路径和方法各不相同，也无固定模式一说，此处仅分享一些在RIGO design我与设计师常讨论的关于设计师的成长看法： 10%+20%+70%&lt;br&gt;&lt;br&gt;设计师的成长的10%：参与有意义的行业峰会，参与有意义的行业间的专业交流或培训，关注行业动态与新知，拓展专业视野。这个层面对设计师提高的帮助大概会在10%；&lt;br&gt;&lt;br&gt;设计师的成长的20%：设计上的良师益友，在你设计道路上，总会阶段性的存在短板或知识结构的缺角。这时，寻找一位好的导师，亦师亦友的在你当遇到专业瓶颈期、平台期、创意真空期，给于前进道路上的指导解惑，抑或经验分享，都是你职业生涯中宝贵的馈赠。这个层面对于一位设计师提升的帮助大致在20%；&lt;br&gt;&lt;br&gt;设计师的成长的70%：每日工作。每日看似平凡的工作中，从遇到每一个问题时的困惑，到每一个困难解决的过程；从每一次思考的过程，到每一轮团队协作与设计迭代的打磨。每天的工作中所获得的点滴经验教训失败成功，是帮助设计师真正提升最大的70%。也正所谓是: 于无声处听惊雷.&lt;br&gt;&lt;br&gt;另外最重要的一点是：初学者刚刚介入设计行业，不要整天仅想着如何速成一位可以把控全局的多面高手，或是指点江山大局的设计明星。做设计一定以端“正”心态为先：所谓心态“正”，就是内心能够“止于一”，一个明确的目标。每个阶段认准一个(且仅唯一一个)有难度却可通过努力而到达的目标，实现它。心态正了，专注的目标“止于一”，反而易于快速的提高。清晰你的目标是什么，了解你的优势是什么，剩下的交给专注与坚持。有一句话很好：坚持是个漫长的过程，不过好在，我们不赶时间。
 </description>
 </item>
 </channel>
