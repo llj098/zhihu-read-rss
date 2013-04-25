@@ -15,6 +15,48 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20157448/answer/16404769
+</link>
+<author>
+匿名用户
+</author>
+<title>
+天猫上的东西是不是比一般的淘宝店上的东西质量要好？
+</title>
+<description>
+以前跟几个朋友弄了个淘宝商城店，用个营业执照，PS了一张授权书就能办下来了，中间淘宝给打过几通电话验证了一下，类目是卖假的运动鞋，阿迪耐克匡威什么的，进货渠道是阿里巴巴，每二天一张订单让厂家发，然后我们再寄出去，客户有意见的话我们的解释就是从库房周转需要一点时间，照片自己拍的，用了点心思，然后从专柜拍了几张照片就说是我们的实体店铺。&lt;br&gt;&lt;br&gt;毛利率基本在100%-150%，各种售后一应俱全，服务态度好的不能再好，客户有啥要求都满足，退货包来回运费，做了半年，淘宝商城鞋类第二名。&lt;br&gt;&lt;br&gt;商城是直接从卖家营业额里提取3%做手续费的，而且淘宝所有的促销折扣之类的活动商城卖家都必须无条件配合，这些成本加上退换货，如果运动鞋类卖真品，利润会很薄，当然啦，不能排除确实有老老实实卖真品的，但我不信。&lt;br&gt;&lt;br&gt;所以淘宝也好商城也罢，别太当真，挑一些有特色质量不错的店长期买就好。&lt;br&gt;&lt;br&gt;======================&lt;br&gt;Update 2013.4.13&lt;br&gt;&lt;br&gt;作为一个最高支持数只有20的压根不觉得匿名对我而言有任何意义的屌丝，突然被顶破一百，微博反复被圈，诚惶诚恐。&lt;br&gt;&lt;br&gt;做些说明吧：&lt;br&gt;&lt;br&gt;开店是在2010年，开了八个月，因为投诉太多，被淘宝关了。&lt;br&gt;&lt;br&gt;大家爱在网上买便宜运动鞋是你们自己的事，但是买之前用用大脑。&lt;br&gt;&lt;br&gt;至于那个说要我倾家荡产进去的傻逼，没错，就是你，go fuck yourself.&lt;br&gt;&lt;br&gt;好了，不多说了，匿了
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20986852/answer/16810984
+</link>
+<author>
+jxitc
+</author>
+<title>
+金融市场计算机化的交易程序是如何根据新闻进行自动交易的？目前这种技术的应用广泛吗？
+</title>
+<description>
+对金融市场不了解，但可以谈谈计算机如何理解自然语言文本。&lt;br&gt;&lt;br&gt;1、首先假设前提是*来源可靠*的新闻会直接影响金融交易决策，比如交易员读到利好消息会引起股价上涨。&lt;br&gt;&lt;br&gt;2、有一些公司，专门为金融公司提供这类消息，比如bloomberg，消息来源于公开的新闻，也来源于内部资料。&lt;br&gt;&lt;br&gt;3、这个过程可以被计算机自动化。NLP自然语言处理有一种叫情感分析，sentiment analysis，就是试图去对文本进行理解，来判断一句话到底是积极的还是消极的情感。相信很多人听说过，有研究人员用Twitter的情感分析来预测股票市场指数的，发现两者波动曲线重合率非常高！而且Twitter上的情感波动一般会提前股市波动几天。&lt;br&gt;&lt;a href=&quot;http://www.technologyreview.com/view/421251/twitter-mood-predicts-the-stock-market/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Twitter Mood Predicts The Stock Market&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/82/aa82c1df035ff54477824505cfe9e7ff_m.jpg&quot; data-rawwidth=&quot;732&quot; data-rawheight=&quot;715&quot; class=&quot;origin_image&quot; width=&quot;732&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/aa/82/aa82c1df035ff54477824505cfe9e7ff_r.jpg&quot;)'&gt;(Source: &lt;a href=&quot;http://www.downsidehedge.com/twitter-stock-market/twitter-stock-sentiment/2013/02/04/sp-500-negative-initiation-thrust-from-twitter-sentiment/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Downside Hedge&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)&lt;br&gt;&lt;br&gt;在金融领域中，肯定不单单收集文章中的情感偏向，更多维度的特征会被抽取出来。同时，类别应该会更细化，不仅仅限于“利好”和“非利好”两个类别，甚至有可能是一个数值概率。由于为了避免假新闻、虚假消息之类的，这类文本分析程序会综合各个来源的数据，进行综合分析。当然这次那谁的官方Twitter账号被盗了，发布假消息，肯定会欺骗到一大批计算机程序…&lt;br&gt;&lt;br&gt;最后，不管怎样，机器终究是机器，最终结果只会作为一个参考提供，或者作为众多决策依据一面的一员。&lt;br&gt;&lt;br&gt;4、而所谓高频交易系统，就是股市系统会有一些API接口，可以让程序自动控制买入卖出。这些API接口是有优先级之分的。高优先级的API，可以允许更快的进行买入和卖出，一般这个都是实时毫秒级别的。（花絮，这是我一个朋友告诉我的，他也在做自动股票交易，不过用的是免费的API接口，比那些收费的优先级低了很多，允许响应时间也会慢很多）&lt;br&gt;&lt;br&gt;而在这么快的时间内做决策，必须要靠计算机介入。我猜想应该是机器学习统计模型在这里发挥作用，综合当前各种因素，以及刚刚文本分析结果，迅速在毫秒之间作出判断，自动执行买入卖出。&lt;a href=&quot;http://wallstreetcn.com/node/20288//@&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;高频程序交易之新闻扫描程序&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;因为股市这东西，我虽然不太懂，但是听说它对新闻反映特别敏感，因此新闻评论一定是一个重要的特征。&lt;br&gt;&lt;br&gt;&lt;br&gt;延伸开来，当年赢了美国版开心辞典的IBM Watson问答机器人，现在也被华尔街一些公司买去。Watson能力在于可以自动扫描大规模文本，为指定回答在大规模文本中找到各种明显的、隐含的线索，以为金融家提供决策支持。&lt;br&gt;而根据我对Watson的了解，我猜测IBM Watson做的，应该是更长期的风险分析，比如根据报纸报道的一个国家的失业率、GDP情况等各个方面综合评估这个国家未来半年的投资收益。因为计算机对于人的优势，可以基于大规模文本数据，得到一些因素之间的隐含联系，而谁知道了这些隐藏于表面之下的信息，谁就可以占得先机！&lt;br&gt;&lt;a href=&quot;http://www.bloomberg.com/news/2012-03-05/ibm-s-watson-computer-gets-wall-street-job-one-year-after-jeopardy-win.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;bloomberg.com/news&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/2012-03-05/ibm-s-watson-computer-gets-wall-street-job-one-year-after-jeopardy-win.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20982212/answer/16797216
+</link>
+<author>
+郭子云
+</author>
+<title>
+坐拥那么多现金，为什么苹果还要举债以进行新一轮股票回购？
+</title>
+<description>
+谢邀，以下数据来自新浪财经：&lt;a href=&quot;http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;苹果(AAPL)_美股&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;2013年4月23日，苹果收盘股价为406.13美元，每股收益44.16美元，市盈率9.20倍。&lt;br&gt;&lt;br&gt;市盈率这个东西是股价与每股收益的商，其倒数反映了投资的收益率。目前苹果9倍的市盈率基本符合市场预期：不是苹果的产品不行了，而是市场饱和了。智能手机硬件行业的快速成长期已经结束，该进入平台期了，智能手机价格必须大幅下调，扩大消费人群，才能维持利润额（而不是利润率）。要维持股价，要保住自己CEO的位置，要未来拿到高额的期权收益，库克基本上把能用的财务手段都用了。&lt;br&gt;&lt;br&gt;（1）大额现金分红。这个已经分过了，稳定了投资者对于苹果的看法——即使不再成长，至少还有分红。&lt;br&gt;&lt;br&gt;（2）回购股票。&lt;br&gt;苹果作为一家精工细作的公司，具有稳定的核心消费人群，符合巴菲特理想的“债券型公司”的要求。个人认为，当苹果的产品浮华散尽之后，其每年的收入和利润率仍然可以保持稳定，加上可以期待的每年巨额的现金分红，公司的前景不能说太坏。面对这样低迷的股价，大股东和长期的战略投资者完全可以回购股票，蓄势待发。&lt;br&gt;&lt;br&gt;因此，苹果有回购股票的想法，很正常，问题在于，有钱还要借贷来回购？&lt;br&gt;&lt;br&gt;（3）提高财务杠杆。&lt;br&gt;截止2012年12月29日，苹果资产负债表显示，总资产1760.64亿美元，负债578.54亿美元，股东权益合计 1182.10亿美元。其资产负债率为32.86%，权益乘数为1.49。负债可以说处于极低的情况，其财务杠杆完全可以适度提高。当公司生息资产的盈利能力远大于市场的贷款利率，为什么不借别人的钱为自己办事呢？&lt;br&gt;&lt;br&gt;我们普通人不也是一样吗，买个手机，即使有钱可以全额付款，仍然愿意留住现金，用信用卡来支付，宁可忍受银行6%的年息。这是因为，现金有更多的用处，留住现金，就多了一分选择。在未来苹果并购某个地图、云计算等方面的小公司的时候，不需要用自身的股票来便宜对方，现金支付！更何况，目前美国的基准利率是0-0.25%，以苹果的收入状况是商业银行最为理想的贷款对象（标普AAA级），绝对是要组团提供贷款的，利息大约仅高于美国一年期国债的利率水平。面对借钱几乎不要利息的大好情况，何乐而不为？&lt;br&gt;&lt;br&gt;个人评价：库克是一个好的财务人员，全世界最好的运营管理人才，但是在苹果从巅峰到低谷的这一段下滑期执掌苹果，他无非是一个翻版的斯卡利而已。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20939533/answer/16738236
 </link>
 <author>
@@ -32,7 +74,7 @@ http://www.zhihu.com/question/20939533/answer/16738236
 http://www.zhihu.com/question/20570516/answer/16797718
 </link>
 <author>
-天光
+知乎用户
 </author>
 <title>
 松下公司为什么走到今天的窘境？
@@ -60,7 +102,7 @@ http://www.zhihu.com/question/20966775/answer/16795637
 http://www.zhihu.com/question/20887953/answer/16797931
 </link>
 <author>
-邓世择
+知乎用户
 </author>
 <title>
 如何评价窦唯的唱功？
@@ -249,48 +291,6 @@ http://www.zhihu.com/question/20214410/answer/14358528
 </title>
 <description>
 我06毕业，工作5年后在11年辞职GAP，现在还没恢复上班呢。基本上前面一半在旅行，后面一半在帝都混文化圈。这一年多时间里，读了几百本好书，走了几十个城市，见了很多有意思的人，甚至还把丢掉的英语也捡回来了，大大丰富了生命的厚度和宽度。除了因为膝关节的伤未痊愈导致西藏骑行计划搁浅，其他几乎都是完美的。这算是个好例子么？&lt;br&gt;&lt;br&gt;当然，我做这一切都是有基础的。首先，专业技能过硬，无论什么时候都不担心可以随时回到一份不错的工作里；其次，当然是有一定的积蓄，经济独立是通往精神独立必不可少的路，很多人都没把这一点想通就在那幻想要怎么自由；再次，得有之前的阅读积累，自己心底有一大大世界，能有底气HOLD住这一切，否则你总活在社会和别人的评价里，可能会更迷茫、无所适从。&lt;br&gt;&lt;br&gt;不过，我都是瞒着爸妈的，你们懂得，某些时候，迂回很有必要。 &lt;br&gt;&lt;br&gt;很喜欢熊培云老师的一句话，也同样送给大家：年轻时如果还没想好要干什么或是不确定自己适合干什么，又不想浪费光阴的话，要么努力多赚点钱，要么用心多读点书，想要让自己更自由，这二者都是必不可少的。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20069970/answer/16789397
-</link>
-<author>
-LJD
-</author>
-<title>
-复制手机 SIM 卡是真的吗？
-</title>
-<description>
-谢邀。&lt;br&gt;&lt;br&gt;这事我有发言权了，因为我今天中午刚刚“复制”了一张联通的SIM卡。&lt;br&gt;大致情况和&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@阿佘&quot; href=&quot;http://zhihu.com/people/ashej&quot; data-tip=&quot;p$b$ashej&quot;&gt;@阿佘&lt;/a&gt; 老师说的差不多，但看样子他并没有实操经验。咱们一条一条来：&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;0、下文中提到的被破解的SIM卡，均是我的个人财产。我从来没在未征得SIM卡拥有者的同意情况下擅自破解他们的卡。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1、复制手机 SIM 卡是真的吗？&lt;/b&gt;&lt;br&gt;部分是真的。为什么是部分？下面说。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2、为什么要复制？&lt;/b&gt;&lt;br&gt;复制SIM卡也不一定就是要干坏事。像我的情况就是，手上有一台带锁的4S，必须要用“和谐卡”（下面有介绍）才能解锁，这时候就需要把我常用号码那张SIM卡复制到这张和谐卡上。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;3、如何复制？&lt;/b&gt;&lt;br&gt;1）如佘老师说的那样，找内部的人帮你搞定。&lt;br&gt;2）自己破解，设备主要有两件：一个USB口读卡器和一张空白可擦写的SIM卡（我叫它“和谐卡”），我一年前购入，总价90元。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4、如何找人帮你搞定？&lt;/b&gt;&lt;br&gt;我自己没试过，但在一些二三线城市，补卡流程还不是那么完善，可以走这方面的漏洞，大致过程如下：&lt;br&gt;&lt;a href=&quot;http://www.91nes.cn/thread-1613739-1-63.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;【联通usim卡补OTA卡】终于成功了，激动万分。标题要长长长长~~,&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;5、如何自己破解？&lt;/b&gt;&lt;br&gt;&lt;br&gt;0）世界上不存在一张绝对能破解的SIM卡。&lt;br&gt;&lt;br&gt;1）把你常用的那张SIM卡拆下来装进读卡器，插进电脑，使用专门软件进行计算破解。&lt;br&gt;这里要注意：&lt;br&gt;·不是什么卡都可以破解，就目前以我手上的设备，USIM和MICRO-SIM就破解不了，OTA的话还要看年份，2011年以后的都很悬。&lt;br&gt;·目前市面上新出的号码卡都是USIM的，如果是3G卡就更不用说。&lt;br&gt;&lt;br&gt;2）破解需时&lt;br&gt;越老的卡破解得越快，成功率也更好。&lt;br&gt;我今天中午解的那张OTA卡是2010年出品，50分钟多一点就解出来了，创了我的最快解卡纪录。&lt;br&gt;（最长一次用了两个通宵。）&lt;br&gt;&lt;br&gt;3）如果破解成功，会得出一串KI值，这时把和谐卡插进读卡器，再用专门的写号软件把KI值写入和谐卡，最后把和谐卡插进4S，共同达到生命中最大和谐！&lt;br&gt;我的美版带锁4S就是这样解锁的，用了之后就跟没锁一样。联通卡破解后还可以申请升级成3G，极速上网妥妥的。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;6、万一破解不成功，会有两种结果：&lt;/b&gt;&lt;br&gt;·破解软件会劝你放弃。&lt;br&gt;·触发SIM卡的自毁保护程序，俗称“烧卡”。烧卡后把SIM卡插进手机里，就只能使用紧急呼叫了。（前天晚上我就烧了一张。）&lt;br&gt;&lt;br&gt;&lt;br&gt;以上。祝大家能通过这段回答发现更大的世界。&lt;br&gt;&lt;br&gt;&lt;br&gt;最后附图两张：&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f6/ed/f6ed7541c83d785b08450af0b24c9f06_m.jpg&quot; data-rawwidth=&quot;537&quot; data-rawheight=&quot;220&quot; class=&quot;origin_image&quot; width=&quot;537&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/f6/ed/f6ed7541c83d785b08450af0b24c9f06_r.jpg&quot;)'&gt;解卡软件工作界面截图&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7f/fd/7ffd633da184100ebe0a7e7674f82048_m.jpg&quot; data-rawwidth=&quot;517&quot; data-rawheight=&quot;354&quot; class=&quot;origin_image&quot; width=&quot;517&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/7f/fd/7ffd633da184100ebe0a7e7674f82048_r.jpg&quot;)'&gt;解卡软件界面。用户体验差又怎么样，能满足刚需才是王道！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20392651/answer/16791638
-</link>
-<author>
-刘博
-</author>
-<title>
-跳水时没调整好姿势身体横着入水会对身体造成哪些损害？
-</title>
-<description>
-5岁学跳水，16岁退役。现读大学，水平很低，全国比赛几乎没有拿到过名次。浅谈几句。&lt;br&gt;&lt;ul&gt;&lt;li&gt;如果身体平行于水面（或近似于）摔下去，我们称之为“门板”。在不短的训练中，我们跟“门板”同学几乎天天打交道。&lt;br&gt;&lt;/li&gt;&lt;li&gt;造成“门板”的因素很多，诸如：起跳、打开、团身、心理。但最关键还是“打开”的那一下。&lt;/li&gt;&lt;li&gt;“门板”很疼！就十米台来说，当背面被“门板”同学亲了一下后，背，大腿，小腿会出现剧烈疼痛，然后一会就热得很咯，然后就是乌红紫红绿色等依次，过程大概一星期。正面被“门板”同学亲了后，除了前面的状况外，还有两项随机的额外福利，1.眼睛受伤（不过几率不大，因为下意识要闭眼睛），严重就是视网膜脱落（跳水职业伤，我也是其中之一）2.男性特别福利，大家懂的。&lt;/li&gt;&lt;li&gt;前面答案说的头撞池底的情况几乎不可能，因为跳水池标准是5M深。（跳野水的忽略我）直接“门板”死的情况我没见过（但不排除因为天下之大）&lt;/li&gt;&lt;li&gt;还有很多除了“门板”外的，灌肠，打手等&lt;/li&gt;&lt;li&gt;现在有很多跳水馆安装了类似水底喷泉的东西，在那个特定范围内摔上去几乎不疼（如果你能摔进去的话）&lt;/li&gt;&lt;li&gt;非专业人员且没有专业场地是请勿跳水！综艺节目上的那些明星都是请的专业教练从低到高一步一步来的。记住！否则你将会出现，空中抽经、碰台碰板（即没有跳出去一半在里面）等一系列不可预知情况&lt;/li&gt;&lt;/ul&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20962153/answer/16737365
-</link>
-<author>
-李一山
-</author>
-<title>
-金庸在神雕侠侣中为什么要让尹志平强奸小龙女？
-</title>
-<description>
-我想金庸先生，想写一段不一样的爱情。&lt;br&gt;真的爱情 可以 &lt;br&gt;1.挑战   世俗名分（比如小龙女是老师，杨过是学生）&lt;br&gt;2.挑战   年龄（比如姐弟恋，差4岁）&lt;br&gt;3.挑战   宗教派别（男曾是重阳派、女是古墓派，曾经算是仇敌）&lt;br&gt;4.挑战   性格（杨是古灵精怪、好动、心眼多，小龙女喜欢静、很纯）&lt;br&gt;5.挑战    所谓的媒妁之言，大胆追求真爱&lt;br&gt;6.挑战    诱惑（杨虽然时常调戏良家姑娘，但终对小龙女一往情深。军界武术界老大哥之女不为所动，才女不为所动，35岁的老男人一个比自己小将近20岁的女生深爱着他、也不为所动。绝情谷谷主，小龙女不为所动；第一次的尹志平对其真心真意，不为所动）&lt;br&gt;7.挑战    距离(不管对方在哪里，都要去找对方。不管有没有钱都要找到对方)&lt;br&gt;8.挑战    时间（分别16年，心意不变）&lt;br&gt;9.挑战    财富（纵使没钱我愿陪你）&lt;br&gt;10.&lt;b&gt;挑战  传统的贞节（这大概是金庸先生有意为之，他就是为了写这样一段感情，挑战世俗偏见）&lt;/b&gt;&lt;br&gt;11.挑战   逆境和劫难（一起面对金轮法王等等）&lt;br&gt;12.挑战   生死（为了杨过，小龙女放弃解药。以为小龙女死了，杨过跳崖）&lt;br&gt;13.挑战   吵架（出奇的默契。就算有误会，很快就化解）&lt;br&gt;14.挑战   健全（杨过残疾，未曾离开；杨过中毒，未曾离开）&lt;br&gt;15挑战    争风吃醋（误会和郭芙的事，选择离开）&lt;br&gt;16.挑战   家庭反对（杨过那方的亲戚）&lt;br&gt;17.挑战   初恋往往分手的现象（从那时到永远）&lt;br&gt;等等&lt;br&gt;&lt;br&gt;因为整部小说不只是爱情，所以没有挑战以下的内容&lt;br&gt;a.男帅、有才华、某方面很牛。  女 漂亮端庄善良的传统观点&lt;br&gt;就是传统中的男人要很有本事，女的要长得好、人很好。&lt;br&gt;b.设计恋爱时，男女双方都父母双亡(金庸武侠里经常出现)，这点很狡猾&lt;br&gt;c.人物设定了男一号、女一号的位置&lt;br&gt;d.专业大类相近，都是名牌大学（都是武术界的人士，还都是成绩很好）&lt;br&gt;e.小龙女容颜不老（这不符合正常状态，别提赵雅芝、杨钰莹、林志颖等等）&lt;br&gt;&lt;br&gt;-----------------------------------------------------------------------------------------------------------------&lt;br&gt;PS:怕影响太多的善男信女，客观的说神雕侠侣一书痴男怨女总体大都没有得到太多归宿，少有的几个比较好结局的也是历经磨难。 或许真爱难求。&lt;br&gt;相比于轰轰烈烈的爱，平平淡淡也很好
 </description>
 </item>
 </channel>
