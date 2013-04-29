@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20937556/answer/16671357
+</link>
+<author>
+知乎用户
+</author>
+<title>
+为什么 iOS 的 TabBar 采用 press 触发而非按钮通用的 release 触发？
+</title>
+<description>
+采用 release 还是 press 对用户体验整体的提升是非常低的，普通人几乎感受不到。要不是在知乎看到这个问题，我也不会特意去关注。所以这里要感谢提出这个问题的&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@傅尸水&quot; href=&quot;http://zhihu.com/people/Spinnist&quot; data-tip=&quot;p$b$Spinnist&quot;&gt;@傅尸水&lt;/a&gt;  同学。同时，苹果的工程师专业素养之高亦令我敬佩。&lt;i&gt;（o(︶︿︶)o 我厂的安卓手机真是 release 到底，工程师和设计师都没这个意识） &lt;/i&gt;&lt;br&gt;&lt;br&gt;之前的回答不经过大脑就写了，今天手头正好有肾5、lumia800(WP7.8) 和 GS III，&lt;br&gt;于是我花了大概半小时走查了 iOS 中 tap 事件的 press 触发，并和另外两台做了对比，整理如下。&lt;br&gt;&lt;br&gt;三星和微软都有对点触事件的触发方式有考量，但却没有苹果那么喜欢用 press 触发。&lt;br&gt;&lt;b&gt;iOS 里 press 触发的点击事件真的相当多。&lt;/b&gt;&lt;br&gt;&lt;br&gt;首先我找到的 TabBar 都是 press 触发。拨号、时间管理、天气里的 ℉ ℃ 切换的 tab、日历切换日周月视图的tab……&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/50/65/5065fd084a4045042095592cfdd45348_m.jpg&quot; data-rawwidth=&quot;618&quot; data-rawheight=&quot;118&quot; class=&quot;origin_image&quot; width=&quot;618&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/50/65/5065fd084a4045042095592cfdd45348_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p1.zhimg.com/41/e1/41e1127d5c01ba26f01f0eb3ee7d7cfc_m.jpg&quot; data-rawwidth=&quot;365&quot; data-rawheight=&quot;100&quot; class=&quot;content_image&quot; width=&quot;365&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a9/31/a93144290347c8df062a55a2ec9bbf34_m.jpg&quot; data-rawwidth=&quot;661&quot; data-rawheight=&quot;110&quot; class=&quot;origin_image&quot; width=&quot;661&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/a9/31/a93144290347c8df062a55a2ec9bbf34_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p3.zhimg.com/b4/10/b410ce7acac50af168050d62e489fa71_m.jpg&quot; data-rawwidth=&quot;650&quot; data-rawheight=&quot;107&quot; class=&quot;origin_image&quot; width=&quot;650&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b4/10/b410ce7acac50af168050d62e489fa71_r.jpg&quot;)'&gt;&lt;br&gt;这里&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@鄭紫陽&quot; href=&quot;http://zhihu.com/people/zhengziyang&quot; data-tip=&quot;p$b$zhengziyang&quot;&gt;@鄭紫陽&lt;/a&gt;  同学说得很清楚了，tab 只是切换视图，不需要提供反悔，又能使响应快那么一点。不过，除了要求 tap 响应快之外，另一个需要考量的是事件触发后手指的位置。点击一个按钮后，往往会发生界面跳转，如果 press 触发了事件，完成了界面的跳转，而此时用户手指依旧停留在屏幕上，那么它很可能已经点在了跳转界面的某个按钮上，这会让用户产生一定的困惑。而且，如果软件设计的不够好，抬手时说不定触发了这个按钮&lt;i&gt;（我厂手机我遇到过这种情况）&lt;/i&gt;。&lt;b&gt;所以 release 触发的一个好处是保证事件发生时用户的手指已经离开了屏幕。而 TabBar 的特点在于，它是固定的，发生视图跳转不改变 TabBar 自身，手指不离开屏幕也不会有什么影响，可以放心使用 press。&lt;/b&gt;&lt;br&gt;&lt;br&gt;iPhone 日历月视图里，点击某一天查看当天的日程，界面不会跳转，选中日子的操作是 press 触发。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/46/27/46278e7583216148acacf1bec73907a4_m.jpg&quot; data-rawwidth=&quot;638&quot; data-rawheight=&quot;356&quot; class=&quot;origin_image&quot; width=&quot;638&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/46/27/46278e7583216148acacf1bec73907a4_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;也有不考量手指在新界面的位置的。秒表应用的启动、停止、复位、计次四个按钮都是 press 触发，就纯粹是为了&lt;b&gt;更&lt;/b&gt;&lt;b&gt;快地响应&lt;/b&gt;，计时更加精准。同时和真实的秒表体验一致。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/21/a5/21a5cb6013257cbea189efffbce63fbb_m.jpg&quot; data-rawwidth=&quot;612&quot; data-rawheight=&quot;388&quot; class=&quot;origin_image&quot; width=&quot;612&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/21/a5/21a5cb6013257cbea189efffbce63fbb_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;说到对快速响应的追求，iPhone 真是不遗余力。&lt;br&gt;物理按键里，音量键调节音量是 press 触发。&lt;br&gt;肾5点亮屏幕响应极快，也有 Power 键和十个有九个坏掉了的 Home 键 press 触发点亮屏幕的一份功劳。虽然GS III 也是电源键 press 触发亮屏，可毕竟是安卓，明显可感知的延时还轮不到优化按键触发条件。而自称“快得把人干到冒烟”的WP手机Lumia，本来值得与肾5一战，却坑在 power 键 release 触发亮屏。&lt;br&gt;我想苹果恨不得采用电源键 press 来触发关闭屏幕，不过关闭屏幕恰恰是 release 。这是因为电源键定义了长按事件（长按关机），如果一按就关屏，就没办法看到长按事件触发后弹出的关机选项了。&lt;br&gt;&lt;br&gt;&lt;b&gt;一般情况下，定义了长按（Press &amp;amp; hold）事件的按钮就不适合用 press 触发，可也有例外&lt;/b&gt;。&lt;br&gt;拨号盘0~9*#都是 press 触发，结合点击时嘟嘟嘟的响声，很有座机拨号的感觉。&lt;br&gt;其中 0 * # 定义了长按事件，用来输入 + P W ， 这里 press 触发就不与长按事件冲突。&lt;br&gt;&lt;br&gt;最后说说输入法的软键盘。&lt;br&gt;大小写切换按钮、字母符号切换按钮和多语言切换按钮这仨用 press 触发比较好理解，原因基本等同 TabBar 。&lt;br&gt;令我费解的是，&lt;b&gt;退格键也是 press 触发！&lt;/b&gt;难道苹果自知其输入法不牢靠，干脆提供用户啪啪啪删除错字的爽快感？WP的输入法也有很多按钮用的 press 触发，可没包含退格。&lt;br&gt;&lt;br&gt;最后的最后，可以考虑用 press 触发的自我小结：&lt;br&gt;` 如果迫切追求操作的快速响应 （如秒表的按钮、power点亮屏幕）&lt;br&gt;` 如果该按钮比较容易点中，点击后依旧留在原处且不用考虑防错（拨号盘数字键 、TabBar 、输入法的各种切换按钮……）&lt;br&gt;` 留意是否有长按/双击/拖动事件，如果有，留意是否会产生冲突&lt;br&gt;&lt;br&gt;--------------- update 4.15 ，以上 ------------------&lt;br&gt;&lt;br&gt;&lt;br&gt;------- 4.12 未经大脑的原答案-------&lt;br&gt;除了Tab不需要提供反悔的原因。 还有一个原因是对现实的隐喻。&lt;br&gt;按钮有两种，一种按一下不会弹起来，比如老式的录放音机，电热水壶的加热按钮等; 还有一种按下去会弹起来，常见的如电梯楼层按钮。&lt;br&gt;对于前者，现实中都是press触发，后者在现实世界也是press 触发(就算改为release也无法反悔，没有意义)，电子世界才是release触发。&lt;br&gt;苹果的tab, 隐喻第一种钮，点击后GUI表现上也是一个按下去的效果，整个点击过程是normal-pressed; 而采用release触发的钮，点击过程是normal-pressed-normal，或者弹起后变为激活状态。可以看安卓的tab ，没有隐喻不会弹起的按钮，激活的tab GUI表现也不是｢被按下去｣的效果，所以依旧采用了release触发。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20785846/answer/16850945
 </link>
 <author>
@@ -46,7 +60,7 @@ cOMMANDO
 http://www.zhihu.com/question/20890194/answer/16849056
 </link>
 <author>
-YuDan
+知乎用户
 </author>
 <title>
 大型发布会现场的 Wi-Fi 应该如何搭建？
@@ -88,7 +102,7 @@ http://www.zhihu.com/question/20987272/answer/16847245
 http://www.zhihu.com/question/19641785/answer/16837442
 </link>
 <author>
-汪惟
+知乎用户
 </author>
 <title>
 国内有哪些好的漫画家？
@@ -130,7 +144,7 @@ http://www.zhihu.com/question/20268006/answer/16465968
 http://www.zhihu.com/question/20998010/answer/16845433
 </link>
 <author>
-三皮
+知乎用户
 </author>
 <title>
 九块九包邮是怎么挣钱的？质量好吗？
@@ -201,7 +215,7 @@ MKV、AVI、MP4这些后缀是用来标识视频文件的&lt;b&gt;容器&lt;/b&g
 http://www.zhihu.com/question/20988527/answer/16826268
 </link>
 <author>
-赖赖
+知乎用户
 </author>
 <title>
 你有什么经历证明了「念念不忘，必有回响」？
@@ -215,7 +229,7 @@ http://www.zhihu.com/question/20988527/answer/16826268
 http://www.zhihu.com/question/20988045/answer/16838754
 </link>
 <author>
-宁江雪
+知乎用户
 </author>
 <title>
 不愿子女接受应试教育，如何将私塾教育进行到底？
@@ -271,27 +285,13 @@ http://www.zhihu.com/question/20994893/answer/16836398
 http://www.zhihu.com/question/19867783/answer/15855092
 </link>
 <author>
-汪惟
+知乎用户
 </author>
 <title>
 哪个品牌的旅行箱最耐用？
 </title>
 <description>
 &lt;img src=&quot;http://p3.zhimg.com/b3/2c/b32c770460e1d71ceff475e065736c8f_m.jpg&quot; data-rawwidth=&quot;240&quot; data-rawheight=&quot;180&quot; class=&quot;content_image&quot; width=&quot;240&quot;&gt;&lt;img src=&quot;http://p1.zhimg.com/dc/7b/dc7bdaee4c2aba6e38093d002e7ebd42_m.jpg&quot; data-rawwidth=&quot;95&quot; data-rawheight=&quot;491&quot; class=&quot;content_image&quot; width=&quot;95&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/a6/99/a6991f6b493f777fbe867e489908b59d_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;586&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/a6/99/a6991f6b493f777fbe867e489908b59d_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p3.zhimg.com/b2/89/b28925ecfbc0e8370eb404d7b00b663c_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;615&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b2/89/b28925ecfbc0e8370eb404d7b00b663c_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p2.zhimg.com/51/95/51952953b49c9f70d93110ae9800e22f_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;607&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/51/95/51952953b49c9f70d93110ae9800e22f_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p4.zhimg.com/c9/d2/c9d261c37a5ac9c16ef3ca58b613ddee_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;589&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/c9/d2/c9d261c37a5ac9c16ef3ca58b613ddee_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p4.zhimg.com/75/9b/759b12241406a6c29339be2f5eb4e34a_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;586&quot; class=&quot;origin_image&quot; width=&quot;440&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/75/9b/759b12241406a6c29339be2f5eb4e34a_r.jpg&quot;)'&gt;&lt;br&gt;你们确定你们真的要Rimowa吗？我们是找耐用的，不是亮骚的。&lt;br&gt;用Rimowa是找撬呢，一看就知道是有钱的主。同时其光华外表对某些自动分拣设备就是噩梦。&lt;br&gt;每月都能在微博看到摔的不行的Rimowa，然后机场赔你200～400不等，有本事你别坐。&lt;br&gt;&lt;b&gt;无论聚碳酸酯的还是铝的，都是一个下场。除非你不要托运。&lt;/b&gt;&lt;br&gt;&lt;br&gt;如果有较多飞行，奢侈品品牌也不要选。行李转运优先被撬。&lt;br&gt;&lt;br&gt;&lt;br&gt;我只说一个。&lt;b&gt;BRIGGS&amp;amp;RILEY&lt;/b&gt;&lt;br&gt;都是软壳,BR比Tumi轻，也很耐用，全球终身保修。&lt;br&gt;&lt;br&gt;flyertalk论坛的必败款。&lt;br&gt;长途国际飞人爱用牌。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20993470/answer/16833730
-</link>
-<author>
-薛文丞
-</author>
-<title>
-为什么有的公司拥有自己的设计部门，自己旗下产品还需要与其他独立设计公司（工作室）合作？
-</title>
-<description>
-这个问题很好。感谢邀请。&lt;br&gt;很多人可能会不理解，既然公司养了那么多设计师干嘛不自己做设计，还要请外边的设计公司来解决问题。&lt;br&gt;&lt;br&gt;首先界定一下，都是谁在雇佣设计公司或者是工作室，甚至是独立设计师在做设计。通常是资金雄厚的公司，这些公司愿意为设计付钱并且信赖这些专业公司会给自己一个好的结果。而且由于设计外包得费用不菲，所以能决定这个事情的人一定是公司高层，他们认可这种外包工作的形式。如果你的公司设计人手不足，或者干脆没有专门的设计岗位，那么这是一个很顺利成章的解决方案。&lt;br&gt;&lt;br&gt;但问题是有些大公司是有自己的设计团队的，并且团队人数不少，有的甚至几十人，上百人，那么为什么不自己来做呢。&lt;br&gt;&lt;br&gt;几点原因：&lt;br&gt;&lt;b&gt;1.公司内的设计师，通常是为公司产品服务的，当牵扯到产品设计以外的东西，比如VIS（企业形象系统），电视广告等通常会找专业的设计公司来做，而不是内部的设计团队来做。&lt;/b&gt;&lt;br&gt;&lt;br&gt;外部专业的公司由于在这方面有更多的跨行业服务经验，反而能做的更好。通常一个公司也不具备，所有的设计职位，对于一些细分的设计需求，比如视频剪辑，动画制作，纪念品设计等。这些都不得不找更专业的设计公司来做。&lt;br&gt;&lt;br&gt;&lt;b&gt;2.公司内设计师人数众多，但是并不是都集中在做某个东西，而是分布在公司多个产品线或者产品项目组内。也就是说其实解决某个具体问题的设计师，其实也就一两个。例如一个项目组会有一个界面，一个交互，一个用研，几个实习生。&lt;/b&gt;&lt;br&gt;&lt;br&gt;如果某个产品线面临大的更新或者升级，那么引入一个更强大的设计力量是很必要的，曾经经历在Yahoo！工作的阶段，有产品现需要大升级，公司找到了FrogDesign来帮助进行界面和交互的设计。公司内部的设计师负责进行沟通，质量监控，保持公司过往设计规范的延续或者创新，尤其是品牌层面的东西。&lt;br&gt;&lt;br&gt;&lt;b&gt;3.还有一种情况，公司雇佣的设计师能力是不足的，其实是很常见的，公司人员的招聘，更替和流动，很难保证某条产品线的团队始终保持一流的设计水准，而设计公司和工作室在这方面有优势。&lt;/b&gt;&lt;br&gt;&lt;br&gt;曾经了解某知名国际公司的设计团队，养了一帮只能扯淡不能干活的人，遇到问题就只能想各种理由向公司申请预算，找外包，甚至是设计兼职来做公司项目，自己却领着高工资。设计圈子很小，实际上设计师们也都几乎认识，所以也不排除一些拿回扣，攀交情的案例，尽管设计公司没有做的很好，但是总是喜欢找某个公司来做。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4.从公司成本方面考虑，常年雇用一个大规模，高水准的设计团队是不合算的，所以短暂的采用外包的形式是更合适的。&lt;/b&gt;例如，一个设计项目，3个月需要投入10个设计师，但大公司不会短时间雇佣这些人，在项目结束后又解雇他们。而且通常设计公司的报价是根据自己的人力成本来算的，所以即便大公司短暂的雇佣同样多的人，所付出的额外成本，例如保险，硬件，管理成本加起来一定会比设计公司的报价高。当然，如果设计公司的报价高的离谱，这就另当别论了。&lt;br&gt;&lt;br&gt;问题中的小米这类的公司，显然也是处于上面几点考虑。但国内的设计工作室或者是专业设计公司其实真的不多，造成你能说得出名字的也就那么几个，所以企业不是那么多选择。希望更多的设计公司在国内出现，提高整体的设计行业水准。
 </description>
 </item>
 </channel>
