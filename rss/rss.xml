@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21002644/answer/16860577
+</link>
+<author>
+辟谷
+</author>
+<title>
+华尔街精英做空黄金失败是中国大妈搅局，此说有理吗？
+</title>
+<description>
+高盛分析师原文：我们不再推荐做空COMEX黄金，原因是黄金价格已经突破1,400美元/每盎司的价格线。在黄金价格低于我们的目标价格1,450美元/每盎司后，我们已经大规模地退出交易，并从中获得10.4%的潜在收益。可能是受标记技术支持水平上的突破所推动，黄金价格的变动从一开始便异常迅速。受持有黄金信念的持续减弱影响，EFT持续流出，综合考虑我们的经济学家对美国今年年底经济增长再度加速的预测，我们预期黄金价格将进一步下跌。&lt;br&gt;&lt;br&gt;第一 已获得潜在收益10% &lt;br&gt;第二 停止做空是因为下跌过速，低于预期&lt;br&gt;第三 还将继续下跌&lt;br&gt;&lt;br&gt;那些最意想不到的人有着逆转乾坤的本领，这是我们对剧情的本能期待。'意料之外'更多地被记住，然而'意料之中'更多地在上演。&lt;br&gt;&lt;br&gt;没错，这是意淫。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21001246/answer/16858346
 </link>
 <author>
@@ -277,20 +291,6 @@ cOMMANDO
 </title>
 <description>
 从社会的角度上来看，没什么必要，也不太可能。从个人的角度上看……我现在有点改变主意。&lt;br&gt;&lt;br&gt;我有一天晚上忽然想，其实我的确也在抵制一些东西，比如我因为不齿百度当年所为，一直在抵制百度，能用Google就用Google，用不了的话就用Bing，总之不用百度。&lt;br&gt;&lt;br&gt;但我当然知道我的抵制没什么效果，有些网站里的搜索引擎就是百度，我不是也得用？当年工作需要得监控百度指数，还不是天天得使用？难道少了我百度就会死？不会嘛，他活得很好嘛。&lt;br&gt;&lt;br&gt;那么我抵制百度，和一个人抵制日货，有什么本质区别么？我还抵制nVidia（因为他们当年干掉了voodoo），我还抵制韩国货（因为我讨厌韩剧），一想自己抵制了这么多东西，再去指责那些抵制日货的人不理性，我自己也觉得有点不好意思。&lt;br&gt;&lt;br&gt;抛开那些“是中国人就转”的人不谈（当然的确有好大一坨这些人），因为自身的好恶去抵制某类东西，这是很正常的，我们应该反对的是“要求别人这样做”，而不是抵制本身。&lt;br&gt;&lt;br&gt;很多人一看到有人说抵制日货 ，就冲上去嘲笑，还贴很长的文字论证对方不可能“真正的抵制”日货，我以前有时候也这样。这些话都没错，但略讨人嫌吧，并不是所有抵制日货的人都会举着“宁可大陆不长草”的标语声嘶力竭地呼喊，实际上我也的确见过一些提出了较为可行的策略的网友，比如“在同等质量条件下，优先考虑非日货”，这个诉求有什么问题呢？不是很好吗？对这样的网友大谈不可能不可能不可能，是不是有点招人烦呢？&lt;br&gt;&lt;br&gt;是否抵制日货不是问题的关键，尊重他人的选择才是问题的关键，砸车的人不尊重其他人的选择，很下等，批评那些试图理智抵制日货的人，是不是也一样不好呢？我们总该让人有自己选择的权利嘛，比如我抵制百度，只是为了自己心安，也不是要当什么壮士，我当然知道这有点儿可笑，也不实际，但是人这一辈子，谁没点儿犯可笑的时候呀。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20890194/answer/16849056
-</link>
-<author>
-YuDan
-</author>
-<title>
-大型发布会现场的 Wi-Fi 应该如何搭建？
-</title>
-<description>
-WiFi网络的部署要远远比一般人想象的复杂，不是说放上几十个AP带宽就自动增加几十倍，恰恰相反，简单放几十个AP带宽会由于AP之间的竞争而迅速使带宽下降为几乎不可用。实际上这个问题完全可以写一本书了，此处只有挂一漏万，简明扼要地讲个大概。对于大型活动做WiFi的规划，要按照这几步来做：&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;情况调查&lt;/b&gt;：首先从主办方取得场地大小和人数、分布，包括场地地图。对于网络的规模和部署有个大概的估计。一般来讲要为每个人规划至少1个客户端设备，以往经验值可以按0.5个客户端来规划，由于智能手机和平板的普及，未来估计要往1.5~2个客户端靠拢了。手机和笔记本或者平板电脑有可能同时在上网。&lt;img src=&quot;http://p3.zhimg.com/b1/a0/b1a09e0425d8f0977a125d2fc3c2f9e5_m.jpg&quot; data-rawwidth=&quot;233&quot; data-rawheight=&quot;497&quot; class=&quot;content_image&quot; width=&quot;233&quot;&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;带宽估计&lt;/b&gt;：发布会要保证参与者能正常使用比较轻量级的互联网应用，最基本每个设备要分配500kbps的可用带宽。在这个基础上要考虑大型活动的特点。如果是新闻发布会，那么会有很多人上传视频，带宽分配需要重新考虑，每个人至少有一个设备应保证1Mbps带宽。如果是小组讨论会，那么带宽需求就会小得多。下图是一些典型应用通常需要的带宽。&lt;img src=&quot;http://p1.zhimg.com/42/c5/42c50eb4a178fbd2cb32ec5f9d53acc7_m.jpg&quot; data-rawwidth=&quot;271&quot; data-rawheight=&quot;284&quot; class=&quot;content_image&quot; width=&quot;271&quot;&gt;&lt;/li&gt;&lt;li&gt;根据如上两点可以算出每个区域的带宽需求，下一步就是&lt;b&gt;AP规划&lt;/b&gt;。虽然11g号称54Mbps带宽，实际可用的最多只有25Mbps，也就是说最多能保证50个设备同时浏览网页（在这个情况下由于客户端相互竞争，用户体验已经非常糟糕了，一般打个对折）。11n对于大部分手机只能保证35Mbps，对于笔记本电脑等支持MIMO的可以保证到70Mbps甚至更高。按照这个原则相应地在图上标出每个AP应该覆盖的区域。为了保证通信质量，为了保证比较好的体验，实际上应该控制每个AP接入的设备不超过刚才计算出的数目的一半。&lt;img src=&quot;http://p4.zhimg.com/3f/fd/3ffd3674aa5a4000f82deeca86fd640b_m.jpg&quot; data-rawwidth=&quot;233&quot; data-rawheight=&quot;497&quot; class=&quot;content_image&quot; width=&quot;233&quot;&gt;&lt;/li&gt;&lt;li&gt;下一步就是&lt;b&gt;分配信道&lt;/b&gt;。由于国内只能用2.4GHz的频段，这个频段虽然号称有11个信道（有的国家有13个），实际上只有1，6，11三个互相不重叠的信道可以用。把这三个信道尽可能互不重叠地在上图中覆盖起来（见上图）。有时候如果无法做到不重叠地覆盖，那么还要考虑用扇区天线把覆盖区域细分成几个扇区。&lt;img src=&quot;http://p1.zhimg.com/88/13/881314dfe9fdd83e2b2b36d29356c234_m.jpg&quot; data-rawwidth=&quot;1618&quot; data-rawheight=&quot;403&quot; class=&quot;origin_image&quot; width=&quot;1618&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/88/13/881314dfe9fdd83e2b2b36d29356c234_r.jpg&quot;)'&gt;&lt;/li&gt;&lt;li&gt;信道分配完成后就要&lt;b&gt;实地部署无线网络&lt;/b&gt;了（实际上在上述理论工作之前就应该做实地勘探，考虑墙壁和各种反射物的影响，此处为了简化略去）。部署时应该考虑用高增益天线，但是降低每个AP的发射功率，让其覆盖区域基本与规划的区域吻合。注意这里功率不是越大越好，应该让每个AP只覆盖规划好的区域，别越俎代庖。部署时可能需要用一些现场测量工具对于部署的效果进行评价，防止由于多径干扰出现死角。下图就是用11g部署和11n网络部署后整片区域的差异。红色区域表示覆盖不理想的情况，可以看出11n网络对于多径干扰抑制非常好。再过几年尽量就不要考虑兼容问题，部署时不要开启11g模式了。目前看起来还是需要通过11g接入点自身功率和天线调整，甚至增加额外接入点来弥补。&lt;img src=&quot;http://p3.zhimg.com/b6/41/b64119f527c300f2cb1cc86358a870a6_m.jpg&quot; data-rawwidth=&quot;980&quot; data-rawheight=&quot;372&quot; class=&quot;origin_image&quot; width=&quot;980&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b6/41/b64119f527c300f2cb1cc86358a870a6_r.jpg&quot;)'&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;有线网络规划部署&lt;/b&gt;：每个11g的AP应该接入至少百兆上行口，11n的AP应该接入千兆上行口。最后出口也要保证足够上下行带宽，上行传现场资料，下行供大家无聊或者需要查相关资料用，也要按上面第二步计算的总结果的按一定比例保留（取决于活动性质）。若是国内还要考虑多个运营商的出口。&lt;/li&gt;&lt;li&gt;&lt;b&gt;SSID的分配&lt;/b&gt;：实际上除了少数情况用户实现已经分配好座位，大部分情况没有办法把用户固定在某个AP上，所以更常见的做法是所有AP设置同一个SSID。这里实际上涉及到瘦AP和AP控制器的管理问题，由于各家方案都不相同，就不细数了。&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;用户认证和带宽控制&lt;/b&gt;：为了防止恶意蹭网，最好能对用户做基本的认证，比如凭入场券领取账号名和密码。同时对于每个账号要限制带宽使用，这也会涉及到用户认证和带宽管理，通常需要额外的服务器来处理。&lt;/li&gt;&lt;/ul&gt;至此一个较简单的WiFi网络才部署完毕。你给的链接找不到原文，我只能根据新闻说有3000人到场，猜测主办方低估了参会者带宽需求，原因无非是&lt;br&gt;&lt;ul&gt;&lt;li&gt;AP数目不足（应该100个左右，至少50个）&lt;/li&gt;&lt;li&gt;AP规划不合理（太多包碰撞）&lt;/li&gt;&lt;li&gt;或者AP崩溃（每个AP接入用户太多）&lt;/li&gt;&lt;li&gt;或者AP控制器崩溃（无法同时响应这么多AP接入/断开请求）&lt;/li&gt;&lt;li&gt;或者认证服务器崩溃（无法同时认证这么多用户）&lt;/li&gt;&lt;li&gt;或者出口带宽太窄（按我的估计需要至少300MB上行，300MB下行）&lt;br&gt;&lt;/li&gt;&lt;li&gt;管理混乱（没有控制每个客户端设备流量）。&lt;/li&gt;&lt;/ul&gt;实际上这个发布会远不是最有挑战的无线接入，真正有挑战的是这个：&lt;a href=&quot;http://arstechnica.com/information-technology/2013/02/super-bowl-plans-to-handle-30000-wi-fi-users-at-once-and-sniff-out-rogue-devices/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Super Bowl plans to handle 30,000 Wi-Fi users at once&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d0/64/d06425986efa1458b5c13641f3a7bae0_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;425&quot; class=&quot;origin_image&quot; width=&quot;640&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d0/64/d06425986efa1458b5c13641f3a7bae0_r.jpg&quot;)'&gt;超级碗的主办方需要对付73208个用户，安排了700多个个接入点，能够同时支持30000个连接（比例低一点儿，这么热烈的比赛，用户花在看手机上的时间应该比新闻发布会少得多）。&lt;br&gt;&lt;br&gt;美国人的课堂也很可怕，清一水的苹果笔记本，还不包括他们包包里的平板和手机！！！！！&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/09/c6/09c6d93e4fee2273f6a88545cdbb7dd3_m.jpg&quot; data-rawwidth=&quot;758&quot; data-rawheight=&quot;417&quot; class=&quot;origin_image&quot; width=&quot;758&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/09/c6/09c6d93e4fee2273f6a88545cdbb7dd3_r.jpg&quot;)'&gt;有兴趣的可以看看CIsco的这个报告（PDF格式），&lt;a href=&quot;http://files.meetup.com/1698110/Cisco%2520presentation.pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;files.meetup.com/1698110&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/Cisco%2520presentation.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 </channel>
