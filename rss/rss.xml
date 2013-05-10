@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20679695/answer/15830307
+</link>
+<author>
+余天升
+</author>
+<title>
+有哪些比较基础的计算机书籍？
+</title>
+<description>
+谢邀，正好今年夏天的时候，在毕业生卖书的地摊上找到一本书，还挺好的，叫做《Computer Science Illuminated》（计算机科学概论，点亮你的计算机世界），作者是Nell Dale和John Lewis。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.amazon.cn/Computer-Science-Illuminated-Student-Study-Guide-Dale-Nell-B/dp/0763726265/ref=sr_1_7?ie=UTF8&amp;amp;qid=1356683364&amp;amp;sr=8-7&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;amazon.cn/Computer&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;-Science-Illuminated-Student-Study-Guide-Dale-Nell-B/dp/0763726265/ref=sr_1_7?ie=UTF8&amp;amp;qid=1356683364&amp;amp;sr=8-7&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;这是第二版的，英文版的比较贵，卓越上有一本第三版的中文译本。&lt;a href=&quot;http://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA-%E6%88%B4%E5%B0%94/dp/product-description/B001TDM10Y/ref=dp_proddesc_0?ie=UTF8&amp;amp;s=books&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;amazon.cn/%E8%AE%A&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA-%E6%88%B4%E5%B0%94/dp/product-description/B001TDM10Y/ref=dp_proddesc_0?ie=UTF8&amp;amp;s=books&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;这本书的内容比较丰富，但是对于任何一个话题都没有具体的展开详述，毕竟只有600多页的篇幅，而其中任何一个章节的内容拿出来进行系统叙述都可以变成一本600页以上的书。这本书只能让你有一个&lt;b&gt;概要性的、宏观上的&lt;/b&gt;理解，如果要求深入，请另外选择书籍。&lt;br&gt;&lt;br&gt;以下是一些简要的章节：&lt;br&gt;Laying the Groundwork（基础知识）&lt;ul&gt;&lt;li&gt;Chapter 1 The Big Picture（全景图），本书的层次，计算机和软件的历史。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Information Layer（信息层面）&lt;ul&gt;&lt;li&gt;Chapter 2 Binary Values and Number Systems（二进制值和计数系统），二进制、八进制、十进制、十六进制的计算和转换。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 3 Data Representation（数据表示），模拟量和数字量，如何表示数据，数怎么表示，文字、声音、图像、视频怎么表示。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Hardware Layer（硬件层面）&lt;ul&gt;&lt;li&gt;Chapter 4 Gates and Circuits（逻辑门和电路），门电路、晶体管、加法器、存储器的简单原理。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 5 Computing Components（计算部件），冯式结构、CPU指令周期、外存结构和非冯式结构。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Programming Layer（编程层面）&lt;ul&gt;&lt;li&gt;Chapter 6 Problem Solving and Algorithm Design（问题解决和算法设计），设计简单算法、自顶向下、测试和面向对象。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 7 Low-Level Programming Languages（低级编程语言），机器语言和汇编。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 8 High-Level Programming Languages（高级编程语言），编译器和解释器、编程范式、函数式编程、常用的程序结构（IO、选择、循环、子程序、递归等）、类型系统。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 9 Abstract Data Types and Algorithms（抽象数据类型和算法），数组和链表、排序、二分查找、栈和队列、树。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Operating System Layer（操作系统层面）&lt;ul&gt;&lt;li&gt;Chapter 10 Operating Systems （操作系统），操作系统的功能、内存管理、进程管理、CPU调度。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 11 File Systems and Directories（文件系统和目录），文件操作、目录树、磁盘结构。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Application Layer（应用程序层面）&lt;ul&gt;&lt;li&gt;Chapter 12 Information Systems（信息系统），电子表格和数据库系统。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 13 Artificial Intelligence（人工智能），思考机器、知识表示、专家系统、神经网络、自然语言处理和机器人。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 14 Simulation and Other Application（模拟器和其他应用），模拟系统、CAD和嵌入式系统。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Communication Layer（通信层面）&lt;ul&gt;&lt;li&gt;Chapter 15 Networks（网络），网络的结构和模式、网络协议和地址。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Chapter 16 The World Wide Web（万维网），使用网络（搜索引擎、即时通信等），HTML、交互式页面和XML。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;In Conclusion（结论）&lt;ul&gt;&lt;li&gt;Chapter 17 Limitations of Computing（计算的局限）&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21043722/answer/16987806
+</link>
+<author>
+沈一冰
+</author>
+<title>
+苹果真的偷税漏税了吗？App Store 的应用下载是否需要缴纳关税？
+</title>
+<description>
+首先，税种的适用，软件企业不归属消费品行业和制造业，向境内销售应当征收营业税和／或增值税。关税不适用。根据《中华人民共和国海关审定进出口货物完税价格办法》，第十三条之规定：&lt;br&gt;&lt;blockquote&gt;第十三条　符合下列条件之一的特许权使用费，应当视为与进口货物有关：&lt;br&gt;……&lt;br&gt;（三）特许权使用费是用于支付著作权，且进口货物属于下列情形之一的：&lt;br&gt;　　1．含有软件、文字、乐曲、图片、图像或者其他类似内容的进口货物，包括磁带、磁盘、光盘或者其他类似介质的形式；&lt;br&gt;　　2．含有其他享有著作权内容的进口货物。&lt;/blockquote&gt;请注意其中的“货物”字眼，即货物“含有”特许权，即特许权是作为货物的附属存在的，不能对无形的特许权本身征收关税。&lt;br&gt;&lt;br&gt;经查税则，结果如下：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7a/ec/7aec2c9c193328a1ede61e905b07d3f1_m.jpg&quot; data-rawwidth=&quot;472&quot; data-rawheight=&quot;251&quot; class=&quot;origin_image&quot; width=&quot;472&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/7a/ec/7aec2c9c193328a1ede61e905b07d3f1_r.jpg&quot;)'&gt;除非你论斤卖软件，否则税率为0。&lt;br&gt;&lt;br&gt;其次，假设关税适用，把软件看作一般商品或服务的话，itunes store服务器位于美国，服务或销售行为在境外完成，没有国内缴税义务。有朋友说国内CDN，但是国内CDN并不意味着通过Apple国内法人实体开票销售。假定认为在国内销售，那么自己开发的收不超过实际税负3%的增值税，代销的5%营业税。但这和走私有毛关系？&lt;br&gt;&lt;br&gt;最后，假设属于应税商品，但是海关规定5000元以下自用商品免税。各位买过5000元的软件？&lt;br&gt;&lt;br&gt;但企业可能需要缴纳营业税：&lt;br&gt;根据《营业税暂行条例》 （国务院令第540号）的规定，中华人民共和国境外的单位或者个人在境内提供应税劳务、转让无形资产或者销售不动产，在境内未设有经营机构的，以其境内代理人为扣缴义务人；在境内没有代理人的，以受让方或者购买方为扣缴义务人。 &lt;br&gt;&lt;br&gt;本次发难实际是针对itunes store，可能那啥不能对其进行内容审查，而又难以进行封锁导致的。因此狗吠不可怕，可怕的是主人的意图。&lt;br&gt;&lt;br&gt;而且，就算要征税，也是我等代扣代缴营业税，苹果并不少一毛钱。不过我不觉得苹果会做漏缴偷逃营业税这种授人以柄的蠢事。&lt;br&gt;&lt;br&gt;所以我对这种狗专家只有一句话：走私汝令堂啊。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21038878/answer/16973575
 </link>
 <author>
@@ -263,34 +291,6 @@ http://www.zhihu.com/question/21036242/answer/16964648
 </title>
 <description>
 &lt;a href=&quot;http://m.weibo.cn/k/%E4%BE%A6%E6%9F%A5%E4%B8%8D%E5%85%AC%E5%BC%80&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;#侦查不公开#&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 是台湾刑诉法的一项基本原则。前不久，在民众呼吁下，台湾法务部出台“侦查不公开作业办法”，进一步明确保密范围。法务部五年来已有三个违法该原则惩处案例，内政部警政署刑事警察局2000年来因违反该原则处理445名警员。&lt;br&gt;相关法律条文：保守国家秘密法10,11条，政府信息公开条例15条，2006年新出台的公安部关于公安工作保密范围及密级规定。网上都能查到，这是侦查过程不公开的法律根据。&lt;br&gt;&lt;br&gt;从刑侦的角度来看侦查黑社会案件，检方的污点证人，卧底，排查情况公开会打草惊蛇，也会对无关人员的生活带来影响。 作为一名非法律专业人员。从其他的角度看看这个问题。曹先生的回答是从现实侦查的特点回答，我想从权利的角度看看这个问题。&lt;br&gt;&lt;br&gt;先从司法机构的起源说起。&lt;br&gt;我们为什么需要司法部门？为什么需要一个政府合法的垄断暴力使用权？是因为我们虽然拥有自然权利（包括人身权、隐私权、财产权），也有捍卫自己自然权利的权利，但是为了避免进入霍布斯所谓的＂所有人对所有人的战争＂我们进入社会让渡出部分权利（主要是捍卫自身权利的暴力使用权、报复权）给国家，给司法部门保障我们的自然权利。&lt;br&gt;司法机构代表最高主权捍卫我们的权利，同时司法部门在侦查期间非常可能要侵犯个人的隐私权。当面对破坏社会道德法律底线的行为，司法介入，为了保障良序社会，按照罗尔斯伦理的词典排序，个人的隐私权排在社会正义的后面，个人有义务提供自己所了解的情况，哪怕是自己的隐私。但人们公布自己的隐私只是因为自己的隐私权排在社会的公义的后面，非因为社会公义的原因，人的隐私权要得到保障。公布调查详情有暴露相关人仕的隐私的风险。很多人接受调查很可能提供了许多与案件无关的个人隐私。人们接受司法机构的调查是因为要协助司法机构破案，提供线索，而不是希望自己的生活被大众窥视，在侦查期间没有人知道哪些隐私应该公布，哪些不应该。换句话说司法机构无法保证被司法机构窥视的隐私那些是为了维护社会的公义所必须的，哪些不是。刑事侦查过程不公布也是保障各位的隐私权。&lt;br&gt;就拿杀人案来说，侦查的第一步就是确定是情杀 仇杀 激情杀人 蓄意杀人 失手致死。。。。。。这些都要摸清受害人的人际情况，如果公布和受害人有情感瓜葛的嫌疑人的情况，但事实是受害人是被他人见财起意杀了。这就侵犯嫌疑人的隐私权了。&lt;br&gt;16：30更新&lt;br&gt;&lt;blockquote&gt;&lt;a href=&quot;http://www.zhihu.com/people/cao-wen-wen&quot; class=&quot;internal&quot;&gt;曹文雯&lt;/a&gt;&lt;br&gt;我搜了一下，&lt;a href=&quot;http://www.law863.com/n198753c118.aspx&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;公安部关于公安机关保密范围和密级的暂行规定&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;是这个吗？&lt;br&gt;看完之后我还是不太明白保密范围的界定，不知可否麻烦您解答：&lt;br&gt;1、已侦破的案件细节的保密程度应多高？&lt;br&gt;比如说我记得好像看到说法说国外的判决书写很长，说明怎么怎么判决的。&lt;br&gt;是不是意味着已定案之后保密性就可以降低？&lt;br&gt;2、是否有不能对公众公布，但是可以告知受害人的内容？&lt;br&gt;或者说，是不是应该有义务对受害人讲明判决原因？ &lt;/blockquote&gt;回复&lt;br&gt;1 这个问题很难回答，记忆中田浩说他侦破的很多贩毒案都没有解密。您说的那种国外情况可能见于英美法体系下的陪审员的判决，每一位陪审员都要说明自己判案的理由。&lt;br&gt;&lt;br&gt;2 判决书就是说明原因的手段。“是不是应该有义务对受害人讲明判决原因？ ”“是否有不能对公众公布，但是可以告知受害人的内容？”这两者严格来说是两个不同范畴的问题，前者是审判，后者是刑侦，审判要恪守几大原则：&lt;br&gt;&lt;strong&gt;审判中立&lt;/strong&gt;，是指承担审判职能的法院及其审判人员不能有控辩双方或者与案件有利害关系的机关或者人员担任，而且审判者应当对控辩双方不偏不倚，平等对待。审判只有中立才能公正，无中立即无公正。为了保证审判中立，控审必须分离，控辩双方必须对等。因此法院对双方都有义务说明自己判决原因；&lt;br&gt;&lt;strong&gt;审判公开原则&lt;/strong&gt;：审判公开是指人民法院审理案件和宣告判决，公开进行，允许公民到法庭旁听，允许新闻记者采访报道，也就是把法庭的全过程，除了休庭评议之外都公之于众。具体而言其包括三个方面的内容：一是审理过程公开。法院审理案件的活动？包括证据的提出、调查与认定等除法律规定的特殊情况以外，一律在公开的法庭上进行，允许公众旁听，允许新闻媒介采访、报导。二是审判结论公开即公开宣判。判决书及其据以下判的事实和理由应以公开的形式宣布，允许新闻记者报导，法庭也应向社会公告。三是审判公开的对象既包括向当事人公开，也包括向社会公开。&lt;br&gt;&lt;br&gt;一旦案件进入了审判阶段，证据、推理、审判都必须公开。控辩双方和公众都有权知晓案件情况，而在刑侦阶段则要参考保密法，分情况讨论。 
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20358155/answer/14881061
-</link>
-<author>
-yolfilm
-</author>
-<title>
-独生子女以后怎么照顾双方的父母？
-</title>
-<description>
--&lt;br&gt;以我的經驗，夫妻二人，絕不可能照顧四個老人。&lt;br&gt;你再有孝心，再有愛心，就是住在樓上樓下，也沒有辦法。&lt;br&gt;&lt;br&gt;唯一的解決辦法，就是錢。&lt;br&gt;&lt;br&gt;但，再過數年，所謂「經濟能負擔的保姆」就會從人力市場中消失，&lt;br&gt;以台灣為例，唯一能請來的勞動力，是印尼，菲律賓，越南。&lt;br&gt;但，那是建築在台灣人均收入兩萬美金的現實上。&lt;br&gt;&lt;br&gt;世界上有哪一個國家，能提供足夠的便宜人力，&lt;br&gt;為中國人所雇傭？幫中國人解決老人安養問題？&lt;br&gt;&lt;br&gt;（台灣目前要雇請外傭，也已經是非常困難。）&lt;br&gt;&lt;br&gt;以大陸目前的收入水平增長之緩慢，再過數年，&lt;br&gt;第一波一胎化子女，就要開始面臨養老問題。&lt;br&gt;&lt;br&gt;日本電影「楢山節考」一般的劇情，會不會在中國上演呢？&lt;br&gt;殘病老人，為子女作的最後一件事，就是淒慘地了斷自己生命。&lt;br&gt;中國，不用懷疑，以目前的社會救助保障系統之缺乏，&lt;br&gt;以目前人均收入之不等，以目前全世界獨一無二的一胎化政策。&lt;br&gt;未來的中國社會，必然會有恐怖的社會問題要發生。&lt;br&gt;&lt;br&gt;這是我的預言。&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20135857/answer/16344518
-</link>
-<author>
-罗登
-</author>
-<title>
-如果没有电影审查制度，中国可能会产生更多更经典的电影吗？
-</title>
-<description>
-我支持&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/hei-se-bo-luo&quot; data-tip=&quot;p$b$hei-se-bo-luo&quot;&gt;@黑色菠萝&lt;/a&gt;，回答是“会”！&lt;br&gt;但是需要时间，不是立竿见影的。&lt;br&gt;很多人，包括那个最高票数的回答，都在说一个事情：牛逼的电影不怕审查。牛逼的导演不怕审查。&lt;br&gt;并且不断自说自话说不是为审查做辩护。就算是吧。&lt;br&gt;这个问题的标准回答是：统计学概念上，没有电影审查制度，不一定有好作品。但是有审查制度，就一定没好作品。&lt;br&gt;有的人一定有开始那姜文说事了，说你看，是审查，还不是有《阳光灿烂的日子》？&lt;br&gt;打个不太恰当的比方吧：&lt;br&gt;给一群人每天吃慢性的毒药，这群人的身体越来越差，有人质疑那毒药，于是给药的人就说了，真正牛逼的人怕毒药吗？牛逼你就能活下去，还真有人没死，于是给药的人就更加振振有词了。而不断吃毒药的人就开始思索一个严肃的话题：是不是我们真的身体本来就差，不是毒药的问题，你看，不是有人活的不错吗？&lt;br&gt;这个时候，有人问：如果停药了，大家会健健康康吗？&lt;br&gt;会逐步健康，但不是立刻，更有甚者，有的人身体本来就不好，不吃毒药也可能生病，但是这绝不是说，那毒药无害。&lt;br&gt;其实，这个问题的根结是以下一个链条：&lt;br&gt;电影审查》压制创作》电影品质下降》普遍下降到不堪忍受》审查制度的负面效应越来越不明显……&lt;br&gt;即使没有了审查，一时半会也好不起来。&lt;br&gt;但是绝不能说，审查不是原因。
 </description>
 </item>
 </channel>
