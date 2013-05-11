@@ -172,10 +172,10 @@ http://www.zhihu.com/question/21026899/answer/16958533
 http://www.zhihu.com/question/21043722/answer/16989064
 </link>
 <author>
-知乎用户
+Oleg Vodnik
 </author>
 <title>
-苹果公司真的偷税漏税吗？App Store 的应用下载是否需要缴纳关税？
+苹果真的涉嫌走私？App Store 的应用下载是否需要缴纳关税？
 </title>
 <description>
 我们当时组里分享讨论时专门拿App Store的运营模式是否需要纳税来做讨论，针对这个问题先分享主要几点结论：&lt;br&gt;&lt;br&gt;1. App Store服务器及管辖公司均设在国外，公司无需承担中国的纳税义务，来自于中国国内的收入应缴纳预提所得税和流转税；&lt;br&gt;2. 国内个人开发者提交App Store的App获得的收入需缴纳个人所得税，若是企业提交App获得的收入则缴纳企业所得税；&lt;br&gt;3. 软件进口目前无须缴纳关税，这个所谓砖家应该好好补补课；&lt;br&gt;4. Apple的全球税务业务都是有四大和律所合作的，不会落下偷税漏税这么低级的把柄的。&lt;br&gt;&lt;br&gt;等下周回公司了，把之前的详细分析发上来给大家看看。
@@ -217,7 +217,7 @@ http://www.zhihu.com/question/21043722/answer/16987806
 沈一冰
 </author>
 <title>
-苹果公司真的偷税漏税吗？App Store 的应用下载是否需要缴纳关税？
+苹果真的涉嫌走私？App Store 的应用下载是否需要缴纳关税？
 </title>
 <description>
 首先，税种的适用，软件企业不归属消费品行业和制造业，向境内销售应当征收营业税和／或增值税。关税不适用。根据《中华人民共和国海关审定进出口货物完税价格办法》，第十三条之规定：&lt;br&gt;&lt;blockquote&gt;第十三条　符合下列条件之一的特许权使用费，应当视为与进口货物有关：&lt;br&gt;……&lt;br&gt;（三）特许权使用费是用于支付著作权，且进口货物属于下列情形之一的：&lt;br&gt;　　1．含有软件、文字、乐曲、图片、图像或者其他类似内容的进口货物，包括磁带、磁盘、光盘或者其他类似介质的形式；&lt;br&gt;　　2．含有其他享有著作权内容的进口货物。&lt;/blockquote&gt;请注意其中的“货物”字眼，即货物“含有”特许权，即特许权是作为货物的附属存在的，不能对无形的特许权本身征收关税。&lt;br&gt;&lt;br&gt;经查税则，结果如下：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7a/ec/7aec2c9c193328a1ede61e905b07d3f1_m.jpg&quot; data-rawwidth=&quot;472&quot; data-rawheight=&quot;251&quot; class=&quot;origin_image&quot; width=&quot;472&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/7a/ec/7aec2c9c193328a1ede61e905b07d3f1_r.jpg&quot;)'&gt;除非你论斤卖软件，否则税率为0。&lt;br&gt;&lt;br&gt;其次，假设关税适用，把软件看作一般商品或服务的话，itunes store服务器位于美国，服务或销售行为在境外完成，没有国内缴税义务。有朋友说国内CDN，但是国内CDN并不意味着通过Apple国内法人实体开票销售。假定认为在国内销售，那么自己开发的收不超过实际税负3%的增值税，代销的5%营业税。但这和走私有毛关系？&lt;br&gt;&lt;br&gt;最后，假设属于应税商品，但是海关规定5000元以下自用商品免税。各位买过5000元的软件？&lt;br&gt;&lt;br&gt;但企业可能需要缴纳营业税：&lt;br&gt;根据《营业税暂行条例》 （国务院令第540号）的规定，中华人民共和国境外的单位或者个人在境内提供应税劳务、转让无形资产或者销售不动产，在境内未设有经营机构的，以其境内代理人为扣缴义务人；在境内没有代理人的，以受让方或者购买方为扣缴义务人。 &lt;br&gt;&lt;br&gt;本次发难实际是针对itunes store，可能那啥不能对其进行内容审查，而又难以进行封锁导致的。因此狗吠不可怕，可怕的是主人的意图。&lt;br&gt;&lt;br&gt;而且，就算要征税，也是我等代扣代缴营业税，苹果并不少一毛钱。不过我不觉得苹果会做漏缴偷逃营业税这种授人以柄的蠢事。&lt;br&gt;&lt;br&gt;所以我对这种狗专家只有一句话：走私汝令堂啊。
