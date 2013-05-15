@@ -18,7 +18,7 @@ http://www.zhihu.com/read
 http://www.zhihu.com/question/20058290/answer/13835238
 </link>
 <author>
-汪惟
+知乎用户
 </author>
 <title>
 除了出租车和便利店，北京还有哪些地方落後于上海？
@@ -32,7 +32,7 @@ http://www.zhihu.com/question/20058290/answer/13835238
 http://www.zhihu.com/question/21060457/answer/17046064
 </link>
 <author>
-kenny ff
+知乎用户
 </author>
 <title>
 新版手机 QQ 2013 的联系人头像全点亮，腾讯产品经理做这个决定是出于什么考虑？
@@ -94,7 +94,7 @@ http://www.zhihu.com/question/20501846/answer/17042789
 手机工厂是什么样的？一款手机的制造阶段都包括哪些环节？
 </title>
 <description>
-谢邀。&lt;br&gt;&lt;br&gt;正巧，我在组织一些业内的同行和朋友，准备在下周末，去南京参观给小米手机做代工的英华达工厂。两个月前我带了一些朋友去参观过，有朋友邀请我来回答这个问题，欠债到现在，赶紧补上。&lt;br&gt;&lt;br&gt;下面所说的，是就我自己所知的一些记叙。了解其他手机工厂情况的朋友，如果发现我所说的有不准确的地方，请随时指正。&lt;br&gt;&lt;br&gt;问题说的是诸如富士康、英华达这样的代工厂的生产流程吧。一台手机在这之前，还都是元器件的状态。&lt;br&gt;&lt;br&gt;手机厂商诸如苹果三星大索尼等，在自家干净漂亮吹着空调伺候着咖啡的办公室里把手机设计出来，并做出工程样机。一般经过两三次工程样机的制作和反复测试、修改后，就可以提交到工信部去备案申请入网。&lt;br&gt;&lt;br&gt;只要不是山寨机的话，这之前手机要经历严格的各项测试，包括跌落、粉尘环境、活动构件的使用寿命（比如折叠手机需要反复折叠 10 万次左右），还有诸如信号强度，声音、摄像头等等涵盖手机所有功能的基本测试和寿命测试。符合标准后，就可以开始准备生产了。&lt;br&gt;&lt;br&gt;接下来，正式开始题主所关心的问题了：&lt;br&gt;&lt;br&gt;我们都知道现在全球的手机生产大多都在富士康这样的代工厂进行了。这是手机成品的最后生产基地。&lt;br&gt;&lt;br&gt;在这里，首先看到的是一车车的元器件被运抵仓库。&lt;br&gt;&lt;br&gt;这些元器件包括我们熟知的触手可及的大件包括屏幕、外壳、电池、摄像头，还有一般我们看不到的主板，将要装配到主板上的各种电子元器件和芯片。&lt;br&gt;&lt;br&gt;手机生产的第一步是印刷主板。楼上匿名人士已经答的很清楚了，这叫“ SMD (Surface Mount Device)”&lt;br&gt;&lt;br&gt;主板的装配是好像印刷一样。一个个小如蚂蚁大不过指甲的电子管元器件和芯片，是放置在一盘一盘的纸带上。当主板的基板经过流水线，全自动的设备就把纸带上的元器件一个一个的极其精细的「打印」到主板上，看起来好像报纸的印刷一样。下图1是主板印刷流水线。下图2是我手头拿着的一截打印过的电阻纸带。右侧圆孔是机器用来定位的，左侧的那些小方口，那里就是一个个的电阻的位置，它们已经被装配到某一台手机的主板上去了。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/61/49/614926590a5881c671ab5988a1347410_m.jpg&quot; data-rawwidth=&quot;497&quot; data-rawheight=&quot;300&quot; class=&quot;origin_image&quot; width=&quot;497&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/61/49/614926590a5881c671ab5988a1347410_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p3.zhimg.com/b8/cd/b8cd0939bf6294aeeece0900dbc3f3d3_m.jpg&quot; data-rawwidth=&quot;319&quot; data-rawheight=&quot;430&quot; class=&quot;content_image&quot; width=&quot;319&quot;&gt;&lt;br&gt;&lt;br&gt;这部分流水线应该是整个手机装配过程中技术含量最高的，也是自动化程度最高的。&lt;br&gt;&lt;br&gt;基本上大家都试用的是来自德国或者日本进口的机器。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/93/31/933113ba84b0dba9bf5c241c39c3ff83_m.jpg&quot; data-rawwidth=&quot;567&quot; data-rawheight=&quot;396&quot; class=&quot;origin_image&quot; width=&quot;567&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/93/31/933113ba84b0dba9bf5c241c39c3ff83_r.jpg&quot;)'&gt;&lt;br&gt;(刚刚组装好的手机主板)&lt;br&gt;&lt;br&gt;等主板装配完毕，接下来主要就是手工活儿了。&lt;br&gt;&lt;br&gt;也就是大家经常在各种影视作品或者新闻影像中看到的，一排排绿色的流水线，一个个工人围坐在流水线旁边，半成品从流水线上缓缓走过，每一个工人完成一个属于他自己的工序，直到最终手机生产完成。&lt;br&gt;&lt;br&gt;当手机的所有元器件装配完成，还要进行刷机工作，即给空空的手机安装操作系统。&lt;br&gt;&lt;br&gt;这些负责刷机流程的工人可谓第一批「发烧友」了吧，他们刷过的机器不计其数 …… 好吧，其实肯定是计其数的，否则人家怎么拿奖金呢？&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2b/61/2b61e7e3618ef878fc271256f5ae9c69_m.jpg&quot; data-rawwidth=&quot;436&quot; data-rawheight=&quot;292&quot; class=&quot;origin_image&quot; width=&quot;436&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2b/61/2b61e7e3618ef878fc271256f5ae9c69_r.jpg&quot;)'&gt;&lt;br&gt;（上图就是批量给手机刷机装系统的过程。其实没什么特别的，和我们发烧友自己线刷手机，差不多。）&lt;br&gt;&lt;br&gt;真实正规的手机生产流水线里面（相对于山寨厂商来说），这个流水线里面还会加入大量的测试流程，几乎每隔一段重要的生产工序之后，就会给所有（100%）的半成品进行一次测试，以确保手机的良品率。尽早发现因为各种可能导致的问题产品，然后把它们请进返工流程。&lt;br&gt;&lt;br&gt;这些工作精细到了几乎智能手机的每一个操作，前、后摄像头要测一下，喇叭要测一下，插上耳机要测一下，拔下耳机要再测一下。屏幕要多个手指按一下，USB 数据传输要上传下载个文件试试看……&lt;br&gt;&lt;br&gt;琐碎繁杂和重复，让人感觉在产线上的工人真是不容易。&lt;br&gt;&lt;br&gt;最后还有专门的流水线把完全装配好和装好操作系统，并且完成全部功能检测的手机装入包装盒，塑封，然后装入大纸箱，这就是准备送到物流中心，最后卖到消费者手上的产品了。&lt;br&gt;&lt;br&gt;代工厂是一个很复杂的地方，也很值得没去看过的朋友看一眼。开头说到的下周参观小米代工厂，本来是小米的媒体开放日活动，现在正好还有 4 到 5 个名额，我们愿意留给知乎上的朋友，去小米公司的手机代工厂去参观，看一看一台手机是怎样生产出来的，可能还可以体验部分生产环节。&lt;br&gt;&lt;br&gt;业内的朋友，对手机行业感兴趣的朋友，若有兴趣在下周（2013 年 5 月 23 日 - 25 日）参与小米的媒体开放日活动，参观小米手机在南京的代工厂，可以私信我。知友优先。选中的朋友，小米公司将负担交通和食宿费用。
+谢邀。&lt;br&gt;&lt;br&gt;正巧，我在组织一些业内的同行和朋友，准备在下周末，去南京参观给小米手机做代工的英华达工厂。两个月前我带了一些朋友去参观过，有朋友邀请我来回答这个问题，欠债到现在，赶紧补上。&lt;br&gt;&lt;br&gt;下面所说的，是就我自己所知的一些记叙。了解其他手机工厂情况的朋友，如果发现我所说的有不准确的地方，请随时指正。&lt;br&gt;&lt;br&gt;问题说的是诸如富士康、英华达这样的代工厂的生产流程吧。一台手机在这之前，还都是元器件的状态。&lt;br&gt;&lt;br&gt;手机厂商诸如苹果三星大索尼等，在自家干净漂亮吹着空调伺候着咖啡的办公室里把手机设计出来，并做出工程样机。一般经过两三次工程样机的制作和反复测试、修改后，就可以提交到工信部去备案申请入网。&lt;br&gt;&lt;br&gt;只要不是山寨机的话，这之前手机要经历严格的各项测试，包括跌落、粉尘环境、活动构件的使用寿命（比如折叠手机需要反复折叠 10 万次左右），还有诸如信号强度，声音、摄像头等等涵盖手机所有功能的基本测试和寿命测试。符合标准后，就可以开始准备生产了。&lt;br&gt;&lt;br&gt;接下来，正式开始题主所关心的问题了：&lt;br&gt;&lt;br&gt;我们都知道现在全球的手机生产大多都在富士康这样的代工厂进行了。这是手机成品的最后生产基地。&lt;br&gt;&lt;br&gt;在这里，首先看到的是一车车的元器件被运抵仓库。&lt;br&gt;&lt;br&gt;这些元器件包括我们熟知的触手可及的大件包括屏幕、外壳、电池、摄像头，还有一般我们看不到的主板，将要装配到主板上的各种电子元器件和芯片。&lt;br&gt;&lt;br&gt;手机生产的第一步是印刷主板。楼上匿名人士已经答的很清楚了，这叫“ SMD (Surface Mount Device)”&lt;br&gt;&lt;br&gt;主板的装配是好像印刷一样。一个个小如蚂蚁大不过指甲的电子管元器件和芯片，是放置在一盘一盘的纸带上。当主板的基板经过流水线，全自动的设备就把纸带上的元器件一个一个的极其精细的「打印」到主板上，看起来好像报纸的印刷一样。下图1是主板印刷流水线。下图2是我手头拿着的一截打印过的电阻纸带。右侧圆孔是机器用来定位的，左侧的那些小方口，那里就是一个个的电阻的位置，它们已经被装配到某一台手机的主板上去了。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/61/49/614926590a5881c671ab5988a1347410_m.jpg&quot; data-rawwidth=&quot;497&quot; data-rawheight=&quot;300&quot; class=&quot;origin_image&quot; width=&quot;497&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/61/49/614926590a5881c671ab5988a1347410_r.jpg&quot;)'&gt;&lt;img src=&quot;http://p3.zhimg.com/b8/cd/b8cd0939bf6294aeeece0900dbc3f3d3_m.jpg&quot; data-rawwidth=&quot;319&quot; data-rawheight=&quot;430&quot; class=&quot;content_image&quot; width=&quot;319&quot;&gt;&lt;br&gt;&lt;br&gt;这部分流水线应该是整个手机装配过程中技术含量最高的，也是自动化程度最高的。&lt;br&gt;&lt;br&gt;基本上大家都试用的是来自德国或者日本进口的机器。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/93/31/933113ba84b0dba9bf5c241c39c3ff83_m.jpg&quot; data-rawwidth=&quot;567&quot; data-rawheight=&quot;396&quot; class=&quot;origin_image&quot; width=&quot;567&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/93/31/933113ba84b0dba9bf5c241c39c3ff83_r.jpg&quot;)'&gt;&lt;br&gt;(刚刚组装好的手机主板)&lt;br&gt;&lt;br&gt;等主板装配完毕，接下来主要就是手工活儿了。&lt;br&gt;&lt;br&gt;也就是大家经常在各种影视作品或者新闻影像中看到的，一排排绿色的流水线，一个个工人围坐在流水线旁边，半成品从流水线上缓缓走过，每一个工人完成一个属于他自己的工序，直到最终手机生产完成。&lt;br&gt;&lt;br&gt;当手机的所有元器件装配完成，还要进行刷机工作，即给空空的手机安装操作系统。&lt;br&gt;&lt;br&gt;这些负责刷机流程的工人可谓第一批「发烧友」了吧，他们刷过的机器不计其数 …… 好吧，其实肯定是计其数的，否则人家怎么拿奖金呢？&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2b/61/2b61e7e3618ef878fc271256f5ae9c69_m.jpg&quot; data-rawwidth=&quot;436&quot; data-rawheight=&quot;292&quot; class=&quot;origin_image&quot; width=&quot;436&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2b/61/2b61e7e3618ef878fc271256f5ae9c69_r.jpg&quot;)'&gt;&lt;br&gt;（上图就是批量给手机刷机装系统的过程。其实没什么特别的，和我们发烧友自己线刷手机，差不多。）&lt;br&gt;&lt;br&gt;真实正规的手机生产流水线里面（相对于山寨厂商来说），这个流水线里面还会加入大量的测试流程，几乎每隔一段重要的生产工序之后，就会给所有（100%）的半成品进行一次测试，以确保手机的良品率。尽早发现因为各种可能导致的问题产品，然后把它们请进返工流程。&lt;br&gt;&lt;br&gt;这些工作精细到了几乎智能手机的每一个操作，前、后摄像头要测一下，喇叭要测一下，插上耳机要测一下，拔下耳机要再测一下。屏幕要多个手指按一下，USB 数据传输要上传下载个文件试试看……&lt;br&gt;&lt;br&gt;琐碎繁杂和重复，让人感觉在产线上的工人真是不容易。&lt;br&gt;&lt;br&gt;最后还有专门的流水线把完全装配好和装好操作系统，并且完成全部功能检测的手机装入包装盒，塑封，然后装入大纸箱，这就是准备送到物流中心，最后卖到消费者手上的产品了。&lt;br&gt;&lt;br&gt;代工厂是一个很复杂的地方，也很值得没去看过的朋友看一眼。开头说到的下周参观小米代工厂，本来是小米的媒体开放日活动，现在正好还有 4 到 5 个名额，我们愿意留给知乎上的朋友，去小米公司的手机代工厂去参观，看一看一台手机是怎样生产出来的，可能还可以体验部分生产环节。&lt;br&gt;&lt;br&gt;业内的朋友，对手机行业感兴趣的朋友，若有兴趣在下周（2013 年 5 月 23 日 - 25 日）参与小米的媒体开放日活动，参观小米手机在南京的代工厂，可以私信我。知友优先。选中的朋友，小米公司将负担交通和食宿费用。&lt;br&gt;&lt;br&gt;----------2013年5月15日13:40 更新分割线-----------&lt;br&gt;没想到知乎的朋友这么热情，踊跃的报名让我颇感为难。&lt;br&gt;为此特别声明，已经有足够多的朋友报名参加，现在起不接受任何新的报名。&lt;br&gt;我们会从之前已经联系我希望参加的朋友中选出5位知乎朋友，来参加这次开放日活动。&lt;br&gt;稍晚些时候我会在这里更新公布名单。&lt;br&gt;谢谢。
 </description>
 </item>
 <item>
@@ -116,7 +116,7 @@ http://www.zhihu.com/question/21055475/answer/17046672
 http://www.zhihu.com/question/20267228/answer/17044903
 </link>
 <author>
-天光
+知乎用户
 </author>
 <title>
 哪类应用的用户日活跃度最高？
@@ -200,7 +200,7 @@ http://www.zhihu.com/question/20961302/answer/16731528
 http://www.zhihu.com/question/20578482/answer/16119941
 </link>
 <author>
-Johnson
+知乎用户
 </author>
 <title>
 Tesla 电动汽车进入中国最大的挑战是什么？
