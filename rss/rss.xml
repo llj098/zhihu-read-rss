@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20540674/answer/15431081
+</link>
+<author>
+江嘉键
+</author>
+<title>
+石墨烯為何比晶硅更適合做電子元件？
+</title>
+<description>
+      谢邀。&lt;br&gt;      我们把这当成一个思维游戏好了。想象一下，假如你是工程师，现在扔给你一张元素周期表，让你挑出一种元素做成导电性好，硬度强的电子元件，你怎么选？（要求初中以上化学知识）&lt;br&gt;&lt;br&gt;       首先，既然我们想要一种强度高的电子元件，首先要求这种元素能够通过化学键往二维或者三维方向延展。能向二维延展的元素至少要能够形成三个化学键，能向三维拓展的元素至少要能够形成四个化学键。如下图的球棍模型所示。&lt;img src=&quot;http://p1.zhimg.com/0e/60/0e60f43a4f611baf530a822bce9a7352_m.jpg&quot; data-rawwidth=&quot;526&quot; data-rawheight=&quot;309&quot; class=&quot;origin_image&quot; width=&quot;526&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/0e/60/0e60f43a4f611baf530a822bce9a7352_r.jpg&quot;)'&gt;&lt;br&gt;      现在我们需要筛选出能够形成三个以上化学键的元素。回顾一下我们初中学过的化学知识，原子成键需要遵循八耦律，也就是当原子成键以后，最外层电子排布为八电子稳定结构。元素周期表第一主族有一个电子，给出一个电子后形成稳定结构，所以假定他们能够形成化学键（其实基本上形成的都是离子键），也最多只能形成一个化学键；同理，第二主族最多只能形成二个化学键。&lt;br&gt;       第三主族,第四主族最多能够分别形成三个，四个化学键。符合我们的条件。&lt;br&gt;       再来看第五主族，因为该族元素最外层有五个电子，意味着只要别的原子和它们分享三个电子，就能够形成八电子稳定结构。因此，第五族元素最多也能够形成三个化学键，符合我们的要求。&lt;br&gt;       第六主族外层六个电子，所以需要别人和它们分享两个电子，因此最多只能形成两个化学键，不符合要求；同理第七主族也不符合要求，第八主族本身就是稳定结构，也不符合要求。&lt;br&gt;       经过这样的筛选，我们就知道制备电子元件只能从第三，第四和第五主族里面选了。&lt;br&gt;&lt;br&gt;       第二轮筛选开始了，我们需要该种元素制成的电子元件有良好导电性。&lt;br&gt;       我们看第三主族元素，它们只有三个电子，形成三个化学键以后，就不会有自由电子了，所以无法具备良好的导电性。第五主族的元素，因为形成三个化学键以后就形成了八电子稳定结构，虽然它们五个电子中只有三个和其它三个原子配对成键，但剩下的两个电子也无法自由移动以保持八电子稳定结构。&lt;br&gt;       因此我们排除了第三和第五主族，最后只能指望在第四主族找到我们想要的元素了。&lt;br&gt;       第四主族最多可以形成三个或者四个化学键，所以可以形成二维或者三维结构。当形成的是三维结构时，排列如下图所示：&lt;img src=&quot;http://p2.zhimg.com/ad/a3/ada34d01b3413eae7d0ce2534af7f120_m.jpg&quot; data-rawwidth=&quot;334&quot; data-rawheight=&quot;319&quot; class=&quot;content_image&quot; width=&quot;334&quot;&gt;&lt;br&gt;        第四主族最上面的两种元素：碳和硅都能够形成以上的晶体结构。其中碳所形成的以上三维结构就叫金刚石（高纯度的就是钻石），硅所形成的就是单晶硅。金刚石是自然界天然形成的硬度最高的物质，为什么金刚石硬度比单晶硅要高？这是一个简单的化学规律：原子半径越小，化学键越强。因为碳的原子半径比硅小，所以金刚石的化学键就比单晶硅强。化学键越强，就越难被打断，硬度自然就越高。&lt;br&gt;       但是以上的三维结构同样有一个问题，就是里面没有自由电子了。这就是为什么单晶硅导电性能不好的缘故。&lt;br&gt;       那么如果第四主族元素形成的是二维结构又如何呢？这时它们将会把自己的四个电子中的三个用来成键，此时最外层电子数是4+3=7&amp;lt;8，所以是缺电子结构。在这种情况下，原子会想出一种办法，就是把所有电子拿出来共享，形成一种叫大π键的化学键，所有参与大π键的电子在二维的层结构间自由移动。因此我们来想象一下，用这种二维层结构组成的材料有什么性质？首先，这种二维层结构之中的原子形成的是和金刚石类似的化学键，所有它们有可以和金刚石媲美的硬度；因为层间有自由电子不断移动，所以有良好的导电性；因为层内形成的六边形，以及层间都有很大的空隙（看下图），所以对光的折射反射作用不强，所以材料会显得相当透明。&lt;br&gt;       恰好，碳元素天然存在以上的二维结构，我们叫它做石墨。所以我们终于找到能够制备我们想要的电子元件的元素了。石墨结构如下图所示：  &lt;img src=&quot;http://p1.zhimg.com/0d/03/0d033c28326ef66653581abdd7842fc9_m.jpg&quot; data-rawwidth=&quot;194&quot; data-rawheight=&quot;237&quot; class=&quot;content_image&quot; width=&quot;194&quot;&gt;               平面图&lt;img src=&quot;http://p1.zhimg.com/05/a0/05a0e73ad500b50dba38b780f7ff828d_m.jpg&quot; data-rawwidth=&quot;138&quot; data-rawheight=&quot;214&quot; class=&quot;content_image&quot; width=&quot;138&quot;&gt;截面图（黄色的就是自由电子）&lt;br&gt;&lt;br&gt;石墨烯材料就是从以上的石墨中一层一层地取出来的东西。拿诺贝尔物理学奖的那群人想的办法就是用胶带反复地把这些层结构撕下来，就得到了石墨烯材料了。&lt;br&gt;&lt;br&gt;以上就解释了石墨烯为什么强度高，导电性好和透明了。不过石墨烯作为单层原子的结构，更让科学家感兴趣的其实是它们的纳米效应和量子效应。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19551648/answer/12563580
 </link>
 <author>
@@ -60,7 +74,7 @@ http://www.zhihu.com/question/21069652/answer/17079386
 http://www.zhihu.com/question/21064952/answer/17075789
 </link>
 <author>
-知乎用户
+高涵玙
 </author>
 <title>
 买东西时如何有力回击怀疑你消费能力且不愿意搭理你的服务员或导购？
@@ -74,7 +88,7 @@ http://www.zhihu.com/question/21064952/answer/17075789
 http://www.zhihu.com/question/21064952/answer/17073727
 </link>
 <author>
-知乎用户
+luckystar
 </author>
 <title>
 买东西时如何有力回击怀疑你消费能力且不愿意搭理你的服务员或导购？
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20756063/answer/16074355
 </title>
 <description>
 这是国家政策倾斜带来的后果。北京的社会资源相比其他城市要集中得多，不但是政治中心还是文化中心，经济上也毫不落后。&lt;br&gt;&lt;br&gt;刚毕业时网上投了20多份简历，回过来的有10个北京的公司，7个上海的公司，1个重庆，1个苏州，1个福州，数轮面试后，我只能来北京。&lt;br&gt;&lt;br&gt;我不喜欢北京，但其他城市我找不到同样水平的工作。每当北京人说外地人不好的时候，我心里就念叨：去你M的谁愿意来，要不是全国的钱都集中在这里，谁愿意背井离乡跑到这破城市来？&lt;br&gt;&lt;br&gt;要改变现状，只能靠政策让全国经济比较平均发展，每个城市都差不多的时候，人口大迁徙自然会消失。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19905161/answer/15922869
-</link>
-<author>
-段昊
-</author>
-<title>
-吮吸冻结成冰的饮料为何会将色素和糖分等溶质先吸掉？
-</title>
-<description>
-色素和糖在固相和液相中的溶解度不同。画个简单的二元相图大概是这样：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/eb/2e/eb2e241547efea1ef7b2a5daa99264e2_m.jpg&quot; data-rawwidth=&quot;444&quot; data-rawheight=&quot;484&quot; class=&quot;origin_image&quot; width=&quot;444&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/eb/2e/eb2e241547efea1ef7b2a5daa99264e2_r.jpg&quot;)'&gt;开始体系处在图中1处，升高温度后进入固液混合区，分成了液相和固相，成分分别用该温度等温线和液相线、固相线的交点表示（2和3）。&lt;br&gt;其中你洗到嘴里的那部分就是3了。&lt;br&gt;然后过程继续，1点左移，2、3两点上移。&lt;br&gt;然后就把大部分杂质（糖和色素）吸到嘴里去了。&lt;br&gt;&lt;br&gt;ps：这个相图右半边不一定反应蔗糖-水的真是趋势，不过看左半边就够了。&lt;br&gt;&lt;br&gt;多说一句：利用这个结论可以很有效的提纯，叫做区域熔炼。道理是一样的，过程也很相似。&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Zone_melting&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Zone melting&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.chinabaike.com/article/316/478/2007/20070610129245.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;区域熔炼 - 化工纺织百科&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 </channel>
