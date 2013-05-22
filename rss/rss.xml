@@ -15,6 +15,27 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20917743/answer/17151221
+</link>
+<author>
+陈晓鸣
+</author>
+<title>
+如何用 Vim 重构代码？
+</title>
+<description>
+就我所知，Vim的重构工具并不太多，与Eclipse等集成IDE不一样，Vim本身不集成语言相关、语义层面（semantic level）的复杂重构功能。而另一方面Vim提供非常方便好用的基于正则表达式的替换工具，我经常使用它来进行各种文件（包括各种语言的代码、配置、文档等）的批量处理（包括“重构”，也包括各种批量插入、删除甚至生成代码等）。以下是几种常见情形的解决办法：&lt;br&gt;&lt;br&gt;&lt;b&gt;如何对当前文件进行统一替换？&lt;/b&gt;&lt;br&gt;举个例子，现在你希望把所有的foo()函数调用最后都加上一个NULL参数（当然，你可以优先考虑为该函数定义加上一个默认参数或者函数重载，这样有更好的向后兼容性），你只需在normal mode输入：&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;:%s/\(foo([^)]*\))/\1, NULL)/g 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;即可将当前文件的所有调用进行替换。想了解更多，在normal mode输入：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;:h :s
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;如何对当前文件的一部分进行替换？&lt;/b&gt;&lt;br&gt;方法类似，只需要之前先用字符选取命令（v）或行选取命令（V）选取替换范围即可（小提示：v/V可以配合查找一起使用，比如替换到下一次出现顶行右大括号，你可以在normal mode输入：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;V/^}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;如何对多个文件进行统一替换？&lt;/b&gt;&lt;br&gt;你可以使用argdo和bufdo两个命令来实现。argdo用于对指定文件列表进行批量操作（指定文件列表使用args命令）；bufdo对于所有的缓冲区（已打开的文件）进行批量操作。如：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;:args *.txt :argdo %s/\(foo([^)]*\))/\1, NULL)/g | update 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;update命令用于保存修改。&lt;br&gt;&lt;br&gt;&lt;b&gt;如何在进行每一个替换前先确认？&lt;/b&gt;&lt;br&gt;很简单，在每一个s命令的/g之后都加上c（表示confirm）即可。&lt;br&gt;&lt;br&gt;&lt;b&gt;如何只替换符合某种条件的行？&lt;/b&gt;&lt;br&gt;如果你的条件可以用正则表达式表达，则可以结合:g命令来使用。:g表示全局替换。比如，如果你想在所有出现bar的行进行替换，则可以在normal mode输入：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;:%g/bar/s/\(foo([^)]*\))/\1, NULL)/g 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;在所有不出现bar的行进行替换，则可以在normal mode输入：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;:%g!/bar/s/\(foo([^)]*\))/\1, NULL)/g 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;想了解更多，在normal mode输入：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;:h :g
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;我就是想要重构工具，可以有吗？&lt;/b&gt;&lt;br&gt;可以有的，别忘了vim还有各式各样的插件，比如这个：&lt;a href=&quot;https://code.google.com/p/lh-vim/wiki/lhRefactor&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;lhRefactor -   lh-vim -    lh-refactor: Generic refactoring plugin&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;若有其它问题，欢迎提问。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20435574/answer/15965346
 </link>
 <author>
@@ -74,7 +95,7 @@ http://www.zhihu.com/question/21086081/answer/17140645
 http://www.zhihu.com/question/21089831/answer/17148856
 </link>
 <author>
-知乎用户
+查无此事
 </author>
 <title>
 历史上美国、香港真的经历过比目前中国还要腐败的一个时期吗？
@@ -102,7 +123,7 @@ http://www.zhihu.com/question/19660769/answer/17135560
 http://www.zhihu.com/question/21087614/answer/17142515
 </link>
 <author>
-知乎用户
+徐盛超
 </author>
 <title>
 为什么 HTC 的 logo 第一个字母是小写，第二个字母是大写，第三个字母好像是小写又好像是大写？
@@ -277,20 +298,6 @@ http://www.zhihu.com/question/21030379/answer/17028631
 </title>
 <description>
 1.威力大。霰弹枪的威力，根据弹药种类不同，有着比较大的差别。但通常认为常见的鹿弹、鸟弹在近距离上对人体都有着不错的停止效果。&lt;br&gt;除了停止效果好以外，霰弹枪还有个独特的优势：子弹散布大。一次打出去好几个弹丸，只要有一两个命中了目标，就够他吃一壶了。&lt;br&gt;&lt;br&gt;下图中1号是12号霰弹，8号是停止作用出名的好的.45ACP ，10号是常见的9MM帕弹。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c1/6e/c16e9a2b651e8996e51a7831b871a34e_m.jpg&quot; data-rawwidth=&quot;300&quot; data-rawheight=&quot;199&quot; class=&quot;content_image&quot; width=&quot;300&quot;&gt;&lt;br&gt;&lt;br&gt;2.射程近、穿透能力较低。抢银行的很少有拿着枪隔着200米把人打死了再上的，交战距离一般不超过20米。如果警卫选用7.62或者5.8这种军用弹药（包括54手枪和79冲用的7.62手枪弹）的话，子弹飞出去2000米都能打死人；而且穿透力明显过剩，打穿几扇车门照样打死人。那些没有经受过什么专业训练的押运员要是用上了这些枪支，普通老百姓可是倒了血霉了。（可参考&lt;a href=&quot;http://www.zhihu.com/question/20525767/answer/15391534&quot; class=&quot;internal&quot;&gt;运钞车押运员有权开枪吗？&lt;/a&gt; 此答案下的评论）&lt;br&gt;而霰弹枪大家通常认为50米外杀伤力就很小了，在穿透障碍物的能力也小得多，哪怕是独头弹。&lt;br&gt;&lt;br&gt;3.容易使用。霰弹枪用起来简单，十几米的人型目标，举起来大概指向目标就可以开枪，命中率比手枪高出来很多。这也跟第一条说的，子弹散布面积大有关系。看看奥运会上飞碟射击比赛，大家都使用12号口径的猎枪（也是一种霰弹枪）装填6号鸟弹（大概200多颗小铅子，号称毁容专业户）；如果给选手们一人发一把手枪，一匣子弹打光都不一定能打中一个飞碟。操作也比较简单，食指一按打开保险就能射击，打完一枪左手一推一拉右手一扣扳机就再打一发，操作简单几乎不会给使用者任何疑惑。&lt;br&gt;套用三炮在《&lt;b&gt;&lt;a href=&quot;http://www.firearmsworld.net/other/policeeq/shotgun.htm&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;高效的单兵武器霰弹枪&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;》中的一句话：&lt;br&gt;&lt;blockquote&gt;它是现代武器中发射命中比最高的轻便武器。&lt;/blockquote&gt;&lt;br&gt;4.保养维护简单，可靠性高。我国银行押运员通常用的是齐齐哈尔雄鹰厂出的97式防暴枪，结构上参考的是经典的雷明顿870。由于是泵动式霰弹枪，所以分解、维护都很简单，可靠性也好，不需要大量的保养就能正常使用，出现了瞎火重新拉动一下手柄就行。&lt;br&gt;&lt;br&gt;5.体积较大。这是因为，相比54手枪和79冲锋枪，霰弹枪长度很大，一旦被犯罪分子抢走也不容易隐藏。我国押运员用的97防暴枪还有个特殊的设置就是无法使用常见的12号猎枪弹，防止被犯罪分子夺走以后拿去干坏事儿。而且大枪的威慑力明显要大，拉动唧筒时发出的声音也足以震慑任何对霰弹枪威力有了解的人。&lt;br&gt;&lt;br&gt;6.用途广泛。霰弹枪能发射的弹药种类很多，独头弹、鹿弹、鸟弹、豆袋弹、染色弹、催泪弹、破门弹、橡胶弹、痛弹、盐弹，杀伤效果上从抵着脑门打不死人的橡胶弹、痛弹，到一不小心就轰飞人头的鹿弹、独头弹都有，有得霰弹枪甚至能发射枪榴弹。从这一点看来，很适合作为护卫用枪支。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19740819/answer/16782106
-</link>
-<author>
-知乎用户
-</author>
-<title>
-怎样劝解朋友不找凤凰男？
-</title>
-<description>
-为毛这么多人喜欢打着「我是为你好」的旗号，频繁干涉他人生活？&lt;br&gt;&lt;br&gt;========补充一个评论============= 摘自和&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/ma-cheng-yao&quot; data-tip=&quot;p$b$ma-cheng-yao&quot;&gt;@马骋遥&lt;/a&gt;的评论对话。&lt;br&gt;&lt;br&gt;因为题主的出发点是好的这个是站在他的角度，站在当事人的角度，是否是好的？换句话说，是否可以这么理解。&lt;br&gt;&lt;br&gt;问题出在哪儿？因为题主认为闺蜜注定要不幸福，自己想帮助当事人，嫁个好人家。那么，嫁给什么样的人会让闺蜜幸福？如何定义？&lt;br&gt;这是谁的问题？当然是当事人自己的问题，这不是闺蜜的问题，闺蜜的出发点和立场都未必是正确的。&lt;br&gt;如果使用了【拒绝吊丝男】这项技能之后，带来的新问题是什么？会因为此变的开心快乐吗？显然这是个未知数。&lt;br&gt;能解决当事人的幸福问题吗？也是个未知数。&lt;br&gt;&lt;br&gt;&lt;br&gt;所以，题主压根就没搞明白这个问题本身，急匆匆的找解决方案，意义不大。还是那句话，关心则乱。
 </description>
 </item>
 </channel>
