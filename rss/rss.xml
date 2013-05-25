@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21091495/answer/17197897
+</link>
+<author>
+知乎用户
+</author>
+<title>
+怎样用三句话向一个 8 岁小孩解释什么是数据库？
+</title>
+<description>
+&lt;b&gt;决定搞个中国特色的答案！&lt;/b&gt;我觉得可以和小朋友这样讲啊：&lt;br&gt;&lt;br&gt;电脑里面存了好多好多数据。数据就像各种各样中药，在没有数据库之前，中药就是一包包这样杂乱无章地堆放着（unorganized data），找也不好找（inaccessible）。如果你是药店的掌柜，你怎么来管理这些药呢？&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/be/71/be71b8b354ea37306bf6452b64f4ad50_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;375&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/be/71/be71b8b354ea37306bf6452b64f4ad50_r.jpg&quot;)'&gt;&lt;br&gt;聪明的古人就想了办法：把所有的中药都放到柜子里面（data table），柜子里面都是大小一样的小盒子（organized data model），每个盒子（a row / record）都在外面标签上写上药名，按笔划排序帮助快速查找（index / primary key），比如你要找三七，那么一定是三笔的头几个——现在找东西是不是方便多了？&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1e/c4/1ec4535fdb5c382d69ef97a5496ef79c_m.jpg&quot; data-rawwidth=&quot;2592&quot; data-rawheight=&quot;1552&quot; class=&quot;origin_image&quot; width=&quot;2592&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1e/c4/1ec4535fdb5c382d69ef97a5496ef79c_r.jpg&quot;)'&gt;&lt;br&gt;如果要找一味温热的药，按名字找可就不大灵了，除了打开抽屉一个一个舔过去，还有什么办法快速找到吗？对啦，就是在抽屉上涂上颜色，比如温热的用粉红色，凉性的用蓝色（secondary key），你还可以用不同大小的抽屉代表药的其他属性（another secondary key）&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/ce/12/ce125010b3ae3578b04c2b81a0c3cf59_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;814&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/ce/12/ce125010b3ae3578b04c2b81a0c3cf59_r.jpg&quot;)'&gt;&lt;br&gt;如果有的药卖空了没有货怎么办？把整个抽屉拿走（delete a row）！如果新增加一种药怎么办？找一个空抽屉放上新药贴个标签呗（add a row）！如果整柜子中药都过期了怎么最快处理？把柜子搬走（drop a table），换个新柜子（create a table），再往里面添加新鲜中药。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/48/f5/48f5d115c3d574456e1afd9e772929cb_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;338&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/48/f5/48f5d115c3d574456e1afd9e772929cb_r.jpg&quot;)'&gt;&lt;br&gt;如果有一种药量特别大，放在另外一个抽屉大一点儿的柜子里怎么办呢（splitted table）？在这个抽屉里放一张纸条，写上“此药在后堂第三个柜子第二个抽屉”（Foreign key / linked table）。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/94/4b/944b81cc04046effcd574574d7ed5bd6_m.jpg&quot; data-rawwidth=&quot;448&quot; data-rawheight=&quot;336&quot; class=&quot;origin_image&quot; width=&quot;448&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/94/4b/944b81cc04046effcd574574d7ed5bd6_r.jpg&quot;)'&gt;&lt;br&gt;&lt;b&gt;——喏，小朋友，电脑也是这么管理里面的数据的！&lt;/b&gt;（当然，这种讲法同样可以让不懂数据库有technophobia的萌妹纸懵滴弟们快速入门，其实数据库里面的绝大部分概念用中药铺子的类比来讲都非常容易理解，请自行补充）。&lt;br&gt;&lt;br&gt;ps: 貌似多于三句了，但是我想三这个数并不重要，最主要的还是用这种类比轻松地想把数据库里的关键概念和作用都涉及到。若非要追求三句，在上述的说法中加以删节就好！
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21102539/answer/17196721
+</link>
+<author>
+知乎用户
+</author>
+<title>
+日本插画网站 pixiv 是怎么火起来的？
+</title>
+<description>
+谢邀&lt;br&gt;周三公司刚开了party，正好有个简单的发展图表贴着，我拍了一下&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/00/dc/00dc6fcc0d3c6acf33d1dab3137edc47_m.jpg&quot; data-rawwidth=&quot;7224&quot; data-rawheight=&quot;2164&quot; class=&quot;origin_image&quot; width=&quot;7224&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/00/dc/00dc6fcc0d3c6acf33d1dab3137edc47_r.jpg&quot;)'&gt;昨天凌晨已经突破700w了，增长速度真的豪不减退……&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;时机早&lt;/b&gt;&lt;br&gt;07年Pixiv出来的时候，日本国内还鲜有这样的绘画交流平台。其他竞争对手（其实也算不上对手，pixiv一开始是个程序员个人做的网站而已）似乎要么广告很多，要么服务器经常404，设计特渣，外加用户不多，均没有火起来。&lt;br&gt;国外的DeviantArt么纯英语界面，当时还对CJK支持不好，不然初期还有可能拼一下的……&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;早期的优质用户&lt;/b&gt;&lt;br&gt;作为一个UGC，早期最大的问题之一是吸引优质的用户开荒。而Pixiv在这方面意外的顺利，一开始就获得了一些人气插画师的注册和内容发布（为什么我就不知道了……），所以有点「一夜爆火」的感觉。建立1个月来就有20w注册用户了&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;和Comiket的整合&lt;/b&gt;&lt;br&gt;08年夏开始有了个comiket map的功能。之后在event上也不断改进，现在已经同时是一个信息平台了（差不多就是把国内的&lt;u&gt;天窗联盟&lt;/u&gt;那样的咨询平台整合进pixiv了）。&lt;img src=&quot;http://p1.zhimg.com/0d/6e/0d6ecc9780a31c4ed42ae83a22188b2a_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;419&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/0d/6e/0d6ecc9780a31c4ed42ae83a22188b2a_r.jpg&quot;)'&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;这种平台一旦用户稳定了就很难被撼动，就像淘宝。很多以往不用pixiv的同人作者也会为了宣传作品来pixiv。以往画师都是在自己blog上发图和做宣传的，很多最后还是憋不住了&lt;/li&gt;&lt;li&gt;大量原本匿名（包括在pixiv上用其他笔名）的用户变成非匿名了。&lt;/li&gt;&lt;li&gt;原本纯线上的活动拓展到线下了，粘性马上上来了。&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;应该还有其他一些原因，我暂时想到这些。pixiv早期一下子抓住用户了外加功能拓展的比较及时，地位一巩固后就难以撼动了。我想今后pixiv还会像acg的各方面出击的，cosplay就已经在进展了。&lt;br&gt;&lt;br&gt;pixiv现在在国际化上也很努力，连google I/O都参加展出了哦！好像是唯一一家参展的日本企业。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19674934/answer/13191766
 </link>
 <author>
@@ -32,7 +60,7 @@ OursLeya
 http://www.zhihu.com/question/20858858/answer/16464412
 </link>
 <author>
-青葭
+知乎用户
 </author>
 <title>
 如何克服身体缺陷带来的强烈的被剥夺感和不完整感？
@@ -234,7 +262,7 @@ http://www.zhihu.com/question/21064952/answer/17083745
 买东西时遭遇怀疑你消费能力且不愿意搭理你的服务员或导购该如何应对？
 </title>
 <description>
-当过几个月导购的进来说一下~&lt;br&gt;作为一只导购界的菜鸟，刚进去的时候，唯唯诺诺，尽量对每一个顾客都热情，耐心地帮他们找各种尺码的衣服，就算遇到试了很多也不买的，也绝对不使眼色。其实后来也一直如此。可能因为自己还是学生，比较穷，所以就算对看起来不像要买的，看起来不太买得起的，也还是热情地招呼。&lt;br&gt;后来，这只菜鸟遭到了店长的训斥。&lt;br&gt;理由是，我太将顾客“一视同仁”了。她说你不能这个样子。因为在店里人比较多的时候，将精力放在看起来不太会买的顾客身上，是“浪费时间”。最好的办法就是不理他们。如果他们让你找某个尺码，干脆地告诉她：没有。&lt;br&gt;店长还教给我一些怎么看人会不会买的方法。&lt;br&gt;3人或3人以上的女顾客群体一起来购物，一般试得多买得少，少理&lt;br&gt;再就是根据穿着啊，看起来比较土的，少理；穿着比较洋气的，一定是舍得花钱买的，热情迎上去&lt;br&gt;情侣一般买衣服比较大方也比较冲动，要招呼&lt;br&gt;……&lt;br&gt;但是我是个不争气的学生，没有学到店长的精髓。很遗憾！&lt;br&gt;所以，当导购对你视而不见的时候，只是在权衡对你的付出会不会得到应有的回报而已。这只是工作。所以我也完全理解上面有人说一个性格很好的女孩子也会对顾客爱理不理。&lt;br&gt;虽然很不认同他们的行为，但我也能理解他们的工作。工作中追求以最小的成本达到最好的效果，难道这不是很正常吗？&lt;br&gt;有人会问，他们就不能在工作之外再讲一点人情吗？我想说，对别人有过多的要求，不如对自己有要求来得舒心。在这个刀剑横飞的社会，自己有过硬的心理素质不是更佳吗？&lt;br&gt;拓展一下，其实尊重也是相互的。很随便地试衣服其实也给导购的工作带来很大的不便。我经常在一群女同志试了一堆衣服又不买之后，默默地忙着整理这些残局，连顾客都没空搭理。尽管这是工作职责，即使不表现出来，心里不舒服是肯定的。你又要说，老娘粗来逛街还要顾及导购的感受？你看，你都不愿意替他人着想一下，又怎么能要求别人在工作之余为你的心情着想呢？另，我自己买衣服的时候除非很看中，不然很少试。可能也是因为太懒了。&lt;br&gt;总结就是，对别人要求少一点，对自己要求多一点。这不是什么鸡汤。这是保持自己身心舒畅的秘方。
+当过几个月导购的进来说一下~&lt;br&gt;作为一只导购界的菜鸟，刚进去的时候，唯唯诺诺，尽量对每一个顾客都热情，耐心地帮他们找各种尺码的衣服，就算遇到试了很多也不买的，也绝对不使眼色。其实后来也一直如此。可能因为自己还是学生，比较穷，所以就算对看起来不像要买的，看起来不太买得起的，也还是热情地招呼。&lt;br&gt;后来，这只菜鸟遭到了店长的训斥。&lt;br&gt;理由是，我太将顾客“一视同仁”了。她说你不能这个样子。因为在店里人比较多的时候，将精力放在看起来不太会买的顾客身上，是“浪费时间”。最好的办法就是不理他们。如果他们让你找某个尺码，干脆地告诉她：没有。&lt;br&gt;店长还教给我一些怎么看人会不会买的方法。&lt;br&gt;3人或3人以上的女顾客群体一起来购物，一般试得多买得少，少理&lt;br&gt;再就是根据穿着啊，看起来比较土的，少理；穿着比较洋气的，一定是舍得花钱买的，热情迎上去&lt;br&gt;情侣一般买衣服比较大方也比较冲动，要招呼&lt;br&gt;……&lt;br&gt;但是我是个不争气的学生，没有学到店长的精髓。很遗憾！&lt;br&gt;所以，当导购对你视而不见的时候，只是在权衡对你的付出会不会得到应有的回报而已。这只是工作。所以我也完全理解上面有人说一个性格很好的女孩子也会对顾客爱理不理。&lt;br&gt;虽然很不认同他们的行为，但我也能理解他们的工作。工作中追求以最小的成本达到最好的效果，难道这不是很正常吗？&lt;br&gt;有人会问，他们就不能在工作之外再讲一点人情吗？我想说，对别人有过多的要求，不如对自己有要求来得舒心。在这个刀剑横飞的社会，自己有过硬的心理素质不是更佳吗？&lt;br&gt;拓展一下，其实尊重也是相互的。很随便地试衣服其实也给导购的工作带来很大的不便。我经常在一群女同志试了一堆衣服又不买之后，默默地忙着整理这些残局，连顾客都没空搭理。尽管这是工作职责，即使不表现出来，心里不舒服是肯定的。你又要说，老娘粗来逛街还要顾及导购的感受？你看，你都不愿意替他人着想一下，又怎么能要求别人在工作之余为你的心情着想呢？另，我自己买衣服的时候除非很看中，不然很少试。可能也是因为太懒了。&lt;br&gt;总结就是，对别人要求少一点，对自己要求多一点。这不是什么鸡汤。这是保持自己身心舒畅的秘方。&lt;br&gt;—————————————分割线———————————————————————&lt;br&gt;这个答案写于一周以前。当时只是看到这个题，联想起自己的经历，有感而发。但是现在来看，其实我自己对这个答案并不满意。可能是有一些问题我并没有交代清楚。&lt;br&gt;首先，我说的“可以理解”的范围是导购对你视而不见。不包括白眼、口出恶言等恶劣的行为。后者无法容忍。&lt;br&gt;其次，我说的是“可以理解”这种行为，但我并不认同。我做顾客的时间比做导购的时间长得多，也希望遇到的每个服务提供者都能带给我愉快的体验。但我也知道并不现实。不现实的原因在于没有一个可以促进导购来提供良好服务的机制，而仅赖于导购自身的修养。&lt;br&gt;另外，有人可能认为我在为导购说话，其实我只是大学暑期做了短短两个月的导购而已，如今想起来已经是两年前的事了。也正如我所说，我做顾客的时间比做导购的时间长得多。正因为我知道你不可能指望遇到的每个导购都是良善的，所以我才说“对别人要求少一点，对自己要求多一点”。如果这也能让你看出是为导购背书，我无话可说。这明明是为你的心情着想好不好&lt;br&gt;最后，还有人说，我的答案提供了不正确的价值观。看到这个，我真是想一头撞死。请告诉我，你是肿么看出来的？&lt;br&gt;我心目中最理想的答案是@佐藤谦一 先生昨天写的&lt;a href=&quot;http://zhi.hu/TFsY&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;买东西时遭遇怀疑你消费能力且不愿意搭理你的服务员或导购该如何应对？&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 <item>
@@ -263,34 +291,6 @@ Lawrence Li
 </title>
 <description>
 說句題外話，據我所知 fast company 不是「快公司」的意思，這裏的 company = 同伴（例如 I don't enjoy his company = 跟他在一起我就不舒服）。Fast company 有點類似於中文的「點頭之交」，比如在派對上草草聊過兩句的人。&lt;br&gt;&lt;br&gt;在關於《Fast Company》雜誌的維基百科頁面裏有：&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;In 1997, &lt;i&gt;Fast Company&lt;/i&gt; created an online social network, the &quot;Company of Friends&quot; which spawned a number of groups that began meeting in person.&lt;/blockquote&gt;&lt;br&gt;也吻合上述意思。&lt;br&gt;&lt;br&gt;Urban Dictionary 更是把 fast company 釋為炮友:&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=fast+company&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;urbandictionary.com/define&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;.php?term=fast+company&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;中文世界稱之爲「快公司」，似爲誤會。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20924242/answer/17184126
-</link>
-<author>
-柯志雄
-</author>
-<title>
-《快公司》中文版是一本怎样的杂志？
-</title>
-<description>
-1、Fast Company到中国之前，我们也曾经琢磨了一阵，如果不叫快公司，还有别的叫法没？结果没啥选择。&lt;br&gt;2、1995年Alan Webber创办时，针对的是商业对世界的改变。所以，从这个意义上，快公司并不是国内通常用来称呼蒙牛之类什么营收、利润高增长的公司，而是那些make something happen的公司，也是我们现在最关心的对象。&lt;br&gt;3、作为全球三大中唯一倾力关注创新、创造的一本，会保持高比例的版权内容。除非哪天中国人RP集体爆发，否则，在创新创造上远弱于美国是短期根本不会改变的事实。即使到今年C2C（copy to  china）依然是最普遍的现象。爱学习，不丢人。没到那份上，假装已经很创新，才是真搞笑的。&lt;br&gt;4、很关心真正有在读的人的想法。挑刺挑错都欢迎，真心感谢。&lt;br&gt;5、这是本很好读也很值得读的杂志。什么竞争对手？对不起，真没感觉到市场上有这样的东东。我自己看版面时，从头读到尾，每一页津津有味。做了这么多年，这是初体验。&lt;br&gt;6、个别没看过的如果要唧唧歪歪，抱歉，大家都别浪费时间。什么：三大竞争对手（商业周刊，一财周刊，21世纪财经周刊）应该没什么压力，同志，你告诉我哪家是21世纪财经周刊？
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21100396/answer/17183098
-</link>
-<author>
-郎启旭
-</author>
-<title>
-知乎为什么要做「知乎日报」这个新 app？
-</title>
-<description>
-继新提的这个问题，只有他们自己才能完整的回答为什么。我只是想起前两天看到一个回答时的感受。&lt;br&gt;&lt;br&gt;不久前，看到这个问题《&lt;a href=&quot;http://www.zhihu.com/question/21064952&quot; class=&quot;internal&quot;&gt;买东西时如何有力回击怀疑你消费能力且不愿意搭理你的服务员或导购？&lt;/a&gt;》，有很多讨论，但都是差不多的声音，没有觉得特别赞同但也没有很反对。直到看到&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/cai-wen-ting-73-99&quot; data-tip=&quot;p$b$cai-wen-ting-73-99&quot;&gt;@蔡文婷&lt;/a&gt; 的作为导购的亲历者答：&lt;a href=&quot;http://www.zhihu.com/question/21064952/answer/17083745&quot; class=&quot;internal&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;zhihu.com/question&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/21064952/answer/17083745&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;类似的答案在知乎其实还有很多，但每次看到这样的答案，都很感慨。这就是我为什么喜欢这里的原因，也是知乎价值所在：任何一个问题/话题/事件，都有可能被这个领域的亲历者/专家回答，即便这个用户之前并不是最活跃的那部分用户。&lt;br&gt;&lt;br&gt;至于知乎日报，用最热的话题，尽可能低的门槛，吸引尽可能多的读者，让他们接触到知乎。&lt;br&gt;&lt;br&gt;或许，在未来的某一时刻，某一个话题，在他们熟悉的领域内，这些「只读不写」的大多数用户会产生真正有价值的声音。
 </description>
 </item>
 </channel>
