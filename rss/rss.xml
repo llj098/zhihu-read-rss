@@ -15,10 +15,24 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20329343/answer/17283145
+</link>
+<author>
+知乎用户
+</author>
+<title>
+Photoshop 的精髓是什么？为什么？
+</title>
+<description>
+生气，这题下边都是什么乱七八糟的答案啊。&lt;br&gt;&lt;br&gt;其实有好几个答案都答对了，比如&lt;a href=&quot;http://www.zhihu.com/people/xie-ming-1&quot; class=&quot;internal&quot;&gt;叶明&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/han-sen-man&quot; class=&quot;internal&quot;&gt;韩森曼&lt;/a&gt;、&lt;a href=&quot;http://www.zhihu.com/people/yang-wen-qing&quot; class=&quot;internal&quot;&gt;杨文清&lt;/a&gt;，PS的精髓就是「&lt;b&gt;图层 Layer&lt;/b&gt;」，但他们没回答为什么。&lt;br&gt;&lt;br&gt;从3.0以来的Photoshop都是基于&lt;b&gt;层级式&lt;/b&gt;的概念设计的，其他的所有功能都是建立在这个基础上。跟当时的印刷业向大众普及有关，也和原作者的家庭受摄影爱好影响有关。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d6/36/d6362a302dfaf060511559560e927563_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;250&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;b&gt;层级式&lt;/b&gt;说得是它们&lt;b&gt;组合起来的方式&lt;/b&gt;，通道、蒙版也是如此，自上而下叠加而成。因此，你会了解RGB、CMYK是什么意思，而各种计算机图像格式是什么原理。&lt;br&gt;&lt;br&gt;但图像处理软件还有很多不同的工作方式，比如&lt;b&gt;节点式&lt;/b&gt;（代表是后期软件Fusion、Nuke等）。&lt;br&gt;&lt;br&gt;要说明一点的是像Nuke这样的后期软件并不是直接处理视频，而是序列帧，其实还是处理图像。从这角度来说他也是个图像处理软件。&lt;br&gt;&lt;br&gt;下图是Nuke的工作界面：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/42/87/4287d6665dd82776020ef0d5882221c1_m.jpg&quot; data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1200&quot; class=&quot;origin_image&quot; width=&quot;1920&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/42/87/4287d6665dd82776020ef0d5882221c1_r.jpg&quot;)'&gt;&lt;br&gt;左边是工作区，这就是&lt;b&gt;节点式&lt;/b&gt;工作方式的样子，各种元素用线表示&lt;b&gt;连结汇集&lt;/b&gt;，一个元素可以连接多个其他元素，与PS的&lt;b&gt;Layer&lt;/b&gt;是完全不同的思维方式。&lt;br&gt;&lt;br&gt;也就是说，只处理单帧的话，PS能做的效果，Nuke大概也能做到，比如色相、明暗、对比度等等，但思路却很不一样，也因此Nuke适合后期，PS适合图像。&lt;br&gt;&lt;br&gt;以下是跑题的话：网络上很多所谓PS教程都是教歪掉了，只给出些孤立案例，却无法教会PS到底是怎样工作的。如果不是设计师不是CGer只需要做一些小修改这样完全没问题，如果要真的学PS，其实不需要每个面板讲一遍这样进行，会被繁多的功能埋没的，首先要了解的其实是&lt;b&gt;计算机图像的原理&lt;/b&gt;、PS的工作&lt;b&gt;基础方式&lt;/b&gt;，有了这个认识再往上学任何功能都没有问题。PS的近来的数个版本的核心功能一直没变，只是在各个小地方比如滤镜、自动处理增加新功能而已，6.0到8.0（CS2）连界面都没有大变化。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20766400/answer/17301141
 </link>
 <author>
-Danny W
+知乎用户
 </author>
 <title>
 驾驶 Tesla Roadster 是怎样一种体验？
@@ -74,7 +88,7 @@ http://www.zhihu.com/question/21135286/answer/17298080
 http://www.zhihu.com/question/21134882/answer/17295247
 </link>
 <author>
-王宁
+知乎用户
 </author>
 <title>
 豆瓣旅行爬了穷游网的数据吗？
@@ -228,7 +242,7 @@ http://www.zhihu.com/question/20931146/answer/17276098
 http://www.zhihu.com/question/21127564/answer/17269372
 </link>
 <author>
-翡柏
+知乎用户
 </author>
 <title>
 朱丹口误据说导致湖南卫视损失千万，为什么节目后期制作的时候没发现这么严重的错误，难道不可补救吗？
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21128792/answer/17273102
 </title>
 <description>
 题主搞错了一件事，原本平等就不是处处优先的金规铁律，因环境而异。比如下面这幅图，左面是平等，右面是正义（或公平）。车上只有一个座位，优先老弱病残孕，其次女士，然后男士，后两者其实也不尽然，如果是高壮女士与瘦弱男士一起，便是优先瘦弱男了，本质上不在于男女，而是照顾弱势群体，在这里，确实没有做到人人平等，却是兼顾了公平后的结果。生活中处处存在着公平与平等的博弈，譬如，一家三口出游，总负重60斤，爸爸妈妈四岁的孩子每人20斤是平等，爸爸35斤妈妈20斤四岁孩子5斤（郎平和郭敬明体格类型的夫妻前两项调换下），这是平衡了体力后的结果，您是家庭成员，会选择哪种？粮食紧缺时赈灾分粮，男人常常比女人分得更多的食物；收税时富人比穷人缴纳更高的比例；马路上专门留出一条区域设置盲道，等等，也是同理。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0f/81/0f8122bffd6de9345b346f4cf6c32cb8_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;390&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/0f/81/0f8122bffd6de9345b346f4cf6c32cb8_r.jpg&quot;)'&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21130569/answer/17277459
-</link>
-<author>
-罗登
-</author>
-<title>
-Benedict Cumberbatch 对《星际迷航：暗黑无界》反派角色 Khan 刻画得如何？在影史坏人榜中能否排得上号？
-</title>
-<description>
-这就是所谓的大反派吗？完全不是！&lt;br&gt;一个可以独自歼灭一整个克林贡巡逻队毫发无伤的人，却在占据绝对优势的情况下被斯波克在飞船上胖揍，然后被一个小女人轻松击晕？&lt;br&gt;一个智商超群，可以架构整个国家和军队运转的大脑，居然被偷换内胆的鱼雷炸飞而毫无察觉？&lt;br&gt;&lt;br&gt;对Khan这个角色，编剧显然没有足够的灵感。老实说，这部电影的故事是没有情怀的，基本是好莱坞几个大编剧交作业，最典型的是那个医生拆鱼雷被卡住的戏，一看就是垫场子用的，废话，当然不能爆炸，所以那个倒计时完全没意义。&lt;br&gt;开场的那个会议室歼灭战，一个开着重型攻击直升机的反一号，轻松被一个拿着小滋水枪的男一号打翻，面对大玻璃，将自己整个正面暴露给枪口的就是这小子，他还大声示警暴露方位，最后毫发无伤！&lt;br&gt;这个我始终是看不过眼的。这种毫无智商的武装对决变得毫无趣味了。&lt;br&gt;&lt;br&gt;这不是Cumberbatch的问题，完全是编剧和导演的问题，换句话说，如果这个角色不是他演，换个别人，基本就完蛋了。&lt;br&gt;&lt;br&gt;经典电影的大反派，必须和电影里面的英雄具有同样的智力和力量水平，甚至在很多时候要更高，这样才能显示英雄的牛逼，《西部往事》里面的亨利方达，还有成为圣殿级别的《黑暗骑士》，《终结者续集》里面的T1000，反派就是让观众害怕，让观众揪心，不然就没意思了。&lt;br&gt;&lt;br&gt;问&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/jixin&quot; data-tip=&quot;p$b$jixin&quot;&gt;@黄继新&lt;/a&gt;老师一个问题，为什么片尾字幕的分屏Title，出现的第一个演员是那个演苏鲁的 John Cho？他最有名吗？男一号Chris Pine至少在五屏之后才出现。
 </description>
 </item>
 </channel>
