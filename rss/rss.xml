@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19563691/answer/12232722
+</link>
+<author>
+ArayS
+</author>
+<title>
+一淘做全网的购物搜索有机会成功吗？
+</title>
+<description>
+这个答案写在2011年初，etao在分拆后还算不错的发展了这么久，里面的一些观点目前不太适用     &lt;br&gt; ----------      &lt;br&gt;&lt;br&gt; 淘宝的Etao目前主要是由三部分组成,我拆开了说一下:    &lt;br&gt;1.购物相关资讯的文本搜索    &lt;br&gt;2.基于opensearch的全网商品搜索    &lt;br&gt;3.购物社区-淘吧    &lt;br&gt;&lt;br&gt;文本搜索:    &lt;br&gt;导购搜索要将购前分流至各大垂直网站查找资讯的流量聚合,并且从百度和Google手中把搜索购物资讯的流量抢过来.    &lt;br&gt;但局限是内容可读性不如垂直网站,覆盖率不如全网搜索引擎.即使这两样逐渐追赶上,改变用户习惯也是一条很漫长的路.    &lt;br&gt;&lt;br&gt;商品搜索:    &lt;br&gt;这是我对整个etao体系最看好的一部分,当垂直类B2C逐渐强大,与其筑城防御,不如开放,将外网的商品纳入分享淘宝的优质流量.由购物平台向购物入口转变.但这部分的问题也是最多的.    &lt;br&gt;首先是平衡淘宝内外商家的利益,搜索去年的几次改版遭卖家抵制和外界误读挺多的,大规模的引入外部商家至淘宝的搜索结果中,淘内卖家又得闹事了.    &lt;br&gt;其次数据源,商品搜索是结构化数据,以网页搜索的方式来做购物搜索,已经有不少在试错的.而通过API导入数据,一是需要合作关系,二是覆盖面不广,另外就是大B们普遍还是防御心态,现阶段肯定不会合作.    &lt;br&gt;再次是外网商家的服务体系与淘内服务体系的融合,还有淘内商家最注重的信誉体系.    &lt;br&gt;&lt;br&gt;淘吧:    &lt;br&gt;这是整个购物环节的最后一步,购物后的交流分享社区.据说目前算是做的很不错了.只是淘吧终究还是希望做成买家社区,而在淘宝是哪里有人,哪里就有广告,得防着做大之后不被蜂拥而至的Spam弄死.    &lt;br&gt;另外,淘宝做社区,相对于这种基于搜索的开放式贴吧,我个人其实更倾向于豆瓣小组的形式,能给卖家聚合自己的客户群提供运营场所.比如这个卖家 &lt;a href=&quot;http://www.douban.com/group/183420/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;douban.com/group&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/183420/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; ,用一个小组养活一个店.话说现在已经有了淘小组这么个产品了,没试用过,不知道具体怎么样 &lt;a href=&quot;http://group.taobao.com/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;group.taobao.com/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;    &lt;br&gt;&lt;br&gt;综上,etao目前的问题还有很多,前路漫漫,搜索各位同学加油! ^___^
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21159420/answer/17376053
+</link>
+<author>
+Jason Lemon
+</author>
+<title>
+微信中如何添加 LINE 原生的表情？
+</title>
+<description>
+这个问题我还是比较有经验的~&lt;br&gt;&lt;br&gt;你可以查看一下自带的兔斯基的表情~都是GIF格式的，并且长宽都在200×200px范围内，而且最外侧有一圈白色的描边~微信添加未处理的自定义表情会有锯齿是因为它会自动把背景颜色给变成透明色~&lt;br&gt;&lt;br&gt;所以如果要让自定义的图片也有很好的效果的话不妨可以照着自带的这些特征来进行编辑一下~&lt;br&gt;将图片大小缩小为200px×200px，背景色为透明色，再加上一个白色的描边，大功告成！&lt;br&gt;&lt;br&gt;于是我们提取出line中的表情再加以编辑，我这里以花痴兔来举例编辑，图片重新编辑后如下~&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4c/a5/4ca5fe45e162591e4fcd7c43ae8d5291_m.jpg&quot; data-rawwidth=&quot;200&quot; data-rawheight=&quot;200&quot; class=&quot;content_image&quot; width=&quot;200&quot;&gt;&lt;br&gt;&lt;br&gt;这就是一张非常符合微信标准的自定义表情啦~我们来发送以后看看效果~&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/20/3d/203d0eabf67fbdcffe6ede96d07a6f21_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/20/3d/203d0eabf67fbdcffe6ede96d07a6f21_r.jpg&quot;)'&gt;&lt;br&gt;恩~显示效果很不错~没有了锯齿状的边缘&lt;br&gt;最后我来放福利了，我自己因为女友有使用line表情的需求（= =，所以这个也可以当作一种礼物吧），所以做了有106个自己常用的可以在微信里面完美显示的表情，里面包括line里的基础人物外还加了hello kitty和鸟叔以及哆啦A梦的表情包~一部分表情可见下图~下载地址在最下面~&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/54/58/54582c0b9a3eee6a1fd31c158ea505e5_m.jpg&quot; data-rawwidth=&quot;562&quot; data-rawheight=&quot;947&quot; class=&quot;origin_image&quot; width=&quot;562&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/54/58/54582c0b9a3eee6a1fd31c158ea505e5_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;【下载地址】&lt;br&gt;&lt;a href=&quot;http://pan.baidu.com/share/link?shareid=2821054820&amp;amp;uk=305169341&amp;amp;third=2&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;戳我进行下载&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;~~~~
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19612469/answer/12679906
 </link>
 <author>
@@ -172,7 +200,7 @@ http://www.zhihu.com/question/20923634/answer/17370930
 http://www.zhihu.com/question/21138550/answer/17370687
 </link>
 <author>
-知乎用户
+和彩
 </author>
 <title>
 十年前的程序员，现在在做什么？
@@ -263,34 +291,6 @@ maggie
 </title>
 <description>
 十年前，就是2003年，我在写代码。&lt;br&gt;&lt;br&gt;详细来讲，我当时负责了一个型号产品的软件系统。&lt;br&gt;系统分多个软件，包括控制硬件（机械、电气、核心装置）和数据采集的运控程序，图像显示处理程序，数据查询系统，用户外部数据交互程序。&lt;br&gt;我是项目负责人，同时负责运控这部分编码，在WINDOWS平台上，C++，主要写TCP/IP通讯程序和串口通讯，当时最大的难度是大量的数据实时采集和显示刷新，要长时间运行不丢数据，及时处理异常情况。&lt;br&gt;除了负责总体方案和写模块代码，还负责了这个项目全程的管理工作，包括组织测试、各系统联试、文档，安排不下去的活我都干。&lt;br&gt;&lt;br&gt;然后就做管理了，换了几个部门，公司的产品几乎做了个遍，现在在做新业务拓展，就是找未来的饭这个活儿。&lt;br&gt;跟创业差不多，只不过环境好点，花着公司的钱，用着公司的名，和外面的创业队伍比那不知道要舒服多少倍，但和公司内的产品部门比有很强的危机感，因为干不好随时可以解散。&lt;br&gt;&lt;br&gt;和我一起的主任师，直到现在都在写核心代码，因为我相信好的产品需要最好的工程师，人不在多，贵在精干。&lt;br&gt;&lt;br&gt;谢邀啦！&lt;br&gt;来张真相吧，这是我去年回访现场时，看到02年左右的系统仍然在运转，乐得合不拢嘴啦，这SUN系统也是我曾经的作品。&lt;br&gt;真相只保留一天。。。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/09/99/0999ff44b13db7a928b82a1da467f9d7_m.jpg&quot; data-rawwidth=&quot;632&quot; data-rawheight=&quot;524&quot; class=&quot;origin_image&quot; width=&quot;632&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/09/99/0999ff44b13db7a928b82a1da467f9d7_r.jpg&quot;)'&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21158447/answer/17372683
-</link>
-<author>
-yolfilm
-</author>
-<title>
-2012 以来中国各种电影的票房能否总结出什么规律？什么类型、主题的电影比较容易获得票房成功？
-</title>
-<description>
--&lt;br&gt;一、&lt;br&gt;中国电影这两年的兴盛，是 it 产业的推波助澜，老实说，是「团购时代」来临，造成的假象。&lt;br&gt;&lt;br&gt;我们该问的是：「票数，等不等同於票房？」&lt;br&gt;我相信有很多的票房，其实，是用票数直接换算出来的假票房，只能当作是「宣传口号」。&lt;br&gt;&lt;br&gt;不信？&lt;br&gt;&lt;br&gt;我一直有个大哉问：在团购行情下，一张电影票60元钱，团购会大幅减为28元左右，它其实打了四六折。若是电影院的票房大红，电影院的票窗门口，应该排满长龙，按供需原则，何需以如此夸张的折数，吸引观众？&lt;br&gt;&lt;br&gt;最简单的对比，台湾的团购也很发达，但，台湾绝没这种「打折幅度」的团购电影票可买。&lt;br&gt;就是有，也要限定时段，不让你拿团购票去看当红的周末，当红的时段。&lt;br&gt;&lt;br&gt;二、&lt;br&gt;说到「宣传口号」。&lt;br&gt;&lt;br&gt;对於所有的「经营数字」，除非是上市公司的正经报表，其它媒体上的任何数字，我都认为不可信。没有会计师事务所，没有律师事务所的第三方监管担保，所有的夸张数字，都只能当作是宣传，一定要用最大的恶意去存疑。&lt;br&gt;&lt;br&gt;现在电影市场上的票房，比如「致青春」，应该在2014年，光线集团正式面向社会的2013年年报中，才能看到确实可信的数字。在那份年报出来前，所有的人，说的所有的话，都是宣传，社会一般人可以信，作为影视从业人员，我坚决不信。&lt;br&gt;&lt;br&gt;三、&lt;br&gt;这两年的电影生产，还有一点大改变，是胶片消失。&lt;br&gt;&lt;br&gt;不过几年前，电影院是需要购买胶片来放映的，全本电影胶片，成本一部高达数万，以迄十数万人民币，面对全部成千上万的戏院，放在旧社会，那可是天文数字。&lt;br&gt;&lt;br&gt;数码放映的时代来临了，这些费用全省下来了，加上票价的通膨，加上小厅院的广建，加上戏院的大量出现，这院线方、发行方，制作方等等公司的营收，有同时呈现增长吗？&lt;br&gt;&lt;br&gt;四、&lt;br&gt;最後一点，按外国经验，我认为中国电影根本还没有起来。&lt;br&gt;要起来了，必有一个现象要出现：电视媒体上，会出现大量的「电影预告」。&lt;br&gt;&lt;br&gt;现在的中国，不但电视上没有电影预告。&lt;br&gt;就是电影院自身，为了省钱，连电影预告也不放了。&lt;br&gt;这是铁打铁的真实现象，我认为它真实反应了，电影这个产业的不成熟和虚弱。&lt;br&gt;&lt;br&gt;所有电影的荣景，不过就是媒体从业人员的「走夜路，吹口哨」。&lt;br&gt;&lt;br&gt;五、&lt;br&gt;我若是个有守有为的记者，我会作一篇报导，拿2012年的票房排名，网路或报章上的宣传（&lt;a href=&quot;http://movie.douban.com/doulist/943009/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;内地票房年度总排行：2012年电影&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），比如「1942」，去对比2012年华谊的年度正式报表。&lt;br&gt;&lt;br&gt;还不信我说的？&lt;br&gt;&lt;br&gt;看网路上的宣传文字吧，白纸黑字：&lt;br&gt;&lt;br&gt;&lt;b&gt;评语 : 【国产】2012年11月29日开画，截至12月30日累计票房3.606亿元。&lt;/b&gt;&lt;br&gt;&lt;br&gt;华谊公司的报表呢？看了会叫人吃惊，真实数字，与宣传数字差距多少？作为出品方、发行方的华谊，只得票房的三分之一？这其中问题在哪？按华谊对外宣传1942投资超过2亿，（正式报表上，可惜找不到单片投资金额的明确数字）换言之，就这部电影，华谊要亏损人民币1亿元不止。&lt;br&gt;&lt;br&gt;（下图，截至华谊公司对外正式年度报表，第11页）建议，大家可据而调查其它的影片。&lt;br&gt;&lt;br&gt;十二生肖是合拍，很难计算，但，一九四二、太极这几部，都是华谊自制影片（我非华谊内部员工，错了请订正）若把宣传数字全摆到一起来「检讨」，当能看到影视行业的宣传，可以「失准」到什麽样的程度？（例如太极1、2，宣传票房2.6亿，报表体现8千2百万）。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b4/ee/b4eed6df2b79fb0647885c7cf72b768c_m.jpg&quot; data-rawwidth=&quot;1087&quot; data-rawheight=&quot;804&quot; class=&quot;origin_image&quot; width=&quot;1087&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/b4/ee/b4eed6df2b79fb0647885c7cf72b768c_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;六、&lt;br&gt;&lt;b&gt;总之，影视行业的消息，不能信。这是一个影视行业，从业人员的真诚建议。&lt;/b&gt;&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21154844/answer/17372169
-</link>
-<author>
-知乎用户
-</author>
-<title>
-做咨询项目的，如果客户理念有严重错误，并且执意认定是正确的，咨询顾问会怎么做？
-</title>
-<description>
-&lt;b&gt;咨询顾问是不能急着论对错的，&lt;/b&gt;做对和错这样的判断和结论一定要谨慎和严谨。&lt;br&gt;越是资历深厚，知识和经验渊博的咨询顾问，在这件事情上越是谨慎和严谨。&lt;br&gt;&lt;br&gt;这个世界上，永远正确，颠仆不破，四海皆准，没有条件和范围限制的真理是很少很少的。所以做正确错误的判断，不把这些相关细节都搞清楚，是完全不靠谱的。更枉论什么所谓的“&lt;b&gt;理念错误&lt;/b&gt;”。&lt;br&gt;&lt;br&gt;老提“理念错误”这种词的，一般是概念营销家，而不是咨询顾问，咨询顾问的主要目的是要解决具体问题，而不是兜售想法。&lt;br&gt;&lt;br&gt;所以，我们先抛开“理念”这个词，假如你心里觉得客户可能想错了，怎么办？&lt;br&gt;&lt;br&gt;其实要做的就是两点：&lt;br&gt;&lt;b&gt;1. 他为什么要这样想？背后的故事，思想，由来，动机，细节是什么？&lt;/b&gt;&lt;br&gt;&lt;b&gt;2. 他为什么要坚持？要执意？&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;如果都搞清楚了，那么就有了再沟通的基础，就有了扭转“执意”的基础。如果清楚明了地发现客户纯粹是非理性坚持的话，不如撤了走人。咨询这个行业服务于非理性客户是非常危险的，事实上意味着你对这个客户来说一文不值。&lt;br&gt;但事实上，这样的情况极少极少，很多情况只是，执意背后的原因和动机，是你没有途径或者能力了解到而已。&lt;br&gt;&lt;br&gt;如果搞不清楚这两个问题，不如跟随客户的思路try一下。咨询顾问相对客户并不是高高在上的。咨询顾问的经验，知识对客户有价值，并不意味着咨询顾问的水平，能力和见识是凌驾于客户之上的。尤其在这个“咨询顾问”滥竽充数的年代。&lt;br&gt;&lt;br&gt;最后举一个真实的例子。10几年前，国资前10名内的某巨型国企，请了某国际上顶尖的咨询公司，做一个巨大的咨询项目，历时近两年，一个超级大合同。&lt;br&gt;这个项目由国企一把手亲自负责，在其引导下，一堆NB的咨询顾问越做越疑惑，觉得做出来这个改革方案A完全不靠谱，过于激进，风险巨大，没有任何的可实际执行的可行性。和国企老大多次开会，反映，说理，劝诫，全部无效，那位老大一意孤行，坚持己见。当时很多NB的咨询顾问都觉得他疯了，某些咨询顾问甚至还天天把“终于知道为什么国企搞不好了”之类的话放在嘴上。&lt;br&gt;后来咨询团队的leader：一个资深的咨询人士拍板，跟着客户老大的思路走，先把报告和方案做出来再说。&lt;br&gt;后来方案出来，这个国企把全国的中高层干部，地方大员全都拉在一起开会，听方案讨论方案。由于方案太过激进，反弹极其厉害，经常会场里一片哗然，许多人跳出来反对，并慷慨陈词自己的情况，顾虑，损失等等。&lt;br&gt;国企老大一直在会场坐着，一言不发，尽观全过程。&lt;br&gt;&lt;br&gt;会毕。国企老大当场宣布，方案不成功，不成熟，改革的事情再议。咨询团队的人个个面露土色，好几个人恨不得即刻冲到国企老大面前指着他鼻子说：你看，我们早说过吧？结果还是会赖到我们头上。&lt;br&gt;&lt;br&gt;会散后，国企老大把咨询团队的leader叫到办公室，和他说：这次你们的工作完成得相当专业和成功，尽管受了点委屈，别介意。半年后再过来，我再给你一个合同，这个项目接着做。&lt;br&gt;&lt;br&gt;半年之内，这家国企内部人事开始大调整，许多人被清洗，许多岗位被裁撤。半年之后，项目继续，这次同样题材，但是方案B合理，执行的时候，异常顺畅，圆满完成。&lt;br&gt;&lt;br&gt;事后看这个例子，如果一开始就推方案B，虽然合理，但是，毕竟改革要动到很多人的既得利益，合理不过份的方案B也许当时不会被大家当面反对，但是执行的时候，必定是要有很多地方被人来阴的，来拖的，来打折扣的或者变味的。&lt;br&gt;一开始做方案A，咨询顾问看似不合理，但是对于国企老大来说，这才是合理的第一步。由于过于激进和不合理，所以很多人得以明面上跳出来反对，来表述，许多隐含利益，关系，纠结，反而都暴露了。国企老大一一记在心里，然后化了半年时间一一摆平和收拾。然后再退一步，用一个合理和温和的方案去推行，自然就一马平川了。&lt;br&gt;&lt;b&gt;这个幕后的故事和道理，在开始的时候，这个世界顶尖咨询公司中的顶尖的咨询团队，没有一个人看出来。大多认为这只是客户愚蠢的执意而已。只有咨询团队leader心里多了这么一个问号，所以得以做了下来。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;事后，和客户关系熟了，咨询团队的人问过国企老大，如果当年他们不配合的话怎么办？&lt;br&gt;国企老大回答：这个项目事实上是我设计的，你们只是执行。你们要不配合，顶尖的咨询公司不止一家，我总是能找到能配合的。
 </description>
 </item>
 </channel>
