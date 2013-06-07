@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19987529/answer/13620255
+</link>
+<author>
+徐千
+</author>
+<title>
+高于百米的楼是如何给高层供水的？
+</title>
+<description>
+一个高于百米的楼，那就成为&lt;b&gt;高层建筑&lt;/b&gt;了！Ps：高层建筑：10层以上的住宅建筑和超过24m的其他民用建筑       &lt;br&gt;高层建筑供水要求的供水压力大，不能靠城镇供水管网的压力供水，需要自设增压系统供水，由于高层建筑上下高差大，为了避免下层的水压过大，用水的时候出流速度高，产生噪音和喷溅，而上层会形成压力不足，甚至产生负压抽吸现象，所以高层建筑常常沿垂直方向实行&lt;b&gt;分区供水&lt;/b&gt;，减少每区间的压力差。        &lt;br&gt; 高层建筑&lt;b&gt;供水方式&lt;/b&gt;可以分：&lt;b&gt;重力式供水和压力式供水&lt;/b&gt;  &lt;br&gt; 重力式供水分为：分区串联给水方式，分区并联多管给水方式，分区单管给水方式        &lt;br&gt; 压力式供水分为：气压给水方式，水泵直接给水方式(又分为变频调速泵给水方式，多泵并联给水方式，水泵减压给水方式)        &lt;br&gt; 假设百米的楼垂直方向从下往上分为三个区：Ⅰ,Ⅱ,Ⅲ      &lt;ol&gt;&lt;li&gt;采用分区串联给水方式：每一个分区设一个高位水箱和水泵，Ⅰ区的水泵从底层的贮水池抽水到Ⅰ的高位水箱，Ⅱ区的水泵在从Ⅰ区的高位水箱抽水到Ⅱ区的高位水箱，Ⅲ区的水泵在从Ⅱ区的高位水箱抽水到Ⅲ区的高位水箱。各个分区的用水都是由相应的高位水箱提供。   &lt;br&gt;&lt;/li&gt;&lt;li&gt;采用分区并联多管给水方式：每一个分区的水泵都集中在底层，都直接从贮水池抽水到各自的分区水箱。   &lt;br&gt;&lt;/li&gt;&lt;li&gt;变频调速泵给水方式：每一个分区直接选用变频调速泵，各区自行供水(不像重力式供水，要经过水箱，这种方式直接是给水到各个分区的用水终端)  &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21161674/answer/17381130
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20942477/answer/16673298
 </title>
 <description>
 七个国际单位制单位,，六个都是已经脱离工具的了。&lt;br&gt;&lt;b&gt;&lt;br&gt;米&lt;/b&gt;的定义来自于:光在真空中1/299792458秒行进的距离。&lt;br&gt;&lt;b&gt;秒&lt;/b&gt;的定义来自于:在零磁场下，铯-133原子基态两个超精细能级间跃迁辐射9,192,631,770周所持续的时间。&lt;br&gt;&lt;b&gt;安培&lt;/b&gt;的定义来自于:在真空中相距为1米的两根无限长平行直导线，通以相等的恒定电流，当每米导线上所受作用力为&lt;img src=&quot;http://zhihu.com/equation?tex=2%5Ctimes+10%5E%7B-7%7D+&quot; alt=&quot;2\times 10^{-7} &quot; eeimg=&quot;1&quot;&gt;牛顿时，各导线上的电流为1安培。&lt;br&gt;&lt;b&gt;开尔文&lt;/b&gt;的定于来自于:水的三相点为273.16K；由于水的三相点在摄氏温标上为0.01℃，所以0℃=273.15K。(摄氏温标来自于水的三相点)&lt;br&gt;&lt;b&gt;摩尔&lt;/b&gt;的定义来自于:1摩尔是所含基本微粒个数与12克的碳-12中所含原子个数相等。&lt;br&gt;&lt;b&gt;坎德拉&lt;/b&gt;的定义来自于:&lt;img src=&quot;http://zhihu.com/equation?tex=540.0154%5Ctimes+10%5E%7B12%7D&quot; alt=&quot;540.0154\times 10^{12}&quot; eeimg=&quot;1&quot;&gt;Hz的单色辐射光源（黄绿色可见光），在某给定方向上的发光强度，且在该方向的辐射度为(1/683)W/sr。&lt;br&gt;&lt;br&gt;比较特殊的是&lt;b&gt;千克&lt;/b&gt;，仍由实物进行定义.(国际千克原器)&lt;br&gt;但是现在也已经打算变更为根据&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E6%99%AE%E6%9C%97%E5%85%8B%E5%B8%B8%E6%95%B0&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;普朗克常数&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;来确定了。&lt;br&gt;&lt;br&gt;以上内容来源于维基百科,其实这种东西自己&lt;a href=&quot;http://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;维基百科，自由的百科全书&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;查一下就好了。&lt;br&gt;&lt;br&gt;当然，将单位脱离实物的主要原因是因为实物往往受到各种因素而改变。比如以前有国际米原器，虽然很准确但仍无法排除外力的影响（比如热胀冷缩）。而脱离实物改用各种宇宙常数来衡量就能比较客观的反映准确的尺度了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21058756/answer/17373174
-</link>
-<author>
-Lusimov
-</author>
-<title>
-打算一个人晚上去爬泰山，现实吗？
-</title>
-<description>
-夜半登泰山怕是许多旅人登顶观日的首选吧。&lt;br&gt;&lt;br&gt;住进泰山脚下的泰安市后就会发现许多宾馆都提供午夜租车服务，未到子时就会电话叫醒，载一车困顿的游人一路前往半山腰的中天门。虽无太守引领，到也有几分滁人游也的兴致。一路上常有负者歌于途，行者休于树，前者呼，后者应，伛偻提携之场景。&lt;br&gt;&lt;br&gt;山上鲜有照明，然月色皎洁。光线黯淡，攀顶心切，到也省去了许多留影纪念的烦恼。满眼是山间秀木，野芳幽香沁人心脾。除了偶尔的几声虫鸣鸟语外，最多听到的就是噗噗的心跳和湿答答的脚步声了。山路从平坦的宽台逐步向陡峭的窄阶过渡，中途会遇到一些依泉而设的休息之处，有不知疲惫的小贩早早挑担守在此地，一根黄瓜削了皮，在清泉下濯洗一番兜售给游客，换得5元10元不等，辛苦钱。当时我懂事，吞了口水省了开销，不过之后关于泰山好长的一段记忆都飘着淡淡的黄瓜香。&lt;br&gt;&lt;br&gt;过了南天门，登山就要改做攀山了，小孩如我直接手脚并用，近乎趴在山上匍匐前行，好在夜色正浓，无须顾及形象，当然也没人还会有闲情逸致顾虑那么多了。要么上，要么停。退路是没有的。&lt;br&gt;&lt;br&gt;山间湿气很重，特别是在日出之前，游人都自备简易雨衣，姑娘的长发在口中呼出的白霜里凝结成了一绺一绺。秃顶的中年人也不时掏出手绢朝头顶抹上一圈，顺带洗了一把红脸。就要接近山尖的地方租售军大衣，哪怕是炎夏，也必须人手一件，不强求，但必须。寒冷程度绝非耸听。&lt;br&gt;&lt;br&gt;观日是每个夜半登山人的夙愿，但能否如愿还要靠运气。反正我的泰山之旅是以浓浓的大雾收尾的。一家三口裹着军大衣一人照了一张雾霭深山图。算时辰，太阳也该高悬之后悻悻下山，仅瞥见了不知是云海还是大雾的一片水汽。自我安慰到，留有遗憾，下次再来。&lt;br&gt;&lt;br&gt;落到租衣处时已是人声鼎沸，见一摄影师铺设一面影布，上有红日一轮，不少人排队同假日合影。爸妈问我愿不愿意去拍，我说，这钱还不如用来买清泉黄瓜。&lt;br&gt;&lt;br&gt;大笑。下山。&lt;br&gt;&lt;br&gt;归途中方见满山题刻，然人文景致已不足为道也。
 </description>
 </item>
 </channel>
