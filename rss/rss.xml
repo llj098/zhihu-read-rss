@@ -94,7 +94,7 @@ http://www.zhihu.com/question/21198233/answer/17495101
 如果苹果在 iOS 7 贯彻右划返回，那众多第三方 Apps 惯用的右划呼出左侧菜单的手势操作怎么办？
 </title>
 <description>
-事实上，iOS 7 以前，许多逻辑清晰的使用「抽屉式导航」（呼出左侧菜单）的 App 交互是这样的：&lt;br&gt;&lt;br&gt;当前层次在主界面时，Navigation Bar 左侧按钮（屏幕左上角按钮）为菜单呼出键，点击用于呼出左侧菜单，左滑同样用于呼出左侧菜单；&lt;br&gt;当前层次比主界面深时，Navigation Bar 左侧按钮为正常返回键，点击用于返回上一层，大多数 App 没有专门的左滑手势。&lt;br&gt;&lt;br&gt;iOS 7 中，第一种情况并没有返回上一层的需要，增加的手势操作并不影响原有呼出左侧菜单操作；第二种情况增加了返回的手势，用于返回上一层。&lt;br&gt;&lt;br&gt;总的来说，原有的左滑手势只在主界面上对应了点击 Navigation Bar 左侧按钮，iOS 7 中在任意层次界面中都都对应了点击 Navigation Bar 左侧按钮。这统一了左滑手势的操作逻辑。&lt;br&gt;&lt;br&gt;例如，在深层界面中连续点击左上角最终会返回主界面并呼出左侧菜单，连续左滑也可以实现同样功能。&lt;br&gt;&lt;br&gt;==========补充==========&lt;br&gt;&lt;br&gt;有的 App 左滑手势是全局的，为了在较深层次的界面里也可以使用左滑手势切换左侧菜单中项目，这种情况确实在 iOS 7 中会无法完成原操作。&lt;br&gt;&lt;br&gt;不过个人认为导航太深的 App 配合「抽屉式导航」的交互本身就不太合适。&lt;br&gt;导航太深的 App，从一个项目A的深层次界面跳转到另一个项目B时，再次点击项目A并不会回到之前的界面，用户撤销该操作的代价太大；而传统的TabBar可以避免该问题。&lt;br&gt;相反，导航不深的 App，如果跳转项目后想回到之前的界面，操作代价小得多。
+事实上，iOS 7 以前，许多逻辑清晰的使用&lt;b&gt;「抽屉式导航」&lt;/b&gt;（呼出左侧菜单）的 App 交互是这样的：&lt;br&gt;&lt;ul&gt;&lt;li&gt;当前层次在&lt;b&gt;主界面&lt;/b&gt;时，Navigation Bar 左侧按钮（屏幕左上角按钮）为菜单呼出键，点击用于&lt;b&gt;呼出左侧菜单&lt;/b&gt;，左滑手势同样用于呼出左侧菜单；&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/9f/aa9f4bbef649f4b11c1d48dee1f5d4df_m.jpg&quot; data-rawwidth=&quot;1480&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image&quot; width=&quot;1480&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/aa/9f/aa9f4bbef649f4b11c1d48dee1f5d4df_r.jpg&quot;)'&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;当前层次比主界面深的界面（以下简称&lt;b&gt;次界面&lt;/b&gt;）时，Navigation Bar 左侧按钮为正常返回键，点击用于&lt;b&gt;返回上一层&lt;/b&gt;，大多数 App 没有专门的左滑手势。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/37/ea/37eae68f335bb96c4de33a70cc33a1d9_m.jpg&quot; data-rawwidth=&quot;1480&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image&quot; width=&quot;1480&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/37/ea/37eae68f335bb96c4de33a70cc33a1d9_r.jpg&quot;)'&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;而在 iOS 7 中，在导航层数大于1时（即当前界面是由其他界面&lt;b&gt;「push」&lt;/b&gt;过来），增加了从屏幕边缘左滑实现返回键功能的手势，所以：&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;主界面&lt;/b&gt;并没有返回上一层的需要，增加的手势操作&lt;b&gt;并不影响&lt;/b&gt;原有&lt;b&gt;呼出左侧菜单&lt;/b&gt;操作；&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;次界面&lt;/b&gt;增加的手势操作，可以实现从屏幕边缘左滑&lt;b&gt;返回上一层&lt;/b&gt;。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;总的说来：&lt;br&gt;&lt;blockquote&gt;原有的左滑手势只在主界面上对应了点击 Navigation Bar 左侧按钮，而在 iOS 7 中左滑手势在主界面和次界面中都对应了点击 Navigation Bar 左侧按钮。&lt;b&gt;这统一了左滑手势的操作逻辑。&lt;/b&gt;&lt;/blockquote&gt;&lt;br&gt;例如，在次界面中连续点击左上角最终会返回主界面并呼出左侧菜单，连续左滑也可以实现同样功能。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/09/d9/09d9c37c35e43e88783aa42db539fc2b_m.jpg&quot; data-rawwidth=&quot;2320&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image&quot; width=&quot;2320&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/09/d9/09d9c37c35e43e88783aa42db539fc2b_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;==========补充==========&lt;br&gt;&lt;br&gt;有的 App 左滑手势是全局的，应该为了在&lt;b&gt;次界面&lt;/b&gt;里也可以使用左滑手势切换左侧菜单中项目，这种情况确实在 iOS 7 中会无法完成原操作。&lt;br&gt;&lt;br&gt;不过个人认为导航太深的 App 配合「抽屉式导航」的交互本身就不太合适。&lt;br&gt;&lt;ul&gt;&lt;li&gt;导航太深的 App，从一个项目A的深层次界面跳转到另一个项目B时，再次点击项目A后，很多 App 并不会回到之前的项目A的深层次界面，用户撤销该操作的代价太大。&lt;br&gt;&lt;/li&gt;&lt;li&gt;相反，导航不深的 App，如果跳转项目后想回到之前的界面，操作代价小得多。&lt;/li&gt;&lt;/ul&gt;
 </description>
 </item>
 <item>
@@ -172,7 +172,7 @@ talich
 http://www.zhihu.com/question/21199604/answer/17494778
 </link>
 <author>
-孙成思
+知乎用户
 </author>
 <title>
 Google 在「棱镜计划」（PRISM）中扮演什么样的角色，多大程度违背了不作恶的信条？
@@ -200,7 +200,7 @@ http://www.zhihu.com/question/21199629/answer/17492348
 http://www.zhihu.com/question/21193993/answer/17480706
 </link>
 <author>
-唐旭
+知乎用户
 </author>
 <title>
 不论配音水准高低，为何中文配音感觉总不如日文配音带感？在语音学或其他领域怎么解释？
@@ -256,7 +256,7 @@ Cris
 http://www.zhihu.com/question/21199051/answer/17491733
 </link>
 <author>
-金钊立
+知乎用户
 </author>
 <title>
 国外读设计类专业的学生如何选用自己想用的字体？
