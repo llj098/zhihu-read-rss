@@ -74,7 +74,7 @@ NBA是一个周期性的联盟：从每个赛季的选秀大会开始，夏季�
 http://www.zhihu.com/question/20777768/answer/16147076
 </link>
 <author>
-苗力
+知乎用户
 </author>
 <title>
 老年人千万件往事涌上心头的感觉是什么样的？
@@ -144,7 +144,7 @@ http://www.zhihu.com/question/21211543/answer/17596888
 http://www.zhihu.com/question/21247802/answer/17648968
 </link>
 <author>
-邓建兵
+知乎用户
 </author>
 <title>
 在北京，上海这样的大城市，一旦发生大规模暴乱，如何保命或逃生？
@@ -192,7 +192,7 @@ rlei
 感觉现在的品牌 NAS 性价比较低，有哪些好的 DIY 方案？
 </title>
 <description>
-一般认为两盘位及以下，选购专门的家用NAS（像群晖）是划算的，四盘位及以上就不太划算了。&lt;br&gt;&lt;br&gt;我的需求和预期价位刚好和题主类似，希望我的解决方案也能有所帮助。&lt;br&gt;&lt;ul&gt;&lt;li&gt;首先，硬raid还是软raid？&amp;lt;2K的话，硬raid卡的预算就不太够，我最后选择软raid 5，用到现在也还没出什么大问题。&lt;br&gt;&lt;/li&gt;&lt;li&gt;我的硬件配置&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;机箱：联力Q02&lt;/li&gt;&lt;li&gt;主板/CPU/内存：华硕H77 ITX + Intel G530 + 6G(4+2，明显是家里其他机器淘汰下来的...)&lt;/li&gt;&lt;li&gt;硬盘：1个老旧的日立80G 2.5&quot;做系统盘，3块日立5K1000 2.5&quot; 1T硬盘做软raid 5&lt;/li&gt;&lt;li&gt;不含硬盘价格大约1.7K（去年年中时）&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;软件配置：各种比较之后，我可耻的选择了win 7 + Intel ICH9软raid 5&lt;/li&gt;&lt;li&gt;其他周边环境：千兆ethernet是必须的。然后是无线键鼠。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;解释一下我做以上选择的原因：&lt;br&gt;&lt;ol&gt;&lt;li&gt;首先，我希望这台NAS兼具客厅HTPC的功能，因此机箱要尽可能小巧好看，放在电视旁边也不突兀。联力Q02极度小巧，到家里来的朋友都完全看不出来这是台电脑，以为是音箱什么的。&lt;/li&gt;&lt;li&gt;但Q02本身只具有两个2.5&quot;或一个3.5&quot;硬盘安装位。我想办法装进了四块2.5&quot;硬盘：光驱位一个，光驱位下挂一下，原来的两个2.5&quot;位各一个。另外通过在原来的2.5&quot;位换装两层的2.5&quot;硬盘架，以后还可以再加两个硬盘。&lt;/li&gt;&lt;li&gt;另外，我也是特意选择2.5&quot;硬盘做raid 5。在我对空间需求并不是很大的前提下，2.5&quot;硬盘安静发热低的优势就凸显出来了。&lt;/li&gt;&lt;li&gt;Intel ICH9软raid 5的性能一直为人所诟病，不过也还在能接受的水平。三块5400转的5K1000组raid 5，读速度轻松超过千兆ethernet上限(100+MB/s)，写速度为 &amp;lt; 30MB/s (不开write cache) 或 &amp;lt; 70MB/s (冒险开write cache)。对于挂BT啥的这样的写入速度也足够了。用freenas这样的方案，软raid性能还会好很多，但freenas的ZFS raid不能动态增加硬盘，另外也没法作HTPC播放用。用基于Linux的方案应该也能兼顾NAS + HTPC，不过试验性的用了一下win 7以后发现能用，就懒得折腾了。最开始因为有一条SATA线有点问题，掉过一次盘，后来就没出过什么问题了。&lt;/li&gt;&lt;li&gt;ITX主板的选择面其实很窄，因为去年Intel 7系列ITX主板很少有6个SATA口的，大部分都只有4个SATA。最后选择了华硕的H77。AMD方面，有6 SATA的ITX板子反而要多一些，但我对于功耗有着奇怪的执着，所以没有选性价比和功耗都更高的AMD板子和CPU。&lt;/li&gt;&lt;li&gt;2.4GHz主频的G530实际上就是没有超线程的低功耗版i3，是当时我组机器时最低功耗的双核，放放1080P什么的还是没压力的。&lt;/li&gt;&lt;li&gt;因为没有独立显卡，各部件发热量又都很小，虽然Q02这样的小机箱散热说不上好，但从平时温度监控来看非常理想，环境温度25+的时候，硬盘和CPU也就最多40度上下。&lt;/li&gt;&lt;li&gt;win7 + G530的组合，在软件选择上就非常方便了。养动物？uTorrent。DLNA服务器？PS Media Server。媒体中心？XBMC。文件共享？可耻的将就了win7家庭组...&lt;/li&gt;&lt;li&gt;PS Media Server有transcoding支持，从720P实时转到手机屏幕大小的话，G530基本上能扛。不过我现在都很少用transcoding，因为手机平板都能直接从samba放得动720P了...&lt;/li&gt;&lt;/ol&gt;现在主要担心的问题就是被ICH9软raid绑架了，以后升级换主板不知道会不会出什么花样...&lt;br&gt;&lt;br&gt;如果你需要3.5&quot;硬盘组raid，联力的Q08/Q18/Q25/Q28机箱比较合适，还是上ITX板子，但有七八个3.5&quot;硬盘位。缺点是机箱要大一些，看起来就不那么萌了。
+一般认为两盘位及以下，选购专门的家用NAS（像群晖）是划算的，四盘位及以上就不太划算了。&lt;br&gt;&lt;br&gt;我的需求和预期价位刚好和题主类似，希望我的解决方案也能有所帮助。&lt;br&gt;&lt;ul&gt;&lt;li&gt;首先，硬raid还是软raid？&amp;lt;2K的话，硬raid卡的预算就不太够，我最后选择软raid 5，用到现在也还没出什么大问题。&lt;br&gt;&lt;/li&gt;&lt;li&gt;我的硬件配置&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;机箱：联力Q02 (自带全汉代工的300瓦80plus白牌SFX小电源)&lt;/li&gt;&lt;li&gt;主板/CPU/内存：华硕H77 ITX + Intel G530 + 6G(4+2，明显是家里其他机器淘汰下来的...)&lt;/li&gt;&lt;li&gt;硬盘：1个老旧的日立80G 2.5&quot;做系统盘，3块日立5K1000 2.5&quot; 1T硬盘做软raid 5。另外自备若干条TB JD都买得到的那种亮晶晶的SAS/细SATA线，方便走线。可最多扩展到5个硬盘组raid 5。&lt;/li&gt;&lt;li&gt;不含硬盘价格大约1.7K（去年年中时）&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;软件配置：各种比较之后，我可耻的选择了win 7 + Intel ICH9软raid 5&lt;/li&gt;&lt;li&gt;其他周边环境：千兆ethernet是必须的。然后是无线键鼠。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;解释一下我做以上选择的原因：&lt;br&gt;&lt;ol&gt;&lt;li&gt;首先，我希望这台NAS兼具客厅HTPC的功能，因此机箱要尽可能小巧好看，放在电视旁边也不突兀。联力Q02极度小巧，到家里来的朋友都完全看不出来这是台电脑，以为是音箱什么的。&lt;/li&gt;&lt;li&gt;但Q02本身只具有两个2.5&quot;或一个3.5&quot;硬盘安装位。我想办法装进了四块2.5&quot;硬盘：光驱位一个，光驱位下挂一下，原来的两个2.5&quot;位各一个。另外通过在原来的2.5&quot;位换装两层的2.5&quot;硬盘架，以后还可以再加两个硬盘。&lt;/li&gt;&lt;li&gt;另外，我也是特意选择2.5&quot;硬盘做raid 5。在我对空间需求并不是很大的前提下，2.5&quot;硬盘安静发热低的优势就凸显出来了。&lt;/li&gt;&lt;li&gt;Intel ICH9软raid 5的性能一直为人所诟病，不过也还在能接受的水平。三块5400转的5K1000组raid 5，读速度轻松超过千兆ethernet上限(100+MB/s)，写速度为 &amp;lt; 30MB/s (不开write cache) 或 &amp;lt; 70MB/s (冒险开write cache)。对于挂BT啥的这样的写入速度也足够了。用freenas这样的方案，软raid性能还会好很多，但freenas的ZFS raid不能动态增加硬盘，另外也没法作HTPC播放用。用基于Linux的方案应该也能兼顾NAS + HTPC，不过试验性的用了一下win 7以后发现能用，就懒得折腾了。最开始因为有一条SATA线有点问题，掉过一次盘，后来就没出过什么问题了。&lt;/li&gt;&lt;li&gt;ITX主板的选择面其实很窄，因为去年Intel 7系列ITX主板很少有6个SATA口的，大部分都只有4个SATA。最后选择了华硕的H77。AMD方面，有6 SATA的ITX板子反而要多一些，但我对于功耗有着奇怪的执着，所以没有选性价比和功耗都更高的AMD板子和CPU。AMD低功耗的E系列或Intel的Atom对我来说性能又太低不符合要求。&lt;/li&gt;&lt;li&gt;2.4GHz主频的G530实际上就是没有超线程的低功耗版i3，是当时我组机器时最低功耗的双核，放放1080P什么的还是没压力的。&lt;/li&gt;&lt;li&gt;因为没有独立显卡，各部件发热量又都很小，虽然Q02这样的小机箱散热说不上好，但从平时温度监控来看非常理想，环境温度25+的时候，硬盘和CPU也就最多40度上下。&lt;/li&gt;&lt;li&gt;win7 + G530的组合，在软件选择上就非常方便了。养动物？uTorrent。DLNA服务器？PS Media Server。媒体中心？XBMC。文件共享？可耻的将就了win7家庭组...&lt;/li&gt;&lt;li&gt;PS Media Server有transcoding支持，从720P实时转到手机屏幕大小的话，G530基本上能扛。不过我现在都很少用transcoding，因为手机平板都能直接从samba放得动720P了...&lt;/li&gt;&lt;/ol&gt;现在主要担心的问题就是被ICH9软raid绑架了，以后升级换主板不知道会不会出什么花样...&lt;br&gt;&lt;br&gt;另外，现在有了小米盒子这种方便操控的播放设备，HTPC本身的播放功能貌似没有多大用处。但是，有一个很重要的因素：射手播放器！HTPC上用splayer可以自动下载字幕，省掉一道工序。&lt;br&gt;&lt;br&gt;如果你需要3.5&quot;硬盘组raid，联力的Q08/Q18/Q25/Q28机箱比较合适，还是上ITX板子，但有七八个3.5&quot;硬盘位。缺点是机箱要大一些，看起来就不那么萌了。&lt;br&gt;&lt;br&gt;另外提醒一下，如果没有装机的经验，自己动手装ITX小箱子还是很烦人的，要有心理准备。
 </description>
 </item>
 <item>
@@ -214,7 +214,7 @@ http://www.zhihu.com/question/21242279/answer/17658922
 http://www.zhihu.com/question/21248140/answer/17655477
 </link>
 <author>
-祝博韬
+知乎用户
 </author>
 <title>
 感觉现在的品牌 NAS 性价比较低，有哪些好的 DIY 方案？
