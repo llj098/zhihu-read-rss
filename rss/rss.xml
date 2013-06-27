@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21241678/answer/17632188
+</link>
+<author>
+JimSoup
+</author>
+<title>
+现在做些什么，才能等父母离开世界后，不至于後悔？
+</title>
+<description>
+讲一段非常普通，但我一辈子都不会忘记的私事。&lt;br&gt;&lt;br&gt;经常加班熬夜，过年回家我整个人瘦了一圈，眼神呆滞，提不起精神。&lt;br&gt;有次老爸在饭桌上说了我几句，大致意思是，熬夜会得很多病。我心里有压力，吃了几口，又不好顶嘴。&lt;br&gt;但他仍一直唠叨，我终于受不住，说，不是我想熬夜的。你这么说，我也不吃了。翻身回房间关门。&lt;br&gt;中途外面一直很安静。过了十分钟，老爸过来敲门，轻声说，你出来吃罢。&lt;br&gt;但我没答应。老爸等了一会，叹了口气。&lt;br&gt;&lt;br&gt;过了十分钟，老爸又过来敲门。他说了一段我这辈子都无法忘却的话：&lt;br&gt;出来吃吧。你现在这么做，倒没什么感觉。&lt;br&gt;但你将来会后悔的。我像你这么大时，不敢这么和父亲对着。因为我那时候，父亲已经很老了。&lt;br&gt;&lt;br&gt;半响，他才挤出一句话——你老爸，也老了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;我现在刚好只身来到一个陌生的城市里飘。但终于也懂事了一点。怕父母担心，总打电话。&lt;br&gt;早上起来，打一通。爸，我起床了，准备去上班。&lt;br&gt;妈，我中午下班了，吃饭去了。&lt;br&gt;爸，我今晚得加班，估计很晚回宿舍。&lt;br&gt;妈，我准备睡觉了。晚安。&lt;br&gt;坚持三天，以后不打，他们也会很窝心。&lt;br&gt;&lt;br&gt;但偏偏过去的我，就是做不到。我很自私地拥有我的生活，却不曾与他们分享。从来不知道，父母希望感觉到，你在他们「身边」。可以不持续很久，但每次第一份欣喜、第一份感动、第一份骄傲，都要和父母分享，那是一种把他们置于第一位的责任感。&lt;br&gt;&lt;br&gt;&lt;b&gt;而孩子在&lt;/b&gt;「&lt;b&gt;身边&lt;/b&gt;」&lt;b&gt;的父母，不会不幸福到哪里去。&lt;/b&gt;&lt;br&gt;&lt;br&gt;可以过得捉襟见肘，但能不能把第一份工资交给父母？&lt;br&gt;可以滥交，但能不能上床前把女孩介绍给父母？&lt;br&gt;可以拍许多照片往微博、朋友圈传，但能不能洗几张寄回家？&lt;br&gt;过年放假7天，可以参加各种聚会和唱K，但能不能和父母简单唱首老掉牙的歌？&lt;br&gt;&lt;br&gt;请告诉父母你的生活。和他们一起分享。&lt;br&gt;不要，一个人自私地拥有它。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21258363/answer/17678213
 </link>
 <author>
@@ -24,7 +38,7 @@ http://www.zhihu.com/question/21258363/answer/17678213
 iOS 7 及扁平化设计给交互设计带来哪些启发？
 </title>
 <description>
-我认为「扁平化设计」这个词根本就是错的，请原谅我将此题作为「iOS7 的新设计给交互设计带来哪些启发？」简单说几句&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;使用动画说明层级关系&lt;/b&gt;&lt;br&gt;iOS 7 中多处使用了过场动画来说明或辅助说明前后两个 keyscreen 的关系。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d6/ef/d6ef7c845ca34a2efd5995769db61890_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;519&quot; class=&quot;origin_image&quot; width=&quot;590&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d6/ef/d6ef7c845ca34a2efd5995769db61890_r.jpg&quot;)'&gt;例如桌面上文件夹就是将整个icon放大，比之前屏幕裂开更清楚地说明两者之间的逻辑关系。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2d/ea/2dea9a463a77befc1e43cee03b2db760_m.jpg&quot; data-rawwidth=&quot;424&quot; data-rawheight=&quot;472&quot; class=&quot;origin_image&quot; width=&quot;424&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2d/ea/2dea9a463a77befc1e43cee03b2db760_r.jpg&quot;)'&gt;&lt;br&gt;再例如 calendar 里在年与月模式之间切换，会将该月份放大至全屏；在月与周之间切换，该周会从月历中向上飞到 navigation bar 上。见：&lt;a href=&quot;http://www.apple.com/ios/ios7/design/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Apple - iOS 7&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;（从某些角度讲，这是个非常拟物的处理方式）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;不惜成本&lt;/b&gt;&lt;br&gt;同样是动画（毕竟交互变化其实不多），iOS 7 在多处使用了非常消耗系统资源、开发代价巨大的方式去处理问题或作锦上添花。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/cc/de/ccdea679d766f31a623b4f0430692247_m.jpg&quot; data-rawwidth=&quot;254&quot; data-rawheight=&quot;452&quot; class=&quot;content_image&quot; width=&quot;254&quot;&gt;如图的 message 界面，我方发送的蓝色气泡是渐变的，下方的比较深，上方的比较浅，而且这个过度是无极联动的（你用手指将上方「Definitely」拖到底部，那个气泡也会变成深色）。除了视觉上的效果外，我理解这个设计有「利用深气泡可读性更好与白背景反差更大更显眼，以引导用户的视觉中心到最新的气泡上」的目的。其实现之细腻可谓不惜血本。（做 Android 应用时如果提出这样的方案应该会马上被开除吧？）&lt;br&gt;&lt;br&gt;或许这个例子是我想多了，但 iOS 7 确实表现出在细微之处大大甩开其他平台的架势 （吐槽：至于大关系就是另一回事了）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;其实门槛降低了&lt;/b&gt;&lt;br&gt;行业标杆社会舆论焦点的 Apple 在用行动告诉我们，可以（比以前更加地）因为某种原因（时尚、销售、公司政治，我哪知道）牺牲可用性。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d7/6c/d76cb949b5bc9962724816fc12985172_m.jpg&quot; data-rawwidth=&quot;872&quot; data-rawheight=&quot;552&quot; class=&quot;origin_image&quot; width=&quot;872&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d7/6c/d76cb949b5bc9962724816fc12985172_r.jpg&quot;)'&gt;锁屏界面很清晰地传递给我一个信息：「向上滑动解锁」，艹。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/56/76/5676ddc67d34040bd29cd37b53ef3acd_m.jpg&quot; data-rawwidth=&quot;238&quot; data-rawheight=&quot;422&quot; class=&quot;content_image&quot; width=&quot;238&quot;&gt;Bottom Bar 上第四个图标谁能告诉我是什么东西，这种「依赖用户经验」的设计在 iOS 7 中不胜枚举。&lt;br&gt;&lt;br&gt;瑜不掩瑕，iOS 7 的新风格就像别人的老婆一样新鲜。&lt;b&gt;「不要把我的设计做成那个样子」&lt;/b&gt;也算是一种启发吧。
+我认为「扁平化设计」这个词根本就是错的，请原谅我将此题作为「iOS7 的新设计给交互设计带来哪些启发？」简单说几句&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;使用动画说明层级关系&lt;/b&gt;&lt;br&gt;iOS 7 中多处使用了过场动画来说明或辅助说明前后两个 keyscreen 的关系。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d6/ef/d6ef7c845ca34a2efd5995769db61890_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;519&quot; class=&quot;origin_image&quot; width=&quot;590&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d6/ef/d6ef7c845ca34a2efd5995769db61890_r.jpg&quot;)'&gt;例如桌面上文件夹就是将整个icon放大，比之前屏幕裂开更清楚地说明两者之间的逻辑关系。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2d/ea/2dea9a463a77befc1e43cee03b2db760_m.jpg&quot; data-rawwidth=&quot;424&quot; data-rawheight=&quot;472&quot; class=&quot;origin_image&quot; width=&quot;424&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2d/ea/2dea9a463a77befc1e43cee03b2db760_r.jpg&quot;)'&gt;&lt;br&gt;再例如 calendar 里在年与月模式之间切换，会将该月份放大至全屏；在月与周之间切换，该周会从月历中向上飞到 navigation bar 上。见：&lt;a href=&quot;http://www.apple.com/ios/ios7/design/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Apple - iOS 7&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;（从某些角度讲，这是个非常拟物的处理方式）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;不惜成本&lt;/b&gt;&lt;br&gt;同样是动画（毕竟交互变化其实不多），iOS 7 在多处使用了非常消耗系统资源、开发代价巨大的方式去处理问题或作锦上添花。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/cc/de/ccdea679d766f31a623b4f0430692247_m.jpg&quot; data-rawwidth=&quot;254&quot; data-rawheight=&quot;452&quot; class=&quot;content_image&quot; width=&quot;254&quot;&gt;如图的 message 界面，我方发送的蓝色气泡是渐变的，下方的比较深，上方的比较浅，而且这个过度是无极联动的（你用手指将上方「Definitely」拖到底部，那个气泡也会变成深色）。除了视觉上的效果外，我理解这个设计有「利用深气泡可读性更好与白背景反差更大更显眼，以引导用户的视觉中心到最新的气泡上」的目的。其实现之细腻可谓不惜血本。（做 Android 应用时如果提出这样的方案应该会马上被开除吧？）&lt;br&gt;&lt;br&gt;或许这个例子是我想多了，但 iOS 7 确实表现出在细微之处大大甩开其他平台的架势 （吐槽：至于大关系就是另一回事了）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;挖掘本质&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e3/60/e360d7eacc5690f390c2b52f14445eba_m.jpg&quot; data-rawwidth=&quot;980&quot; data-rawheight=&quot;466&quot; class=&quot;origin_image&quot; width=&quot;980&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/e3/60/e360d7eacc5690f390c2b52f14445eba_r.jpg&quot;)'&gt;上图是指南针应用内新增的水平仪功能（图片盗自互联网）：&lt;br&gt;左侧两图是竖屏状态下，当手机倾斜时两圆分开，两圆分开的方向代表倾斜方向，中间的数字为测量出的角度，当倾斜度为0时全屏变绿。&lt;br&gt;右侧是横屏状态下，可以动态地看到水平面、手机所处面的刻度，测量角度之间的关系。&lt;br&gt;这样的表现形式挖掘了用户在测量倾角与寻找水平面时的真正需求，然后从0开始提供这些功能。&lt;br&gt;这个界面的设计没有循规蹈矩地选用现成的模板，没有惨杂拟物设计中累赘的信息。虽然总体上并非完美，但我认为在很大程度上是勇敢的、诚实的、纯粹的，非常值得借鉴。&lt;br&gt;去拟物不是重点，挖掘本质才是。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;其实门槛降低了&lt;/b&gt;&lt;br&gt;行业标杆社会舆论焦点的 Apple 在用行动告诉我们，可以（比以前更加地）因为某种原因（时尚、销售、公司政治，我哪知道）牺牲可用性。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d7/6c/d76cb949b5bc9962724816fc12985172_m.jpg&quot; data-rawwidth=&quot;872&quot; data-rawheight=&quot;552&quot; class=&quot;origin_image&quot; width=&quot;872&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/d7/6c/d76cb949b5bc9962724816fc12985172_r.jpg&quot;)'&gt;锁屏界面很清晰地传递给我一个信息：「向上滑动解锁」，艹。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/56/76/5676ddc67d34040bd29cd37b53ef3acd_m.jpg&quot; data-rawwidth=&quot;238&quot; data-rawheight=&quot;422&quot; class=&quot;content_image&quot; width=&quot;238&quot;&gt;Bottom Bar 上第四个图标谁能告诉我是什么东西，这种「依赖用户经验」的设计在 iOS 7 中不胜枚举。&lt;br&gt;&lt;br&gt;瑜不掩瑕，iOS 7 的新风格就像别人的老婆一样新鲜。&lt;b&gt;「不要把我的设计做成那个样子」&lt;/b&gt;也算是一种启发吧。
 </description>
 </item>
 <item>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/20777768/answer/16147076
 </title>
 <description>
 谢邀。&lt;br&gt;今年春节，我就有千万事涌上心头的感觉。&lt;br&gt;今年春节，是我选择过一个清净的春节。孩子远在万里之外，我与先生也没有走亲访友。&lt;br&gt;于是，我们有大把时间聊天，说过去的事，一会儿笑得喘不过气来，一会儿哭得说不出话来。&lt;br&gt;我们从有记忆时说起，一直说到现在。我们，太阳升起也不起床，躺在屋内阳光下聊。春节期间的城市，突然少了很多人，马路上清净了很多，我们散步聊天。&lt;br&gt;千万事涌心头的感觉----说不完的话，时间不够用了，我真的老了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20980739/answer/17369810
-</link>
-<author>
-嘉措炜
-</author>
-<title>
-为什么游牧民族（比如蒙古人）只吃肉不吃菜却鲜有脂肪肝高血压之类的疾病，是因为经常运动吗？
-</title>
-<description>
-做为一个从小就吃牛羊肉，喝奶茶的藏族我可以很负责任的告诉你，三高在游牧民族中很常见，而且是致死的主要原因。当然还有心脏病，这个主要是饮酒过量造成的。别猜测，或者别只看书好吗？我身边的好多老人都是三高。至于什么喝茶可以让我们不会得三高的理论你可以完全当笑话听。在我们那里，只要是经济条件好一点的人家都不在喝茶砖了，就是你们说的那个什么游牧民族最爱喝的茶，我们改喝便宜一点的普洱。因为我们发现卖给我们的茶砖质量太差，很不卫生。
 </description>
 </item>
 </channel>
