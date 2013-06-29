@@ -3,7 +3,7 @@
 
 cd /root/zhihu-read-rss
 export LEIN_ROOT=1
-succ=`lein run rss/rss.xml`
+succ=`java -jar target/zhihu-read-rss-0.1.0-SNAPSHOT-standalone.jar rss/rss.xml`
 
 if [ $succ == '1' ] 
     then 
