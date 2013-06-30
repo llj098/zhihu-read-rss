@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19716262/answer/12744054
+</link>
+<author>
+Roy Li
+</author>
+<title>
+VC 基金的有限合伙协议中约定 carried interest 以 profit 而不是 distributable income 作为基础， 这种安排是否在市场很少见？为什么？
+</title>
+<description>
+ 其实不少见，取决于你profit的计算方式以及收入分配的协议。在计算方面distributable income 里面可能存在一个hurdle或者floor (如果你有投资过期货或者外汇就经常会见到， 此外hedge fund非常喜欢这样的东西，比如某个爱做蝴蝶期权的基金因为手续费本身就很高，为了让操盘手更加大胆，就定了非常高的floor)。&lt;br&gt;&lt;br&gt;groupon最近也有了income定义上跟revenue混淆的问题，所以各种名词的定义一定要在glossary里解释清楚。&lt;br&gt;&lt;br&gt;下面是profit的通常两种算法：&lt;br&gt;&lt;br&gt;1.  &lt;b&gt;Majority Rule&lt;/b&gt;   这个情况下的profit是税后的收益， 而distributable income是扣除管理费后分给GP的那20%。 &lt;br&gt;&lt;br&gt;2.  &lt;b&gt;Pro-General Partner Rule&lt;/b&gt;， 这个情况下的profit是不须扣除管理费的，所以GP通常会拿到更多钱。&lt;br&gt;&lt;br&gt;下面谈一下分配。&lt;br&gt;&lt;br&gt;上述2种算法里没有Pro-LP Rule， 但是在任何以上一种rule情况下有时候会见到一个倾向LP的分配：&lt;br&gt;&lt;br&gt;比如A基金投资100万，退出时拿到了200万， 在Pro-LP的情况下，首先按照出资比例分直到LP拿到100万， 这时候GP拿到1万左右，还剩99万未分，于是剩下的按照20% 80%的比例分。 &lt;br&gt;&lt;br&gt;那么相对应的也有倾向GP的分法，也就是100万净利润先分， GP拿走20%，然后剩下的再按照出资比例分。&lt;br&gt;&lt;br&gt;两者的差别在资金不大的时候很小，但是资金庞大的时候就挺大了。&lt;br&gt;&lt;br&gt;在利润的分配以及carried interest的计算上有两个倾向LP的存在——&lt;b&gt;hurdle&lt;/b&gt;以及&lt;b&gt;floor&lt;/b&gt;。&lt;br&gt;&lt;br&gt;floor常见在hedge fund里，也就是他们会保证你多少多少的收益，比如8%的回报，如果100万的投资，他们会保证赚钱后先给你8万， 类似 优先股，这个非常倾向LP，因为赚不到8万的情况下GP基本等于白做，赚了超过8万不太多的话，GP也不是很划算的。&lt;br&gt;&lt;br&gt;那么另外一种倾向LP但是没这么严重的交hurdle， 也就是好比你今年赚了20万，你保证LP至少要拿到8万， 那么你先给LP 8万， 剩下12万，你先支付GP直到 GP和LP的收入达到20% 80%的比例， 也就是你需要支付GP 2万， 剩下的10万再20% 80%分， 收入分配最终依然是20% 80%， 但是如果今年利润不够高，达不到8万的话，GP就几乎等于白做了（只能拿1%, 也就是出资的比例），只有管理费。&lt;br&gt;&lt;br&gt;税务问题&lt;br&gt;&lt;br&gt;可见GP的2部分收入里，从报税角度上来说， carried interest 不能抵消， 管理费可以用支出来抵消。&lt;br&gt;&lt;br&gt;PS:  理论上在某些罕见情况下（我从来没见过的）net profit计算还会有不同，比如说：&lt;br&gt;&lt;br&gt;a. 这个PE 有其他PE进行投资， 而且发行了优先股， 所有的收益需要先付对方的dividend。 &lt;br&gt;&lt;br&gt;b. 这个PE许诺了客户，或者是金融机构一个类似优先股的优先股息回报（通常是固定的），你需要付掉股息或者是一个几年期等额还款里面今年要还的部分。 &lt;br&gt;&lt;br&gt;下面请大家做计算题：&lt;br&gt;&lt;br&gt;10年期的基金， LP出99万，GP出了1万，总共100万。 &lt;br&gt;年管理费比率2.5%， 总共管理费25万， 投资收入25万。&lt;br&gt;carried interest 比例是20%。&lt;br&gt;&lt;br&gt;majority和pro-GP底下， GP的收入各是多少？ 
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21151363/answer/17427724
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21260611/answer/17701299
 </title>
 <description>
 我做了14年的移动应用开发（自1999年起）, 开发过的企业内部TO B，企业TO C的应用也多得很难数清了。&lt;br&gt;若论企业内部使用的移动APP应用的话，我做的项目，产品，也有好几个可以进入全球top 10了（以企业内部app使用的终端数规模论）。&lt;br&gt;作为第三方的移动应用开发方，移动应用规划和设计者，服务了无数企业客户（当然是废话啦，没有个人来找我们要求服务）。我真心不知道这个企业APP的定义是个啥？啥才能算是个企业APP？&lt;br&gt;&lt;br&gt;企业做的app就叫企业app？ 那绝大多数都是企业app吧？毕竟个人开发者开发的应用还是少数&lt;br&gt;&lt;br&gt;像以前的企业网站一样做个专门宣传自己企业，介绍企业信息的APP？谁会干这样的蠢事啊？鬼才会去下载安装这样的APP呢。现在即便是做企业宣传，产品宣传的APP，都至少得做成个玩意（比如是个游戏），然后再顺带明里或者暗里介绍一下企业或者产品吧。&lt;br&gt;&lt;br&gt;如果说，企业APP是指移动企业内应用，是指给企业内部及关联员工使用的APP，那么到现在为止几乎所有的答案都是偏题的。&lt;br&gt;&lt;br&gt;没有道理说中国移动，中国联通做了一个app给自己TO C的用户使用，就叫企业APP。什么淘宝，网易邮箱，zaker，携程做了app给自己TO C的用户使用，就不叫企业APP了吧？&lt;br&gt;更别提什么企业APP是企业和会员互动什么的，微博微信都是经典的会员互动案例，那也都是企业app？&lt;br&gt;&lt;br&gt;如果一定要给这个问题提供一个答案，不如这样来区分和定义一下：&lt;br&gt;用TO C和TO B的APP的差别来区分。&lt;br&gt;TO B的APP应用主要是针对企业客户，在企业内部使用的APP。&lt;br&gt;TO C的APP应用主要针对消费者用户。&lt;br&gt;&lt;br&gt;TO B的应用特点其实很简单，一定是强功能需求的。没有一个企业会做个没啥特别目标和用处的应用让员工使用去浪费他们时间的。&lt;br&gt;TO B设计的要点其实很简单，一切围绕着强功能需求的核心（尤其要针对其应用场景），不要拿TO C应用的经验生搬硬套，否则最多只能叫好不叫座。&lt;br&gt;不像普通的TO C的APP的应用场景，其可能性比较多，场景定义会模糊一些。TO B的应用其应用场景是非常明确清晰的，一定要花大时间和精力去研究和体验。&lt;br&gt;&lt;br&gt;关于企业内应用的特殊性，我在答案&lt;a href=&quot;http://www.zhihu.com/question/19568037/answer/16747013&quot; class=&quot;internal&quot;&gt;为什么所有的 ERP 系统的用户体验都那么不好？&lt;/a&gt;里有所提及，下面我可以举个例子。&lt;br&gt;&lt;br&gt;上个图：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1a/02/1a02c3fcc77e656071a5dc0d9cba79b8_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;480&quot; class=&quot;origin_image&quot; width=&quot;800&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/1a/02/1a02c3fcc77e656071a5dc0d9cba79b8_r.jpg&quot;)'&gt;&lt;br&gt;看了以后，一定会有人大呼，左边这是个神马东西？石器时代的吧？和右边这个简直不是一个时代，一个档次的东西。&lt;br&gt;要问这两个哪个用户体验好，毫无疑问是右边吧！&lt;br&gt;&lt;br&gt;左边的是顺丰快递员用的APP，右边是大名鼎鼎的path。&lt;br&gt;&lt;br&gt;path的用户体验不用说，NB得很，我也很喜欢很崇拜。但是如果你要把path的设计给顺丰快递员们去用，估计会被骂死。&lt;br&gt;&lt;br&gt;path的设计逻辑是什么？ &lt;b&gt;每一个功能点的展示，每一个界面，每一个交互，每一个细节都争取让你爱不释手，让你迷恋，停留，使用更长的时间，争取让用户发掘出更多的玩法和用处，而且它确实做得很成功&lt;/b&gt;&lt;br&gt;你在这个应用上停留的时间越多，它就越成功。&lt;br&gt;&lt;br&gt;好吧，同样的逻辑你给顺丰的快递员试试？每个功能点，每个界面，每个交互都精心设计布局。争取让快递员爱不释手，迷恋，停留更长时间，还研究更多的用法和玩法？&lt;br&gt;&lt;b&gt;靠！人家还要不要干活了？&lt;/b&gt;&lt;br&gt;再好看，再炫的界面，你一天必须得盯着看好几个小时，也会看腻味的。&lt;b&gt;对于顺丰快递员这样的应用，为了完成工作，停留的时间越短越好，不要产生额外无效的使用，这才是应用的成功。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;做顺丰的应用，难道是我们真的土鳖到连个按钮的图片都找不到？连个彩色的图标都不会用？&lt;br&gt;&lt;br&gt;我可以告诉大家，原来我们都用过图标按钮，和彩色图标，后来能全用文本就全用文本，界面放不下看不清必须用图标指示的，我们全用4阶灰度的图标。&lt;br&gt;&lt;br&gt;为什么？不是没有彩色屏幕。一切都是为了一个字 “快”，文字和图标要尽量得节约内存，最重要的是屏幕刷新一定要快！全文字加少量灰阶图标的界面刷新负担最轻。&lt;br&gt;全部使用快捷键（这就是为什么貌似很土鳖，菜单项前面不是个图标，而是个数字的原因）。&lt;br&gt;当你经常需要连续操作上百次，旁边还有客户看着，后面还有下一个客户等着的时候，神马美观炫丽，用户友善都是浮云。&lt;br&gt;某些熟练的NB快递员甚至做某些操作的时候都可以不怎么看屏幕，狂按键盘即可，像path一样在界面体验上下血本功夫的话，不但没有效果，反而是个负担。&lt;br&gt;&lt;br&gt;而且针对TO B的应用，很多时候鲁棒性和可用性是非常重要的。其要求要比TO C应用高很多。因此简化一些非关键性的部分，是非常有价值的。&lt;br&gt;额外得为某些体验之类的东西付出更复杂的设计，可能真不是个好主意。&lt;br&gt;&lt;br&gt;&lt;b&gt;总而言之，一切围绕核心的关键需求目标，以简单，有效，可靠得完成所必要的工作为最重要的目标。相形之下，什么体验啊，界面友好美观啊，重要性都要排在后面。而且一定要考虑工作中的使用环境，使用频次和使用强度，这是尤其值得关注的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;类似的思路，其实对工具类的TO C应用，也未必没有借鉴之处。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21261455/answer/17688172
-</link>
-<author>
-徐慧琳
-</author>
-<title>
-南京女童饿死事件中孩子饿死是谁的责任？
-</title>
-<description>
-以下引自 押沙龙 微博：&lt;br&gt;&lt;br&gt;最可怕的事情还不是有女性被丈夫活活打死，有孩子被母亲活活饿死，最可怕的是这个女性反复报警反复求助，可最后还是被活活打死，最可怕的是&lt;u&gt;这孩子被警察和邻居发现过一次也救过一次，可最后还是被活活饿死&lt;/u&gt;。这就&lt;b&gt;不是有没有人渣的问题&lt;/b&gt;了，&lt;b&gt;而是这个国家出了问题&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;br&gt;南京幼童饿死的惨剧，根本原因不在于孩子碰上了无良父母。任何社会都有生殖功能正常的人渣，问题在于我们没有剥夺监护权的制度。哪怕父母虐待孩子，只要不出事也没办法处理。不剥夺监护权不是因为重视私权，而是因为&lt;b&gt;国家根本不想惹这麻烦。又花钱又出力，又没什么经济产出又不影响维稳，它没动力去管&lt;/b&gt;。
 </description>
 </item>
 </channel>
