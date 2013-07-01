@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21248688/answer/17647655
+</link>
+<author>
+白刃可蹈
+</author>
+<title>
+如果存在一根30万公里的棍子，在一秒内推动它使另一端感受到，它传递的信息（棍子动了）岂不是快过了光速？
+</title>
+<description>
+我认为破题的关键在于你不能把棍子看作绝对刚体。&lt;br&gt;&lt;br&gt;&lt;br&gt;30万里的左面，你的手指戳了上去。&lt;br&gt;&lt;ol&gt;&lt;li&gt;手指速度&amp;lt;波速。首先，30万里的左端开始形变。这个形变将以某个固定的速度传播到30万里的右端。随着波的传播，另一边感觉到了你的信息，于是他向右拱了一下。此时信息的速度是物质中的纵波速度。&lt;/li&gt;&lt;li&gt;手指速度&amp;gt;=波速。首先，30万里得左端开始形变，然后你的手指超过这个形变，在形变还没反应过来之前就超越了他，此后的形变都只能跟在你屁股后面吃灰。一路狂飙突进，把棍子从中劈开，右端懵懵懂懂得等待着你邪恶的手指。此时信息的速度是你手指的速度。&lt;/li&gt;&lt;/ol&gt;&lt;img src=&quot;http://p1.zhimg.com/8b/c4/8bc45c4655ecd81390ea83131cacc308_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;182&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/8b/c4/8bc45c4655ecd81390ea83131cacc308_r.jpg&quot;)'&gt;图from wiki &lt;a href=&quot;http://en.wikipedia.org/wiki/Sound_barrier&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Sound barrier&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21269612/answer/17721839
+</link>
+<author>
+一张钞票
+</author>
+<title>
+如果《小时代》在美国上映，美国人会像现在国人这么批评它吗？
+</title>
+<description>
+一个靠抄袭起家的作家的成功，在美国是不会发生的，他根本走不到拍电影这一步。美国对知识产权的保护会让郭敬明把抄袭挣的钱全部都吐出来，然后洗洗睡，出版方也会对抄袭作家嗤之以鼻。&lt;br&gt;&lt;br&gt;如果只是一部单纯的烂片，美国每年的烂片无数，imdb和rotten tomatoes都会有反应，但很少有能够造成大的舆论影响的，除非触及到一些政治正确的话题，比如种族，恐怖主义什么的。中国的政治正确同美国不太一样，当下主要是财富矛盾，所以《小时代》中枪。&lt;br&gt;&lt;br&gt;Edit:&lt;br&gt;&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/cherrybomb&quot; data-tip=&quot;p$b$cherrybomb&quot;&gt;@是果&lt;/a&gt; 第一段不能同意。畅销书大卖，作家成名光明正大天经地义。但是郭老师最才华的地方基本靠抄袭出来的，你咋能说他在一个不能抄袭的地方一样会成功。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21275136/answer/17731950
 </link>
 <author>
@@ -214,7 +242,7 @@ cOMMANDO
 http://www.zhihu.com/question/21269266/answer/17716077
 </link>
 <author>
-知乎用户
+罗大睿
 </author>
 <title>
 2013 年高考状元业余爱好广泛也看电视打网游，是我们素质教育开花结果了吗？
@@ -263,34 +291,6 @@ VC 基金的有限合伙协议中约定 carried interest 以 profit 而不是 di
 </title>
 <description>
  其实不少见，取决于你profit的计算方式以及收入分配的协议。在计算方面distributable income 里面可能存在一个hurdle或者floor (如果你有投资过期货或者外汇就经常会见到， 此外hedge fund非常喜欢这样的东西，比如某个爱做蝴蝶期权的基金因为手续费本身就很高，为了让操盘手更加大胆，就定了非常高的floor)。&lt;br&gt;&lt;br&gt;groupon最近也有了income定义上跟revenue混淆的问题，所以各种名词的定义一定要在glossary里解释清楚。&lt;br&gt;&lt;br&gt;下面是profit的通常两种算法：&lt;br&gt;&lt;br&gt;1.  &lt;b&gt;Majority Rule&lt;/b&gt;   这个情况下的profit是税后的收益， 而distributable income是扣除管理费后分给GP的那20%。 &lt;br&gt;&lt;br&gt;2.  &lt;b&gt;Pro-General Partner Rule&lt;/b&gt;， 这个情况下的profit是不须扣除管理费的，所以GP通常会拿到更多钱。&lt;br&gt;&lt;br&gt;下面谈一下分配。&lt;br&gt;&lt;br&gt;上述2种算法里没有Pro-LP Rule， 但是在任何以上一种rule情况下有时候会见到一个倾向LP的分配：&lt;br&gt;&lt;br&gt;比如A基金投资100万，退出时拿到了200万， 在Pro-LP的情况下，首先按照出资比例分直到LP拿到100万， 这时候GP拿到1万左右，还剩99万未分，于是剩下的按照20% 80%的比例分。 &lt;br&gt;&lt;br&gt;那么相对应的也有倾向GP的分法，也就是100万净利润先分， GP拿走20%，然后剩下的再按照出资比例分。&lt;br&gt;&lt;br&gt;两者的差别在资金不大的时候很小，但是资金庞大的时候就挺大了。&lt;br&gt;&lt;br&gt;在利润的分配以及carried interest的计算上有两个倾向LP的存在——&lt;b&gt;hurdle&lt;/b&gt;以及&lt;b&gt;floor&lt;/b&gt;。&lt;br&gt;&lt;br&gt;floor常见在hedge fund里，也就是他们会保证你多少多少的收益，比如8%的回报，如果100万的投资，他们会保证赚钱后先给你8万， 类似 优先股，这个非常倾向LP，因为赚不到8万的情况下GP基本等于白做，赚了超过8万不太多的话，GP也不是很划算的。&lt;br&gt;&lt;br&gt;那么另外一种倾向LP但是没这么严重的交hurdle， 也就是好比你今年赚了20万，你保证LP至少要拿到8万， 那么你先给LP 8万， 剩下12万，你先支付GP直到 GP和LP的收入达到20% 80%的比例， 也就是你需要支付GP 2万， 剩下的10万再20% 80%分， 收入分配最终依然是20% 80%， 但是如果今年利润不够高，达不到8万的话，GP就几乎等于白做了（只能拿1%, 也就是出资的比例），只有管理费。&lt;br&gt;&lt;br&gt;税务问题&lt;br&gt;&lt;br&gt;可见GP的2部分收入里，从报税角度上来说， carried interest 不能抵消， 管理费可以用支出来抵消。&lt;br&gt;&lt;br&gt;PS:  理论上在某些罕见情况下（我从来没见过的）net profit计算还会有不同，比如说：&lt;br&gt;&lt;br&gt;a. 这个PE 有其他PE进行投资， 而且发行了优先股， 所有的收益需要先付对方的dividend。 &lt;br&gt;&lt;br&gt;b. 这个PE许诺了客户，或者是金融机构一个类似优先股的优先股息回报（通常是固定的），你需要付掉股息或者是一个几年期等额还款里面今年要还的部分。 &lt;br&gt;&lt;br&gt;下面请大家做计算题：&lt;br&gt;&lt;br&gt;10年期的基金， LP出99万，GP出了1万，总共100万。 &lt;br&gt;年管理费比率2.5%， 总共管理费25万， 投资收入25万。&lt;br&gt;carried interest 比例是20%。&lt;br&gt;&lt;br&gt;majority和pro-GP底下， GP的收入各是多少？ 
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21151363/answer/17427724
-</link>
-<author>
-毕才华
-</author>
-<title>
-如何写出一个好段子？
-</title>
-<description>
-写段子是个技术活，幽默感也可以后天培养，只要坚持科学的方法和训练。&lt;br&gt;&lt;br&gt;一个段子由两个元素构成：结构+梗&lt;br&gt;&lt;br&gt;一般而言段子有三种结构：谐音误解，预期违背，同文异读。这三种结构涵盖市面上90%以上的段子和冷笑话，甚至更多。&lt;br&gt;&lt;br&gt;1.1.谐音误解&lt;br&gt;谐音误解，顾名思义，就是你说了一句话我听错了或听漏了，然后引出一连串误解。这是最初段的段子写作手法，上手简单，学习门槛低。缺点是存在语言隔离，在不同语言间的传播效果很差。比如在中国南北曲艺界，谐音误解是极极常见的表现手法，也正是因为过多倚重方言出效果，才导致南北笑星到彼此的地盘上水土不服。&lt;br&gt;&lt;br&gt;代表人物：赵本山。&lt;br&gt;&lt;br&gt;举例：1.典型的就是司马缸砸光咯2.赵本山卖拐以后近十年的小品作品里，抛去模仿残疾人的戏码，谐音误解的创作方法比比皆是，特别是最近几年，喜剧形式太单一。由此我一度认定本山大叔的喜剧道路走到了头儿，没啥新意，隐退也好……3.—我最近在读莎士比亚的书。—啥比亚？—你他妈的才傻逼呀！（自己编的，撞梗勿怪）&lt;br&gt;&lt;br&gt;1.2.预期违背&lt;br&gt;预期违背是较谐音误解高阶的创作手法，讲者先为听者设定一个情景，让听者想当然地代入自己的惯性思考，结果讲者最后抖出包袱，让听者有种被戏耍的体验，乐趣由此而来。用这个方法讲笑话最有成就感，能给讲者带来极大的智力优越感。&lt;br&gt;&lt;br&gt;听者的内心OS是这样的：这种情景下发生这样的事儿，太不科学了！而讲者的内心OS一定是：呵呵，我哪能让你们猜到结尾呢。&lt;br&gt;&lt;br&gt;这种表现方法在戏剧和脱口秀中经常见到。具有跨地域跨语言的优势，美国电影行销全世界，一个重要的原因他们很少在全球发行的电影里植入谐音笑话，而是用普世的预期违背+同文异读，讲全世界都能听得懂的笑话。&lt;br&gt;&lt;br&gt;代表人物：黄西、陈佩斯等&lt;br&gt;&lt;br&gt;举例：1.美国的离婚率竟然有50%！这太令人不安了！（顿）有50%的婚姻竟然走到了尽头！2.（原来演得好好的突然跳戏）我就以为我这模样的能投降，你朱时茂浓眉大眼的也叛变革命啦！3.我们学校男女比很畸形我们班50个人有48个女生，然后，那两个男生还在一起了。&lt;br&gt;&lt;br&gt;1.3.同文异读&lt;br&gt;最后是同文异读。就是用逻辑、语调、故事背景、知识背景、多义词甚至同音字造歧义，让听者有别有洞天的体验。梗埋得较深，讲者风险大，需要听者同观者有相同的知识背景或生活体验包袱才能抖得响。但一旦抖响，听者讲者都能得到绝赞的智力优越体验。&lt;br&gt;&lt;br&gt;也是编段子的高阶手法，在戏剧和脱口秀中常见。尤其适合在喜剧电影和话剧里呈现，从结构上保证作品的喜剧成色，不然剧本就很容易沦为脱口秀式的耍贫嘴和段子集锦。&lt;br&gt;&lt;br&gt;代表人物：陈佩斯、unjash等&lt;br&gt;&lt;br&gt;推荐大家看下陈佩斯的小品《警察与小偷》，整个故事围绕一个小偷冒充警察于真的警察相遇展开，有了这样的故事背景做铺垫，陈佩斯和朱时茂的每一句对话都是绝佳的同文异读典范。日本搞笑组合unjash也是出名的以此种结构独步日本喜剧界，每部小品都很经典。&lt;br&gt;&lt;br&gt;举例：1.小布什最喜欢的电影是《kill bill》（kill bill既是昆汀的电影作品，kill bill又可理解为干掉比尔克林顿，小布什的前任。如果观者对昆汀的电影不了解，包袱就可能抖不响）2.Stay foolish,stay hungry.——金二胖（题主体会一下）&lt;br&gt;&lt;br&gt;2.梗&lt;br&gt;所谓梗就是你要表现的主题，黑的对象，也就是包袱、笑料等。手法是固定的，梗可以常换常新。把梗用手法包装出来，就是做梗了。&lt;br&gt;&lt;br&gt;总结下微博比较流行的梗（流行的梗通常也是老掉牙的梗），如：搞基梗、地域梗、韩寒郭四同人梗、云迪力宏虐恋梗、正腾雨神梗、郭四身高梗、杨幂脚臭梗、乱伦梗、种族歧视梗、霸王龙小短手梗、韩国整容梗、毕老师山形健傻傻分不清楚梗、金刚不坏诺基亚梗……&lt;br&gt;&lt;br&gt;写段子时，先想好你要做的梗是什么，想好用谐音还是歧义还是预期背叛将这个梗丢出来，最后就是组织语言的功夫了。所有的时事都可能拿来做梗，也经常见到有人发明了一个新梗，然后段子手一拥而上把这个梗玩坏的情况，可见写段子真的只是个技术活儿，跟天分无关。你要做的只是了解这些方法，然后多给别人讲笑话锻炼语感和喜剧的嗅觉，坚持“think different”，就够了。&lt;br&gt;&lt;br&gt;最后，预祝题主的人生变成一个成功的笑话。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21201886/answer/17718105
-</link>
-<author>
-大Joy
-</author>
-<title>
-Green Politics in China 写作过程中有哪些有趣的故事？
-</title>
-<description>
-谢谢各位对此书感兴趣，抱歉拖了这么久才爬上来回答，期末学校事情比较杂。&lt;br&gt;&lt;br&gt;要说关于这本书最有意思的（虽然也许不算“有趣”），大概就是写这本书纯属意外。&lt;br&gt;&lt;br&gt;事情原本是这样的：我的学术专长是跨国科技风险治理，2011年的时候申请到一笔资金在巴黎研究中国和法国气候科学和相关环境科学中对风险建模的差异，以及衍生的社会影响（一个听起来就想让人打瞌睡的课题吧，哈哈）。在初期调研的时候，除了和国内各大研究所里的科学家蜀黍们交流，我还骚扰了一下以前认识几个做环境报道的记者。&lt;br&gt;&lt;br&gt;本来这只是作为多一些“背景”了解的，结果我一下子就被国内各种民间环保活动给彻底迷住了。原因很简单，国内环污不是新闻，监管不力不是新闻，但当北京长期灰蒙蒙的天空让你开始对一个社会感到有些灰心丧气的时候，忽然发现这个社会上有那么一群人，从18岁到68岁，从北京上海到青海，从垃圾处理到苹果产品到空气污染，都在努力改善现实时候，并且让这个社会有所改变的时候，真是一件让人特别振奋的事情。回想起来，我记得我刚开始调研的时候PM2.5这个词刚开始进入公众视野，还没有这么为人所知，“我为祖国测空气”，“我为祖国测重金属”等等活动（在大众眼里）基本也属于刚刚开始有点声势，各种苹果公司污染的事情也是零七八碎，还有电磁污染啦，牛奶河啦，垃圾处理啦等等⋯⋯&lt;br&gt;&lt;br&gt;&lt;br&gt;以前我总以为环保人士都是些有些激进的热血青年，但至少我接触的国内民间环保人士中，大部分给我的印象都是：务实、睿智、理性、善良。——以前我隔着海每天看着国内新闻内容越来越匪夷所思，忽然看到还有这样一群人的时候，我反正是特别激动、感动，极大地被触动了。&lt;br&gt;&lt;br&gt;所以我这时候决定写一本关于他们的书，关于这些“草根”向权力诉说真理的书，对西方读者，我想告诉他们我看到的正在成长的中国市民社会；对于中国读者，我想告诉他们，一切都（还）有希望。先生小巴也被我中途绑架过来一起调研，使得这本书比较快地完稿，两个脑瓜绝对要比一个脑瓜厉害嘛。 &lt;br&gt;&lt;br&gt;我希望更多的人看到中国环境政治更为深刻，更现实也更生动的一面，因此本书写作过程中虽然分析评论没减少，但尽量避免了理论或术语，可读性还是比较强的。这里自我吹嘘一下，书稿交到Pluto出版社后，出版社觉得写得很赞，居然没有一条修改意见，一次通过的哦！&lt;br&gt;&lt;br&gt;全书是由“好莱坞”开篇的——&lt;br&gt;‘Hollywood got it all wrong,’ said Chen Qi, a hydraulic engineer from Shenzhen. He was referring to the movie &lt;i&gt;2012&lt;/i&gt;, in which humans face extinction because of a series of natural disasters. In Chen’s view, the film’s biggest mistake was to build Noah’s Ark on the Tibetan Plateau. ‘The movie assumed Tibet as the last safe place on Earth, but in the face of climate change, the “Roof of the World” will actually be among the first to be affected!......’&lt;br&gt;&lt;br&gt;在诸多例子中选这个开篇，主要是因为Chen（化名）所担忧的长江源可能存在的水污染问题的对中国现在环境挑战的象征意义：那些远在高原上的水源污染看似只是牧民的烦恼，但如果作为中国主要水源的三江源地区被污染，那些危害会在滔滔江水流过中国大地时静静渗入入每个人脚下的土地，就如同国内很多环境问题一样，虽然说起来总是某一个企业，某一个地区，某个倒霉的个人的问题，但这些“别人”的苦恼其实浸渍着我们每个人的生活，威胁着每个人的健康，每一个人都有责任做点什么，每个人都可以做点什么。&lt;br&gt;&lt;br&gt;书里记载了很多故事，篇幅原因在知乎就不一一复述了， 有成功有失败，但政府在这一过程中有了变化，企业有了变化，中国社会也有了变化（所以这本书的副标题是“Environmental Governance and State-Society Relations”）。&lt;br&gt;&lt;br&gt;全书最后一章是围绕《舌尖上的中国》展开的，结尾写到：&lt;br&gt;“For most Chinese everyday life carries on as usual with some progress and a few new things to look forward to. After public debate on matters such as air quality, extreme weather conditions, and food safety, the forthcoming season of &lt;i&gt;A Bite of China&lt;/i&gt; will, perhaps, not only lift up the public’s appetite, but will also serve as food for thought on the values and beliefs which may have been overlooked.”&lt;br&gt;&lt;br&gt;也许只有当自己呼吸到污浊的空气，当自己开始担心桌上美食的化学成分的时候，我们才会停下来想想科技和发展到底都是为了什么，道德为什么有价值，“我们”真的能逃得出那些“别人”的忧伤吗？&lt;br&gt;&lt;br&gt;到这里，我和先生小巴都以为这本书写完了。我们心满意足地合上笔记本睡觉去了，准备第二天向出版社提交书稿。但4个小时之后，我爬起来敲下了下面这段话，这本书才算真的写完了：&lt;br&gt;&lt;br&gt;To some extent, a society is like a balloon: it can fly high when filled with the right type of air. Or it can pop if the shocks are too severe. The blast of fresh air brought in by ENGOs is inflating the social sphere with civic dynamics that honour the rule of law. Meanwhile, the government is learning to stomach an increasingly pluralized political sphere. To be sure, much work needs to be done. But China seems to have already experienced the first taste of a green society.&lt;br&gt;&lt;br&gt;如果一个社会可以比作一只气球，那民间的环保行动则是那能让中国市民社会高飞的清新空气。
 </description>
 </item>
 </channel>
