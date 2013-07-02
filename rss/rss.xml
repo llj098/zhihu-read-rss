@@ -15,6 +15,68 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21140764/answer/17736459
+</link>
+<author>
+沈振宇
+</author>
+<title>
+扁平化设计（Flat Design）是误趋吗？
+</title>
+<description>
+我非常支持扁平化的趋势，准确地说，我认为目前的趋势是&lt;b&gt;抽象化&lt;/b&gt;，扁平化只是抽象化的一种典型形式。&lt;br&gt;&lt;br&gt;&lt;b&gt;1. 拟物化的局限&lt;/b&gt;&lt;br&gt;　　所谓拟物，必须是现实世界中已经有的物体，而且是人们日常的生活中经常使用的物品。但遗憾的是，人们生活中使用过的东西是非常有限的，相机、指南针、时钟、收音机、录音机……我们每个人都熟识并且会使用的“设备”不超过100件，而且这仅仅是对于70后80后而言。对于00后出生人来说，他们从出生就没见过磁带录音机，拨盘电话，收音机，红白游戏机，BP机，大哥大等这些已经被淘汰的设备，我们有理由相信，未来我们的孩子，可能连鼠标、指南针、随身听都不会认识，因为这些设备都被一部手机所代替，甚至手机有一天也会被代替。&lt;br&gt;　　那么，当我们熟识的设备越来越少，而手机应用所要实现的功能越来越创新的时候，这个矛盾就出现了。应用的功能太创新，根本找不到一个现实生活中的物来拟。&lt;br&gt;　　所以，&lt;b&gt;拟物的风格会限制住创新应用的发展。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 拟物的极限&lt;/b&gt;&lt;br&gt;　　iOS6之前的版本，其实已经把拟物推到了一个非常高的高度，视觉上每一处的纹理、阴影、质感，每一个细节都经过精雕细琢，堪称完美。这个时候想要有所超越，尤其是&lt;b&gt;想要在拟物这条路上有所超越，已经非常困难。&lt;/b&gt;&lt;br&gt;　　同时，我们发现，市场上非常多相机应用都找一个相机来做拟物，音乐应用都找一个老式唱片机来拟物，所有的指南针应用打开都是一个指南针。拟物化带来高度的同质化。&lt;br&gt;　　更遗憾的是，由于指南针、唱片机、收音机这样的产品其实都是已经被淘汰的设备，而这些设备早已停止了创新停止了改进，是死的。但是应用是活的，要继续改进发展。假如沿着拟物化这条路走下去，10年20年50年之后，这些应用打开来还是老样子。你不觉得悲哀么？&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 从拟物到抽象&lt;/b&gt;&lt;br&gt;　　其实我非常反对从拟物到扁平这种提法，我认为现在的趋势并不是&lt;b&gt;扁平化&lt;/b&gt;，而是&lt;b&gt;抽象化&lt;/b&gt;，&lt;b&gt;扁平只是抽象的一种视觉形式，抽象化其实有更多的可能性。&lt;/b&gt;&lt;br&gt;　　回顾历史，我们会发现从拟物到抽象是历史的必然，举文字的演变和绘画的发展作为例子：&lt;br&gt;　　几乎所有的文字一开始都是象形文字，用拟物的方式来描绘现实世界中的东西，但是随着人类社会的日趋复杂，越来越多抽象的概念涌现出来，人们发现无法用拟物的方式来表达，于是开始放弃拟物，采用表音的方式来记录语言。即使是汉字中，比重最大是形声字，纯粹的象形字也屈指可数。&lt;br&gt;　　类似的，绘画一直到摄影术发明之前都是在追求写实，极致的写实。但是摄影术发明之后，人们发现写实的绘画已经走到了尽头，已经无法再超越，唯一的方法就是另辟蹊径，用抽象的方式去绘画。于是当代的艺术，越来越抽象，彻底摆脱了现实世界的束缚。&lt;br&gt;　　纵观艺术史，我们都可以看出，一开始人们都努力去还原现实世界，在技法日趋完善的同时，人们开始意识到了“还原现实”的局限性，而开始冲破现实的束缚，走向抽象。&lt;br&gt;　　即使现在，仍然有相当多的普通人无法理解抽象艺术(有兴趣推荐大家去看一下MOMA艺术馆的藏品)，但是已经没有哪个艺术家愿意再回到之前的艺术时代了。&lt;br&gt;　　类比手机的拟物化，我们有理由相信，在未来相当长的时间里，拟物化的视觉风格将仍然受到大多数普通用户的推崇，但是作为一个设计师，应该有这个高度看到抽象化的意义。&lt;br&gt;&lt;br&gt;&lt;b&gt;4. 拟物和极简的冲突&lt;/b&gt;&lt;br&gt;　　拟物就需要对物体的高度模拟，需要丰富的细节，于是我们需要质感、需要层次、需要阴影，这些最终都需要通过视觉元素来实现。但实际上用户最后需要关注的只是信息本身，这些视觉元素或许在用户使用初期，是一个赏心悦目的装饰，但是久而久之，对用户来说就是一种干扰信息，用户需要的是更简单更直接地得到他想要的信息。&lt;br&gt;　　再者说，接下来更多的随身设备，比如google glass，iWatch，都需要将交互过程进一步简化，如果继续坚持拟物化，很难想象在iWatch这个狭小的屏幕上，如何呈现一个细节丰富的物体。&lt;br&gt;　　所以说，&lt;b&gt;拟物化其实和极简主义是背道而驰的。&lt;/b&gt;在形式追随功能的原则指导下，不得不放弃拟物，而实现功能最大化。&lt;br&gt;&lt;br&gt;&lt;b&gt;5. 扁平化 != iOS7&lt;/b&gt;&lt;br&gt;　　很多人因为不喜欢iOS7的视觉风格，而反对扁平化。这其实犯了一个明显的逻辑错误，iOS7只是在扁平化这个方向上做出了自己的尝试，只是一个早期版本。&lt;br&gt;　　实际上正在探索扁平化的，还有google，还有WP8，等等。不要把iOS7的不成熟看成是扁平化这个方向的错误。&lt;br&gt;　　现在我们所处的时期，正是拟物化的体系日趋完善，抽象化的体系刚刚建立的时期。拿一个初生的婴儿去和发育完全的成年人相比，显然是不公平的。&lt;br&gt;&lt;br&gt;　　综上，我相信历史的车轮滚滚，抽象化的时代即将到来，纵使我们对拟物的时代有万般留恋，抽象化仍然不可避免。同时我们是幸运的，我们将会经历整个变革过程，我们是历史的亲历者。&lt;b&gt;哦不，我们正在创造历史 !&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21276501/answer/17736351
+</link>
+<author>
+墨磊
+</author>
+<title>
+为什么一些政府网站上显示今年是 19113 年？
+</title>
+<description>
+&lt;b&gt;Chrome:&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b4/ae/b4ae68c022c58e5f1f7c1c57ccc684aa_m.jpg&quot; data-rawwidth=&quot;216&quot; data-rawheight=&quot;55&quot; class=&quot;content_image&quot; width=&quot;216&quot;&gt;&lt;br&gt;&lt;b&gt;FireFox:&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ec/c0/ecc0ebf8dafa8cbe0da6635187a5aadf_m.jpg&quot; data-rawwidth=&quot;220&quot; data-rawheight=&quot;48&quot; class=&quot;content_image&quot; width=&quot;220&quot;&gt;&lt;br&gt;&lt;b&gt;IE 10：&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/dc/da/dcda2679fdc8abd6caf593197f149b3b_m.jpg&quot; data-rawwidth=&quot;211&quot; data-rawheight=&quot;49&quot; class=&quot;content_image&quot; width=&quot;211&quot;&gt;&lt;br&gt;&lt;b&gt;IE 8  以下&lt;/b&gt;:&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/43/6d/436dd8063e4b10e9a7ecb41a8687862f_m.jpg&quot; data-rawwidth=&quot;280&quot; data-rawheight=&quot;70&quot; class=&quot;content_image&quot; width=&quot;280&quot;&gt;&lt;br&gt;&lt;br&gt;为什么会这样? （以下都可以在 Chrome F12 、 Console中看到对应的结果。）&lt;br&gt;&lt;br&gt;首先，我们在浏览器中获取时间一般会用到&lt;br&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;new Date()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/34/bb/34bbdb6d0f4531733fbbbae2ffe34750_m.jpg&quot; data-rawwidth=&quot;387&quot; data-rawheight=&quot;33&quot; class=&quot;content_image&quot; width=&quot;387&quot;&gt;&lt;br&gt;&lt;br&gt;这是能够获得正确时间的，&lt;br&gt;但是，这不是我们需要的样式，&lt;br&gt;&lt;br&gt;所以，会将这年月日等，用不同的方法提取出来。&lt;br&gt;如下链接有列表&lt;br&gt;&lt;a href=&quot;http://www.w3schools.com/jsref/jsref_obj_date.asp&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JavaScript Date Object&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;一般情况下我们会使用 getFullYear() 来获取年份，因为 getYear() 取值太麻烦。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getYear?redirectlocale=en-US&amp;amp;redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FDate%2FgetYear&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Date.getYear&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;blockquote&gt;The getYear method returns the year minus 1900; thus:&lt;br&gt;&lt;ul&gt;&lt;li&gt;For years greater than or equal to 2000, the value returned by getYear is 100 or greater. For example, if the year is 2026, getYear returns 126.&lt;/li&gt;&lt;li&gt;For years between and including 1900 and 1999, the value returned by getYear is between 0 and 99. For example, if the year is 1976, getYear returns 76.&lt;/li&gt;&lt;li&gt;For years less than 1900, the value returned by getYear is less than 0. For example, if the year is 1800, getYear returns -100.&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;br&gt;但是，我们看看某政府网站的代码，他们用的是 getYear()&lt;br&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;   var enabled = 0;     today = new Date();     var day;    var date;    var centry;     if (today.getDay() == 0) day = &quot;星期日&quot;    if (today.getDay() == 1) day = &quot;星期一&quot;    if (today.getDay() == 2) day = &quot;星期二&quot;    if (today.getDay() == 3) day = &quot;星期三&quot;    if (today.getDay() == 4) day = &quot;星期四&quot;    if (today.getDay() == 5) day = &quot;星期五&quot;    if (today.getDay() == 6) day = &quot;星期六&quot;      centry = &quot;&quot;;     if (today.getYear() &amp;lt; 2000) centry = &quot;19&quot;;      date1 = centry + (today.getYear()) + &quot;年&quot; + (today.getMonth() + 1) + &quot;月&quot; + today.getDate() + &quot;日  &quot;;        date2 = &quot;&quot; + day;        document.write(date1 + date2);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;因此，也就是只能获得 113 这个尾数。 &lt;br&gt;&lt;br&gt;所以，他写了这么一句&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;if (today.getYear() &amp;lt; 2000) centry = &quot;19&quot;;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;注意，centry 他用的 是字符串 ！！（想起来了，这货该是拷贝 19xx 年的代码）&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt; date1 = centry + (today.getYear()) 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt; date1 = &quot;19&quot; + &quot;113&quot;  // return 19113 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;即使要用，&lt;br&gt;也得是这样（虽然弃用了该方法，大多数浏览器还是可用的）&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;if (today.getYear() &amp;lt; 2000) centry = 1900; date1 = (centry + today.getYear());  // return 2013
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;而 为什么 IE 8 能得到 正确的值呢。&lt;br&gt;&lt;a href=&quot;http://stackoverflow.com/questions/5763107/javascript-date-getyear-returns-different-result-between-ie-and-firefox-how-t&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;javascript date getYear() returns different result between IE and Firefox, how to approach this?&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;老版本 IE 中 ，getYear() 得到的就是 getFullYear() 的值（在 &amp;gt; 1999 的时候，1900 ~ 1999 还是返回的最后两位）。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21278390/answer/17741428
+</link>
+<author>
+yolfilm
+</author>
+<title>
+怎样写好励志小说？
+</title>
+<description>
+-&lt;br&gt;一、&lt;br&gt;奋斗的过程，多样。结局也许光明，也许黑暗。&lt;br&gt;主角是男是女，是孤军奋战，还是打群架。&lt;br&gt;都不重要。&lt;br&gt;&lt;br&gt;唯一重要的，很多人没有意识到：&lt;br&gt;&lt;br&gt;励志故事，定要有个神秘的「元素」。&lt;br&gt;&lt;br&gt;「&lt;b&gt;洁癖&lt;/b&gt;」&lt;br&gt;&lt;br&gt;主角，为守护一样东西，不准他人坫污，不准他人嘲笑，一意守著，守著。&lt;br&gt;守到海枯石烂，守到地老天荒，守到完全成功，守到完全失败。&lt;br&gt;&lt;br&gt;过程、结局，根本不重要。&lt;br&gt;&lt;br&gt;重点是那个不许人碰触的「心意」，&lt;br&gt;那个心理状态，就叫「洁癖」。&lt;br&gt;&lt;br&gt;没有「洁癖」，就不是真正励志。&lt;br&gt;&lt;br&gt;二、&lt;br&gt;&lt;br&gt;国内很多影视作品，包括很多真实的商场大佬，人生的真实传记。&lt;br&gt;表面上励志，其实一点也不。&lt;br&gt;&lt;br&gt;就因为主角的精神是污秽的。为达目的，不择手段。&lt;br&gt;他原来教英文，後来作网站，原来作补习班，後来搞股票上市……。&lt;br&gt;卖牛奶的，不够生产了，兑水，加料。&lt;br&gt;卖电池的，可以摇身一变，也去组装电脑，作手机。&lt;br&gt;&lt;br&gt;总是啥都可以变，只要能作出一门生意，而那生意金光闪闪，足矣。&lt;br&gt;只要抓得到老鼠，就是好猫。&lt;br&gt;人生的哲学，人生的行谊，完全没有「洁癖」二字。&lt;br&gt;&lt;br&gt;那岂是励志？那是最肮脏，最下作，让人根本不想多看一眼的「伪成功学」。&lt;br&gt;&lt;br&gt;-------------------------------------------------------------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;有人看不懂我举例，在讨论串中指责，我多解释两句。&lt;br&gt;1、&lt;br&gt;教育的「慢增长」，和要求「年增长」「回报率」的上市公司，&lt;br&gt;包括，教育，和网站的「媒体本质」，有根本矛盾。&lt;br&gt;（这话，是人家老板自己後来的後悔之言。不是洒家的发明。）&lt;br&gt;2、&lt;br&gt;国内某些牛奶品牌，新产业模式的惊人，&lt;br&gt;正是以「不可能存在的乳源」而实现的。&lt;br&gt;（牛奶，不能当作耐克球鞋发展。）&lt;br&gt;3、&lt;br&gt;至於电池，起家是因为有专利技术，创始人最早是从理想出发的。&lt;br&gt;转作加工厂，挖人的班底，偷人的技术，则是另一个世界。&lt;/blockquote&gt;-
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21005550/answer/17738750
+</link>
+<author>
+谢熊猫君
+</author>
+<title>
+哪些名言是被误传的？
+</title>
+<description>
+&lt;strong&gt;准备用自由换取暂时安全的人们，既不配得到自由，也不配得到安全。&lt;/strong&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;Those who would give up Essential Liberty to purchase a little Temporary Safety, deserve neither Liberty nor Safety.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;这句话被广泛的误传。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;================================================&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2c/9f/2c9f7108a6ecd52b3eabb08d083f01ec_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;338&quot; class=&quot;origin_image&quot; width=&quot;720&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/2c/9f/2c9f7108a6ecd52b3eabb08d083f01ec_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;最近美国政府涉嫌查看上网、通讯记录，侵犯公民隐私的事情闹得沸沸扬扬。于是关于自由和安全的平衡这个话题又热了起来。不管是国外网友还是国内公知们，在争论这个这个话题的时候最长引用的就是本杰明.富兰克林那句被引用到烂的名言：&lt;br&gt;&lt;br&gt;&lt;strong&gt;准备用自由换取暂时安全的人们，既不配得到自由，也不配得到安全。&lt;/strong&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;Those who would give up Essential Liberty to purchase a little Temporary Safety, deserve neither Liberty nor Safety.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;===================================================&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;要说么，这句话确实很有名，中外语境里都是经常出现，但是摘录这句话的人多，用对的倒是没几个。毕竟不是每个人在摘录名人名言的时候都会去确认下名言的背景的。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/df/54/df5464e2095e23e146ccaebb1ec7ced3_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;338&quot; class=&quot;origin_image&quot; width=&quot;720&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/df/54/df5464e2095e23e146ccaebb1ec7ced3_r.jpg&quot;)'&gt;&lt;b&gt;==================================================&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;富兰克林这句话最早出现在他1755年代表宾西瓦尼亚议会写给殖民官Robert Morris的信中。&lt;a href=&quot;http://rrurl.cn/7StAvw&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;原文点这里&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;br&gt;当然，这封信将近2000字，而且写在200多年前，遣词用句和现代英语有点区别，再加上出自富兰克林这样的老学究之手，读完、读懂要费一点时间。&lt;br&gt;&lt;br&gt;所以我来高度总结一下富兰克林这封信的背景和意思：&lt;br&gt;当时正值&lt;a href=&quot;http://rrurl.cn/aAE6hn&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;法国印第安人战争&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;初期（法国联合殖民地的印第安部落攻击英国人），作为当地立法机构的宾西瓦尼亚议会需要筹钱组织自卫防御。防御的钱从哪里来呢？征税呗。向谁争呢？当地居民自然要征。那么大地主Penn家族呢？大地主&lt;strong&gt;Penn&lt;/strong&gt;家族是什么来头？这么说吧，宾西瓦尼亚（&lt;strong&gt;Penn&lt;/strong&gt;sylvania）这个名字就是从他们的家族名来的。当年英国国王欠Penn家老爷子William Penn钱（国王都欠你钱，这才是真.大财主），就把宾西瓦尼亚那块地送给Penn家抵债了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;&lt;img src=&quot;http://p2.zhimg.com/9d/cc/9dcceae88c4968e19ae4f67779d3446a_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;417&quot; class=&quot;origin_image&quot; width=&quot;720&quot; onclick='ZH.showOriginImg(this, &quot;http://p2.zhimg.com/9d/cc/9dcceae88c4968e19ae4f67779d3446a_r.jpg&quot;)'&gt;=================================================&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;所以一直以来，身在英国的Penn家族才是真.殖民官，前面提到的殖民官Robert Morris是Penn家指派的。议会想找大地主Penn家收税，“傀儡”殖民官Robert只能护主子啊，这事情肯定不能批嘛。&lt;br&gt;&lt;br&gt;于是这个事情就变成了政治斗争了嘛，而代表想要收税的议会一方站出来说话的就是富兰克林。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/72/84/728449ef534339106573895c205a780d_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;304&quot; class=&quot;origin_image&quot; width=&quot;720&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/72/84/728449ef534339106573895c205a780d_r.jpg&quot;)'&gt;&lt;b&gt;================================================&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;当然了，Penn家也不是不懂让步的，毕竟防御组织不起来，到时打过来损失的还不是自己家的地？所以&lt;strong&gt;Penn家的提议是愿意出钱支援组织安保，但是议会必须承认其不具有对Penn家收税的权利&lt;/strong&gt;。&lt;br&gt;&lt;br&gt;&lt;strong&gt;这样，以富兰克林位代表的议会派就面对了了一个两难的局面：&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;1. 拒绝Penn家的提议，不收钱，防御组织不起来，安保成问题&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;2. 接受Penn家的提议，拿钱搞安保，但是放弃对Penn家收税的权利，失去立法自治权。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;img src=&quot;http://p1.zhimg.com/41/e4/41e4a0f3678d04c68a6c9921415849b7_m.jpg&quot; data-rawwidth=&quot;320&quot; data-rawheight=&quot;400&quot; class=&quot;content_image&quot; width=&quot;320&quot;&gt;================================================&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;看到这里你看明白了吧，富兰克林说的“基本权利”并不是人权云云，而是地方立法机构的自治权利，而“暂时安全”说的就是向Penn家和殖民官妥协，放弃自治权，来抵御外敌。&lt;br&gt;&lt;br&gt;所以&lt;strong&gt;富兰克林的话并不是说公民和政府利维坦之间的用自由换安全的交易，而是在讲，要保障集体安全，自治权是绝对的前提。如果放弃了自治权这个基本权利来换取短暂的安全，那么这两者早晚都是会失去的，在富兰克林眼中，自治的基本权利和安全不是此消彼长的，而是共同扶持的。&lt;/strong&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21277480/answer/17738469
 </link>
 <author>
@@ -32,7 +94,7 @@ http://www.zhihu.com/question/21277480/answer/17738469
 http://www.zhihu.com/question/20810799/answer/16948741
 </link>
 <author>
-知乎用户
+Youko You
 </author>
 <title>
 为什么整个意大利都没有星巴克门店？
@@ -186,7 +248,7 @@ http://www.zhihu.com/question/21261722/answer/17730946
 http://www.zhihu.com/question/21248688/answer/17647655
 </link>
 <author>
-知乎用户
+白刃可蹈
 </author>
 <title>
 如果存在一根30万公里的棍子，在一秒内推动它使另一端感受到，它传递的信息（棍子动了）岂不是快过了光速？
@@ -235,62 +297,6 @@ http://www.zhihu.com/question/21269463/answer/17730246
 </title>
 <description>
 我对周黎明骂小四粉的几句话到底在不在点上没啥可说的，要我说他说得还不够狠。即使他被一群傻逼气得恼羞成怒愤而一杆子打翻一船人把所有看郭小四作品的90后都定义为潜在的二奶和援交者，我也不觉得有什么不妥。&lt;br&gt;&lt;br&gt;我为什么这么说呢？要我说，大家把作品表达的价值观和为了赚钱而有针对性地向受众群体进行营销洗脑之间的差异给搞混淆了。也就是说，周黎明其实想要表达的、或者说他可能想要表达但词不达意的，批判的方向，和郭小四的“作品”传递或者起码暗示出的价值观本身并没多大关系，而和为了赚钱而无视起码的商业道德底线，将包含这样的价值观的产品（我不想用作品来定义郭小四包括陆琪、于正这些人的那些东西），通过外在形式的肤浅的美好和美貌的肉体的组合，包装成“童话故事”，销售给心智尚未成型、正处在三观塑造阶段的未成年群体有直接关系。这也是周黎明后半段中反复用好莱坞的同类电影进行举例类比的原因。&lt;br&gt;&lt;br&gt;和郭小四、陆琪一样，我们这些成年人（包括作品中的成年角色），主动承认物欲、追求物欲为了物欲奋斗（哪怕手段卑鄙无耻些）这本身都无可厚非甚至完全不可恨，但郭小四为了单纯的赚钱目的，把成人世界的物欲有目的性地童话化，将未成年人少女怀春的春梦具体物质化（而不是概念化，比如王子公主，白马城堡这样没有金钱标签的标志），这就是一种和我们批判腾讯、百度、蒙牛等没有区别的一种值得批判的无耻行为。郭敬明可能在智力上让人佩服，但他用这样的产品毒害未成年人的行为，在道德上和李彦宏、牛根生一样低劣。哪怕是制造出脑白金、《征途》这样的垃圾产品的史玉柱也比他要强百倍。&lt;br&gt;&lt;br&gt;至于说周黎明作为知名人士（所谓大V）回击郭粉是否有失身份，这其实是一个关于政治正确对有个性的人的思想的压制的问题。无论东西方，在互联网时代，由于权威的消解普通大众力量的崛起，哪怕是包括西方的媒体环境在内，政治正确已经彻底成为了矫枉过正到无视客观现实的一大毒瘤，甚至达到了对弱势群体（即使其实根本不弱势，只是观念上被视为弱势）必须一概包容不能批判的程度。奥巴马说加州司法部长是个美女，就会招致女权组织“性别歧视”的指控，可美女不过是一句赞美，这和公职身份以及她如何得到这一职务又有什么关系？彪马叔（Bill Maher，著名脱口秀主持人，左翼大喷子）因为在ABC狂黑布什和教会被撵出公共广播网，然后去HBO变本加厉，导致他下课的教会娈童现象难道不是经常发生？郭小四粉丝作为一群被郭敬明吃干抹净的盘中餐尚不自知，骂他们其实恰恰是当头一棒，当然如果都是榆木脑袋，也算周先生作为长者怒其不争的瞎操心了。&lt;br&gt;&lt;br&gt;最后附上我个人在微博上对这些郭粉的评价，我觉得我可比周先生狠多了，而我实际上很喜欢90后的：&lt;br&gt;&lt;br&gt;赞美愚蠢，本身就是愚蠢。同样立此存照。如果两个立此存照都没说错，得出的结论很简单：平庸在中国人所占的比例已经小于愚蠢了。无数貌似精明、一副“小时代”不过就是顺应“大时代”嘴脸的嘴巴们，你们还要不要脸。说好话的人中，凡是不从产业价值角度的，基本可以视为审美低下+毫无良心。&lt;br&gt;&lt;br&gt;郭敬明粉丝最大的愚蠢，和玉米类似，无非就是四个字：井底之蛙。在他们心中，郭敬明是宇宙中最好的作家，改行之后是最好的导演，而他们的依据？抱歉没依据，他们没看过别的作家和导演的作品，看了也看不懂。这和玉米“全宇宙只有春春一个艺人是巨星”的思维极其相似。唯一不同的是，春春确实很优秀。&lt;br&gt;&lt;br&gt;郭敬明作品虽然稀烂，人却极聪明，脑残粉们不要真以为他多把你们当回事，对于郭来说，你们就是一群没脑子的人肉提款机罢了，不要以为他真看得起你们。李宇春的情况就完全不同，虽然她的粉丝都一样蠢，可李宇春真把这些蠢货当成了衣食父母，总在迁就他们的想法，反而裹足不前。心理学稍微分析一下就能知道，粉丝其实都是受虐狂，越狂热的就越欠抽，小四把自己的粉丝不当人身上的肉全吃干抹净，粉丝们在被榨干前还要激动地说他是爱我的！而李宇春就反过来被粉丝们虐待牵着鼻子走，不仅无法挽救自己被粉丝毁掉的公众形象，还把真正配得上喜欢她的人拒之门外。&lt;br&gt;&lt;br&gt;郭智商情商皆高，但很不幸品味道德水准皆低下，尚不及史玉柱等被骂得狗血淋头的企业家。史玉柱的脑白金无用但至少不是毒物，哪怕网游《征途》档次极low堪称地沟油产品，还能让消费者满足杀戮快感。小四的产品不仅是毒物，读过之后还不能获取真实的性快感，因为那些奢侈品和美好肉体依然摸不到看不见。聪明又怎样，没用到正地方。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21261819/answer/17720682
-</link>
-<author>
-Hi-iD
-</author>
-<title>
-iOS 7 里的改变，有哪些是 Jony Ive 的工业设计理念的衍生？
-</title>
-<description>
-我不认为图标圆角的变化这一点就能说明工业设计理念的衍生，这只是一个小 trick （很多软件的官方帮助中都有 tricks and tips，看上去不重要但又很有帮助），而且将工业设计理念应用到界面设计中，这种说法也是很随意的，就像是说将建筑设计理念应用到工业设计中，或者做面的理念应用到做米饭中，两者之间没有可平移挪用的东西，如果说到“理念”和“思想”，那就直接说设计理念。人们之所以这么简单的说，是因为界面设计还年轻，一些界面设计师盯着的是几个著名工业设计师的产品而不是平面设计师的，也能说明因为年轻这个行业并没太多理念上的交锋和变迭。&lt;br&gt;&lt;br&gt;我对 iOS 7 的观感是保守、折衷和未完成，但我非常赞赏它的改变，包括设计理念的指引。有部分人对 iOS 7 感到极大失望乃至痛哭流涕，这种感觉我在 iOS 6 发布时也是如此（&lt;a class=&quot; wrap external&quot; href=&quot;https://twitter.com/hiid/statuses/212360563500658689&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;当时我的一条 tweet&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），这种伤心直到 iOS 7 发布才抚平。&lt;br&gt;&lt;br&gt;如要要问类似圆角变化这种变化有哪些（变化或许是来自工业设计师的经验的影响），排在第一的我会说是 Phone 的图标。&lt;br&gt;&lt;br&gt;&lt;img data-rawheight=&quot;200&quot; data-rawwidth=&quot;600&quot; src=&quot;http://p4.zhimg.com/36/d1/36d18b697d39bc38ef7a165821eaab2c_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/36/d1/36d18b697d39bc38ef7a165821eaab2c_r.jpg&quot;)'&gt;（上图截自：&lt;a class=&quot; wrap external&quot; href=&quot;http://www.flickr.com/photos/nielsboey/9024109783/sizes/o/in/photostream/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iOS6 vs iOS7 icon comparison&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;非常类似圆角的那种修正，新的电话的图标的轮廓线也可以看到这种精益求精，很多地方是没有经验的人注意不到的（没有经验不只是制作经验主要是视觉经验），比较两个图标，那个更容易让视觉提取轮廓，能够更快与电话这个指向概念联系起来？关于在这点的一些探讨可以见我的新文章：&lt;a class=&quot; wrap external&quot; href=&quot;http://www.hi-id.com/?p=2802&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;《一种新的设计构造思维》&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;新的电话图标是好看（老图标居然还绘出了听筒话筒斜面轮廓，不仅写实而且还老气），好看背后有视觉工作机制。&lt;br&gt;&lt;br&gt;所以，如果要说 Jonathan Ive 带来了什么，最简单不过了：&lt;br&gt;&lt;br&gt;''Most people make the mistake of thinking design is what it looks like, People think it's this veneer -- that the designers are handed this box and told, 'Make it look good!' That's not what we think design is. It's not just what it looks like and feels like. &lt;b&gt;Design is how it works.&lt;/b&gt;'' 来自：&lt;a class=&quot; wrap external&quot; href=&quot;http://www.nytimes.com/2003/11/30/magazine/30IPOD.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The Guts of a New Machine&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;这句话人们经常会应用，但是并不是容易理解的，包括设计师，因为类似观点似乎每个设计师都会说，比如设计不是样式之类，而且书上也说，比如 Bruno Munari 的《Design As Art》中就有专门的一篇文章（我看这本书时，甚至有点怀疑 Steve Jobs 或 Jonathan Ive 的这个观点与这本书有关，因为也用了 veneer 这个词）。&lt;br&gt;&lt;br&gt;我认为就是这句话是 Jonathan Ive 介入人机交互界面设计以来最大的变化（&lt;a class=&quot; wrap external&quot; href=&quot;http://www.apple.com/ios/ios7/design/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iOS 7 Design 介绍页面&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;已经写得明确不过了）。不少人会将 how it works 看作是硬件软件的运行之类，其实设计也是运行的，而不是强加的外皮。&lt;br&gt;&lt;br&gt;理解这个最简单的就是如我在这个问题&lt;a class=&quot;internal&quot; href=&quot;http://www.zhihu.com/question/21212099/answer/17531967&quot;&gt;iOS 7 全新外观界面有哪些让人心动的细节？&lt;/a&gt;下的回答说到的 Apple 不会去掩盖或掩饰本该在那的东西，比如对天线部分塑料的处理（没有作表面上的覆盖而去强调视觉甚至触觉上的一体性）和设计（在设计时也没去考虑“掩盖”这个问题），包括各种接口处的设计，去比较其他厂家的产品，也能发现这一点。这种坦率的背后当然是对事理的尊重。&lt;br&gt;&lt;br&gt;&lt;img data-rawheight=&quot;200&quot; data-rawwidth=&quot;600&quot; src=&quot;http://p3.zhimg.com/bf/a0/bfa0eec1d27afb6903915bdc3017b0a0_m.jpg&quot; class=&quot;origin_image&quot; width=&quot;600&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/bf/a0/bfa0eec1d27afb6903915bdc3017b0a0_r.jpg&quot;)'&gt;（上图截自：&lt;a class=&quot; wrap external&quot; href=&quot;http://www.flickr.com/photos/nielsboey/9024109783/sizes/o/in/photostream/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iOS6 vs iOS7 icon comparison&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;来看看这个 Photos 的图标，“照片”需要一个图标去指向，用什么指向，因为“照片”在这里是没有人类通用的符号的，或许我们可以用一朵花是指向它，也是可以的，但我们首先需要建立“花=照片”的关系，但问题来说，为什么不用草呢，用树呢，用风景比如沙漠呢，或者为什么不用肖像相片呢？再把话题扩大一点，iOS 6 通知中心的背景为什么不用木材呢为什么不用石材或者纸质呢？这里面就有一个“选择”的权重在增加，一旦“选择”的增加，势必失去了“how it works”这个基点。设计师的选择的强加，这一点对比 Windows 系统的系统默认壁纸选择就可以明白，Mac OS 也有壁纸，但是比较两者，这不是关于品味的问题，而是对设计理解，退一步说，一个操作系统的壁纸不能选择开发者全家福照片吧，以此推进，就能明白为什么星空更富全人类通用性，也符合背景的运行原理。&lt;br&gt;&lt;br&gt;iOS 6 Photos 的图标为什么不用富士山？这是一种选择，也没有太多的“工作原理”来支撑，花朵比富士山更有全球通用性，那为什么不用玫瑰花呢，玫瑰花有特殊含义而且不常见，那为什么不用菊花呢……这样持续问下去，会发现向日葵是其中一个还算不错的选择，但是不能排除选择的强加性。那么 iOS 7 的 Photos 图标不也是一种选择吗？&lt;br&gt;&lt;br&gt;当然是一种选择，但是我们需要考察其中工作原理，就是符号认知的工作原理，如上所说，在 iOS 6 上我们花了一些时间建立了“花朵=照片”的映射关系，那么当我们需要这个功能时，就去找花朵，我不说向日葵，是因为很多人都认识不到它是向日葵，即使认识到它是向日葵，在我们寻找图标的过程中也会用花来替代，向日葵来作为符号有太多的冗余信息了，抛弃这些荣誉信息，人类在象形文字时代就会了，而且在中文中“向日葵”这个词多么难念，它也作用于图标的认知过程哦，因为设计师建立了一堆复杂的指向关系。使用熟练了，不会察觉这个过程的复杂，但这个工作原理是每次都运行的，因为花朵形象的复杂，我们眼睛需要更长的时间和精力来概括其轮廓。而 iOS 7 抛弃了“花朵=照片”的映射关系，或许有人会认为那是花，但“这图形=花”这组关系早已在运行原理之外了，我们建立了是一组“这图形=照片”的映射关系，省去了“花”这个干扰，而且它的轮廓是多么容易概括，这也是符号的工作原理，就像文字一样，在日常使用中你会去分析每一笔画的集合形态吗？&lt;br&gt;&lt;br&gt;接着来质问这个图形的选择性，当然这里面有设计的选择性，这个图形更不是全人类共通的，拿给初次使用者，或许比 iOS 6 的向日葵更难和照片对应起来（“或许”的原因是我对此怀疑），但是当这种关系建立起来之后，iOS 7 靠着它的识别快捷性占据优势，那么使用一个三角形不是更有优势，这样我们又可以无止境的问下去，然后发现使用现在这个图形也是有些道理的，但纵不能反驳它的选择强加性，可是，开看看我们的文字也是如此，所以应该放到整个系统中来评价，iOS 7 的 Photos 图标当然是受制于系统的，这也是为什么 iOS 7 能够使用黑色和白色背景作为图标背景的原因，它很容易识别，这种符号关系很容易建立。&lt;br&gt;&lt;br&gt;至于图标舔起来没味道，iOS 是一个系统，相信以后仍然有很多应用的图标还是可以舔的。但不过话说回来，黄色小说并不会随着黄色电影的诞生而消失，如果喜欢，还是可以舔的。&lt;br&gt;&lt;br&gt;由此可以展开到 iOS 7 的其他方面，Apple 设计的时候当然不可能是这样一步步思考的，但是设计的指引无疑就是 how it works，how it works 就是 Jonathan Ive 带来的理念，虽然我对 iOS 7 不太满意，但是对其带来的视角改变，以及反映到最终一些视觉风格上，我非常赞赏。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21151363/answer/17731476
-</link>
-<author>
-东东枪
-</author>
-<title>
-如何写出一个好段子？
-</title>
-<description>
-自从马伯庸老师说出了“三种典型的段子范式：谐音误解、预期违背和同文异读”这句话，我已在无数个场合见到各种不同的人来套用这个理论。&lt;br&gt;我个人认为马伯庸老师的这个总结是不够严谨的。我记得有一次跟他一块儿乘飞机，跟他聊起过这事儿。&lt;br&gt;在我看来，谐音误解、同音异读都是构建包袱儿的方法，预期违背则是这两种方法（以及很多其他方法）的本质归纳。这三个词，并非同一种层级，不该并列在一起。谐音误解、同音异读之类，更应该跟其他各种&quot;叙述性诡计&quot;并列才更科学点。&lt;br&gt;&lt;br&gt;而谐音误解、同音异读也只是无数构建“预期违背”的方法之一。这样的方法还有很多。 我们现在在网上常见的段子是出自这几个手法，并不代表写段子（尤其是如题目问的“写一个好段子”）时，该以此为创作guideline。&lt;br&gt;恰恰相反，我觉得现如今，谐音、异读类的包袱儿已经过度泛滥。你们去微博上看看。不烦么？不腻么？&lt;br&gt;&lt;br&gt;写段子需要灵感，也需要方法。二者有其一，就不难写出一些有效果的段子来了。但要写出大量的“好段子”来，二者都是不可少的。&lt;br&gt;&lt;br&gt;其实我在知乎回答的第一个问题就是“&lt;a href=&quot;http://www.zhihu.com/question/19568657&quot; class=&quot;internal&quot;&gt;如何创作/编撰一个笑话？&lt;/a&gt;”是2011年。&lt;br&gt;当时我的答案是：&lt;br&gt;&lt;blockquote&gt;1. 先从多阅读别人的笑话与幽默作品开始。&lt;br&gt;2. 时刻观察身边与自己内心的荒谬。尤其是那些“不体面的真实“。&lt;br&gt;3. 学会适当地打破禁忌、打破规则。&lt;br&gt;4. 学会如何顺畅生动地表达。&lt;/blockquote&gt;现在我的观点仍然是这样。&lt;br&gt;&lt;br&gt;如果稍加解说的话：&lt;br&gt;第一条，多阅读，是接受熏陶，熟悉各种笑话的样式和套路，以后灵感是会从那些套路中冒出来的。这比记住几个生硬的名词和规则有用得多。&lt;br&gt;第二条，“好段子”不是被发明的，而是被发现的。浑然天成的段子才配叫做好段子，扭捏做作的都是下品。我不得不再提“情理之中”这四个字。“意料之外”足以形成一个段子，“情理之中”才是鉴别段子与好段子的标准。那些生拉硬拽的谐音、异读，令人生厌。&lt;br&gt;第三条，打破禁忌、打破规则是要跳出常态思维——跳出正常的思路，才有“预期违背”。&lt;br&gt;第四条，是技术上的精进——发现了一个好的“预期违背”，但却被节奏混乱的表述拖了后腿，是不应该的。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19866584/answer/13207586
-</link>
-<author>
-关雅荻
-</author>
-<title>
-中国的电影市场，对好莱坞电影的意义有多大？
-</title>
-<description>
-中国电影市场对好莱坞意义，短期内意义不在于某部影片票房有多高，或是还用多久中国已成为好莱坞电影海外票房第一大市场？ &lt;br&gt;&lt;br&gt;目前问题关键根本不在这里。 &lt;br&gt;&lt;br&gt;中国对于好莱坞而言，目前正在继日本、德国、俄罗斯之后，可能成为下一个最大的好莱坞海外金主，投资人，出钱的，随便怎么说了。。。 &lt;br&gt;&lt;br&gt;但是否会真的走向这一步，还不好说，但中国电影投资人走向好莱坞是不可逆的。 &lt;br&gt;只是希望能吸取足够多”前辈们“的经验教训就好。。。  &lt;br&gt;&lt;br&gt; 我上月刚从美国呆了两个多星期回来，从西海岸到东海岸，因为工作原因，见了好莱坞各大Studio高层、那几个mini major、资深制片人、制片公司、特效公司、后期公司、就那几个大的Agency，还有银行家和专业律师。。。好莱坞其实最有权力的是这个行业的资深律师，这次感触很深。。。 &lt;br&gt;&lt;br&gt;还有很多电视行业的最资深的行业创始人，全都是白发老头老太太了，但每次会面人家还在聊创新和行业前景，佩服佩服，然后就是各路投资领域的人。 &lt;br&gt;每天开会到脑子发木，但可以说第三次去美国，终于可以接触到好莱坞最本质的一些东西了，每天都在不断颠覆掉很多旧的认识，更新很多信息。。。  &lt;br&gt;&lt;br&gt; 全球投资环境不好，好莱坞更是如此，各Studio缩减政策超出我之前想象，当然貌似就多出了投资机会。 &lt;br&gt;但真的是机会吗？  &lt;br&gt;&lt;br&gt; 中国电影市场进入好莱坞的机会在于资本，但问题就在于资本如何进入，能否进入好莱坞核心，大胆的重写规则，在好莱坞核心建立起合理的资本架构，而不被好莱坞的老油条们牵着鼻子走是最关键的。 &lt;br&gt;反正被对方牵着鼻子走，肯定没有好结果，历史反复证明了这一点。 &lt;br&gt;&lt;br&gt;所以，在我看来中国电影市场背后的各路投资人，正在被好莱坞看作ATM，你说中国政府已经买了那么多美国国债了，好莱坞现在是打算继续从中国身上再多榨出来些钱来。。。  &lt;br&gt;&lt;br&gt; 不久的将来，真不用太久，从技术层面上，各位业内朋友不用再担心每年的国产片票房比例问题了，因为保不齐《功夫熊猫3》《变形金刚3》《加勒比海盗5》《钢铁侠3》统统变成了合拍片了，票房都算成国产片收入，估计2013年末日之后，全年票房超过200多亿，然后国产电影票房收入比重占到70%以上！ &lt;br&gt;然后”彻底打败好莱坞电影“。。。。yeah。。。 &lt;br&gt;&lt;br&gt;一年前我的冷笑话，正眼睁睁看着成为现实。。。因为《敢死队2》据说已经给整成”合拍片“了。。。 &lt;br&gt;凯奇大叔哪天要给拍个国产好莱坞电影，大家不会觉得奇怪吧。。。  &lt;br&gt;&lt;br&gt; 所以，中国电影市场对好莱坞的真正价值不在于引进片票房分成这么个具体事情上，而是中国电影市场代表的中国整个消费市场和其背后涌动的各种资本力量。 &lt;br&gt;&lt;br&gt;不知道为啥，让我想到了《猿族崛起》。。。 &lt;br&gt;拭目以待。。。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21271154/answer/17726624
-</link>
-<author>
-田浩
-</author>
-<title>
-《我在金三角卧底十年》这本书里面描述的作者经历是真实的吗？
-</title>
-<description>
-如果让我写一本在云南禁毒的书，我一定在自序里告诉读者，这本书是根据回忆、改编而成，绝不要当做确凿的事实来看，因为人的回忆是有很大错误几率的，而且多年过去，很多事情只能记得框架而无法知道细节。&lt;br&gt;&lt;br&gt;这个问题早上邀请我来回答，由于没看过这本书，不方便乱说。所以当时我去网上下载了这本书，下午起床后看到59%，从书面上看，作者应该是举报过不少案子的。但是很遗憾，书里所举的几个案例我没有见过。比如他说老虎皮下藏毒，我相信这在技术上无法操作并且很容易就会被查到，我以前经常喜欢看案例，各种千奇百怪的藏毒手法都见过，但却没见过用老虎这种本来就容易引起注意的动物身体藏毒的。&lt;br&gt;&lt;br&gt;凡是这一类的书，总是能找出无数硬伤的。即使我来写，我以前的同行也能找出很多于事实不符或者于常理有悖的地方，这是不可避免的。但不得不说的是，这本书写的文笔是挺差的，其次，全本书没说多少禁毒的事情，很多情节是在说作者本人在杨茂良麾下做高级军官行侠仗义的事情。这让人很不舒服，你既然书名说卧底了，那就写像一点，何必这样挂羊头卖狗？&lt;br&gt;&lt;br&gt;既然回答了这个问题，书也看了一大半，总是要找出几个硬伤来。下面请看：&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;国内某工厂厂长，携情妇来云南边疆旅游，尽情挥霍，手头拮据。随身携带38套防弹衣样品，本是提供中国部队的，这时为解决燃眉之急，竟向大毒枭杨茂良推销。&lt;br&gt;&lt;/blockquote&gt;看到没有，某厂厂长到云南旅游要带38套防弹衣，离奇的是没钱的时候不想办法弄钱，还把作为样品的防弹衣卖到国外。如果说这个情节都说得过去，那我们看下一个：&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;在中国多次收缴民间武器之前，我家中备有猎枪、气枪多支，&lt;b&gt;我常给气枪装上绿豆打苍蝇&lt;/b&gt;。艺高人胆大，我把一支崭新的半自动步枪拿在手里，&lt;b&gt;故意大声说：看我打衣领位置！硝烟散后，士兵跑过去将避弹衣取回，众人抢着围观，只见第一颗纽扣被打得粉碎，避弹衣本身完好无损&lt;/b&gt;。观众欢呼，掌声雷动。我更是神采飞扬，兴奋异常，却谦虚地说：“雕虫小技，雕虫小技！”事后，瑞丽国安局长连声称赞说：“干得好！干得好！”他特别欣赏我拿别人的东西送礼。那位厂长多次找杨茂良，凭他的身份当然见不到；又一再地找我，都被我有意回避。万般无奈，他只好卖掉相机和情妇的项链作为旅费，非常狼狈地滚回去了。对待这样的腐败分子，就应当捉弄他一下。&lt;/blockquote&gt;&lt;br&gt;如果说“撞上绿豆打苍蝇”是修辞手法的话，那还算说的过去。但是，一枪打碎一颗纽扣就有点玄了。我所见过的中国军队防弹衣，都是前后两块钢板，中间用魔术贴固定，是没有纽扣这种神奇的东西存在的。不过我军事理论知识有点，见识也不算广博，不知道有没有人见过？&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;婚礼上我办的第三件事，就是以我的军事知识，镇服了杨总司令及其手下将领。杨茂良忘恩负义，他是赶走了把他一手提拔起来的彭司令，而窃据“总司令”的位置的。一切来不及收拾，就急着为儿子筹办婚礼，到处散发着焦煳味。杨茂良向我请教军事部署，我有意卖弄一番，有问必答，伺机向他进言。我首先提出将通讯连迁出司令部，因为电台发出的电磁波，很容易被人锁定目标，威胁司令部的安全，他欣然接受了我的建议。我又提出警卫营离得太远，远水不救近火，要搬进司令部，进驻通讯连的位置。仅有门卫是不够的，或明或暗要设三道防线，最远的流动哨应在五公里之外。再者，不是什么制高点都占，它设在牛峰山上的炮兵阵地（仅有各种口径的迫击炮和少量的“二联”、“四联”高机）位置太显，易被政府空军轰炸，应改在较为隐蔽的二号高地。诸如此类的建议，他——接受并大加赞扬。他手下军官还提出要求，让我上一堂军事课。恰好我手头有一套泰国皇家军事学院关于“热带雨林作战”的教材，针对杨茂良这支轻步兵部队，我做了热带雨林游击战的生动讲述。&lt;/blockquote&gt;上面这一段可以看出，作者真把缅甸那些枪林弹雨血雨腥风起来的军阀毒枭当傻逼二百五了，何况是杨茂良这样级别的，要知道杨茂良是能跟彭家声斗上几个回合还略占上风的人，真这么容易被忽悠早不知道死多少回了。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;经赖先生的手运到香港的鸦片膏就多达10000吨。打着制药的幌子，手持香港政府的证明，此项运输畅通无阻。&lt;br&gt;&lt;/blockquote&gt;作者说的应该是95年前后几年，香港人口应该在600万左右。一万吨等于两千万斤，也就是说，当年香港每人每年要消耗大约3.3333……斤鸦片。这就太危言耸听了，中国受鸦片毒害最严重的时候，人均也没有达到这个数吧。作者要么是笔误，要么没有仔细算过瞎编，要么年纪大了被赖先生蒙了。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;在轻武器方面，我堪称专家。一眼便看出，这是缅甸产的大口径手枪。此枪震动大，发声响，命中率差，不属于名枪之列。&lt;br&gt;&lt;/blockquote&gt;我觉得这段对枪的描述相当业余，竟敢号称专家。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;我从边贸市场开诊所的谢大夫那里了解到，穆老三给参与此项行动的人每人酬谢2000元。海洛因也不是放进腹腔，而是皮里肉外，因为腹腔中有异物会危及生命。这只老虎仍然比较瘦，皮肉松弛，凡有皱褶处皆可放入。两侧共放8块，以每块750克算，共6公斤。我计算虎笼起运日期及路线，及时通知了某检查站，却始终没见虎车经过&lt;/blockquote&gt;这个案例如果存在，那我认栽了。我自认为新中国建国以来，大部分有代表性的经典案例我都看过。所以这个案子存在，我应当会有印象，可很遗憾，这样的案子我闻所未闻。这条我是凭空猜测。&lt;br&gt;&lt;br&gt;类似这样的硬伤，可以找到无数处。结合作者书中写到的一些案例与结识的人，我更愿意相信作者是一个与中国边防部队过从甚密的线人，对边境地区贩毒情况有一定了解，并且有部分渠道获得信息。而他说他接触过杨茂良、卓枫这一类人，那就真值得推敲了。因为全书没有多少是写禁毒的，大部分都是些在缅甸当地破了什么案子，这让我很纠结，卧底不应该是一场英雄主义的自我满足。&lt;br&gt;&lt;br&gt;（我看的书是网上下载的盗版，看了一半之后，我觉得没必要再看下去浪费时间了。所以也没打算买实体书，向作者致歉。）
 </description>
 </item>
 </channel>
