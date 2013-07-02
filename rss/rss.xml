@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21241629/answer/17741865
+</link>
+<author>
+知乎用户
+</author>
+<title>
+Google Loon 的工作和悬浮方式跟气象气球一样吗？
+</title>
+<description>
+和气象气球（或者说所有气球）的原理都类似，但是这么说等于没说，把一个复杂的问题太简化了。&lt;b&gt;实际上，谷歌Loon用的气球技术含量非常高。&lt;/b&gt;听我慢慢道来。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;控制手段不同&lt;/u&gt;：&lt;/b&gt;&lt;b&gt;绝大部分气象气球都是不停上升到一定高度破裂，运动轨迹完全看风向。&lt;/b&gt;&lt;b&gt;而Loon的气球是可以主动调节高度和位置的&lt;/b&gt;。调节位置的方法也非常巧妙，利用了平流层不同高度的风向不同这一特点来调整气球的位置。通过充放气来调整气球的高度（非常节省能量）就能借助风力到达指定的位置。为此我特地去美国国家海洋气象管理局NOAA的HYSPLIT项目网站预测了洛杉矶在某个时刻，平流层中颗粒物运动曲线，确实验证了这一点。比如后面两幅图，上图在15000米高度的时候，风会向西吹向大陆；而下图20000米高度的时候，风会向东吹向海洋。&lt;b&gt;显而易见，要实现可靠的位置调节就要对高空风向有精确的预测，并且有一套完整的错误修正机制，背后的计算和控制算法（比如找到合适的高度）都是相当复杂的。&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/3c/2b/3c2b2f3ad756bb6db4008a404092e758_m.jpg&quot; data-rawwidth=&quot;523&quot; data-rawheight=&quot;642&quot; class=&quot;origin_image&quot; width=&quot;523&quot; onclick='ZH.showOriginImg(this, &quot;http://p4.zhimg.com/3c/2b/3c2b2f3ad756bb6db4008a404092e758_r.jpg&quot;)'&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0f/60/0f605b4af03d9b3d7efe85d216997f6c_m.jpg&quot; data-rawwidth=&quot;525&quot; data-rawheight=&quot;642&quot; class=&quot;origin_image&quot; width=&quot;525&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/0f/60/0f605b4af03d9b3d7efe85d216997f6c_r.jpg&quot;)'&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;使用次数不同&lt;/u&gt;&lt;/b&gt;：&lt;b&gt;气象气球的无线电探空仪基本上都是用完就丢掉的&lt;/b&gt;，因为探空设备、气球和无线电发射机都非常便宜。&lt;b&gt;而Loon的气球和下面的仪器设备是要最终回收的&lt;/b&gt;，地面可以远程控制Loon到指定地点降落进行维护，比如充气，检修电子设备，更换电池，修补破损等等。&lt;b&gt;可回收让Loon的系统运营成本大大降低&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;尺寸不同&lt;/u&gt;&lt;/b&gt;：气象气球通常携带的无线电探空仪只有250克，所以气球大小最大也不过几米就够了，而Loon的气球由于需要携带重达10公斤的仪器、电池、太阳能板等等，所以尺寸也大多的——下图中的Loon有15米的直径！可以看到下图气球和右下角人的尺寸对比。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f1/8f/f18fecaa8cc39f1cf64ed55631a00219_m.jpg&quot; data-rawwidth=&quot;781&quot; data-rawheight=&quot;581&quot; class=&quot;origin_image&quot; width=&quot;781&quot; onclick='ZH.showOriginImg(this, &quot;http://p3.zhimg.com/f1/8f/f18fecaa8cc39f1cf64ed55631a00219_r.jpg&quot;)'&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;材料不同&lt;/u&gt;&lt;b&gt;：一般的气象气球由于用完丢掉，所以从成本追求廉价，都是橡皮制成，&lt;/b&gt;&lt;b&gt;都充最便宜的氢气&lt;/b&gt;。&lt;b&gt;Loon为了安全充的是昂贵的氦气&lt;/b&gt;。对于Loon来讲，橡皮有两个问题：第一是对于氢气氦气这样微小的分子来讲，橡胶分子之间的间隙足以让氢气或者氦气迅速逃逸；第二就是使用寿命太短，过不了几天橡皮就失去弹性老化破裂了。Loon的气球采用聚乙烯材料，加上特殊涂层，防止氦气泄露。补充一句题外话，氦气是地球上的稀有元素，用一点儿就少一点儿，用完就没了。&lt;br&gt;&lt;br&gt;&lt;b&gt;任何一项技术，从原理（物理原理大家中学都学过）到实用，其中需要关注的细节不计其数——创新是否成功，魔鬼就在细节之中。&lt;/b&gt;Loon用到的气球就是很好的例子，除了简单的物理学浮力原理，还需要考虑空气动力学、不稳定系统的控制理论、可靠的无线电通信、分子材料学、运营规划、成本最优化等诸多领域的知识。&lt;br&gt;&lt;br&gt;参考：&lt;br&gt;NOAA HYSPLIT网站&lt;a href=&quot;http://ready.arl.noaa.gov/hysplit-bin/trajtype.pl&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;ready.arl.noaa.gov/hysplit-&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;bin/trajtype.pl&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，可以自己预测美国当地某个城市的空气中微粒扩散情况。&lt;br&gt;&lt;br&gt;顺便吐槽一下，国家气象局是没有把这些研究成果（我相信他们一定有这方面研究）公布给纳税人来用的，气象局首页除了各位领导头衔，头条新闻就是“中国气象局传达学习全国组织工作会议精神”。相信在中国的环境，类似Loon的创新是很难做出来的——你没有大气流动的数据，就无法控制你的气球。作为一个初创公司，你不可能自己砸钱建立全国的气流预测网络吧？参考我的另一个回答&lt;a href=&quot;http://www.zhihu.com/question/20268663/answer/17107229&quot; class=&quot;internal&quot;&gt;为什么中国人缺少创造力？&lt;/a&gt;——其中提到一点，&lt;b&gt;中国人不缺创造力，恶劣的环境抑制了创造力成长出有深远影响的技术和产品&lt;/b&gt;。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20425159/answer/17739128
 </link>
 <author>
@@ -283,20 +297,6 @@ http://www.zhihu.com/question/21248688/answer/17647655
 </title>
 <description>
 我认为破题的关键在于你不能把棍子看作绝对刚体。&lt;br&gt;&lt;br&gt;&lt;br&gt;30万里的左面，你的手指戳了上去。&lt;br&gt;&lt;ol&gt;&lt;li&gt;手指速度&amp;lt;波速。首先，30万里的左端开始形变。这个形变将以某个固定的速度传播到30万里的右端。随着波的传播，另一边感觉到了你的信息，于是他向右拱了一下。此时信息的速度是物质中的纵波速度。&lt;/li&gt;&lt;li&gt;手指速度&amp;gt;=波速。首先，30万里得左端开始形变，然后你的手指超过这个形变，在形变还没反应过来之前就超越了他，此后的形变都只能跟在你屁股后面吃灰。一路狂飙突进，把棍子从中劈开，右端懵懵懂懂得等待着你邪恶的手指。此时信息的速度是你手指的速度。&lt;/li&gt;&lt;/ol&gt;&lt;img src=&quot;http://p1.zhimg.com/8b/c4/8bc45c4655ecd81390ea83131cacc308_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;182&quot; class=&quot;origin_image&quot; width=&quot;500&quot; onclick='ZH.showOriginImg(this, &quot;http://p1.zhimg.com/8b/c4/8bc45c4655ecd81390ea83131cacc308_r.jpg&quot;)'&gt;图from wiki &lt;a href=&quot;http://en.wikipedia.org/wiki/Sound_barrier&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Sound barrier&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21269612/answer/17721839
-</link>
-<author>
-一张钞票
-</author>
-<title>
-如果《小时代》在美国上映，美国人会像现在国人这么批评它吗？
-</title>
-<description>
-一个靠抄袭起家的作家的成功，在美国是不会发生的，他根本走不到拍电影这一步。美国对知识产权的保护会让郭敬明把抄袭挣的钱全部都吐出来，然后洗洗睡，出版方也会对抄袭作家嗤之以鼻。&lt;br&gt;&lt;br&gt;如果只是一部单纯的烂片，美国每年的烂片无数，imdb和rotten tomatoes都会有反应，但很少有能够造成大的舆论影响的，除非触及到一些政治正确的话题，比如种族，恐怖主义什么的。中国的政治正确同美国不太一样，当下主要是财富矛盾，所以《小时代》中枪。&lt;br&gt;&lt;br&gt;Edit:&lt;br&gt;&lt;a class=&quot;member_mention&quot; href=&quot;http://zhihu.com/people/cherrybomb&quot; data-tip=&quot;p$b$cherrybomb&quot;&gt;@是果&lt;/a&gt; 第一段不能同意。畅销书大卖，作家成名光明正大天经地义。但是郭老师最才华的地方基本靠抄袭出来的，你咋能说他在一个不能抄袭的地方一样会成功。
 </description>
 </item>
 </channel>
