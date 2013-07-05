@@ -29,27 +29,13 @@ http://www.zhihu.com/question/20785270/answer/17796573
 </item>
 <item>
 <link>
-http://www.zhihu.com/question/21294553/answer/17798950
-</link>
-<author>
-Fenng
-</author>
-<title>
-Fenng在微博上跟阿里员工地面部队1的争吵，孰对孰错？
-</title>
-<description>
-我今天电话里说了这样一句话：&lt;b&gt;我有错，但阿里某团队错更大&lt;/b&gt;。在内网和微博搞我，从 CEO 到一线员工一起声讨，阿里高管在内网争相表态，更是跌份儿。至于么? 我觉得有点过了吧? &lt;br&gt;&lt;br&gt;如果那条微博有问题，公关给我个私信或是打个电话让我删掉，我会照办。如果说我造谣，起诉我或是去新浪微博举报，我也会承担责任。何况周一我还遇到负责公关的某 VP ，说起此事，随便聊了几句，根本没有严重到现在的地步，否则的话，当初直接告诉我删掉就行了。现在好，变成了他曾经「质问」我，我表示没被「质问」过。&lt;br&gt;&lt;br&gt;所以标题有一个「以及一群傻B」。之所以此事引起我如此反应，就是因为这根本就不是一个普通员工的个人行为(我都不认识也没见过这个人他还能写出一大堆东西来)。 何况，该炮轰贴大玩「诛心论」，又有人将矛头指向我的家人(事实上我发发布的跟阿里有关的信息，一般的总监级以及以下的人根本都接触不到，投资类的信息 VP 有的都不知道)。我面对如潮的口水打不过，打不过也要打。&lt;br&gt;&lt;br&gt;延伸阅读：&lt;br&gt;&lt;a href=&quot;http://hutu.me/730&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;回应一下阿里巴巴集团的一个以及一群傻B&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
 http://www.zhihu.com/question/21296251/answer/17798392
 </link>
 <author>
 程劭非
 </author>
 <title>
-有关ie浏览器兼容性的八卦问题？
+为什么 IE 7 和 IE8 没有跟上 W3C 标准，致使一堆兼容性问题产生？
 </title>
 <description>
 微软于2001年推出IE6，在当时，IE6是世界上标准执行得最高的浏览器（尽管仍然有不少未执行到的部分），当时其主要竞争对手是Mozilla的前身NetScape，还在使用位掩码来绑定事件，而8年后Chrome才推出。&lt;br&gt;&lt;br&gt;除了当时的W3C标准，微软的IE6还提供了大量的私有技术来增进Web体验，包括广受欢迎的filter、VML以及ActiveX控件，最重要的是，微软做了大量的容错处理，使得不良的HTML也能在IE上被基本正确渲染，这是当时标准中未规定的。&lt;br&gt;&lt;br&gt;正因为其对标准的强力支持和扩展，微软IE的市场份额在顶峰时期达到98%，正是这样的胜利让管理层认为IE已经没有开发的价值，这支史上最强的浏览器团队被解散。之后的许多年里微软一直几乎不再理睬W3C的标准化进程（这也导致了不少微软技术没有进入标准）。&lt;br&gt;&lt;br&gt;而因为Vista的延期，原本预定随着Vista发布的IE7足足比预期晚了3年才上市，且毫无疑问这支新接手IE的中国研发团队并没有太多浏览器内核开发经验，除了一些细节改进，IE7的主要变化集中在tab browsing上。&lt;br&gt;&lt;br&gt;此后，Firefox和Opera等浏览器已经逐渐赶上IE的功能，Web标准也把一些新技术纳入其中，Chrome推出更让IE市场份额大幅度缩水。在巨大的压力下微软推出了IE8，但是微软冗长的发布流程让IE8在发布的时候就又跟不上时代，而且仓促间推出的产品bug也远多于前代产品。&lt;br&gt;&lt;br&gt;以上。
