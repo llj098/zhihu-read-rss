@@ -15,10 +15,26 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20569670/answer/16391213
+</link>
+<author>
+沈锋
+</author>
+<title>
+不翻墙如何更好的使用 Google 搜索？
+</title>
+<description>
+直接访问ip会非常的快，有些服务器可能是在国内得，比如&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://203.208.46.145/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;http://203.208.46.145/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;这是北京的机器，快到飞起来。&lt;br&gt;&lt;br&gt;修改：&lt;br&gt;这条消息被微薄朋友转发，由于直接IP访问，绕过了Google 的DNS cache，这台机器可能访问会增加，也有可能被封杀，授之以鱼不如授之以渔， 写下找IP的方法，以后大家就可以自己找了：&lt;br&gt;&lt;br&gt;Linux 下面有个命令 叫 dig （nslookup 也有类似的功能，其他系统可能也有类似的DNS工具）&lt;br&gt;&lt;blockquote&gt;dig &lt;a href=&quot;http://google.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;google.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;可能的返回：&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;google.com.		51	IN	A	74.125.128.138 google.com.		51	IN	A	74.125.128.139 google.com.		51	IN	A	74.125.128.100 google.com.		51	IN	A	74.125.128.101 google.com.		51	IN	A	74.125.128.102 google.com.		51	IN	A	74.125.128.113
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;其中 74.125.128.138 等为ip， ping一下，看看latency，如ping 74.125.128.138&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;ping 74.125.128.138                                                                                                                                                                                                                                                               PING 74.125.128.138 (74.125.128.138) 56(84) bytes of data. 64 bytes from 74.125.128.138: icmp_req=1 ttl=48 time=59.2 ms 64 bytes from 74.125.128.138: icmp_req=2 ttl=48 time=62.4 ms 64 bytes from 74.125.128.138: icmp_req=3 ttl=48 time=53.9 ms 64 bytes from 74.125.128.138: icmp_req=4 ttl=48 time=56.0 ms
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;latency在200ms内的，都是很靠谱的，放心使用。&lt;br&gt;&lt;br&gt;另外，网上有别人总结的IP，改修的host文件什么的。我个人喜欢记住一个IP，在脑子里面的比较保险而已。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21327802/answer/17912949
 </link>
 <author>
-知乎用户
+张小北
 </author>
 <title>
 新浪微博开始在timeline置入大量推广微博，会因此而流失大量用户吗？
@@ -144,7 +160,7 @@ http://www.zhihu.com/question/20962057/answer/16813523
 http://www.zhihu.com/question/21271537/answer/17915570
 </link>
 <author>
-知乎用户
+Lu Frank
 </author>
 <title>
 偷渡到欧洲的中国人有哪些故事？
@@ -277,20 +293,6 @@ http://www.zhihu.com/question/21314030/answer/17893177
 </title>
 <description>
 个人在欧洲的经验：&lt;br&gt;&lt;br&gt;我完全不会西班牙语。一次在西班牙旅游被抢，在警局做笔录，要签字的文件都是西班牙语的。但是因为我法语流利，完全可以看懂理解。&lt;br&gt;当晚在救助站住了一晚，同屋是个厄瓜多尔难民，几句之内就摸清了西班牙语的日常用语，然后和他聊了一晚上。&lt;br&gt;&lt;br&gt;我完全不会希腊语。去希腊前熟悉了一下希腊字母到拉丁字母的转写规则，及发音规则，了解几句日常对话。旅游期间，借助其他语言基础，只要可以拼读出来的，经常就可以理解大意。&lt;br&gt;我完全不会瑞典语或荷兰语，但是在瑞典和荷兰读标志也没有问题，因为可以从德语和法语推断大意。&lt;br&gt;&lt;br&gt;欧洲人会多门语言就是这么个情况，就像我不会无锡话，但是因为我会上海话，在无锡就可以听懂很多；我也不会香港粤语，但是因为我说汉语和英语，在香港生活就没问题……甚至去日本都可以笔谈。&lt;br&gt;&lt;br&gt;一个会普通话的人学上海话，可不比一个会法语的人学西班牙语简单。&lt;br&gt;想象如果中国方言能成体系，有人整理，那你正经学四川话，能有多难？
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21320045/answer/17899250
-</link>
-<author>
-知乎用户
-</author>
-<title>
-仅从生产成本上计算，生产香水和生产花露水有多大差别？
-</title>
-<description>
-纠正另外一个答案的一点点错误，望作者理解与海涵。&lt;br&gt;&lt;br&gt;第一，现代香水制造行业里不存在“动物源麝香”，因为已被立法禁止，所使用的大部分为人工合成的麝香。但同为合成麝香，品质也有高低之分。&lt;br&gt;第二，天然原料&lt;b&gt;不绝对是&lt;/b&gt;香精品质高的保证。柑橘系的精油还有便宜的呢，二氢茉莉酮酸甲酯还有贵的呢。&lt;br&gt;第三，除了柑橘系之外，现代香水制造中，一般不在水果上提取精油，一是成本不值当，二是运用合成原料模拟水果香气的调香技术已经很成熟，所以一般很少见花“果精油”的说法。&lt;br&gt;&lt;br&gt;除了这几点，其他我都赞同。&lt;br&gt;日用品的制造，包装瓶身印刷装瓶都是成本，这块我不了解，就不说了。&lt;br&gt;&lt;br&gt;香水香精跟花露水香精明显不同。成本有高低之分，同样的香调有品质之分，例如同为玫瑰，天然玫瑰精油的质感是低价原料无法比拟的。&lt;br&gt;香水重点在于气味愉悦，层次丰富，为人的形象锦上添花，花露水的作用在于先清爽驱蚊其次才是“闻起来还不错”。两者作用不同，因此香水对香精品质的要求更高。花露水摊了部分成本在加入功效性成分（例如冰片）上，其次才是香精。&lt;br&gt;&lt;br&gt;除此之外，人工费用也是很重要的部分，拥有in house调香师的品牌就不说了，人工费可想而知。&lt;br&gt;如果是与香精公司合作的香水品牌，在要求香精公司开发一款香水时，对气味的要求也非常挑剔，从前期对香水的构想与创作，到调香师创香，最后确定香型，并经过多次配方修改、评香师评鉴、内部盲评等，经历漫长的研发，最后才能保证推向市场的香水是精品。&lt;br&gt;例如某香水品牌与我司美国分部在开发一款新香水时，由于该品牌非常重视中国市场，我们中国分公司当时为该品牌做了细致的市场调查，从前期的中国香水消费群体分析，到中国时尚杂志上香水广告的分析，我当时甚至做了一个ppt告诉该品牌市场部中国人对香水代言人的审美观，再到最后候选香精经过中国分公司员工的盲评（而且这个环节还是掐着中美时差完成的），这些都可以说是隐性成本。&lt;br&gt;&lt;br&gt;至于花露水嘛……我本人没接触过花露水的项目，但还是大胆猜测花露水的研发环节不会有如此“大动干戈”的工作。&lt;br&gt;&lt;br&gt;&lt;br&gt;最后，最近很多人问我关于某品牌花露水的问题，再次也一并作答。&lt;br&gt;号称像爱马仕地中海花园的，其实正常鼻子都闻得出来是完全不一样的；&lt;br&gt;号称CK One的铃兰香型，只是与CK One香气特征略有相似，而且气味跟铃兰也没有任何联系；（铃兰这种植物南方似乎特别少见，好奇的朋友可以闻一闻Dior Diorissimo，Gucci Envy Me以及Narciso Rodriguez L'Eau For Her）&lt;br&gt;号称Burberry Weekend的，你仔细闻闻看像香水多一点还是像洗衣粉多一点。&lt;br&gt;&lt;br&gt;这个品牌很擅长营销，靠新颖有趣的话题吸引消费者，这点很好，也渐渐提高了产品气味在消费者购买行为中的影响力。&lt;br&gt;但是涉及到气味，我会从严谨的角度会告诉你，这些像某款香水的说法很扯。&lt;br&gt;不过，这品牌确实是花露水里面很好闻的。
 </description>
 </item>
 </channel>
