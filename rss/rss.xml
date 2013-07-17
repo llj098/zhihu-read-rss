@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20538567/answer/17951451
+</link>
+<author>
+唐先智
+</author>
+<title>
+LINE 在台湾是怎么推广的？
+</title>
+<description>
+曾經和LINE日本、韓國、台灣的負責人都談過，簡單說一下。&lt;br&gt;&lt;br&gt;事實很簡單，&lt;b&gt;在初期和中期，LINE其實在台灣沒有進行推廣&lt;/b&gt;。這是LINE日本的社長自己跟我說的，應該不會錯。LINE在台灣，是由WhatsAPP打基礎（讓大家熟悉這種APP服務），在由其可愛的貼圖人物吸引了部分核心用戶，藉由口碑（Facebook也貢獻了很大的一部分）傳播開來。&lt;br&gt;&lt;br&gt;LINE的電視廣告，是在普及之後才開始播的。根據LINE的說法，電視廣告是為了Remind用戶持續使用。在那個階段，光憑網絡效應LINE就可以繼續保持市場佔有率了。&lt;br&gt;&lt;br&gt;電視廣告之後，LINE也沒有做什麽花大錢的推廣。頂多辦辦活動，讓LINE的貼圖人物出現在公眾場合而已。一年多之前和LINE接觸的時候，根據他們告訴我的資料，台灣智慧型手機用戶850萬的時候LINE在台灣的用戶已經超過800萬……要是我也不花錢做推廣了。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21279584/answer/17951195
+</link>
+<author>
+王超
+</author>
+<title>
+「市民转账7500万元遭中行拒绝」银行拒绝转账的理由是「领导不在」，如果银行领导不批，这个钱就没办法转？
+</title>
+<description>
+本人刚好是某中小型银行负责全行头寸管理的人民币交易员之一。大额走款授权是每日工作职责。以前做过两年柜员，所以还算些许了解。&lt;br&gt;meta童鞋已经说明的很清楚了，我再补充两句司库的基础知识，说完大家就可以站在懂行的人的角度看这个新闻了，我会先用专业的术语讲讲，再说些大白话，争取阳春白雪、下里巴人：&lt;br&gt;本答案分为四个部分：1.基础知识分享 2.数据分析过程 3.结论 4.如果你遇到这种情况怎么破！！！！&lt;br&gt;一、基础知识分享&lt;br&gt;首先，头寸（可以理解为银行在央行处活期存款的余额）管理属于流动性管理的一部分，又称司库，一般司库职能归置在计财部、资负部或者金融市场部（资金部）。司库的职责就是保证每日日终头寸余额在法定准备金率（目前是存款的18%）及超额备付金率（人行要求一般是2%，节假日会有提高。各行资负部一般会有更高的行内指标，如日常3%，月末更高，季末更更高，年末更更更高，汗~）之上。&lt;br&gt;通俗的说银行剩下的钱每天都要在存款的21%（18%+3%）以上（向上浮动），你有1w亿存款，每天就要剩下2100亿。&lt;br&gt;那司库怎么才能保证这个数字在安全线上呢？这就要了解什么会影响头寸变化，我胡乱大致分为两种，客户的和银行自己的：&lt;br&gt;1.客户的：就像新闻里说的这种走款会让头寸变少；或者是别的行转进来的存款会让头寸变多。比如放贷款（受托支付），票据的托收、解付，甚至小到atm机取现存现等等。&lt;br&gt;2.银行自己的：银行用自有资金配置的各种资产的起息和到期。资产类别有债券、同业存款、理财、信托收益权blablabla，业务模式有买卖、质押、买断、远期blablabla。&lt;br&gt;那么好啦，每天作为一名身负司库职能的头寸管理员，需要做的就是把各个接口的大额预报进行汇总，盘算出今日日中的头寸余额，然后利用银行间市场的资金交易进行平补，就是钱多了就借出去，钱少了就借进来，对象是银行、基金、券商、资管、信托之类的金融同业。这就需要各分行、各业务台把自己的日终扎差提早一点预计出来，那些小的，比如ATM机啦，小额出入款啦，就不管他了，因为浮动范围（相对）较小，这也是为什么要留一部分超额备付，为的就是这些小家伙。超额备付可以远远覆盖这些小额的变动。&lt;br&gt;&lt;br&gt;ok，总行司库的事儿我们已经搞清楚了，我们来看看分行的情况。&lt;br&gt;分行其实是有自己有自己的头寸账户的，也就是当地人行开立独立账户，然后进出款都从当地的人行走。然后人行银监只会考核总行账户里有足够的法定准备金，所以各地分行只要保证自己账户里的余额是正的就行。所以这也需要对每天的头寸变化有个估计，什么来存款啊、走贷款啊、存钱取钱什么的，钱不够用了就让总行往分行调拨，钱多了就调拨给总行，或者有一些大型银行在分行级别也设有交易室，可以自己在银行间市场操作，但是只能拆借（就是不带质押物的信用性质的借钱），因为分行没有债券库，也就是没有抵押物。&lt;br&gt;&lt;br&gt;ok，分行头寸的事儿我们也搞清楚了，我们再来看看支行的操作层面。&lt;br&gt;作为一名柜员，在接到企业的回款需求时（一般是支票），经过验章、查余额等等流程之后，需要在大额转账系统里录入这笔交易，然后由另外一名柜员进行复核。如果要是大额走款（小行500W以上，中行1kw以上，大行不知道），核心系统一般会在录入后复核前多一道授权流程（输入ID密码或者扫描指纹，每个行不同），按照分级，大一点的需要业务主管授权、再大一点的需要业务行长授权，一来是为了资金安全，二来也是对存款的把控。&lt;br&gt;&lt;br&gt;ok，一笔大额走款想走？没那么容易！业务行长授权完还没完呢，最终会流到分行（或者总行）的司库职能的交易员手里，司库交易员会看看大额预报记录，这笔款是否预报过？如果预报过，立马放行，如果没有，就稍等吧。像那种天天不预报就直接做上来走款的支行，会招人反感的，因为如果都这样做的话，头寸会紊乱，会不安全。银行间市场一般在9:00就开始谈交易了，10:30发报价，一般下午四点前就清算完毕了，四点半闭市，你如果四点二十几分跑过来说要转走一笔大额，又没预报，头寸管理员即使是在市场宽松的情况下很有可能在市场上是借不到钱的，即使能借到也没时间在交易机上操作，要录入很多要素的。而满足不了法定线，是多么恐怖的一件事情呢？基本上开除个支行行长跟玩一样，还在乎奖金绩效？！直接开除。当然不会真的发生这种事情，因为如果真到那种情况，我们是不会让这笔钱走的，支行长负不起这个责任。退一步讲，报了要走钱又不走，损失大概是个什么量级呢？我们来算一下，比如有一笔1亿的资金，说要走，我们预留了头寸，结果没走，当日在资金市场的隔夜利率和人行活期利率的息差按3.65%算（这个数每天都在变，总之三点多比较正常），就是10000万*3.65%/365=1万。不多的~但是如果你没有这项制度，大一点的银行头寸偏差个50亿不过分的，那一天就是50W，一年呢？一亿多。也就是这个制度一年就值一亿多。这可是白花花的银子利润啊，可不是存款，是银行自己的钱。客观来说对于一家银行并不多，但是不容小觑。而这一亿多和没有满足法定准备金相比又是小巫见大巫了，头寸不足法定账户穿了的话，已经是无法用金钱衡量了，而会导致恐慌了，如果非要量化，我觉得说几亿甚至几十亿绝对不过分。是真金白银自己的钱，不是存款。&lt;br&gt;&lt;br&gt;OKOK，下面我们通俗点把上面的话简单说一遍：&lt;br&gt;（待续）
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20081144/answer/16476385
 </link>
 <author>
@@ -263,34 +291,6 @@ LINCOLN
 </title>
 <description>
 在了解了核燃料棒加工工艺的基本情况后，我是不反对上马这个项目的。&lt;br&gt;毕竟广东省现在至少已经有大亚湾，岭澳, 阳江(在建)，台山(在建)等四座核电站了. 相比较核电站, 燃料棒加工基地有可能造成的危险要轻微很多,关于专业的资料,可以参考这里:&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/21293500&quot; class=&quot;internal&quot;&gt;核燃料加工产业链的建设会对建设地环境产生什么样的具体影响呢？&lt;/a&gt;&lt;br&gt;&lt;br&gt;而根据WIKIPEDIA, 广东以外中核集团在全国范围内位于沿海地区的已有/在建的核电站有十一座&lt;br&gt;&lt;a href=&quot;http://zh.wikipedia.org/wiki/Template:%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E7%AB%99%E5%88%86%E5%B8%83%E5%9B%BE&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Template:中国核电站分布图&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;可见在沿海地区, 增加燃料棒(尤其是新的压水堆用燃料棒)的加工基地，还是很具有费效比的项目.&lt;br&gt;因此选址在鹤山兴建燃料棒加工项目, 我本人并不认为是不恰当的。&lt;br&gt;至于相关对环境，生态的影响，可以通过调研来测量，评估。总体而言，这件事情，值得从长计议。&lt;br&gt;&lt;br&gt;即使不在鹤山, 我认为继续在沿海地区选择合适的燃料棒加工基地, 是比较合理的选择.由于本人并不是业内人士,欢迎有认识的知友指正.&lt;br&gt;&lt;br&gt;不怕得罪的说句，当地反对的人里不见得就了解燃料棒加工项目是怎么一回事。比如我是很认真的翻了Wiki的相关资料和当地政府网站的宣传科普资料。当地反对的人中，99.99%没有哪怕是达到我了解的关于工艺和相关危险原理的程度(我对这句话负责)。&lt;br&gt;然而政府的处理手法确实有问题。先是糊弄着走生米煮成熟饭的方式展开计划，然后是羞答答的公示，这导致了民众的&lt;b&gt;恐慌&lt;/b&gt;. 而恐慌也是有力量的。于是在24年之后，我再次看到当地有如此规模的公众,以这种方式发表自己的意见。&lt;br&gt;&lt;br&gt;然而作为一项足以影响当地众多方面的重要工程。事情的迅速转变让我感到更加惊讶。以致于连极力反对的家里领导也用到“儿戏” 来形容。&lt;br&gt;事实是当地即便轮番以市场亲临现场手持&quot;大声公&quot;宣布, 副市长发表电视讲话, 10086手机短信, QQ新闻, 电视滚动字幕, 江门公安V微博等方式连续几天向社会公布信息之下, 依然有大量民众对此持怀疑, 观望等态度....&lt;br&gt;关于这一切,我父亲有话讲挺到位的: 明明原文可以解读做: 民可,使由之; 不可,使知之. 偏偏有人要将它解读做:民可使由之, 不可使知之. 这是谁之过?&lt;br&gt;&lt;br&gt;假如这是整个事件的结束，我只有用下面的话来描述: &lt;br&gt;政府先是没有走该走的程序，然后是没有坚持该坚持的东西。&lt;br&gt;&lt;br&gt;&lt;br&gt;Ps.请尽管点反对，谢谢。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21342553/answer/17939911
-</link>
-<author>
-肖欢
-</author>
-<title>
-为什么 91 无线不独立上市？
-</title>
-<description>
-&lt;ol&gt;&lt;li&gt;盗版问题几乎无法洗白。强行洗白的代价被估算为不可承受之重。&lt;/li&gt;&lt;li&gt;91为了单独上市引入了李泽楷的投资，为的就是打通在香港上市之路，但还是失败了。&lt;br&gt;&lt;/li&gt;&lt;li&gt;随着竞争对手的越来越强大，91增速放慢，而且91盗版问题越来越被关注，91（尤其是高管）压力增大，有投资者着急退出，包括大股东网龙。&lt;/li&gt;&lt;li&gt;91因为是组建的新公司，缺乏创业抱负，高管都想着找一个好机会套现获利。&lt;/li&gt;&lt;li&gt;网龙是网络游戏公司，股价一直不景气，而且作为上市公司，网龙也担心91这颗定时炸弹。有点舍车保帅的感觉。&lt;u&gt;91被出售，最重要的因素不在91，而在绝对控股的大股东网龙。&lt;/u&gt;&lt;/li&gt;&lt;li&gt;市场不景气，只是91一个吃不到葡萄说葡萄酸的说辞。都知道91单独上市最重要的不是为了钱，所以曾宁愿选择“介绍上市”，但仍旧未成。&lt;/li&gt;&lt;/ol&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21341686/answer/17940443
-</link>
-<author>
-善泽
-</author>
-<title>
-George Zimmerman Case 是怎么回事，对美国司法有何影响？
-</title>
-<description>
-这个案子我稍微关注了下。从目前来看，我个人认为本案只是一时热而已，对整体司法环境不会有什么大的影响。州初审法院作出无罪释放的裁决后，这案子在州层面的司法程序就基本完了。联邦再诉的可能性极小（原因在此 &lt;a href=&quot;http://blogs.wsj.com/law/2013/07/15/dojs-own-rules-set-high-bar-for-zimmerman-charges/?mod=WSJBlog&amp;amp;mod=smallbusiness&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DOJ's Own Rules Set High Bar For Zimmerman Charges&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），最有可能继续的司法程序的是像当年OJ 辛普森案一样由受害人亲属提出民事诉讼索赔（但Zimmerman的辩护律师也提及了他们手中的武器，即 Florida’s self-defense immunity statute, &lt;a href=&quot;http://law.onecle.com/florida/crimes/776.032.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;law.onecle.com/florida&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/crimes/776.032.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)。&lt;br&gt;&lt;br&gt;另感谢 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@何骏杰&quot; href=&quot;http://zhihu.com/people/he-jun-jie-8&quot; data-tip=&quot;p$b$he-jun-jie-8&quot;&gt;@何骏杰&lt;/a&gt; 提供的信息与线索。个人认为WJS Law Blog的如下两篇文已经把案情背景、庭审情况以及法律要点做了纲要性的分析，有兴趣的知友值得一读：&lt;br&gt;&lt;a href=&quot;http://online.wsj.com/article/SB10001424127887324879504578603562762064502.html?mod=WSJ_hps_LEFTTopStories&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Jury Acquits Zimmerman of All Charges&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;  以及 &lt;a href=&quot;http://blogs.wsj.com/law/2013/07/14/legal-insights-on-the-zimmerman-verdict/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Legal Insights on the Zimmerman Verdict&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;以下绝大部分信息源自上述两篇文。&lt;br&gt;&lt;br&gt;1. George Zimmerman 是一名西班牙裔美国人，是一名当地的neighbor-watch volunteer，对比可理解为我国之前常见的居民社区里的联防队员吧；这个neighbor watch的背景好像是曾经一起轰动全美的暴力案件中，冷漠的路人对受害人熟视无睹，因此全国人人自危，民众自发组织起来与警方配合预防并打击犯罪。Zimmerman肯定不是警察，但估计肯定有持有武器保护社区的权力，同时与警方合作。值得注意的是，有报道称本案发生时，Zimmerman并不在执勤之中。&lt;br&gt;&lt;br&gt;2. 本案发生在一个封闭式的居民社区(gated community)，应该很类似我们熟悉的那种有围墙有门卫的小区。案发时17岁的受害人Martin正在走回其父亲女友家的路上，应该穿的是连帽衫（hoodie）。看到Martin的Zimmerman认为其行踪可疑，并进行了跟踪，同时向警方做了报告。出警警察曾询问Zimmerman是否正在追踪Martin，Zimmerman承认是，该警员表示这种追踪并无必要（unnecessary）。之后的案情事实就非常模糊了，从庭审披露的证据来看，Martin与Zimmerman后来发生争斗，但无法证实争斗是如何开始的。Zimmerman有受伤（鼻子流血，手背受伤）；Martin最终被Zimmerman枪击身亡。&lt;br&gt;&lt;br&gt;3. Zimmerman被起诉两项罪名：其一为二级谋杀（second-degree murder, 最高刑终身监禁），其二为manslaughter (非预谋性故意杀人，最高刑有期徒刑30年)。很显然州检察官对第一项罪名的指控缺乏胜诉信心，因此有第二项罪名保底。&lt;br&gt;&lt;br&gt;4. 诚如talich老师所言，本案的关键问题之一，是在stay you ground law上 &lt;b&gt;[请注意本答案评论中&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Klay Thompson&quot; href=&quot;http://zhihu.com/people/klay-Thompson&quot; data-tip=&quot;p$b$klay-Thompson&quot;&gt;@Klay Thompson&lt;/a&gt; 的不同意见“&lt;/b&gt;&lt;b&gt;Stand your ground只被用了一次，还是TM方。GZ方用的是传统的defense of self-defense&lt;/b&gt;&lt;b&gt;”]&lt;/b&gt;；这是Zimmerman“正当防卫”的辩护依据所在。佛州是2005年通过该法，其核心在于免除了普通法上对于遇到威胁时被威胁者的retreat义务（正当防卫之前应当先试图退却以躲避危险），而是赋予被威胁者在善意信赖其生命遭受威胁的情况下，可直接采取致命手段进行正当防卫的权利——当然，如果受威胁者压根就没有机会退却，或者退却之后已然无法避开威胁，此时即有恰当的防卫时机出现。&lt;b&gt;需要特别注意的是，根据Ohio State University Michael E. Moritz College of Law的Joshua Dressler教授之说，stay your ground law还有一项很重要的程序性特征：其要求控方来&lt;/b&gt;&lt;b&gt;证明被告的行为并非正当防卫&lt;/b&gt;。这意味着在适用stay your ground law的情况下，法律是推定行为人在正当防卫，除非控方能反证。Stay your ground law还赋予了被告一项向法院寻求直接裁决其行为具有合法性的权利（而无需透过陪审团），由此阻碍州政府就其防卫行为提起任何指控（当然在本案中Zimmerman及其辩护律师选择放弃这一权利，而直接走向陪审团审判）。&lt;br&gt;&lt;br&gt;5. 如果大家读过WSJ的这两篇文，再结合&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@何骏杰&quot; href=&quot;http://zhihu.com/people/he-jun-jie-8&quot; data-tip=&quot;p$b$he-jun-jie-8&quot;&gt;@何骏杰&lt;/a&gt; 提供的一些案情复杂程度的信息，就知道本案在beyond reasonable doubt的证明标准下要定罪（哪怕是manslaughter）是何其之难了。&lt;br&gt;&lt;br&gt;6. 本案真正涉及种族问题的事实焦点（同时也值得反思的是），在于Zimmerman缘何会对Martin产生怀疑并且进行追踪，而不是庭审过程或结果。很显然如果没有这些怀疑和其后的追踪行为，悲剧不会发生。
 </description>
 </item>
 </channel>
