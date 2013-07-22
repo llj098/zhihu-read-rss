@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20264303/answer/18023658
+</link>
+<author>
+陳浩
+</author>
+<title>
+有没有好的患者交流平台网站？
+</title>
+<description>
+前一阵在德国就医，医生给我开了药，药品说明书开头有这么一段（大意），我非常敬佩：&lt;blockquote&gt;该药是医生为您个人开的处方，请不要向其他人透露药方。他们可能在没有专业知识的情况下，向症状相似的病人推荐这个药方。对病情的误判和对药品的误用可以对身体造成伤害。&lt;/blockquote&gt;虽然有处方等各种措施防止病人自己乱用药，但我知道国内有许多患者会跑到医院点名要某种药，谁都信，就是不信医生。「久病成医」只是民间俗语，患者之间互相鼓励是好的，互相推荐药品和治疗方案，是很危险的。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21367471/answer/18017460
+</link>
+<author>
+江南
+</author>
+<title>
+淘宝数据库被拖是真的吗？
+</title>
+<description>
+我觉得是不太可能的&lt;br&gt;第一，KXLZX（阿里的JAVA安全专家周拓）早就有提过这个漏洞，但是淘宝内部种种问题导致某些分站没有修复（FreeBuf上有报道），阿里内部早就知道有这个s2-016存在。&lt;br&gt;第二，淘宝的数据库是TB级（不排除有可能上到PB）的，拖库的话首先需要一个大带宽和存储他的服务器，不然拿回来的东西都放到那里？投入不说，技术上需要搭建这么符合需求一个服务器集群需要多久？除非你有一套现成的服务器集群+系统来存储大数据&lt;br&gt;第三，淘宝的用户名密码肯定不会只是简单的MD5，首先要符合几条原则（说的可能不太全，捡重点的说，实际情况会比这复杂的多）&lt;br&gt;1 可以验证&lt;br&gt;2 有RandomString,动态的salt&lt;br&gt;3 同密码的hash值不同（防止被字典攻击或者破解）&lt;br&gt;这样，即使出现最可怕的情况，全库被拖，也能保证数据安全，没法知道明文密码。&lt;br&gt;第四，出现漏洞的是淘宝的一个分站，主站和支付宝的数据库是安全的，从分站渗透，到获得主站的权限，不多说，明白人就知道这难度有多大，需要有能力，还要有胆量（这点我觉得很重要）&lt;br&gt;第五 内部肯定会有某种监控系统，以阿里的技术实力，有可能是自己开发的，出现未授权操作的会有报警的，别说拖库，你上个webshll或者提权估计都没戏&lt;br&gt;阿里的安全团队都是业内的大牛，阿里的安全防御不是一个struts2漏洞就能搞定的。so，这类的谣言还是叫他放出点数据截图再说。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21354517/answer/18016203
 </link>
 <author>
@@ -266,34 +294,6 @@ http://www.zhihu.com/question/21355018/answer/17984471
 </title>
 <description>
 本来没想回答这个问题，因为已经有很多很棒的答案了，但是还是想跟大家分享一个去年收藏过的视频。可能不少人已经看过了，但我每每看它都会眼眶湿润。&lt;br&gt;&lt;br&gt;这个视频来自美国的真人秀节目「WWYD-What Would You Do?」。每一集会有一个特定的主题，一般是容易引起大众争议的敏感性问题，如同性恋、种族歧视、等等。设定在公共场所，节目组安排几位演员演出该集主题内容，然后看周围群众的反应。&lt;br&gt;&lt;br&gt;这集的主题是看群众对「流浪汉/ 乞讨者(homeless)」的态度。一位流浪汉走进一家餐厅，同为演员的bartender拒绝为他服务并恶言相加，甚至赶他出去。以此看周围群众的反应。&lt;br&gt;&lt;br&gt;当然，有支持bartender做法的，认为流浪汉不该在餐厅就餐；也有当面反驳他、为流浪汉争取权益的。值得注意的是倒数第二位和最后一位老爷爷。（这里我想说一下老爷爷，倒数第二位想留给大家自己看）&lt;br&gt;&lt;br&gt;在流浪汉被酒保赶出去后，老爷爷潸然泪下。他说：&lt;br&gt;&lt;br&gt;&lt;b&gt;If you have never been there, you don't know what it's like.&lt;/b&gt;&lt;br&gt;You've never been in bad shape?&lt;br&gt;You've never needed help?&lt;br&gt;You've never had anything happen to you that you wish didn't, or that you wish you could get out of?&lt;br&gt;&lt;b&gt;We &lt;u&gt;don't&lt;/u&gt; know what the hell happened to the poor guy.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;这里是视频地址：&lt;br&gt;墙外版：&lt;a href=&quot;http://www.youtube.com/watch?v=XaKF3_FwJ3w&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;youtube.com/watch?&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;v=XaKF3_FwJ3w&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;墙内版：&lt;br&gt;&lt;div class=&quot;video-box&quot; data-swfurl=&quot;http://player.youku.com/player.php/sid/XNDg5MTEyNDc2/v.swf&quot;&gt; &lt;div class=&quot;video-box-inner&quot;&gt;   &lt;img class=&quot;video-subnail&quot; src=&quot;http://g3.ykimg.com/0100641F4650CD7EBAC7430611CAC30FC1BAFB-C4B5-D7CD-51C1-BFC9549A3F7C&quot;&gt;&lt;div class=&quot;video-play-icon&quot;&gt;&lt;/div&gt; &lt;div class=&quot;video-box-body&quot;&gt; &lt;strong class=&quot;video-title&quot;&gt;【what would you do】当你看到流浪汉被店家赶出餐厅,你会怎麽做&lt;/strong&gt; &lt;p class=&quot;video-info&quot;&gt;http://v.youku.com/v_show/id_XNDg5MTEyNDc2.html&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;打心眼里尊敬这位老爷爷，因为他教会我们不要根据他人的外表judge他，不要未了解实情就恶意揣测对方、甚至对对方进行人身攻击。他怀着一颗善心，值得所有人学习。&lt;br&gt;&lt;br&gt;回到这道题，私以为，你可以拒绝，这是个人的选择和权利。但最好不要恶意揣测他人的过去和过错，甚至以它来当做羞辱对方的言语随意抛出。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21352003/answer/17976130
-</link>
-<author>
-大风
-</author>
-<title>
-2013 年 7 月的 Struts2 漏洞实际带来多大影响？
-</title>
-<description>
-谢邀。&lt;br&gt;&lt;br&gt;贴下今晚写在微信里的文章吧。&lt;br&gt;&lt;br&gt;《一朵奇葩》&lt;br&gt;来自微信公号：道哥的黑板报。&lt;br&gt;&lt;br&gt;昨晚很多安全公司和互联网公司安全部门的工程师们都没睡好觉，通宵达旦的在加班。&lt;br&gt;&lt;br&gt;Struts这个漏洞这次来势之所以这么凶猛（见昨天的文章，点击右上角可查看历史文章）—- 直接导致国内的很多银行、政府机构、几乎所有的大中型互联网公司，国外的包括苹果的开发者网站都被黑掉了 —-和Struts官方不负责任的态度有很大关系。官方这次在自己的漏洞公告中直接把漏洞利用代码给贴出来了，这是一种很罕见的做法。&lt;br&gt;&lt;br&gt;从很多年前起，安全行业里默认的行规是“提示漏洞存在，但只公布描述，不公布细节”。大多数安全公告连漏洞涉及的代码都不公布，更遑论直接给出漏洞利用方法的。这样做的原因就是为了防止漏洞细节被黑客看到后，直接利用漏洞攻击用户。&lt;br&gt;&lt;br&gt;一般的安全厂商在看到漏洞公告后，可能会通过“补丁对比”，或者是二进制软件的逆向分析等技术来定位漏洞的原理。这对分析人员的技术要求是非常高的，熟练掌握这种技术的人一般都有个外号，叫做“大牛”。这种技术门槛从一定程度上遏制了漏洞被大面积利用。&lt;br&gt;&lt;br&gt;从历史来看，一个漏洞对互联网的影响大小，与该漏洞是否存在傻瓜化利用工具有关。漏洞的利用工具被传播的越广，对互联网来说造成的影响就越大。因为会有很多脚本小子，拿着傻瓜化的工具肆无忌惮的四处搞破坏。&lt;br&gt;&lt;br&gt;Struts这个漏洞这次本来不会这么严重，过往有些比这更严重的漏洞也没有造成这么恶劣的影响。但官方不负责任的披露了漏洞利用方法，首先就让这个漏洞被大面积利用成为可能。然后国内的黑客们看到后，在某社区里引起了热烈的讨论。接下来有不少黑客，利用官方给出的“帮助”，很轻松的就写出了自动利用的工具，并开始找网站漏洞。&lt;br&gt;&lt;br&gt;如果仅仅到这里，局面也不会失控。但是接下来有黑客们开始展开竞赛一般的“战果展示”，把存在漏洞的网站公布在第三方平台上，这就好比“杀人比赛”一样，就看谁干掉的网站多，看谁干掉的网站大。他们的战果丰硕，干掉了包括百度、腾讯、淘宝等在内的很多大网站，甚至是国家级的政府网站，这进一步又在微博上引发了不少大号们对这个漏洞的讨论。至此，局面彻底失控。&lt;br&gt;&lt;br&gt;很多之前没有关注这个漏洞的黑客们也开始关注这个漏洞，他们出于各自的目的，开始找寻存在漏洞的网站。可以不夸张的说，整个中国互联网应该被狠狠的捋了一遍，如果你用了Struts但却没被黑客关注过，那只能很可悲的说明你的网站太小了，小到整个安全行业所有人打着灯笼都找不到你。&lt;br&gt;&lt;br&gt;这就是互联网的放大作用。&lt;br&gt;&lt;br&gt;而对于始作俑者，Apache基金会下的Struts，我只能说Struts官方真是一朵奇葩。这并非Struts第一次出这种高危漏洞，但Struts官方对于安全问题的处理一直都很有问题，要么就是没有搞明白漏洞的原理，同一个漏洞补两三次都补不好，要么就是像这次这样，直接公布了漏洞利用方法。&lt;br&gt;&lt;br&gt;在我写的《白帽子讲Web安全》第291页，就记载了Struts修补一个漏洞时笑话百出的场景。官方完全没有理解漏洞原理，仅仅针对漏洞报告者提供的特征字符做了过滤，结果接二连三的被绕过，一个简单的漏洞，修补了两三次都没有修补好。所以Struts在安全问题上的低智商是有历史的，屡教不改，还桀骜不驯。&lt;br&gt;&lt;br&gt;这次中国互联网被捋了一遍，造成的损失不可估量。如果很多大网站的数据库因为这个漏洞被盗，在接下来的一两年中，大家又会多接到很多骚扰电话和骚扰短信，有针对性的诈骗案件也会上升。&lt;br&gt;&lt;br&gt;我想到了黑哥的那句话：官方都需要教育！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21213135/answer/17569750
-</link>
-<author>
-eacon
-</author>
-<title>
-如果郭襄早出生20年，她会和杨过在一起么？
-</title>
-<description>
-不会。&lt;br&gt;在那最懵懂的年纪，郭襄遇到了一个于而言她近乎完美到传奇的男子，在之后的日子中，这个男子越来越模糊，越来越成了一个女孩子年少时的心中影子，即便是后来的昆仑三圣，于杨过已经不遑多让，也仅仅与郭襄交心而已，终究无法超越那个影子，就像是白龙永远会成为千寻的一个最为真实梦一样。&lt;br&gt;她没见过杨过委屈的样子，所以不了解杨过的怯懦；&lt;br&gt;她没见过杨过发狠的表情，所以不了解杨过的狂狷；&lt;br&gt;她没见过杨过寄人篱下的辛楚，所以不了解杨过“认贼作父”；&lt;br&gt;她更没见识到杨过一步步的成为现在的模样，她遇到的只一个1/2的杨过，一个只有阳光一面的男子。&lt;br&gt;&lt;br&gt;郭襄与杨过是不能在一起的，究其根本，他们终究不是一路人。&lt;br&gt;&lt;br&gt;最后，赋诗一首：&lt;br&gt;&lt;br&gt;我走过山时，山不说话，&lt;br&gt;&lt;br&gt;我路过海时，海不说话， &lt;br&gt;&lt;br&gt;小毛驴滴滴答答，倚天剑伴我走天涯。 &lt;br&gt;&lt;br&gt;大家都说我因为爱着杨过大侠，才在峨嵋山上出了家， &lt;br&gt;&lt;br&gt;其实我只是爱上了峨嵋山上的云和霞，&lt;br&gt;&lt;br&gt;像极了十六岁那年的烟花。&lt;br&gt;&lt;br&gt;ps：诗非原创 各位莫要谬赞
 </description>
 </item>
 </channel>
