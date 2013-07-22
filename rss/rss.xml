@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21024320/answer/17959564
+</link>
+<author>
+朱峰
+</author>
+<title>
+Wi-Fi 热点解决方案 JooMe 是怎么能支持几十人同时上网的？
+</title>
+<description>
+看起来这个问题得我来回复了 。。。&lt;br&gt;&lt;br&gt;支持几十人同时连上无线，对JooMe来讲不是太难解决的问题，挑战在于，如何在带宽有限的情况下，让这几十人能够正常上网，起码保证基本的浏览、刷微博等操作。&lt;br&gt;&lt;br&gt;JooMe是一个软件、硬件、云端相结合的服务，软件和云端容易理解，硬件这边很多同学都猜测我们用了H3C、CISCO的成型方案来解决，其实并不是这样的。JooMe的路由器、AP都是自己做的软件，是基于OpenWrt做的二次开发，根据GPL的要求，这些开发成果会在版本相对稳定之后开源，这是节操问题，JooMe不打算在这方面跟国内的某些开发者看齐。&lt;br&gt;&lt;br&gt;好吧，扯远了，还是先说我们怎么解决问题的吧&lt;br&gt;&lt;br&gt;大家知道，由于我国的特殊国情，商用宽带的成本都非常高，我们见到最高的是帝都东部某个商场，每月2M带宽的成本是2000元，而且还是共享的。所以怎么有效的利用这些带宽为尽可能多的人提供服务，是我们首先要解决的问题，毕竟巧妇难为无米之炊嘛，没带宽，一切都是白瞎。&lt;br&gt;&lt;br&gt;我们在路由器里面实际上是做了一个VPN隧道，点对点连接到我们的机房，所有用户的访问都是通过我们的代理服务器来做转发，在转发的过程中，代理服务器负责对某些内容进行压缩和过滤，比如图片、网页等，同时滤掉大多数占用带宽，但又对上网体验不会有什么影响的内容，这样就可以在一定程度上确保带宽的有效利用，让很小的带宽，可以支持相对多的人同时上网。&lt;br&gt;&lt;br&gt;当然，我们的代理服务器的带宽也是有成本的，这块成本会透过商家为我们支付的服务费用来抵消掉。没错，JooMe是坚持100%收费服务的，打折可以，免费的事儿从来不干。&lt;br&gt;&lt;br&gt;而在客户的现场设备方面，我们没有采取通常推崇的AP+AC的星状模式，这种模式的单点故障概率比较高，虽然可以做备机，但成本方面是商家不可能接受的。我们通过二次开发和硬件端的编程，把拓扑改为网状结构，简单的讲，就是采用多台低成本的设备来分担压力，同时维护一个内部协议基于网状结构来传递在各自网络内用户的鉴权情况，这样即便有一台甚至多台设备挂掉，也不会影响到网络的正常使用。这方面的技术，如果想要全面的讲，就太大了，有机会我们会专门写篇文章来介绍。&lt;br&gt;&lt;br&gt;最后，确保大家可以公平上网，不至于因为一个人在下载，就把所有人的带宽占满，就是Qos要解决的问题了，但有一个概念需要明确，QoS并非仅仅是TC，我们更多的是根据用户的行为和当时的使用场景、压力情况来做QoS，通常情况下，用户是感觉不到被限速或者有什么使用限制的，除非你是真的在恶意使用（比如在店内有很多人的情况下，用迅雷下一个1G的视频之类的）。&lt;br&gt;&lt;br&gt;我们还用了一些方法来解决AP的频段干扰，在一个大型商场内，2.4G的电磁环境就是一个噩梦，几乎所有频段都是占用状态，而且频段不固定，信号强度也不稳定，所以我们的AP自己会定时自己探索下周围的无线情况，然后自己找一个合适的位置，如果有多台AP在服务，它还会把自己的行为告诉周围其他的AP，设备之间会自己协商各自的频段，避免自己人之间掐架。&lt;br&gt;&lt;br&gt;除了以上几个方面，我们还在诸如远程监控、热备切换等方面做了一些工作，以确保绝大多数无法自动处理的问题可以通过远程来解决，最后一招，就只能安排维护人员上门处理了，好在最后到这一步的概率并不高，所以平时整个北京我们也只有2名维护人员在工作。&lt;br&gt;&lt;br&gt;以上仅是一些泛泛之谈，希望有机会的时候，与大家分享更多经验。总的来看，做WiFi热点容易，但难度是随着同时使用的人数提升，而呈几何级数来增加的，更重要的是，我们还要考虑到成本、国情等等问题，店家统共就那点预算，给他弄套CISCO也许能解决问题，但结账的时候，人家会杀了你的。。。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21298134/answer/18011536
+</link>
+<author>
+zcw gaizhili
+</author>
+<title>
+街边小吃同质化竞争非常严重下，为什么还会有很多小贩聚在同一个地方卖同一样东西？
+</title>
+<description>
+这其实是一个“产业集聚”问题。相似的还有电子市场。&lt;br&gt;最早的关于产业集聚的解释应该是“外部经济”。也就是随着整个市场规模的扩大，成本是减少的。&lt;br&gt;可能有很多种原因。而且正是这种垄断竞争产品，有可能产生集聚。&lt;br&gt;例如，因为产品有很大程度的相似性，所以它们可以共用一些公共设施，其中包括距离市场的远近。&lt;br&gt;再例如，正因为产品既相似又不同，消费者需要花费很大的搜寻成本，而如果集聚在一起，对消费者来说这个交易费用就降低了，他就更愿意来这里消费，这样对每一个小贩都有好处。&lt;br&gt;再再例如，很多街边小吃都有很强的互补性，例如，你不会买两个肉夹馍，而是在肉夹馍摊买个肉夹馍，再在驴肉火烧摊买个驴肉火烧，这样聚集对于双方也是有好处的。&lt;br&gt;&lt;br&gt;还有一种博弈论的考虑。就是寡头竞争在位置选择的纳什均衡必然是聚集在一起的。例如有一个肯德基不远就有一个麦当劳。&lt;br&gt;你把某地区想象成一条直线，麦当劳在左边，肯德基在右边，对于麦当劳左边的点，由于麦当劳离他们进，他们肯定会选择麦当劳，同理，肯德基右边的点也肯定会选择肯德基，而二者中间的点则视距离远近而定。如果麦当劳往右移动一点点，那么它的消费者是增加的，同理，肯德基左移一点点，消费也是增加的。最后的结果是，二者都集聚在这条线的中点上。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20264303/answer/18023658
 </link>
 <author>
@@ -266,34 +294,6 @@ http://www.zhihu.com/question/21342150/answer/17985836
 </title>
 <description>
 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@黄修源&quot; href=&quot;http://www.zhihu.com/people/dreamcog&quot; data-tip=&quot;p$b$dreamcog&quot;&gt;@黄修源&lt;/a&gt; 知道你“&lt;i&gt;不扯淡。内部数据，&lt;/i&gt;&lt;i&gt;不方便透露&lt;/i&gt;”，还是想求证数据来源。你公布的数据和豌豆荚创始人王俊煜公布的“&lt;b&gt;豌豆荚&lt;/b&gt;&lt;b&gt;日分发超 3000 万&lt;/b&gt;”严重不符。节选王俊煜的博文：&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://blog.wangjunyu.net/1150&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;blog.wangjunyu.net/1150&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;豌豆荚从来不把自己定义成应用商店。整个豌豆荚，在应用分发上的研发队伍仅占 15% 左右。今天的应用商店形态只是一个非常早期的模式，甚至互联网上早期的导航站在用户日常生活中起到的作用还要弱一点——毕竟，当用户安装了一个应用后，再次打开同一个应用时只需要在桌面上进行，而不需要反复通过应用商店查找，这点和导航站的使用方法还是有很大区别的。&lt;br&gt;…&lt;br&gt;但即使我们现在还处于第一个阶段——应用分发，豌豆荚也已经做得非常好了。目前，从豌豆荚自己的统计来看，&lt;b&gt;每日分发应用超过 3000 万次，目前也已经积累了 2 亿用户&lt;/b&gt;。&lt;br&gt;&lt;br&gt;除了主流应用，豌豆荚对优质新应用的分发也非常有力。以最近发布的「疯狂猜歌」为例，「疯狂猜歌」在豌豆荚的首日下载量超过 16 万，占到其当日全渠道总下载量的一半以上。而在 2012 年 11 月 28 日，豌豆荚独家发布由韩寒出品的「一个」Android 版，首日下载量达到了 38 万。截止 2013 年 1 月，「一个」Android 版的下载量已经超过 iOS 版的两倍，其中通过豌豆荚的下载量占其 Android 全渠道的 80%。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19915870/answer/17984671
-</link>
-<author>
-匿名用户
-</author>
-<title>
-吸毒上瘾有多难戒？
-</title>
-<description>
-可耻的匿了。我吸食冰毒三四年了。最近在戒毒。说戒断冰毒身体不会难受的简直是扯淡。刚开始的时候会头疼流鼻涕胸闷。非常难受。靠左匹克隆晚上才能睡那么几个小时。由于毒品，我的指甲像竹子一样，全是节和竖条纹，心率不齐，舌头和嘴里大块大块的溃疡，尤其是舌头，烂的像地图一样。印象很深的是一次吸太多，脚指甲掉了一个自己都不知道。我手机上有一个测心率的app，吸毒那几年，心率基本在130左右徘徊。上面有人说，吸毒会渐渐变成欺诈型人格，是对的，太对了。谎话张嘴就来，对世界充满恶意，以算计他人为乐。想戒毒，首先，必须，脱离之前的圈子，和之前的朋友断绝联系，不然复吸是百分之百的。讲两个事儿，一个当年也算呼风唤雨的人物，因为毒品，牙几乎全掉光，佝偻，面如死灰。真不禁感叹路都自己走的，脚上的泡也是自己磨的。还一个身边的朋友，一起溜，那天他真的吸了很多很多，精神非常恍惚了，几乎没有自我意识那种，大家都劝他等下了头散了冰再走，他不。然后开车走了。然后这个人就好像蒸发了一样消失了。过了很久，在江里连人带车发现了。我开始接触毒品，第一次吸食毒品只是因为好奇，我倔，心想哈哈哈你们都废物，你们吹牛逼呢，这个怎么会那么难戒？我也试试，让你们看看。冰毒和海洛因不一样，冰毒很牛逼，第一次尝试就能感受到那种快感，欢欣。有了第一次就有第二次第一万次。不要好奇，不要尝试，千万不要。尤其是现在新兴的各种复合毒品，求求你们，不要因为好奇尝试。我今年才24岁，女的。我想结婚生孩子，我必须戒毒。正在打包东西，准备干干净净离开这个城市，不然我觉得我迟早会死在这里。想写下来的很多很多，以至于竟不知从何说起，有些混乱，看官见谅。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21355018/answer/17984471
-</link>
-<author>
-知乎用户
-</author>
-<title>
-以「年轻的时候干什么去了？」为理由拒绝施舍街边乞讨的老人合理吗？
-</title>
-<description>
-本来没想回答这个问题，因为已经有很多很棒的答案了，但是还是想跟大家分享一个去年收藏过的视频。可能不少人已经看过了，但我每每看它都会眼眶湿润。&lt;br&gt;&lt;br&gt;这个视频来自美国的真人秀节目「WWYD-What Would You Do?」。每一集会有一个特定的主题，一般是容易引起大众争议的敏感性问题，如同性恋、种族歧视、等等。设定在公共场所，节目组安排几位演员演出该集主题内容，然后看周围群众的反应。&lt;br&gt;&lt;br&gt;这集的主题是看群众对「流浪汉/ 乞讨者(homeless)」的态度。一位流浪汉走进一家餐厅，同为演员的bartender拒绝为他服务并恶言相加，甚至赶他出去。以此看周围群众的反应。&lt;br&gt;&lt;br&gt;当然，有支持bartender做法的，认为流浪汉不该在餐厅就餐；也有当面反驳他、为流浪汉争取权益的。值得注意的是倒数第二位和最后一位老爷爷。（这里我想说一下老爷爷，倒数第二位想留给大家自己看）&lt;br&gt;&lt;br&gt;在流浪汉被酒保赶出去后，老爷爷潸然泪下。他说：&lt;br&gt;&lt;br&gt;&lt;b&gt;If you have never been there, you don't know what it's like.&lt;/b&gt;&lt;br&gt;You've never been in bad shape?&lt;br&gt;You've never needed help?&lt;br&gt;You've never had anything happen to you that you wish didn't, or that you wish you could get out of?&lt;br&gt;&lt;b&gt;We &lt;u&gt;don't&lt;/u&gt; know what the hell happened to the poor guy.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;这里是视频地址：&lt;br&gt;墙外版：&lt;a href=&quot;http://www.youtube.com/watch?v=XaKF3_FwJ3w&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;youtube.com/watch?&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;v=XaKF3_FwJ3w&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;墙内版：&lt;br&gt;&lt;div class=&quot;video-box&quot; data-swfurl=&quot;http://player.youku.com/player.php/sid/XNDg5MTEyNDc2/v.swf&quot;&gt; &lt;div class=&quot;video-box-inner&quot;&gt;   &lt;img class=&quot;video-subnail&quot; src=&quot;http://g3.ykimg.com/0100641F4650CD7EBAC7430611CAC30FC1BAFB-C4B5-D7CD-51C1-BFC9549A3F7C&quot;&gt;&lt;div class=&quot;video-play-icon&quot;&gt;&lt;/div&gt; &lt;div class=&quot;video-box-body&quot;&gt; &lt;strong class=&quot;video-title&quot;&gt;【what would you do】当你看到流浪汉被店家赶出餐厅,你会怎麽做&lt;/strong&gt; &lt;p class=&quot;video-info&quot;&gt;http://v.youku.com/v_show/id_XNDg5MTEyNDc2.html&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;打心眼里尊敬这位老爷爷，因为他教会我们不要根据他人的外表judge他，不要未了解实情就恶意揣测对方、甚至对对方进行人身攻击。他怀着一颗善心，值得所有人学习。&lt;br&gt;&lt;br&gt;回到这道题，私以为，你可以拒绝，这是个人的选择和权利。但最好不要恶意揣测他人的过去和过错，甚至以它来当做羞辱对方的言语随意抛出。
 </description>
 </item>
 </channel>
