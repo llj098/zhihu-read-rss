@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21384084/answer/18065108
+</link>
+<author>
+李创
+</author>
+<title>
+新版手机 QQ 2013 上的主题功能是怎样设计出来的？
+</title>
+<description>
+&lt;b&gt;整体设计思路如下：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hole in One设计花絮&lt;br&gt;&lt;br&gt;1.为什么选择“Hole in One”？&lt;br&gt;QQ在成长，用户在成长，而设计也需要成长。很多时候QQ给人的感觉很Q很萌，但我们要为成长的用户更高品质的设计，同时设计更是想与用户共振一种态度，一种执着坚持梦想的态度，我们与用户同在成长，【Hole in One一杆中的】应势而生。&lt;br&gt;&lt;br&gt;2.整体配色设定 &lt;br&gt;墨绿一直是时尚的弄潮儿，个人也万般衷情，配合橙黄暖色，有一种约婉的品质。呼应主题，墨绿与米灰作为主色，木黄色作为点缀色，构成三主色，同时每个色系匹配了不同的纹理，这里特别提点一下木纹，木是被用泛了的纹，这里的运用很克制，稀缺到让他成为主题的一个跳跃点。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/82/c6/82c66ce2ce3ab39874f2f506157f7590_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;337&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/82/c6/82c66ce2ce3ab39874f2f506157f7590_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;3.主图标的设计&lt;br&gt;整套系统定义了两类图标，而4个主图标是仅有的细致风。白灰的主色，在果岭上更能夺框而出，而点睛的玫红，使其识别性独特。球是核心，代表了“消息”；球星帽呈现了“联系人”；缝有Qzone标志的手套，寓意了“动态”；球杆属器械对应了“设置”。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0c/c4/0cc41b16b10b02a8aab737040f4bc2bd_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;262&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/0c/c4/0cc41b16b10b02a8aab737040f4bc2bd_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;4.细节设计&lt;br&gt;主题在系统头像上细作精耕，让用户无时不刻沉浸在Golf的生态环境中：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d9/44/d9440c207081c10ca3df0ee3dd78293e_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;167&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/d9/44/d9440c207081c10ca3df0ee3dd78293e_r.jpg&quot;&gt;&lt;br&gt;主界面的右上角智能入口图标，按下后会弹出更多功能的菜单，“Hole in One”这里酝藏了幽默点——原来果岭按下后是会喷发出更多功能的火山！！！&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c4/e3/c4e39597861d58320ee0fe01b5da0dfe_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;356&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/c4/e3/c4e39597861d58320ee0fe01b5da0dfe_r.jpg&quot;&gt;&lt;br&gt;定义的另一类图标即是剪影图标，整体造型以“圆中有破”的理念贯穿始终,在一致中又有小小的意外：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/97/7e/977ebf71d05db23aad2a88b210f59906_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;417&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/97/7e/977ebf71d05db23aad2a88b210f59906_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4b/16/4b163d34b5f79282cdf8a77aa55fa8c8_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;521&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/4b/16/4b163d34b5f79282cdf8a77aa55fa8c8_r.jpg&quot;&gt;输入框巧用了异型的果岭沙地，而语音则是果岭湖泊，当你语音输入时，水面会扬起丝丝声线的涟漪：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/56/56/5656fb8a93b2858a62f45ef92aa8e45c_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;630&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/56/56/5656fb8a93b2858a62f45ef92aa8e45c_r.jpg&quot;&gt;&lt;br&gt;“豆杆”的身影无处不在，Check Box和打钩都是他的写照：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/6d/16/6d16c36f6733273e1ce5bbba4179f0af_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;254&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/6d/16/6d16c36f6733273e1ce5bbba4179f0af_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;果岭旗杆贯穿了整个主题所有与“图片”、“地点”相关的图形：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b7/9d/b79d0c3e85e9dc4e94c3746fe648a012_m.jpg&quot; data-rawwidth=&quot;428&quot; data-rawheight=&quot;114&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;428&quot; data-original=&quot;http://p3.zhimg.com/b7/9d/b79d0c3e85e9dc4e94c3746fe648a012_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/50/ee/50ee5062b700918f84de1dfb7a011efa_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;199&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/50/ee/50ee5062b700918f84de1dfb7a011efa_r.jpg&quot;&gt;&lt;br&gt;QQ主题的实现包括iOS、Android的各个机型，适配工作相当可观，这是整个手机QQ团队的合力结晶！&lt;br&gt;&lt;br&gt;5.有感&lt;br&gt;人终究是闲不下来&lt;br&gt;万物亦是如此&lt;br&gt;新陈代谢周而复始&lt;br&gt;既已如此&lt;br&gt;我们不如&lt;br&gt;每天为梦想前行一步&lt;br&gt;一生用心做透一件事&lt;br&gt;予心灵最深抚慰&lt;br&gt;&lt;br&gt;再次献给&lt;br&gt;不甘安逸&lt;br&gt;为梦前行&lt;br&gt;可爱可敬&lt;br&gt;的QQ用户&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5c/0b/5c0bc6ee08bcbe0ab566df08057f7548_m.jpg&quot; data-rawwidth=&quot;870&quot; data-rawheight=&quot;562&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;870&quot; data-original=&quot;http://p2.zhimg.com/5c/0b/5c0bc6ee08bcbe0ab566df08057f7548_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/28/b6/28b648cd93b669eeadccd65fa6e30f90_m.jpg&quot; data-rawwidth=&quot;1000&quot; data-rawheight=&quot;579&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1000&quot; data-original=&quot;http://p3.zhimg.com/28/b6/28b648cd93b669eeadccd65fa6e30f90_r.jpg&quot;&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;我再给你讲一个关于“豆杆”的故事，你就明白我们的创作思路了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“豆杆”的故事&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;我是一条杆 &lt;br&gt;天生神似豆芽&lt;br&gt;美偶名曰——豆杆&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/da/43/da43bf851c5d818c4882d8c4742bc5d2_m.jpg&quot; data-rawwidth=&quot;1005&quot; data-rawheight=&quot;681&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1005&quot; data-original=&quot;http://p1.zhimg.com/da/43/da43bf851c5d818c4882d8c4742bc5d2_r.jpg&quot;&gt;&lt;br&gt;少年时&lt;br&gt;偶有一枚朦胧梦想&lt;br&gt;一直幻想&lt;br&gt;能在果岭上挥洒击球 &lt;br&gt;长大后&lt;br&gt;每天兼三份工&lt;br&gt;劳工厨工美工&lt;br&gt;样样入木三分 &lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/66/0b/660b7f8683cc7688643645578e85c14e_m.jpg&quot; data-rawwidth=&quot;1005&quot; data-rawheight=&quot;681&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1005&quot; data-original=&quot;http://p3.zhimg.com/66/0b/660b7f8683cc7688643645578e85c14e_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;而立之年&lt;br&gt;偶开洋车住海宅溜番狗&lt;br&gt;何其安逸&lt;br&gt;杆友们趋偶若鹜门庭若市&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a0/73/a07309df7cfff7b291e58affa1e477f2_m.jpg&quot; data-rawwidth=&quot;870&quot; data-rawheight=&quot;589&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;870&quot; data-original=&quot;http://p2.zhimg.com/a0/73/a07309df7cfff7b291e58affa1e477f2_r.jpg&quot;&gt;&lt;br&gt;只是喧嚣之后&lt;br&gt;每每夜深杆静&lt;br&gt;内心深处，无比落寂&lt;br&gt;心在呐喊 &lt;br&gt;杆的一生就如此千篇一律么&lt;br&gt;三十，心未立&lt;br&gt;而眼下，肚腩增涨细无声&lt;br&gt;豆芽将成保龄瓶&lt;br&gt;更是欲哭无泪 &lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/56/f9/56f9d54b2ac94297482f26ca1e557fb9_m.jpg&quot; data-rawwidth=&quot;870&quot; data-rawheight=&quot;589&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;870&quot; data-original=&quot;http://p2.zhimg.com/56/f9/56f9d54b2ac94297482f26ca1e557fb9_r.jpg&quot;&gt;辗转反侧&lt;br&gt;弃身海宅 &lt;br&gt;奔向大自然&lt;br&gt;重拾童梦&lt;br&gt;仰天长哮 &lt;br&gt;要做最精准的球杆&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f6/f3/f6f3503efa10a82f03af6e24c7ce7ee9_m.jpg&quot; data-rawwidth=&quot;870&quot; data-rawheight=&quot;589&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;870&quot; data-original=&quot;http://p3.zhimg.com/f6/f3/f6f3503efa10a82f03af6e24c7ce7ee9_r.jpg&quot;&gt;&lt;br&gt;终于&lt;br&gt;十年磨一杆 &lt;br&gt;在偶老去之前&lt;br&gt;第一次实现了我的存在我的不同&lt;br&gt;五百米开外&lt;br&gt;Hole in one&lt;br&gt;一杆中的&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/af/13/af1304ca75730628ac2b5f7ce9c06eb5_m.jpg&quot; data-rawwidth=&quot;870&quot; data-rawheight=&quot;589&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;870&quot; data-original=&quot;http://p2.zhimg.com/af/13/af1304ca75730628ac2b5f7ce9c06eb5_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;献给所有&lt;br&gt;不甘安逸&lt;br&gt;为梦前行&lt;br&gt;可爱可敬&lt;br&gt;的QQ用户&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;QQ2013&lt;/b&gt;&lt;b&gt;主题【Hole in One 一杆中的】&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7f/0f/7f0fb489e3de79cb4f638b0299d24e9f_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/7f/0f/7f0fb489e3de79cb4f638b0299d24e9f_r.jpg&quot;&gt;&lt;b&gt;QQ&lt;/b&gt;&lt;b&gt;登录： &lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;img src=&quot;http://p4.zhimg.com/70/43/7043bee84a39bc43f7d12d2b3bc1c4f5_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;687&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/70/43/7043bee84a39bc43f7d12d2b3bc1c4f5_r.jpg&quot;&gt;&lt;br&gt;消息主界面：&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8c/94/8c94fcfb89d2aa4908bb89797032ebce_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/8c/94/8c94fcfb89d2aa4908bb89797032ebce_r.jpg&quot;&gt;&lt;br&gt;&lt;b&gt;聊天界面：&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f6/49/f649a58a0dcc84a7747e8acd05ea3045_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/f6/49/f649a58a0dcc84a7747e8acd05ea3045_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21381500/answer/18058439
 </link>
 <author>
@@ -144,7 +158,7 @@ talich
 http://www.zhihu.com/question/21380355/answer/18055171
 </link>
 <author>
-知乎用户
+孙尉翔
 </author>
 <title>
 博士毕业在即，感觉导师在刁难自己，很可能会影响自己毕业，请问该如何应对？
@@ -186,7 +200,7 @@ http://www.zhihu.com/question/21379979/answer/18052861
 http://www.zhihu.com/question/21365381/answer/18042507
 </link>
 <author>
-知乎用户
+孙成思
 </author>
 <title>
 我们该如何在这个病态的社会生存？
@@ -275,27 +289,13 @@ http://www.zhihu.com/question/21378916/answer/18052926
 http://www.zhihu.com/question/19837675/answer/18049773
 </link>
 <author>
-知乎用户
+郑加玙
 </author>
 <title>
 猫和狗是否能一起养？为什么？
 </title>
 <description>
 刚好能答这个题。&lt;br&gt;最近收留了一只流浪猫崽，女孩子，不足月，取名叫Mio。&lt;br&gt;&lt;img data-rawheight=&quot;290&quot; data-rawwidth=&quot;390&quot; src=&quot;http://p2.zhimg.com/18/85/1885677f9f1b2ed35fc375c7e1c474b1_m.jpg&quot; class=&quot;content_image&quot; width=&quot;390&quot;&gt;&lt;br&gt;家里有一只三岁的（没有女朋友的）萨摩耶。&lt;br&gt;&lt;img data-rawheight=&quot;431&quot; data-rawwidth=&quot;424&quot; src=&quot;http://p1.zhimg.com/db/08/db085f140a0e3faca513c918c36eec5b_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;424&quot; data-original=&quot;http://p1.zhimg.com/db/08/db085f140a0e3faca513c918c36eec5b_r.jpg&quot;&gt;&lt;br&gt;这俩第一次见面的时候我儿子直接疯了，完全无法控制，又哼唧又流口水，围着我转来转去像嗑药一样。Mio在我怀里被这个大家伙吓得不停的“喵喵&quot;叫。我只能不停的安抚完这只，安抚那只......最后直接被这俩整得筋疲力尽。&lt;br&gt;随着两只逐渐熟悉，状况开始有所好转。在Mio多次被我儿子的口水整得浑身湿答答以后，对他的态度开始由最初的惊恐万分变为视若无睹，一直到刚刚，我拍下了这么一幕。&lt;br&gt;&lt;img data-rawheight=&quot;1024&quot; data-rawwidth=&quot;1024&quot; src=&quot;http://p1.zhimg.com/0e/c7/0ec7049a5bae19321412f3dff084b25a_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1024&quot; data-original=&quot;http://p1.zhimg.com/0e/c7/0ec7049a5bae19321412f3dff084b25a_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawheight=&quot;1024&quot; data-rawwidth=&quot;1024&quot; src=&quot;http://p3.zhimg.com/2e/32/2e32ebf75c6e5498d0ff4837671711d7_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1024&quot; data-original=&quot;http://p3.zhimg.com/2e/32/2e32ebf75c6e5498d0ff4837671711d7_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawheight=&quot;1024&quot; data-rawwidth=&quot;1024&quot; src=&quot;http://p4.zhimg.com/c3/d6/c3d659f7a3ef90566c4bc3fe366c826b_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1024&quot; data-original=&quot;http://p4.zhimg.com/c3/d6/c3d659f7a3ef90566c4bc3fe366c826b_r.jpg&quot;&gt;&lt;br&gt;TwT这历史性的一刻啊啊啊啊啊啊啊啊啊啊啊啊妈妈心都快化了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21371010/answer/18043733
-</link>
-<author>
-meta
-</author>
-<title>
-发现女朋友曾经是 KTV 小姐怎么办？
-</title>
-<description>
-作为在私德方面严于律己宽以待人的楷模，为了支持题主继续交往的预设立场，我在开会中还把这个问题翻了一遍真是太三八了，最三八的是，我看到题主在知乎没回答过问题只提了两个问题，另一个问题是「女朋友阴道太松怎么办，她说以前只有一个男友」。至此我三八热情尽灭，题主你是来黑知乎的吧？你还是洗洗睡吧= =&lt;br&gt;&lt;br&gt;风月场中败类再多也有佳人，但题主你这样精虫上脑的无聊之人最多遇到个说谎精，祝前程万丈（下去也可能是无底深渊）
 </description>
 </item>
 </channel>
