@@ -15,6 +15,22 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20449431/answer/17774562
+</link>
+<author>
+北羽宫城
+</author>
+<title>
+命运是什么？
+</title>
+<description>
+&lt;blockquote&gt;法国心理学家约翰.法伯曾经做过一个著名的实验，称之为“毛毛虫实验”：把许多毛毛虫放在一个花盆的边缘上，使其首尾相接，围成一圈，在花盆周围不远的地方，撒了一些毛毛虫喜欢吃的松叶。 
+毛毛虫开始一个跟着一个，绕着花盆的边缘一圈一圈地走，一小时过去了，一天过去了，又一天过去了，这些毛毛虫还是夜以继日地绕着花盆的边缘在转圈，几天之后，它们最终因为饥饿和精疲力竭而相继死去。 
+约翰.法伯在做这个实验前曾经设想：毛毛虫会很快厌倦这种毫无意义的绕圈而转向它们比较爱吃的食物，遗憾的是毛毛虫并没有这样做。&lt;br&gt;&lt;/blockquote&gt;&lt;img src=&quot;http://p4.zhimg.com/c1/2f/c12f5e877d89a1e3fc964582104e452d_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;431&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p4.zhimg.com/c1/2f/c12f5e877d89a1e3fc964582104e452d_r.jpg&quot;&gt;&lt;br&gt;&lt;b&gt;生命都有这样一个特点：维持自身的惯性。最基本的，要数维持自身存续的惯性。这种惯性决定了命运的轨迹。&lt;/b&gt;&lt;br&gt;毛毛虫的命运依循着队列的轨迹，我们只不过是身处在更大的洪流中罢了。&lt;br&gt;有些人的成功只是命运轨迹中的一个普通事件，然而对于想要自己掌控命运的人来说，就需要警惕惯性「思维、行为、习惯、性格」对个人命运的影响，保持觉知。&lt;br&gt;改变惯性才能改变命运。&lt;br&gt;不过我相信大部分人无法改变命运，即使偶尔的偏离也会慢慢回复到原有轨道上。&lt;br&gt;更何况，面对改变，人们有大恐惧。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20685585/answer/15853350
 </link>
 <author>
@@ -280,20 +296,6 @@ http://www.zhihu.com/question/20289013/answer/16720328
 </title>
 <description>
 排名第一的&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@折折熊&quot; href=&quot;http://www.zhihu.com/people/jonathonwong&quot; data-tip=&quot;p$b$jonathonwong&quot;&gt;@折折熊&lt;/a&gt; 同学，不知道请不要乱说。问了tradeexprod系统（也就是我们看到那个登陆界面的系统）的负责人，这件事一开始是因为之前外界用户对支付宝登录密码认知度较低，只知道支付密码，因此设计如此。期间一段时间试图修改为登录密码，但是投诉太多，不得已又改为原来的逻辑，不是所谓的bug。&lt;br&gt;如果真是bug，不会在页面中还使用highlight标记，相信bug说的各位也请自己过脑。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/eb/78/eb78e16c7550102e23fb8d81e3da72d3_m.jpg&quot; data-rawwidth=&quot;577&quot; data-rawheight=&quot;598&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;577&quot; data-original=&quot;http://p2.zhimg.com/eb/78/eb78e16c7550102e23fb8d81e3da72d3_r.jpg&quot;&gt;&lt;br&gt;看了下回复，补充下：&lt;br&gt;所谓bug，是指实现结果与设计预期不合理。&lt;b&gt;这件事上，从设计之初就是设计的“支付密码”，而非“登录密码”&lt;/b&gt;。这件事的梗主要是支付宝账户对大多数用户来讲感知度并不高，&lt;b&gt;许多用户根本不知道自己的“登录密码”，只记得“支付密码”&lt;/b&gt;（因为从淘宝买东西，只需要支付密码就够了），在这个大前提下，又不想牺牲外部用户的转换率，因此只能采用这种看起来很傻但确实行之有效的办法。&lt;br&gt;&lt;br&gt;吐个槽，不少UED同学，产品经理同学，都是看到表象与自己的设想不一致，于是就抛出不少猜想，这个可以理解。但程序本身是很严肃的事情，无论是这次&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@折折熊&quot; href=&quot;http://www.zhihu.com/people/jonathonwong&quot; data-tip=&quot;p$b$jonathonwong&quot;&gt;@折折熊&lt;/a&gt;说的支付密码事件，还是之前&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Fenng&quot; href=&quot;http://www.zhihu.com/people/fenng&quot; data-tip=&quot;p$b$fenng&quot;&gt;@Fenng&lt;/a&gt;提出的chrome插件无法支持tab的事件，虽然都是公司内部人员，但答案都是靠自己的“经验”臆想出来的。退一步说，其实臆想本没有错，但请别斩钉截铁且上纲上线，&lt;b&gt;比如置顶答案说的“只是外部商户这块的业务量没有被看得上眼”，其实事实恰恰相反，因为看重外部商户的用户体验和转换率，所以才需要迎合用户对支付宝帐号的实际感知程度，进行这种看起来很“不合理”的设计&lt;/b&gt;。&lt;br&gt;&lt;br&gt;——————————————————————————————————————————&lt;br&gt;关于chrome的密码框问题，去年知乎上有问答，但是找不到了。支付宝内网有这件事的讨论，直接上截图答案好了：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/17/67/17674323cceac5699379036069360930_m.jpg&quot; data-rawwidth=&quot;766&quot; data-rawheight=&quot;569&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;766&quot; data-original=&quot;http://p2.zhimg.com/17/67/17674323cceac5699379036069360930_r.jpg&quot;&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21341790/answer/18064248
-</link>
-<author>
-Kevin Lin
-</author>
-<title>
-每天在地铁上看到抱着很小的孩子乞讨的人应该怎么办？
-</title>
-<description>
-对这样的场景，建议不要过多投入个人情感，客观理解事实，你就不会认为这是“惨剧”。事实是，对于地铁上带着孩子的乞讨者来说，“乞讨”是他们的工作，“孩子”是他们工作时的“道具”。社会是不公平的，阳光洒满只是童话，盲目同情是一种伪善，单凭个人很难真正理解他们的境况并帮到他们；相反，在他们没有违反法律的前提下，必须尊重他们的自由和选择。对于这些人而言，来到城市，没有别的赚钱本领或资源，“乞讨”是最经济划算的行当，比在老家种田轻松，没摆摊跟城管冲突的风险，只要厚脸皮就行，有何不可。&lt;br&gt;&lt;br&gt;&lt;b&gt;因此最好的做法是置之不理。&lt;/b&gt;报警，既浪费了警力资源又可能伤害到乞讨者及他们的孩子；给钱，无疑是助长了这个行业，让更多的人加入乞讨的队伍中。&lt;br&gt;&lt;br&gt;题主可能会问：为什么政府不出手？一来相关法制不完善，除了《未成年人保护法》及《义务教育法》支持未成年人有受照顾和受教育的权利以外，没有明确的法律保护流浪儿童。其次，现实的原因是，政府能提供的援助资源十分有限，同时儿童福利事业和民间慈善组织亦不健全。目前，我国儿童福利院主要收容无依无靠、无人抚养的孤儿、弃婴和残废儿童，有家人抚养的流浪儿童不在主要收容之列。况且，福利院缺乏家庭的温暖和关爱，从来就不是一个美好的地方，这让我们在证明孩子的父母未尽到抚养义务并将孩子从父母手中夺走时必须格外谨慎。事实上考虑到目前中国的现实，让孩子留在父母身边已是最好的选择。&lt;br&gt;&lt;br&gt;在西方发达国家，政府通过设立儿童福利机构保证孩子不会在街头乞讨。英国、瑞典、挪威等发达国家和地区在上个世纪先后出台了儿童福利专门法案，并成立了儿童福利局等专司机构。&lt;br&gt;&lt;br&gt;在美国，现有的儿童保护工作采取国家规划、投入、实施的“社会保护型儿童福利”模式。该模式的核心理念是，管教和保护儿童既是父母的责任，也是国家的责任。因此美国儿童保护工作组织是由多个层级的机构组成的，自上而下包括联邦、州、县、市的相关机构，以及非营利、公、私营社会服务机构。对教唆儿童的乞讨者，只要18岁以下儿童乞讨，第一次警告家长并留记录，全国联网可查；第二次儿童协会和警察就来带走并起诉家长，其结果是大人进监狱，孩子交给临时领养家庭，这有效地遏制了流浪儿童的产生。&lt;br&gt;&lt;br&gt;在俄罗斯，政府主要通过从源头上预防流浪儿童违法问题的产生。早在1993年，俄政府就颁布了《俄罗斯流浪儿童预防性原则纲领》，预防流浪儿童的产生。1999年，俄政府又颁布了《预防流浪儿童和未成年人犯罪法》。2002年10月，俄政府颁布了俄罗斯儿童整体纲要（2003~2006年），进一步建立和掌握流浪儿童的信息，以扩大和提高为流浪儿童服务的质量。&lt;br&gt;&lt;br&gt;在香港，儿童服务一般统一由社会福利署及一些私人福利机构负责，服务内容和方式包括保护儿童、监护儿童、寄养服务、领养服务等。对缺乏正常家庭环境的儿童，各个福利机构提供的服务则包括：爲儿童提供住宿服务(全免费)、安排孤儿到认可的家庭进行寄养等。&lt;br&gt;&lt;br&gt;还有很多国家或城市禁止儿童街头乞讨。2008年6月，奥地利首都维也纳颁布法律禁止儿童单独或成人陪伴在街头乞讨，违法者将视情节被处以最高700欧元的罚款或受到拘留一周的严厉处罚。&lt;br&gt;&lt;br&gt;从这些经验可以看出，政府牵头完善法律，民间机构跟进投入，才是保护流浪儿童的有效途径。&lt;br&gt;&lt;br&gt;参：&lt;br&gt;【1】&lt;a href=&quot;http://blog.sina.com.cn/s/blog_6af5dfa80100qhq8.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;blog.sina.com.cn/s/blog&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;_6af5dfa80100qhq8.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;【2】&lt;a href=&quot;http://www.swd.gov.hk/tc/index/site_pubsvc/page_family/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;swd.gov.hk/tc/index/sit&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;e_pubsvc/page_family/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;【3】&lt;a href=&quot;http://news.ifeng.com/opinion/special/jinzhiertongxingqi/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;news.ifeng.com/opinion/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;special/jinzhiertongxingqi/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;【4】&lt;a href=&quot;http://www.qstheory.cn/sh/shsy/201303/t20130305_214894.htm&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;qstheory.cn/sh/shsy/201&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;303/t20130305_214894.htm&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 </channel>
