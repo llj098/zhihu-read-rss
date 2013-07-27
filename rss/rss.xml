@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20685585/answer/15853350
+</link>
+<author>
+程志达
+</author>
+<title>
+图标是否就是我们认为的这么重要？
+</title>
+<description>
+图标的使用自从 Macintosh 1.0，甚至在更早的 Xerox 图形界面开始就有了。&lt;br&gt;&lt;br&gt;图标的好处：&lt;ul&gt;&lt;li&gt;全球通用，Windows,iOS, etc., 中文版和英文版甚至各种语言版本，在不打开菜单之前，基本上都长一样。&lt;/li&gt;&lt;li&gt;节约空间，如果在一个图标能够表述清楚含义的时候，比如用一个叉就可以不用写「关闭」。&lt;/li&gt;&lt;li&gt;快速定位，图标可以用它独特的形状或者颜色让人快速定位到一个功能，豌豆荚2.0左侧的导航在「音乐／应用／视频」分类加了简单的小图标之后，用户的对应用管理功能的访问量增加了约30%&lt;/li&gt;&lt;li&gt;上下文的定位，比如小飞机的图标单独放出来不确定是什么，但是在和收件箱在一起它就可以认为是发件箱了。所以原问题里面单拿出来一个图标不知道是什么含义，我并不认为是错的。&lt;/li&gt;&lt;/ul&gt;图标不能解决的问题：&lt;ul&gt;&lt;li&gt;不明确的图标还不如文字，这一点从 Panic 关于清除列表的「Clear」图标的设计一文就能看到。&lt;a href=&quot;http://www.panic.com/blog/2010/02/clear/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;panic.com/blog/2010/02/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;clear/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 他们设计了种种图标，实际上最后还是用了文字。&lt;/li&gt;&lt;li&gt;图标不能太「统一」，不知道是从什么时候开始，很多国内的公司为了视觉的一致性，用了全是圆形，或者全是细线的图标，比如QQ手机版，这其实对于可用性是有损害的，因为无法快速从形状或者色彩定位到功能，就失去了图标的意义。&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;http://p3.zhimg.com/b9/b6/b9b66c205c425f79ad209e8f13f8cdff_m.jpg&quot; data-rawwidth=&quot;264&quot; data-rawheight=&quot;39&quot; class=&quot;content_image&quot; width=&quot;264&quot;&gt;&lt;br&gt;&lt;br&gt;如果从这样的考虑，原问题提到的对知乎右侧图标的批评，我认为主要有以下的问题：&lt;ul&gt;&lt;li&gt;风格太一致了，失去了快速定位的用处&lt;/li&gt;&lt;li&gt;上下文定位的含义不明显。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;如果是我小改动一下的话：&lt;br&gt;Before&lt;img src=&quot;http://p2.zhimg.com/52/5b/525bdb044ce960d0fcf7c12921427f7f_m.jpg&quot; data-rawwidth=&quot;179&quot; data-rawheight=&quot;127&quot; class=&quot;content_image&quot; width=&quot;179&quot;&gt;After: ( 改动的图标来自 Glyphish: &lt;a href=&quot;http://www.glyphish.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;glyphish.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; )&lt;img src=&quot;http://p2.zhimg.com/e4/27/e427e283934428e3b79b42a254404962_m.jpg&quot; data-rawwidth=&quot;177&quot; data-rawheight=&quot;121&quot; class=&quot;content_image&quot; width=&quot;177&quot;&gt;肯定还有更好的解决方案，我做出改动的主要考虑是：&lt;br&gt;&lt;ol&gt;&lt;li&gt;每个图标的形状区分度更明显(方，星，圆 vs 方x4 )，&lt;br&gt;&lt;/li&gt;&lt;li&gt;收藏和关注有了更明显的区分（收藏表示质量好，关注表示先看看）&lt;/li&gt;&lt;/ol&gt;但是修改的话还需要考虑其它地方的统一，比如添加关注和添加收藏时，用这样的图标是否还能够保证上下文和识别度，还是要继续考虑的了。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/19734595/answer/18079346
 </link>
 <author>
@@ -88,7 +102,7 @@ Kenneth
 http://www.zhihu.com/question/21390194/answer/18082909
 </link>
 <author>
-张小北
+知乎用户
 </author>
 <title>
 电影《速度与激情 6》中的跑道如果存在的话要有多长？
@@ -229,7 +243,7 @@ http://www.zhihu.com/question/19924761/answer/16616037
 http://www.zhihu.com/question/19922956/answer/18072945
 </link>
 <author>
-仲晨
+知乎用户
 </author>
 <title>
 北京学院路上的八大学院里面为什么立有毛泽东的雕像，而清华北大则没有？那些雕像会否因世易时移而逐渐消失？
@@ -280,20 +294,6 @@ Kevin Lin
 </title>
 <description>
 对这样的场景，建议不要过多投入个人情感，客观理解事实，你就不会认为这是“惨剧”。事实是，对于地铁上带着孩子的乞讨者来说，“乞讨”是他们的工作，“孩子”是他们工作时的“道具”。社会是不公平的，阳光洒满只是童话，盲目同情是一种伪善，单凭个人很难真正理解他们的境况并帮到他们；相反，在他们没有违反法律的前提下，必须尊重他们的自由和选择。对于这些人而言，来到城市，没有别的赚钱本领或资源，“乞讨”是最经济划算的行当，比在老家种田轻松，没摆摊跟城管冲突的风险，只要厚脸皮就行，有何不可。&lt;br&gt;&lt;br&gt;&lt;b&gt;因此最好的做法是置之不理。&lt;/b&gt;报警，既浪费了警力资源又可能伤害到乞讨者及他们的孩子；给钱，无疑是助长了这个行业，让更多的人加入乞讨的队伍中。&lt;br&gt;&lt;br&gt;题主可能会问：为什么政府不出手？一来相关法制不完善，除了《未成年人保护法》及《义务教育法》支持未成年人有受照顾和受教育的权利以外，没有明确的法律保护流浪儿童。其次，现实的原因是，政府能提供的援助资源十分有限，同时儿童福利事业和民间慈善组织亦不健全。目前，我国儿童福利院主要收容无依无靠、无人抚养的孤儿、弃婴和残废儿童，有家人抚养的流浪儿童不在主要收容之列。况且，福利院缺乏家庭的温暖和关爱，从来就不是一个美好的地方，这让我们在证明孩子的父母未尽到抚养义务并将孩子从父母手中夺走时必须格外谨慎。事实上考虑到目前中国的现实，让孩子留在父母身边已是最好的选择。&lt;br&gt;&lt;br&gt;在西方发达国家，政府通过设立儿童福利机构保证孩子不会在街头乞讨。英国、瑞典、挪威等发达国家和地区在上个世纪先后出台了儿童福利专门法案，并成立了儿童福利局等专司机构。&lt;br&gt;&lt;br&gt;在美国，现有的儿童保护工作采取国家规划、投入、实施的“社会保护型儿童福利”模式。该模式的核心理念是，管教和保护儿童既是父母的责任，也是国家的责任。因此美国儿童保护工作组织是由多个层级的机构组成的，自上而下包括联邦、州、县、市的相关机构，以及非营利、公、私营社会服务机构。对教唆儿童的乞讨者，只要18岁以下儿童乞讨，第一次警告家长并留记录，全国联网可查；第二次儿童协会和警察就来带走并起诉家长，其结果是大人进监狱，孩子交给临时领养家庭，这有效地遏制了流浪儿童的产生。&lt;br&gt;&lt;br&gt;在俄罗斯，政府主要通过从源头上预防流浪儿童违法问题的产生。早在1993年，俄政府就颁布了《俄罗斯流浪儿童预防性原则纲领》，预防流浪儿童的产生。1999年，俄政府又颁布了《预防流浪儿童和未成年人犯罪法》。2002年10月，俄政府颁布了俄罗斯儿童整体纲要（2003~2006年），进一步建立和掌握流浪儿童的信息，以扩大和提高为流浪儿童服务的质量。&lt;br&gt;&lt;br&gt;在香港，儿童服务一般统一由社会福利署及一些私人福利机构负责，服务内容和方式包括保护儿童、监护儿童、寄养服务、领养服务等。对缺乏正常家庭环境的儿童，各个福利机构提供的服务则包括：爲儿童提供住宿服务(全免费)、安排孤儿到认可的家庭进行寄养等。&lt;br&gt;&lt;br&gt;还有很多国家或城市禁止儿童街头乞讨。2008年6月，奥地利首都维也纳颁布法律禁止儿童单独或成人陪伴在街头乞讨，违法者将视情节被处以最高700欧元的罚款或受到拘留一周的严厉处罚。&lt;br&gt;&lt;br&gt;从这些经验可以看出，政府牵头完善法律，民间机构跟进投入，才是保护流浪儿童的有效途径。&lt;br&gt;&lt;br&gt;参：&lt;br&gt;【1】&lt;a href=&quot;http://blog.sina.com.cn/s/blog_6af5dfa80100qhq8.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;blog.sina.com.cn/s/blog&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;_6af5dfa80100qhq8.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;【2】&lt;a href=&quot;http://www.swd.gov.hk/tc/index/site_pubsvc/page_family/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;swd.gov.hk/tc/index/sit&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;e_pubsvc/page_family/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;【3】&lt;a href=&quot;http://news.ifeng.com/opinion/special/jinzhiertongxingqi/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;news.ifeng.com/opinion/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;special/jinzhiertongxingqi/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;【4】&lt;a href=&quot;http://www.qstheory.cn/sh/shsy/201303/t20130305_214894.htm&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;qstheory.cn/sh/shsy/201&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;303/t20130305_214894.htm&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21383146/answer/18063290
-</link>
-<author>
-GayScript
-</author>
-<title>
-一个人高考没考好，然后自杀了。有的人说不必惋惜，这样的人就应该被社会淘汰。应该怎么有理有据地反驳他？
-</title>
-<description>
-武则天拿起一枚针，送给太平。&lt;br&gt;武则天：这是什么？&lt;br&gt;太平：一根银针。&lt;br&gt;武则天：谁用银针？&lt;br&gt;太平：他们，宫女。太监。&lt;br&gt;武则天：用针做什么？&lt;br&gt;太平：缝衣织被，供我们使用。&lt;br&gt;武则天：我们穿上她们缝的衣，盖上她们织的被，做什么？&lt;br&gt;太平：做公主，做皇帝，做皇后，做……&lt;br&gt;武则天：皇帝做什么？皇后做什么？&lt;br&gt;太平：皇帝管理国家，皇后辅佐皇帝打理后宫。皇子吗，嗯，嗯，念书，准备做皇帝。&lt;br&gt;武则天：说得对，你看这宫里几千人，其实各有各的事情做，各有各约规矩可循，宫女不能做太监的事，太监不可以做大臣们的事，而大臣们永远代替不了皇帝拟旨。&lt;b&gt;这就好像一座塔&lt;/b&gt;，塔尖儿上就是皇帝，地位最高贵，然后依身份、地位依次往下，于是，塔座地就越来越大，皇帝坐在顶上才会越来越安全、更稳固。&lt;b&gt;每个人都有自己的位置，长势也就有了固定的方向，一层长歪了，塔就不稳&lt;/b&gt;，就要塌，所以在这宫里要立许多规矩，每个人都要依规矩行事。&lt;br&gt;&lt;br&gt;—— 选自《大明宫词》剧本&lt;br&gt;&lt;br&gt;一个人有出息、有才华、有能力、有权贵，他可以爬到社会的塔顶。&lt;br&gt;一个人没出息、没才华、没能力、没权贵，他也可以在塔底为这个社会作一份贡献。&lt;br&gt;无论是谁，都有他在这个社会之塔的位置。&lt;br&gt;&lt;br&gt;就算那孩子意志软弱又如何？他就该被社会淘汰？社会底层的人谁没点这样那样的毛病？（别说社会底层了，就算社会顶层的，谁敢说就十全十美了？）难道都要因此被淘汰？淘汰了这群社会底层的人，这座塔还能稳固吗？&lt;br&gt;&lt;br&gt;那些缝衣织被的宫女，说不定有的意志软弱，有的目不识丁，有的消极厌世，有的言而无信，有的污言秽语 …… 难道都要被淘汰？可没了她们，皇宫里谁来缝衣织被？哪怕仅仅是缝衣织被，她们也有自己在皇宫里的生存价值。&lt;br&gt;&lt;br&gt;同样，当今社会，那些农民工、快递员（没有贬低的意思，只是举例社会底层），他们应该也有很多意志软弱、目不识丁、消极厌世、言而无言、污言秽语 …… 的，难道就因此淘汰了他们？可没了他们，谁来建筑高楼大厦，谁来维持物流运输？哪怕是在社会底层，他们也有自己的生存价值。&lt;br&gt;&lt;br&gt;这个社会不是只有塔尖儿上的人，还有无数在塔底生存的人。一个人再不好，也有他存在的价值。高贵有高贵的价值，卑贱有卑贱的价值。我卑贱，但我也有价值。&lt;br&gt;&lt;br&gt;另外，那好歹是一条人命。逝者已矣，积点口德吧。
 </description>
 </item>
 </channel>
