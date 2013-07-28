@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21387487/answer/18092174
+</link>
+<author>
+陈甫鸼
+</author>
+<title>
+在微软 (Microsoft) 公司从事 iOS 开发是怎样一番工作体验？
+</title>
+<description>
+这么多朋友都热情邀请，想不答也不好意思。&lt;br&gt;&lt;br&gt;首先说一句，在微软负责做 iOS 开发的部门不少，除了很多人可能都听过的 APEX 部门（也就是 Mac Office），我们目前供职的 Skype 也同样负责 iOS 应用的开发。事实上，我们管的不只是 iOS ，而是从 Windows 到 Mac 到 Linux 共计 16 个平台，当然也包括 Windows Phone，iOS 和 Android，而就我个人而言，我也做过 Linux 内核驱动（针对 Hyper-V 的虚拟设备驱动），所以我的回答并不只是针对 iOS 开发。&lt;br&gt;&lt;br&gt;在微软，做非 Windows 平台开发的程序员很容易被人报以好奇的眼神，这不只是说在外部，也是说微软内部。但得说明，这不是某些外界观点说的所谓「歧视」，仅仅是好奇而已。毕竟技术这种东西原则上说没有什么不可能，只有愿不愿意去做。至于工作体验么，平心而论，有时候很不方便。因为公司的大部分办公环境都和 Windows 紧密整合，内部网站有时候在 Mac 或 Linux 上用浏览器根本连不进去，所以我们的工作不可能完全离开 Windows。另一个可能麻烦的地方是资源。在微软做非 Windows 开发，就意味着很难有效利用公司庞大的内部资源，比如很多内部的开发和测试工具，我们就很难用起来。很多时候在其它部门那里可以借别人的工具简单完成的事，在这里就基本上是一片白地，只能从头开始。举个例子：苹果系统的调试系统和 Windows 下难用但强大的 WinDBG 差距颇大，也不能做内核调试，所以反过来必须借助 log 之类的方式辅助调试工作。对我这种老混子来说是无所谓，但很多刚进入非 Windows 开发的微软技术狂热者来说，可就痛苦了。&lt;br&gt;&lt;br&gt;不过，以上的问题也不尽然是坏事。正因为有这些问题，我们这群人往往更容易注意到 Windows 生态环境和 Unix 的区别，所以经常会有兼容性测试的点子从我们这边冒出来，另外，正因为缺少工具，我们这边是很强调自己动手丰衣足食的，技术上没两把刷子可不会很好混。&lt;br&gt;&lt;br&gt;最后说说上面的文章。其实这篇文章说的并不完全正确。微软做非 Windows 开发的历史并不短，从早年的 XENIX 到后来的 Mac 版 Office 和 IE，再到后来的 SkyDrive 和 Office 365。当然中间也有过停止开发的事情，但无论如何，选择是做 Windows 还是非 Windows 开发，最终都是为商业目标服务，在商言商，不存在什么 learn to love 之类的说法。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/20778804/answer/18091325
+</link>
+<author>
+magasa
+</author>
+<title>
+鲁迅「在我的后园，可以看见墙外有两株树，一株是枣树，还有一株也是枣树」妙在哪里？
+</title>
+<description>
+一个作家在描述一件事物的时候，语言风格可以有三种选项：&lt;br&gt;&lt;br&gt;1. 用最正常的方式，但若想显得特别，还可：&lt;br&gt;2. 更精炼；或&lt;br&gt;3. 更冗余&lt;br&gt;&lt;br&gt;精炼或冗余，在这里都是中性的选择，不带好或坏的价值判断。&lt;br&gt;&lt;br&gt;鲁迅现在想描述「我的后园墙外有两株枣树」这样一个事实，上述这句话已经是描述这个事实的天然正常选择，大多数人都会这么写，但现在他想显得特别一点，那么是不是可以把这句话精炼一下？好像很难，「园外有二枣树」？似乎不甚高明。那么使它冗余呢？&lt;br&gt;&lt;br&gt;「一株是枣树，还有一株也是枣树。」&lt;br&gt;&lt;br&gt;这句话当然和「有两株枣树」是不一样的。我们都知道一句格言：故事本身并不重要，怎么讲才更重要。所以有两株枣树这个事实并不重要，怎么来告诉读者有两株枣树比较重要。&lt;br&gt;&lt;br&gt;如何读解这句被冗余化后的句子有太多的思路，我们不用考虑作者下笔时怎么想的，我们只需要研究它对读者带来的阅读感受即可。其余答案说的镜头感、空间感都很有启发，我自己比较看重这句话中两个分句之间的节奏感，和因为信息延宕带来的悬念。&lt;br&gt;&lt;br&gt;有两株树，原来其中一株是枣树呀，那另一株呢？尽管这里只是一个逗号造成的短暂停顿，但在读者心中，已经形成了一个小小的期待，欲知道下一株是什么吗？接着往下读，哦，原来还是枣树。没有惊喜，心情平复。&lt;br&gt;&lt;br&gt;一个逗号，在读者心理上引发一个起落。这个起落，让读者知道，这是一个多么平庸的后园哪，你期待的任何意外都不存在！这种平庸和平凡的感觉，是直接描述有两株枣树所不能得到的。&lt;br&gt;&lt;br&gt;所以，这笔冗余的写法，岂不是极为成功？
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20778804/answer/16159625
 </link>
 <author>
@@ -32,7 +60,7 @@ http://www.zhihu.com/question/20778804/answer/16159625
 http://www.zhihu.com/question/21023952/answer/18068044
 </link>
 <author>
-天光
+知乎用户
 </author>
 <title>
 如何准确又通俗易懂地解释大数据及其应用价值？
@@ -160,7 +188,7 @@ Kenneth
 http://www.zhihu.com/question/21390194/answer/18082909
 </link>
 <author>
-张小北
+知乎用户
 </author>
 <title>
 电影《速度与激情 6》中的跑道如果存在的话要有多长？
@@ -266,34 +294,6 @@ Moritz
 <description>
 我会用我家的例子告诉你，有可能。但也会告诉你，这可能性背后是多少残酷&lt;br&gt;&lt;br&gt;我家那会在农村弄了块场地，养了只德牧——不是啥城里人玩的几十万一条的那种纯种，但也是条英武威风的大狗。&lt;br&gt;首先死于这她嘴下的猫真的不少，侵入这个院子地盘的野猫家猫，只要没及时逃脱几乎都会被她歼灭。&lt;br&gt;&lt;br&gt;但我家闹耗子厉害，迫切要求是要养一只猫&lt;br&gt;结果就捡了一只小野猫。这只猫非常特别，这特别不只是她（也是母的）的灵气、成年后展现的捉耗子的凶猛高效，最重要的一点，是让她能生存下来的特点：&lt;br&gt;她不逃&lt;br&gt;是的，狗这个东西非常奇怪，你越逃它越追，追到最后兴奋了就猎食者一样下口，掐在颈椎处，一甩，姿势标准得让一个小生命归西&lt;br&gt;但如果你不逃，她就没办法了，追到你跟前就傻在那不知所措。这是我从她追逐驱赶周围土狗中观察出来的&lt;br&gt;&lt;br&gt;结果这只猫就是不逃。不怕。甚至还蹬鼻子上脸卖萌小爪子掏掏狗脸。结果就是这只德牧就没办法了，有时候也会把猫叼起来，但在我们呵斥中又放下来&lt;br&gt;最后发展到最后，我们看到最温馨的一幕，比 &lt;a href=&quot;http://www.zhihu.com/people/zheng-jia-yu-63&quot; class=&quot;internal&quot;&gt;郑加玙&lt;/a&gt; 照片里的场面还温馨逗趣的一幕：&lt;br&gt;&lt;br&gt;冬天天冷，狗蜷作一团睡在库房里。而猫，就那么把她当做个大肉蒲团，蜷在她怀里睡得很香。&lt;br&gt;狗的表情很无奈。&lt;br&gt;&lt;br&gt;但如果故事到此为止多完美，但世界尤其是动物世界不是读者上那样符合我们的温软口味而生的。&lt;br&gt;&lt;br&gt;后来猫长大了，开始一窝一窝的生小猫。可狗的特赦对猫的子女无效。无论猫如何藏她的子女们，结果都是一样：被狗找出来并且吃掉。&lt;br&gt;是的，&lt;b&gt;吃掉&lt;/b&gt;。&lt;br&gt;&lt;br&gt;以至于我们会看到神奇而心酸的一幕：&lt;br&gt;猫在快生产前几个小时内，一直揣着大肚子跟在狗后面大声得，哀怨得叫，似乎在祈求什么。&lt;br&gt;&lt;br&gt;我爹看到的一次猫的尝试和努力：&lt;br&gt;一个夏夜我爹院中乘凉，狗按惯例躺在脚边。猫居然把一只小猫叼了出来，放在狗怀里，似乎在说：看，这是我的崽，请尝试接受我一样接受它吧。&lt;br&gt;狗闻闻，看看人在身边，就这么把小崽子环在怀里，表情有些尴尬。人在她是不会杀生的。&lt;br&gt;猫的胆子大了，把剩下的崽子一只只都叼了出来，放在狗的怀里。&lt;br&gt;&lt;br&gt;于是当时的场景，就和把大家都萌到的那个猫狗一家亲的场景很相似了吧。&lt;br&gt;&lt;br&gt;我爹回屋睡觉的时候，还看着狗那么换抱着猫崽子，一切看起来温馨无异常。他想，估计没事了吧。&lt;br&gt;第二天早上再看：&lt;br&gt;&lt;b&gt;地上剩下几个小猫的头。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;……所以我想说的是，永远不要用人的思维和逻辑去替动物考虑。即使是再通人性再优良品种的玩物犬猫们。这样你永远无法完全预测它们的行为。所以，请千万小心。&lt;img src=&quot;http://p4.zhimg.com/3a/04/3a04e4cdd571845ba16dafac2055ce47_m.jpg&quot; data-rawwidth=&quot;1600&quot; data-rawheight=&quot;1200&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1600&quot; data-original=&quot;http://p4.zhimg.com/3a/04/3a04e4cdd571845ba16dafac2055ce47_r.jpg&quot;&gt;&lt;/b&gt;（这张图似乎模特们状态都不太好。狗是我叫她后点头哈腰得过来的，这个会谄媚的狡猾可爱的老东西；猫正无所事事逛向远方，四个小白脚走起来优雅轻盈，却恰好想起来在柱子上蹭蹭屁股不小心露出了菊花）&lt;br&gt;&lt;b&gt;------------------------------------------------------------------------------------------------------------------------------------&lt;/b&gt;&lt;br&gt;估计会有人质问我们为何对狗的暴行不闻不问，我得交待一下背景：&lt;br&gt;那是我家最困苦最低谷的十年。人且难以自顾，更无心去管这些动物间的恩仇了；况且，我们家那会养动物不是像城里人那样去养玩物的目的，而是像当初人类和这些动物最纯粹原始的关系一样，是出于功能性需要而缔结的收养关系。狗用来护家报警，猫用来捕鼠，而乡间的猫本身也是半野生的状态，她发情生育一切都在人的掌握之外，她甚至每次都把崽子藏到我们无从找寻，更不用提保护了。&lt;br&gt;&lt;br&gt;后记一点，猫后来还是成功的抚养大了几只小猫。虽然有时候也会吃我们喂得食物，但非常警觉，人和狗都无从靠近。如王小波在《一只特立独行的猪》里说的，“
 这种冷淡使我痛心，但我也赞成它对心怀叵测的人保持距离 ”。&lt;br&gt;&lt;br&gt;写这么多字其实是因为勾起回忆了。那段苦乐参杂的岁月，这些生灵们如同精灵一样和我们共同渡过。后来大狗老得走不动了，终于在年关毒狗的狂欢中一次出门就再没回来，有人看见被狗贩子装进了麻袋，全家都很难受，但我觉得这是对我们对她来说都是比慢慢老死更干脆的结局；后来那片屋子拆了，家里终于搬回了城里，妈把猫带到大院子里，结果她还是自己跑了。妈说她后来偶尔也带着猫食去那片残垣断壁，真的碰见猫了，激动得用爪子打妈的手，后来再去就找不到了。&lt;br&gt;&lt;br&gt;她是只精灵一样优雅独立的生灵，会和她的崽子们在野地也活得很好的，我相信。&lt;img src=&quot;http://p2.zhimg.com/a7/db/a7dbb2a44fb02b5f40b3cc30727eb587_m.jpg&quot; data-rawwidth=&quot;1600&quot; data-rawheight=&quot;1200&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1600&quot; data-original=&quot;http://p2.zhimg.com/a7/db/a7dbb2a44fb02b5f40b3cc30727eb587_r.jpg&quot;&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21387251/answer/18075065
-</link>
-<author>
-徐蕴亮
-</author>
-<title>
-美国动画嘴型制作和配音顺序是怎样的？
-</title>
-<description>
-谢邀&lt;br&gt;很好的问题，google一圈也让我学到不少东西&lt;br&gt;&lt;a href=&quot;http://www.quora.com/Animation/What-comes-first-the-voice-actors-or-the-computer-animation&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;quora.com/Animation/Wha&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;t-comes-first-the-voice-actors-or-the-computer-animation&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;Quora类似问题下某阿德曼动画师的回答应该靠谱：&lt;br&gt;&lt;br&gt;正规动画的制作一般是先有剧本，还有了故事板画（storyboard）&lt;br&gt;然后可能会让非专业声优（如导演或编剧）做个简单配音，和故事板配一起就成了简单样片（animatic），方便展示讨论&lt;br&gt;下面是改写、调整等等等等，直到样片让大家满意为止&lt;br&gt;接着就该请配音演员来棚内录音了&lt;br&gt;基本是照本子念，但也常鼓励一定即兴发挥（应该跟英美动画多为喜剧类有关）&lt;br&gt;然后把正规录音再做到样片上，一个电影/电视剧轮廓就出来了&lt;br&gt;最后把片子按戏拆分，和配音一起交给动画师处理&lt;br&gt;动画师可以按照音轨分解到逐帧配合做口型&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/58/b6/58b65f935b36b00625b9bc349cf8ea75_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;349&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;br&gt;说到做口型，这里有篇文章介绍了业内流行的Preston Blair phoneme series十大口型，Preston Blair是迪斯尼早年的王牌动画师&lt;br&gt;&lt;a href=&quot;http://animation.about.com/od/flashanimationtutorials/a/animationphonem.htm&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;animation.about.com/od/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;flashanimationtutorials/a/animationphonem.htm&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;当然，世事往往难如人愿&lt;br&gt;有时候受档期等限制，录音被迫放到动画完成后做&lt;br&gt;或者更多的情况是，给引进动画做配音，显然录音在动画之后&lt;br&gt;以美国影视工业的成熟度，后期配音也要做到完美同步，这对声优是巨大挑战&lt;br&gt;这边有篇介绍配音的文章，某《美少女战士》声优对配合实施的技术手段作了介绍&lt;br&gt;&lt;a href=&quot;http://www.awn.com/mag/issue2.1/articles/bevilacqua2.1.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;awn.com/mag/issue2.1/ar&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;ticles/bevilacqua2.1.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;技术的学名叫rhythmo band（律动带），用黑墨水把要配的台本手写在35mm透明牵引片（leader）上，然后把胶片影像投到屏幕上，屏幕一般设在放动画的监视器上方&lt;br&gt;开放动画时，配音演员可以看实时播放的带子，但目光主要聚集在上方同步前进的台本&lt;br&gt;手写台本的好处是可以方便结合动画节奏作区分&lt;br&gt;比如遇上个口吐莲花的角色，就可以将字并得很拢，提示演员缩短时间&lt;br&gt;要是遇上台词拖得很长的口吃哥，就可以把字重复延伸写，比如'Sco-o-o-out Po-o-o- w-e-e-r!'，对演员来说十分形象&lt;br&gt;&lt;br&gt;&lt;br&gt;所以结论就是多数情况下配音在动画之前，有时配音在动画之后
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19924761/answer/16616037
-</link>
-<author>
-匿名用户
-</author>
-<title>
-现在的男人是否介意自己的女朋友打过胎？为什么？
-</title>
-<description>
-不介意&lt;br&gt;&lt;br&gt;我和媳妇开始谈恋爱时她很多事都没有告诉我，包括这件，她和大学初恋男生同居两年，为他打过胎，最终2人毕业南下工作的第一年被是还被那人果断甩了，她并非刻意隐瞒而是不知道该如何跟我讲，但是最终在结婚前还是让我知道了这事。&lt;br&gt;&lt;br&gt;我那时没有觉得被欺骗，生气，失望，直到现在再次回想都是一样，甚至每次我媳妇和我提起这件事时她也经常奇怪问我为什么不生气？&lt;br&gt;&lt;br&gt;佳音难觅，知己难寻。我在以前的两场短暂恋爱中已经放弃了对完美恋人的幻想，爱的一个人就去接受和面对她的缺点。只要我认可她本身的性格和品质。&lt;br&gt;&lt;br&gt;她认识我之前的一切都是她自己的经历和选择，无所谓对错，更不是我能干预的。&lt;br&gt;&lt;br&gt;她在这场失败的恋爱中投入了自己的全部，最终却是被抛弃者，也付出了沉重代价，我只能去安慰，怎能在伤口上再撒盐呢。&lt;br&gt;&lt;br&gt;能长久维持爱情的不是保持当初的激情，而是两人互相的怜悯之心。&lt;br&gt;如果真有介意的地方就是我担心堕胎会影响到后面的生育，好在我们现在已经有了一个可爱漂亮的女儿
 </description>
 </item>
 </channel>
