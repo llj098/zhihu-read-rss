@@ -15,10 +15,90 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21394806/answer/18098225
+</link>
+<author>
+伊谭思
+</author>
+<title>
+Bootstrap 3 有哪些改进？
+</title>
+<description>
+&lt;b&gt;什么改变了？&lt;/b&gt;&lt;br&gt;&lt;blockquote&gt;超过&lt;b&gt;1,600&lt;/b&gt;次提交（commits）, 大于&lt;b&gt;72,000&lt;/b&gt; 个增/减（additions/deletions）, 还有&lt;b&gt;300&lt;/b&gt;多个文件的改变，是非常大的一次改变，所以我 占坑，慢慢回答，抛砖引玉&lt;/blockquote&gt;&lt;br&gt;&lt;b&gt;1. &lt;/b&gt;彻底的重写，&lt;b&gt;从桌面优先 (Desktop First)&lt;/b&gt;的设计方式，&lt;b&gt;变成和Zurb的 &lt;a href=&quot;http://foundation.zurb.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Foundation&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 一样的移动优先 (Mobile First) &lt;/b&gt;全新的栅格系统 (Grid System)，更加强大！如果你用过Foundation的栅格系统 (Grid System)就有体会了。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/67/8c/678cd7c1c10b692aa18ca5c59ab4214e_m.jpg&quot; data-rawwidth=&quot;353&quot; data-rawheight=&quot;143&quot; class=&quot;content_image&quot; width=&quot;353&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 再见，IE7！最低从IE 8开始支持。而且因为设计已经变成移动优先，所以对IE8的支持也需要&lt;/b&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/scottjehl/Respond&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;respond.js&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;我相信Bootstrap 4时肯定会放弃对IE8的支持，就像现在的Foundation 4一样&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/38/60/38602b072f79213f68ba196596139fd2_m.jpg&quot; data-rawwidth=&quot;369&quot; data-rawheight=&quot;137&quot; class=&quot;content_image&quot; width=&quot;369&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 扁平化设计，极简风格。&lt;/b&gt;这个你应该从&lt;a href=&quot;http://getbootstrap.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Bootstrap&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;文档的风格也可以看出来了，不过可能是暂时的，因为作者精力的原因，具体见 &lt;a href=&quot;https://github.com/twbs/bootstrap/pull/6342#issuecomment-12332378&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;github.com/twbs/bootstr&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;ap/pull/6342#issuecomment-12332378&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;blockquote&gt;Gradients and other embellishments have temporarily been removed while I focus on other things. It has nothing to do with skeuomorphism or anything like that.&lt;br&gt;&lt;/blockquote&gt;&lt;img src=&quot;http://p4.zhimg.com/7e/44/7e443a0dadc1ad612d30e4f4c7f86a65_m.jpg&quot; data-rawwidth=&quot;511&quot; data-rawheight=&quot;47&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;511&quot; data-original=&quot;http://p4.zhimg.com/7e/44/7e443a0dadc1ad612d30e4f4c7f86a65_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4. &lt;/b&gt;&lt;b&gt;更小的文件体积&lt;/b&gt;，Bootstrap.min.css的体积&lt;b&gt;减少了40%以上&lt;/b&gt;。&lt;br&gt;在OS X系统上：&lt;br&gt;&lt;ul&gt;&lt;li&gt;旧的压缩后的Bootstrap.min.css和bootstrap-responsive.min.css是 106Kb + 17Kb = 123Kb。&lt;/li&gt;&lt;li&gt;新的Bootstrap.min.css将响应式栅格融入了进去，也就是不再区分Bootstrap.min.css和bootstrap-responsive.min.css，&lt;b&gt;只有一个&lt;/b&gt;&lt;b&gt;bootstrap.min.css &lt;/b&gt;体积是67Kb&lt;/li&gt;&lt;li&gt;67Kb / 123Kb = 54.47%&lt;/li&gt;&lt;/ul&gt;JS插件文件体积从 29Kb 变成 27Kb 体积上变化不是很大&lt;br&gt;&lt;br&gt;并且有了&lt;b&gt;CDN&lt;/b&gt;，速度肯定更快了.&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Latest compiled and minified CSS --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/css/bootstrap.min.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+ 
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Latest compiled and minified JavaScript --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/js/bootstrap.min.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&quot;http://p2.zhimg.com/93/cc/93cc99b18180eafe3d42d3f035a48825_m.jpg&quot; data-rawwidth=&quot;225&quot; data-rawheight=&quot;225&quot; class=&quot;content_image&quot; width=&quot;225&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;5.  更优秀的组件！&lt;/b&gt;这里面有很多细节，我也说不全，抛砖引玉。&lt;br&gt;&lt;ul&gt;&lt;li&gt;两个新的组件：&lt;a href=&quot;http://twbs.github.io/bootstrap/components/#list-group&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;List Group&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;  和 &lt;a href=&quot;http://twbs.github.io/bootstrap/components/#panels&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Panels&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;新的 &lt;a href=&quot;http://twbs.github.io/bootstrap/javascript/#modals&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Modal&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，更加简单好用&lt;/li&gt;&lt;li&gt;没了@blue, @orange之类的，取而带之的说@brand-primary, @brand-success&lt;b&gt;语义化&lt;/b&gt;。&lt;br&gt;&lt;/li&gt;&lt;li&gt;增加&lt;b&gt;对视网膜屏幕的支持&lt;/b&gt;，如retina image mixin.&lt;/li&gt;&lt;li&gt;这个非常多，可以看这里：&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;https://github.com/twbs/bootstrap/pull/6342
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;举一些例子:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;&amp;gt;&amp;gt; 5.1   Modal 组件&lt;/u&gt;&lt;br&gt;旧版 (2.X) 的Bootstrap &lt;a href=&quot;http://twbs.github.io/bootstrap/2.3.2/javascript.html#modals&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Modal&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;modal hide fade&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;新版 (3.X) 的Bootstrap &lt;a href=&quot;http://twbs.github.io/bootstrap/javascript/#modals&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Modal&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;modal fade&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;HTML相对来说只是简洁了一些而已，但你可以点击超链接进去使用一下新的Modal，你就会发现，新的Modal修复了&lt;br&gt;&lt;ol&gt;&lt;li&gt;旧版滚动Modal时背景也会滚动的问题&lt;/li&gt;&lt;li&gt;当Modal内容过长时，新的Modal可以像页面一样滚动，而旧版的不行&lt;br&gt;&lt;/li&gt;&lt;li&gt;还有些不能直观看到的，比如对移动设备的支持更好了什么的&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;u&gt;&amp;gt;&amp;gt; 5.2 新的 &lt;a href=&quot;http://twbs.github.io/bootstrap/components/#list-group&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;List Group&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 和 &lt;a href=&quot;http://twbs.github.io/bootstrap/components/#panels&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Panels&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 组件，挺好的，其实没的话很多人也想自己写一个 &lt;/u&gt;&lt;br&gt;Panels组件：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8d/ad/8dadc2931679cf44ce445bcf82fe527d_m.jpg&quot; data-rawwidth=&quot;445&quot; data-rawheight=&quot;437&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;445&quot; data-original=&quot;http://p1.zhimg.com/8d/ad/8dadc2931679cf44ce445bcf82fe527d_r.jpg&quot;&gt;List Group 组件：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2c/96/2c9655803a4c4bb3b3bab9a90bf48498_m.jpg&quot; data-rawwidth=&quot;426&quot; data-rawheight=&quot;135&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;426&quot; data-original=&quot;http://p3.zhimg.com/2c/96/2c9655803a4c4bb3b3bab9a90bf48498_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;总结：&lt;/b&gt;其实我觉得，有什么变化简单看看就好，如果你不需要支持IE7的话，用直接Bootstrap 3吧，骚年。。。。用了就真切的体会到了
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21376206/answer/18121791
+</link>
+<author>
+知乎用户
+</author>
+<title>
+赛车到最后比的是什么？
+</title>
+<description>
+本来以为是写给人看的，后来发现是写给自己看的。&lt;br&gt;&lt;br&gt;&lt;b&gt;想知道赛车最后比的是什么，就得知道赛车该看什么。&lt;/b&gt;&lt;br&gt;&lt;br&gt;曾经我也质疑过，嘲笑过，F1这种蛋逼玩意儿，一堆车跑个几十圈，超也超不掉，撞也撞不了，有啥好看的？那网球，一击高压下去，再一个小球到网前，潇洒惬意啊；那篮球，疯狂的扣篮，精准的三分，鬼魅般的配合，怎一个爽字聊得。你们这群小机器，电视上看起来一点都不快，我们武汉的公交车都比你们吓人呢。&lt;br&gt;&lt;br&gt;那时自己真的是图样啊。。。&lt;br&gt;有时候不在这一行，真的很难感受到这一行的美。比如说我这个问题下的回答&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20688017/answer/15855993&quot; class=&quot;internal&quot;&gt;http://www.zhihu.com/question/20688017/answer/15855993 &lt;/a&gt;&lt;br&gt;很多时候就是这样，你不学吧，以为没什么，学了之后吧，越学越心惊，越学越膜拜，学得越多发现自己懂得越少。很多人觉得F1没什么看头，要么就是真对赛车没兴趣，要么就是有兴趣但是连门槛都没跨进来，觉得不够热闹，不够直观，就不够好看。&lt;br&gt;&lt;br&gt;一句话。&lt;b&gt;F1，乃至赛车，其实根本比的就是一个东西：快。谁快，谁就赢。&lt;/b&gt;&lt;br&gt;但是这一个快字，要真展开了说，写十几年都不一定写得完。怎么才能真的快？&lt;br&gt;F1该看什么，就分几个板块说吧，&lt;b&gt;我就抛个砖&lt;/b&gt;。&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/weng-huo&quot; data-tip=&quot;p$b$weng-huo&quot;&gt;@翁鹱&lt;/a&gt;&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/sun-bai&quot; data-tip=&quot;p$b$sun-bai&quot;&gt;@孙白&lt;/a&gt; 两位大神，也来讲个故事？&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;1.&lt;/b&gt;&lt;b&gt;机械&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;也就是汽车本身。引擎也好，刹车也罢，这是这项运动比的基础。F1的工艺水准基本上代表了行业的最前端。如果去红牛或者法拉利的官网上关注下，偶尔会发一些介绍赛车零部件生产的视频，你才知道原来这个世界的科技已经这么尖端了，这根本不是拿出块强硬的钢块就能做的境界。&lt;b&gt;说是材料学，应力分析，空气动力学的集大成都不为过。&lt;/b&gt;&lt;br&gt;&lt;br&gt;拿引擎举例来说，虽说是速度最快的运动，但是诸位敢相信，F1的引擎早就不是各位所想象的庞然大物了？13年用的是2.4 V8。即将到来的14年会使用1.6 V6 Turbo。哈哈，是不是觉得这屌丝引擎就跟个福克斯一样，老款还1.8呢！但是各位可还别真把缸数排量当做全部。别的不说，就14年所谓的“小”引擎转速被限制在15000转，你就大概能明白了。&lt;br&gt;&lt;br&gt;除了车身轻，材料好，引擎强劲以外，能让F1跑到300+km/h的最大功臣，就应该是空气动力学了。&lt;br&gt;想稍微了解下的，虎扑这有个小介绍&lt;br&gt;&lt;a href=&quot;http://voice.hupu.com/hushi/f1/10909.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;流体力学理论与F1赛车的空气动力学&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://voice.hupu.com/hushi/f1/10953.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;流体力学理论与F1空气动力学（二）&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://voice.hupu.com/hushi/f1/11001.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;流体力学理论与赛车空气动力学（三）&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;我觉得，能把这三篇看完的人，就不会超过5%。&lt;br&gt;&lt;b&gt;而这仅仅只是冰山一角，不，仅仅只是冰山上的一颗小冰渣&lt;/b&gt;，而且明显这三篇还没写完。&lt;br&gt;&lt;br&gt;这看完了还得看车队工程师，设计师的能力。比如这三年纽维大神带出来的红牛已经夺得了火星车的外号。地球人跟他玩不了。看腻了两辆红牛前排起跑一二名带回，导致VET的三连冠在人们心中一点分量都没有。说远点93年塞纳那么神，连续五年的摩纳哥冠军，可是依然挡不住普洛斯特各种外挂的威廉姆斯。车固然重要，可是在规则越来越明细，要求越来越多的F1里，上游车队基本上各有所长，优势是有，可是拼的更多的就是车以外的东西了。（阿隆索今年放话，法拉利只要比别的车慢1秒以内，我都有信心去争冠军。）&lt;br&gt;&lt;br&gt;所以这个部分除了科班出身，又或者极具热情的人，才会有兴趣去了解吧。&lt;br&gt;但是一旦你进入了这个机械的这个世界，听到引擎的轰鸣就会兴奋，看到红火的刹车碟就会感动，能体会到结构的优雅，以及能被一个极度完美的螺丝刺激到高潮的时候。。。。。你就会发现，你也差不多该没女朋友了吧。不看F1看什么呢？&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;2.底蕴&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;为什么说F1难得入门？因为他的快感很不直观&lt;/b&gt;，除非你到现场看。在赛场带着耳罩，听着轰鸣，穿着支持车手的队服，看车一辆辆赛车呼啸而过，那确实会给你打鸡血（不过我女朋友在银石陪我看了个练习排位就已经支撑不住想回家刷美剧了= =）。&lt;b&gt;但刚开始确实很难体会到这个运动的意义所在。&lt;/b&gt;&lt;br&gt;就好像学个一两年网球好歹能发出个ACE，打篮球怎么着也能中个三分，再看这些比赛代入感当然很强烈。可F1的速度在现实生活中很难体会到。除了上海，广东等极少的地区，剩下的连卡丁车产业都不发达，没有群众基础导致了这根本就是个小众运动。&lt;br&gt;&lt;b&gt;可F1偏偏又是那种你不了解故事背景，不了解各门派的恩怨情仇，不懂所谓的江湖规矩就完全不知所以然的运动。&lt;/b&gt;就好像一部连载几年甚至十几年的武侠小说一样。各种事件，谣言，津津乐道也是F1的一部分。&lt;br&gt;&lt;br&gt;比如：&lt;br&gt;2013赛季初的multi21事件，VET在第二的位置上超了当时第一的WEB，后面跟着的两辆梅赛德斯离得很远。如果不了解F1的历史，怎么能看得懂大家在吵什么？瓦特尔确实是快啊，为啥他就不能超韦伯？&lt;br&gt;这时候你就得了解team order的历史，比如那句耳熟能详的“alonso is faster than you”，又比如2002年巴里切罗终点前的那脚刹车。知道了这些再去查查这两人07年日本站和10年土耳其的恩怨，接着你有可能会若有所思的衡量下是为车队安全带回重要呢，还是车手的血性与比赛重要，说不定转身就加入一场论战中。&lt;br&gt;有点意思了吧？&lt;br&gt;&lt;br&gt;又比如：&lt;br&gt;05年的轮胎门，你见过一站F1还没开始跑就退赛到6辆车的么？今年银石5辆爆胎，车手协会发出警告说接下来的比赛要是还这样我们就退赛，结果会跟当年一样么？&lt;br&gt;&lt;br&gt;再比如：&lt;br&gt;12年VET收官战第一圈被撞至19名可最终超越拿到冠军。11年加拿大雨站巴顿6停死追，终于在最后一圈逼得VET犯错夺冠。08年如有神助的汉密尔顿。以及之前阿隆索神一般计算时间停在维修站不走，就为了让汉密尔顿做不出最后一个飞驰圈。又或者塞纳和普洛斯特的分分合合。94年的黑暗周。甚至是James Hunt和Lauda死而复生的毁容争夺战。&lt;br&gt;&lt;br&gt;&lt;b&gt;F1的魅力就在于，它的每一次超车，每一次进站，甚至车队车手在比赛中说的一句话，都有它后面所存在的故事，意义，和价值。&lt;/b&gt;你永远不知道看点在哪里。&lt;br&gt;&lt;br&gt;这就像网球里的抢七局，篮球里的绝杀，足球里的金球制。它也许只是一个普普通通的进球，但是这个进球对整个比赛的意义却至关重要。（如果你单独看乔丹的最后一投这个片段，只是个漂亮的进球而已，但是你结合整个赛季和乔丹的生涯来看，那一球的意义就完全不同了。）&lt;br&gt;&lt;br&gt;而F1里就充斥着这种不确定性和偶然性，总能在很小的细节中发现很大的故事。&lt;br&gt;刚开始看F1的人往往得像一个掘金者一样，看到点蛛丝马迹，再顺藤摸瓜，也许就会发现一个不一样的世界了。当我看到巴西人哭着说：“我们没有医疗没有教育，生活中只有塞纳这么一点快乐，可上帝却还要把他带走”时，那种震撼不是一个超车能带来的。&lt;br&gt;只有知道了这项运动如何让人超越自己的极限，克服巨大的困难，揭露人心，甚至寻找自己的哲学时，你才会渐渐发现它是多么的迷人。&lt;br&gt;所以我说这是个越看越入迷的运动，没有足够的韧性和无止境的探索心，也就永远看不懂F1。&lt;br&gt;&lt;br&gt;而在这方面，比的就是车手之间的心性，稳定性。也比的是车手和车队间的政治，车队和车队间的政治，车队和FIA间的政治，FIA和各合作商之间的政治。津津乐道，细细品味。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;3.策略&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;战术策略可以说是每个看F1的人嘴上离不开的话题。从周五练习赛开始，战术就已经慢慢的伸延到整个周末的比赛。因为作为车队来说，有太多的东西需要考虑了。&lt;br&gt;赛道天气，赛道温度，什么风向，是否会下雨，下雨的时候事故多发，又是否会出安全车？&lt;br&gt;→→→→&lt;br&gt;不出安全车的话，这个温度下我们的赛车会有什么表现，对手的赛车又可能有什么表现，那相对应的我们的赛车该如何调教？&lt;br&gt;→→→→&lt;br&gt;赛车调教，我们要是寻求更多的下压力呢，那样弯道表现会好，可这样一来轮胎的寿命又短了啊，接着有可能多进一站，比对手多进一站的话每圈要多压榨多少时间出来。&lt;br&gt;→→→→&lt;br&gt;这样一来我们排位赛该用什么轮胎来跑，正赛用什么轮胎来起步？接着大概哪一圈进站？是否需要undercut？&lt;br&gt;&lt;br&gt;太多太多了，而且随着比赛中的千变万化，这些策略都必须是随时的改变和抉择的。比如莲花这赛季出安全车时的战术反映就是颇受诟病的，没有第一时间让KIMI进站导致后来名次掉很多。&lt;br&gt;&lt;br&gt;比的，是各个车队车手的智商和应变。&lt;br&gt;=================================总结线========================&lt;br&gt;作为一个新进的小菜鸟来说，我看的F1就是看它的机智，看它的技术，看它的优雅，也看它的爆发。这是一项飞速却冷静的运动，这是一项结果直观却让人玩味的运动，这是一项充满着激情却伴随着危险的运动，也是随时有人跌倒同时有人爬起来的运动。&lt;br&gt;&lt;br&gt;&lt;b&gt;大能看到全年甚至未来几年车队的走向和较劲，小能看到出弯时轮胎靠轮胎的刺激。这中间充斥着美国人喜好的极致暴力和欧洲人特有的优雅平衡。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;这些个因素和在一起，才是F1比的东西。只有这种集天时地利人和的车队车手，才会登上最后的领奖台。如何不爱？
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21079455/answer/18120143
+</link>
+<author>
+yxy
+</author>
+<title>
+航空母舰战斗群厉害在哪里？用一堆导弹给他全部炸翻很难吗？
+</title>
+<description>
+楼上投票最多的那位讲解了航母战斗群的构成，以及航母如何防御导弹。但还是比较片面，因为如果仅仅是防御，是体现不出航母的牛逼之处的。（而且防御也不仅仅是拦截导弹）&lt;br&gt;&lt;br&gt;我再从另外几个方面讲一下：&lt;br&gt;&lt;b&gt;1.航母的牛逼之处以及不可替代性。&lt;/b&gt;&lt;br&gt;&lt;b&gt;2.如何打航母。&lt;br&gt;&lt;/b&gt;&lt;br&gt;首先要明白几个前提：&lt;br&gt;1. 航母是用于远洋作战，而不是家门口作战。&lt;br&gt;2. 现代海战的原则是以空制海。面对飞机，军舰是完全劣势，哪怕你防空能力再强。&lt;br&gt;3. 航母的一个重要运用原则是——进攻是最好的防御。&lt;br&gt;4. 地球是圆的——意味着80km外就会处于地平线以下，你看不见任何东西。那里也是雷达盲区。&lt;br&gt;&lt;br&gt;关于第二点可能需要稍微解释下，为什么飞机vs军舰是飞机占优。因为飞机在速度和机动力上有巨大的优势。这首先带来了极大的主动权，飞机可以选择进攻和撤退，可以躲避，而军舰相对于飞机那几乎为0的速度可以认为只能原地挨打。在能量（动能和势能，也就是高度和速度）上优势，使得飞机在进攻的武器方面也具有极大优势，一个显著体现就是空射反舰导弹的射程大大高于舰空导弹。现代的反舰导弹如YJ83射程达到240km，3M54E1的射程更达到了300km，而现代的舰空导弹，比如标准SM2，射程只有137km，即使最新的增程版也只有190km的射程。（因为飞机发射的导弹拥有更大初速，拥有初始高度可以滑翔，去攻击的仅仅是一个只有几十km时速的大型目标。而相反军舰发射的对空导弹则需要从0开始加速，需要自己爬升，而且要攻击一个速度几百km/h甚至上千km/h的高速小目标，自然更困难，需要耗费更多的燃料）&lt;br&gt;所以现代战机可以轻易的在军舰的对空火力圈外发射导弹，自身完全不用担心受到攻击，军舰只能被动拦截这些来袭导弹。一波打击完了这些飞机可以从容的回去重新装弹再来一次，而军舰的拦截总有失手的时候。&lt;br&gt;&lt;br&gt;明白了这些前提，就明白了航母的不可替代性——&lt;b&gt;航母是在远洋作战时你能找到的唯一机场。在大洋上海战，如果你拥有航母，那么你就拥有了以空制海的重大优势。&lt;/b&gt;&lt;br&gt;&lt;br&gt;其实优势还不仅仅是这么一点。从最开始的探测和侦查就开始拥有巨大优势了。现代军舰上的雷达，哪怕强大如宙斯盾系统的SPY-1，对海面目标的探测也只有几十公里。原因就在于上面说的地平线外的盲区。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/da/4f/da4feaa8bcd10f484ace982b26743099_m.jpg&quot; data-rawwidth=&quot;531&quot; data-rawheight=&quot;384&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;531&quot; data-original=&quot;http://p1.zhimg.com/da/4f/da4feaa8bcd10f484ace982b26743099_r.jpg&quot;&gt;&lt;br&gt;雷达通视距离公式：D=4.12*(sqrt(h1)+sqrt(h2))&lt;br&gt;其中D是雷达的探测距离（km），h1是敌方高度（m），h2是我方雷达高度（m）。&lt;br&gt;可见，要想探测的远，就得把我方的雷达摆得更高。所以为什么现代战舰在重心允许的情况下都尽量把雷达放得更高，有些甚至直接把雷达放在桅杆顶上。就是为了尽可能增大对低空以及海面目标的探测距离。&lt;br&gt;但是军舰的高度毕竟是有限的，撑死把雷达放一百米高了不得了。这显然还是远远不够的。那么终极解决办法是什么呢——对，将雷达搬上飞机。这就是预警机。有了预警机，雷达可以轻易提高到几千米甚至万米的高度，这样对低空和海面目标的探测能力就有了数量级的提高。&lt;br&gt;这也就是航母带来的另一个巨大优势——航母可以搭载预警机，特别是飞得高看得远的固定翼预警机。这就在战场信息掌控能力上有了飞跃性的提升。&lt;br&gt;&lt;br&gt;而对于没有航母的水面编队，在面对航母编队时，就处于极大的劣势中。想要破除这种劣势，只有两种办法：1.依托海岸（PLA海军过去十几年来就这么过来的）。2.自己也有航母。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;关于上述第3点也要解释下。&lt;br&gt;很多人以为航母的最大作用是提升我方编队的防御能力，特别是对空防御能力。可以靠战机来防御战机，免得处于劣势。这的确是航母的一个作用，但并不是最重要的。航母的终极防御来自于进攻。&lt;br&gt;&lt;br&gt;俗话说，&lt;b&gt;最好的防御就是把对方消灭在有能力还击之前&lt;/b&gt;。 只是一般的军舰很难有这样的能力。而航母恰恰拥有先敌发现、先敌进攻的能力。&lt;br&gt;航母上的预警机可以让航母的感知范围大大增加，而航母上的攻击机则可以让航母的攻击半径大大增加。从战机上发出的导弹显然比直接从军舰上发出的导弹能攻击更远的目标。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/64/04/6404192a61bb3849f52f33a06aa3bdb1_m.jpg&quot; data-rawwidth=&quot;1211&quot; data-rawheight=&quot;425&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1211&quot; data-original=&quot;http://p3.zhimg.com/64/04/6404192a61bb3849f52f33a06aa3bdb1_r.jpg&quot;&gt;上图是美俄双方舰队打击能力的对比。&lt;br&gt;俄罗斯虽然拥有航母库兹涅佐夫号，但其思路仍然停留在以海制海的时代，上面的战机主要用于防空，而对海攻击靠的是库兹涅佐夫上那12枚巨大的SS-N-19花岗岩巡航导弹导弹。在这种情况下，其实库兹涅佐夫号和基洛夫巡洋舰没有太大差别。在这种情况下，即使拥有了预警机或远程侦察机的支援、拥有了巨大变态的花岗岩导弹，俄罗斯舰队也只能做到600km外发起攻击。&lt;br&gt;&lt;br&gt;下半部分是美国的尼米兹号航母，依托F/A-18E/F超级大黄蜂战斗攻击机携带鱼叉导弹，则可以从1000km外发起进攻。这已经比俄罗斯舰队多出了足足400km。400km对于一个舰队而言，是一个极其遥远的距离，你即使30节航速狂飙，对方原地等你，也需要7个多小时。这已经足够美军编队发起n次打击了。这还是拥有重型远程超音速导弹的俄罗斯舰队，对于其它的舰队则更不用谈了，你根本没有能力把航母纳入你的火力攻击范围。&lt;br&gt;&lt;br&gt;&lt;br&gt;所以为什么说航母那么牛逼？答案就很明确了，&lt;b&gt;航母可以让你获得远超对方的探测能力、远超对方的攻击范围，还可以获得以空制海的绝对优势。&lt;/b&gt;&lt;br&gt;&lt;br&gt;至于LZ的第二个问题，我觉得到这里就不用回答了。&lt;b&gt;用一堆导弹来打航母，前提条件是你先有机会把这些导弹发射出去才行。而航母是不可能给你这种机会的&lt;/b&gt;。即使用最强的SS-N-19花岗岩导弹，你也必须在距离航母600km处才能发射，而航母在一千公里外就可以把你的导弹发射平台消灭掉。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2.如何打航母：&lt;/b&gt;&lt;br&gt;&lt;br&gt;瘫痪一个航母战斗群需要耗费极大的军事资源，世界上只有少数几个国家具有这种能力，比如中俄，但是即使这些国家，也必须调集相当大量的军事资源才能做到这一点，是极其吃力的。&lt;br&gt;&lt;br&gt;很多人讨论打航母的时候，首先就会想到各种武器，比如潜艇导弹之类。其实，这些都是最次要的细枝末节。打航母要解决的首要问题是：&lt;b&gt;如何发现并定位航母？&lt;/b&gt;&lt;br&gt;&lt;br&gt;有些人会说了，航母那么大，又不隐身，简直就是最容易被发现的军舰了。&lt;br&gt;其实恰恰相反，距离是最好的隐身手段。所以航母恰恰是隐身性能最好的舰艇。&lt;br&gt;&lt;br&gt;上面也有过解释，航母可以控制方圆千公里面积的海域。任何进入航母攻击圈的地方舰艇或飞机都会被首先消灭。所以在茫茫大洋，航母战斗群就像一个黑洞。对于敌人来说，他只看到自己派出去的飞机或舰艇一个个消失了，而对方的核心在哪里是完全摸不着头脑。最好的情况也是只能知道一个大概方向，但具体航母战斗群在哪里，有多远，都不知道。&lt;br&gt;上述还是最简单的情况，事实上航母战斗群可以采用更多的方式来隐蔽自己——它们可以静默，可以规避，可以迷惑敌方。因为航母在战场信息的掌控方面拥有不对称优势，所以战术的选择拥有极大主动权。&lt;br&gt;&lt;br&gt;美国海军在1982年举行了代号为“NORPAC 82”的秘密军事演习。演习的课题是对苏联本土进行攻击。美国海军航母编队利用各种隐蔽手段，一直把航母编队推进到了预定的打击区域内也没有被苏联的军事力量发现（库叶岛附近）。&lt;br&gt;所以，很多人天真的以为 “航母目标大，容易被发现” ，这是一个极大的误解。&lt;br&gt;&lt;br&gt;可见，想要打击航母，你连最起码的前提——发现并定位航母，都很难做到。&lt;br&gt;而即使你发现了航母，想要突破它方圆上千公里的火力圈，也是一件极其困难的事情。&lt;br&gt;&lt;br&gt;---------------&lt;br&gt;有人可能会提到潜艇或者卫星。就在这里稍微对这两种探测方式做以分析。&lt;br&gt;潜艇的确可以比较安全的进入航母的1000km攻击圈。不同的介质中的探测能力是天壤之别。普通的雷达（短波、超短波、微波）根本无法穿透海水。水下的探测主要靠声纳。声纳的探测距离一般在几十km级别。也就是说对于潜艇，能感知到的也就方圆几十km的小区域，在茫茫大洋要撞到航母也是非常困难的，至少需要向一个方向派出几十艘潜艇才能做到足够的密度，否则只能瞎猫碰死耗子。而且航母编队自身也会有1~2艘潜艇，探测是相互的，等你发现对方的时候对方也会发现你。你这艘潜艇恐怕还没来得及上浮通报位置（水下潜艇是很难与舰艇通讯的，因为无线电波难以穿透海水），航母值班的反潜机就已经飞到你头上了。&lt;br&gt;&lt;br&gt;至于卫星，现在许多人将其万能化了，其实卫星也有很多局限的。卫星比较容易收到云层等的影响，而且对假目标的识别力也不足，容易被干扰等等。而且卫星的轨道有高低，要精确监控海洋上舰艇的位置，必须用低轨道卫星才行（高轨道能接收的信号强度只有至低轨道的几千分之一）。但低轨道卫星能监控的面积就小很多（越高看得越远），而且有效侦查时间很短（很快就会飞掠过要侦查的区域，等绕一圈再回来时就晚了），水面舰艇只要避开它的运行轨道即可躲开卫星的监视。除非你发射大量卫星遍布整个大洋，这就不是一般国家能承受得起的了。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21286759/answer/18145859
+</link>
+<author>
+irenezh
+</author>
+<title>
+到底是美国在同化中国,还是中国在同化美国?
+</title>
+<description>
+“据初步统计，在美国的中餐馆有执照的已有上百万家，散布在所有有人类喘气的地方，比任何连锁店都厉害?；美国成年人能独立用两根木棍儿吃饱饭的高达百分之八十；而且百分之二十五的美国人开始迷恋上啃鸡爪子，百分之五的美国人认为臭豆腐是香的。”&lt;br&gt;&lt;br&gt;&lt;b&gt;一切没有可靠来源的数据都是耍流氓。会用筷子吃饭的有，知道鸡爪子能吃的也有，知道臭豆腐存在的肯定也有，可是那些数据有没有根据？没有。&lt;/b&gt;&lt;br&gt;&lt;br&gt;“走进美国大学，学生一半以上是从中国来的，教授也是从中国来的，有时讲着讲着课就换中文了，让美国学生在自己的国土有种“亡国奴”的感觉。”&lt;br&gt;&lt;br&gt;&lt;b&gt;是中文课的话这句话还是对的，而且上课全程中文。如果不是中文课，请问同学你在哪个大学？&lt;/b&gt;&lt;br&gt;&lt;br&gt;中国人不但用文化，还用言传身教来同化美国。比如说，原来美国家庭主妇很少有买菜挑来挑去的好习惯，现在和中国女人学的，买扁豆时一根一根挑，还用大拇哥的指甲狠狠地掐一下，看看是不是嫩。逼得超市没办法，只好用两种语言写个牌子“请勿掐 ! ( No Pinching! )”&lt;br&gt;&lt;br&gt;&lt;b&gt;这个我真心都无力吐槽了···&lt;/b&gt;&lt;br&gt;&lt;br&gt;“美国人一天天被同化着。早晨，越来越多的美国人在练太极拳。入夜，数学不好的美国人民围在一张桌子上玩最简单的麻将。过生日的时候，美国人民百分之百跑调儿地高唱卡拉OK ; 掀开背心，很多人会自豪地让你看他们纹在身上的中国字---- 我是聋的传人!”&lt;br&gt;&lt;br&gt;&lt;b&gt;做人呢，没有知识要有见识，没有见识至少要有常识，如果连对美国的常识都没有却偏偏要写关于美国的文章，可以看美剧补常识。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;不要太看得起美国，更不要太看得起自己。&lt;/u&gt;&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21410788/answer/18141206
+</link>
+<author>
+朱会来
+</author>
+<title>
+阿里巴巴的服务器机房一天的耗电量大概是多少？
+</title>
+<description>
+占杭州用电量的1/8，120万千瓦时-150万千瓦时左右&lt;br&gt;&lt;br&gt;你们如果觉得这个数字太大了，也不要惊讶，问题问的是服务器，我没算空调、安防、防火墙的耗费量。&lt;br&gt;看看这则新闻：&lt;a href=&quot;http://mba.zj.com/xfxw/2013-07-06/261372.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;一天10.58亿度！浙江用电量创下历史新高&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/fa/38/fa38e6a7ce56d17e6ac5a1e61e2b62d6_m.jpg&quot; data-rawwidth=&quot;480&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;http://p3.zhimg.com/fa/38/fa38e6a7ce56d17e6ac5a1e61e2b62d6_r.jpg&quot;&gt;此图为淘宝的机房北京所在地&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/e0/85e00ea30750b0d77fedfdf68fb57828_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p1.zhimg.com/85/e0/85e00ea30750b0d77fedfdf68fb57828_r.jpg&quot;&gt;这是淘宝的机组&lt;br&gt;顶上的红色水管我刚开始以为是水冷管，后来发现我想多了 消防水管而已……散热还是空调 &lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/79/0f/790f70c6dbebb108f7c6ece288928e2e_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p4.zhimg.com/79/0f/790f70c6dbebb108f7c6ece288928e2e_r.jpg&quot;&gt;每个机柜红灰蓝三色网线各12根 按序号排列 用尼龙扎带固定好 &lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ad/c3/adc3cd64b3431d3a9a3fd074f5c2a150_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p2.zhimg.com/ad/c3/adc3cd64b3431d3a9a3fd074f5c2a150_r.jpg&quot;&gt;机房有空调&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b4/83/b4835681e714c21d28423aef065d193f_m.jpg&quot; data-rawwidth=&quot;480&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;http://p3.zhimg.com/b4/83/b4835681e714c21d28423aef065d193f_r.jpg&quot;&gt;核心路由器&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/79/0f/790f70c6dbebb108f7c6ece288928e2e_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p4.zhimg.com/79/0f/790f70c6dbebb108f7c6ece288928e2e_r.jpg&quot;&gt;电缆是康宁的&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/16/0f/160f361839826e4c1c59113e9ea05cc0_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p2.zhimg.com/16/0f/160f361839826e4c1c59113e9ea05cc0_r.jpg&quot;&gt;服务器主要是华为跟曙光，一万多一部，全国大概30万部&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/09/aa09668f9126a36a3718152b6011e3c6_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p2.zhimg.com/aa/09/aa09668f9126a36a3718152b6011e3c6_r.jpg&quot;&gt;上面有功率和参数&lt;img src=&quot;http://p2.zhimg.com/aa/09/aa09668f9126a36a3718152b6011e3c6_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;435&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p2.zhimg.com/aa/09/aa09668f9126a36a3718152b6011e3c6_r.jpg&quot;&gt;&lt;br&gt;三十万部，每台服务器的耗电量是3.5，一天就是100来万度，如果算上万网和阿里云等，120万附近&lt;br&gt;中央空调和水冷等周边相应的消耗占1/5的话，差不多150万度&lt;br&gt;&lt;br&gt;另补充一点：淘宝每天维护和更新的机组在2000部左右，如果你们认识淘宝工程项目部的人，可以扫听一下。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21405505/answer/18128148
 </link>
 <author>
-郑加玙
+知乎用户
 </author>
 <title>
 如何做一份好吃的凉面？
@@ -75,7 +155,7 @@ Ronnie Xiao
 http://www.zhihu.com/question/21365940/answer/18145953
 </link>
 <author>
-卢印
+知乎用户
 </author>
 <title>
 如何判断一首歌是否有修音？
@@ -122,7 +202,7 @@ yolfilm
 http://www.zhihu.com/question/21406053/answer/18130605
 </link>
 <author>
-叶清波
+知乎用户
 </author>
 <title>
 外界对 Showgirl 圈有哪些误解？
@@ -178,7 +258,7 @@ http://www.zhihu.com/question/21375173/answer/18141446
 http://www.zhihu.com/question/21407330/answer/18139705
 </link>
 <author>
-唐旭
+知乎用户
 </author>
 <title>
 女友被调戏应该怎么办？
@@ -230,76 +310,6 @@ http://www.zhihu.com/question/21399458/answer/18135898
 </title>
 <description>
 谢邀。&lt;br&gt;&lt;br&gt;这问题本来不该我答，主要是&lt;b&gt;我没资格&lt;/b&gt;。以前答题时强调过，我只在文学和篮球上，对某些细节有把握，才答得多，谈不到信手拈来。什么叫信手拈来呢？钱钟书《管锥编》、丹纳《艺术哲学》、博尔赫斯的散文集，那叫做信手拈来。雨果在我这个年纪时已经写掉的《巴黎圣母院》，仅仅是本小说，但里头的信息量，才叫做信手拈来。傅雷先生在我这个年纪已经写过的论述（对，他老人家可不只是翻译），那才叫信手拈来。&lt;br&gt;随便翻一本诸如《诚斋诗话》、《夜航船》这类书，就会知道，中国古代，记住章句，实在读书写字的人最基础的本事，跟天分没什么关系。&lt;br&gt;&lt;br&gt;但还是答一下这个题，其实是偷个懒。因为有太多诸如问我“如何读书”、”如何记住东西“之类的问题了，就这里一并答掉了。顺便跟邀请我回答那些问题的道个歉，我就这儿说了。&lt;br&gt;&lt;br&gt;&lt;br&gt;许多细节和法子，我以前答题都说过，也都是老掉牙的话题，这里归结下，尽量说简洁点。另外我还是建议，诸位别拿我做例子，看高一点好。取法乎上，得乎其中。”像张佳玮一样“是没什么出息的。&lt;br&gt;&lt;br&gt;&lt;br&gt;————————————————&lt;br&gt;&lt;br&gt;打头一句话，大家估计不爱听，但还是说说。以前回答问题时说过，旁征博引，其实是件很水到渠成的事。我这种就算了，不值一提。想信手拈来，像王国维、丹纳、雨果、钱钟书、罗曼罗兰、金庸这伙人，写论述、随笔或小说，许多典故看似信手拈来，其实是翻了许多本书，才到这个地步。所以首先这就是个笨功夫，读书够了，自然而然就到了。&lt;br&gt;永远别管”某某书是必读的，不读终身遗憾，不读没有美好人生“一类，全是屁话。&lt;br&gt;永远按着自己的兴趣去读书。乐趣是最好的老师。&lt;br&gt;如何找自己感兴趣的书，以前答过题了，简单说就是顺藤摸瓜，按着自己喜欢的作者提过的人名去挖，比如王小波几次提到卡尔维诺和奥威尔，库切会提陀思妥耶夫斯基，钱钟书对陈散原和王令颇为欣赏，马尔克斯爱死了福克纳海明威卡夫卡和鲁尔福，诸如此类。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;最后一个法子比较偏，而且我认识的人里只有我这么干，但效果似乎不错。&lt;br&gt;我时常要接约稿写字。为了每篇约稿，我得读许多乱七八糟的资料。读少了当然也应付得了，但写出来就满不是味道。这当然会造成效率不高，比如，我今年就接过约稿，写肉桂的传播，写咖啡从阿拉伯地区往西欧渗透，写陶罐红绘到如何在1809年发展出密封罐，写镜子材质的发展。这拨东西得查阅许多资料，才大概写得像个样子。&lt;br&gt;写来很辛苦，但当你把各类信息和细节，用自己的话统摄归纳，写过一遍之后，那些知识就自然而然记住了，想忘也忘不了。&lt;br&gt;&lt;br&gt;你可以尝试一下：任何一个笑话，只任何一个书上看来的故事，你跟朋友讲过一遍，你就忘不了，一个道理。我写过一本莫奈传记后，整个1840-1926的法国艺术史也都大致心里有个七七八八。我写过一个2008年奥运会男篮前瞻，世界男篮诸强的大趋势也都藏起来了。读写多了之后，许多记忆还会互相勾连，形成体系，然后就更好记了。&lt;br&gt;&lt;br&gt;所以某种程度上，写和读一样都是学习。读是吸收，写——或者说表述——则是最好的归纳和分类。至少按我的经验来看，就是如此了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21388857/answer/18106053
-</link>
-<author>
-王凌珊
-</author>
-<title>
-中国菜是变得越来越好吃了吗，古代的菜好吃还是当代的菜好吃？
-</title>
-<description>
-这个问题要分时期。宋以前，中国菜的很多主要烹饪技术尚未出现，就连占据中国菜半壁江山的炒菜都是成形于宋朝的。宋朝时期，随着经济发展，以及更易蓄养的猪替代羊成为主要的肉食，中国菜也随着空前繁荣起来，烹饪技术和菜品种类都呈现爆发式的发展，在此特别给为中国菜作出卓越贡献的著名美食家苏东坡先生掌声致敬。蒙元时期，中国菜和其他诸多文化一样，失传了很多，同时也有不少游牧民族的美食融合进中国菜，《舌尖上的中国》里提及的云南乳扇就是一例，总体上还是凋零了，《东京梦华录》中的不少市井美食现在只能依靠想象。明朝时期，随着全球各地沟通往来的增多，不少食材传入中国，其中最著名的莫过于辣椒和土豆，中国菜从低谷重新发展起来，这里要特别说明下，辣椒传入中国前，也并非没有提供辣味的食材，王维 “遍插茱萸少一人” 的诗句中提及的茱萸就是古代的 “辣椒”。 清朝民国时期的状况大体接近，中国菜总体上都是发展的。&lt;br&gt;&lt;br&gt;综上，宋以前的中国菜，整体上大抵是不如现代的，宋不好说，至于明清民国，其实也不大好说。现今的烹饪工具和食材丰富程度虽然胜于明清民国，但食材的平均质量不如彼时，举例来说，如今的鸡绝大多数都是四十几天出栏食之无味的白羽鸡，彼时是土家鸡；如今的菜是农药加化肥催出来的速成菜，彼时是原滋原味的。这样比较下来，孰强孰弱，就很难说了。当然，现代也有绿色有机的好食材，但这里说的是普遍状况，不提也罢。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21388673/answer/18110897
-</link>
-<author>
-楚云帆
-</author>
-<title>
-怎么看动视暴雪从威望迪购回股份，腾讯间接参与收购并持有动视暴雪股权？
-</title>
-<description>
-谢邀。关于这个事情的扯淡解读太多了，我正好写了篇长微博顺便贴过来。首先我想说的是，这事和腾讯的关系很小。&lt;br&gt;&lt;br&gt;Vivendi (VIV.PA)是一家法国巴黎上市的跨国公司，主要业务是公共事业服务，如水处理、垃圾处理、交通与能源等。其次是传媒通讯事业，环球影业、UMG音乐、出版集团和电信业务等，早年间Vivendi Games是其100%持股的子公司之一， Sierra和Blizzard又是Vivendi Games的子公司。2007年底Vivendi Games与Activision的合并是震撼业界的大事，新催生的Activision Blizzard成了世界上最大的游戏发行商——在此之前是EA，Activision忝居其后。&lt;br&gt;&lt;br&gt;Vivendi Games与Activision合并后，Vivendi持股52%是最大的股东。合并的Activision Blizzard主要分为三个部分，Activision Publishing, Inc.和Blizzard Entertainment, Inc.依然各自独立运作， Activision Blizzard distribution则主要在欧洲市场提供游戏的出版、发行、物流等服务。在合并之后几年的收入构成中，实际上Activision才是最大的贡献者，以WOW最巅峰的2011年为例，Activision收入占比63%，Blizzard收入占比28%，AB distribution收入占比9%。在同一年份的市场贡献上，北美市场占50%，欧洲市场占42%，亚洲市场只占8%。很多时候国内的媒体出于对Blizzard和本土市场的过度热衷会做很多过度的解读。&lt;br&gt;&lt;br&gt;尽管Activision Blizzard这几年风生水起，COD、WOW等王牌大作让其保持高额的收入和利润（毛利润一度超过60%），但是作为母公司的Vivendi因为其主营业务的关系（公共事业和电信业务都是无底洞的投入）多年来都是负债累累，在作为Blizzard母公司期间就多次想要出售暴雪而未遂，控股Activision Blizzard后近年来又多次有出售传闻出现，不过因为金额太大并且要求现金收购，因此一直也没有成功。根据公开的报道，Vivendi目前负债173亿美金，约等于Activision Blizzard一周前的市值。Vivendi持股61%，需要100亿美金左右才能完成此次收购，购资格购买的公司全世界也没有几家，比如腾讯也只有46亿美元左右的现金储备，单靠一家公司是无法达成这样的收购的。&lt;br&gt;&lt;br&gt;在向包括时代华纳、微软、腾讯和黑石之类的私募资金出售未遂后，Vivendi董事会考虑通过另外一种方式获得一笔充裕的现金流来削减债务同时提振股价，也是促成上周Activision Blizzard独立的肇始，即强制派送股息。Activision Blizzard（NADSAQ：ATVI）总计拥有12亿股，其中Vivendi拥有7.32亿股，约占61%，每年都可以获取派送的股息。比如上一次ATVI的每股股息是0.19美金，也即意味着你如果有一股ATVI的股票，那么就可以获得0.19美金，意味着Vivendi获得了1390万美元的股息，对这家公司的债务来讲是杯水车薪。&lt;br&gt;&lt;br&gt;Activision Blizzard拥有超过40亿美金的现金储备（其中大部分是离岸资产），Vivendi拥有Activision Blizzard公司6/11的股东席位，本月7日英国金融时报报道Vivendi董事会希望通过利用自己的控股地位实现一次股息派送，以每股2.7美金进行一次强制派息，根据Activision Blizzard合并时的一些特殊保护条款，这一行为最终是可以实现的，这样将可以从Activision Blizzard的现金流中提取32.5亿美金，其中Vivendi可以获得20亿美金。于是，Activision Blizzard的高层采取了上周的行动。&lt;br&gt;&lt;br&gt;根据上周Activision Blizzard的股价，股东可以以每股13.60美元收购公司股票，Activision Blizzard从现金储备中提取了12亿美金，另外从高盛、摩根大通和美国银行手中借了46亿美金，用总计支付58.3 亿美元的现金收购 Vivendi原本持有的的 4.29 亿股份；另外Activision Blizzard公司CEO Bobby Kotick与总裁Brian Kelly领导的投资团拿出23.4 亿美元，另外买下1.72 亿的股份（Kotick二人出资1亿美金）。这样Activision Blizzard成为了一家真正的独立的公司，而原本的母公司Vivendi现在只剩下约8300万股，持股12%。&lt;br&gt;&lt;br&gt;通过这次交易，Vivendi获得了近82亿美金的现金，同时依然持股12%，多少可以实现自己出售Activision Blizzard的初衷，利用这笔现金缩减债务同时进行一些新的投入以提振萎靡的股价。Activision Blizzard虽然背负了债务，但是摆脱了Vivendi的控制成为了一家真正独立的公司，同时依然握有30亿美金现金储备，两名领导人Bobby Kotick与Brian Kelly共1亿美金的出资也让投资人看到了二人对公司的信心，因此股票持续上涨。国内媒体关注的有腾讯参与的投资集团本次所购买的1.72亿股实际占股14.3%，并未达到控股的程度。Kotick表示在新公司的董事会上并没有腾讯的席位，本次的参与是被动投资（因其身处投资集团之中，遵从集团所做的决策）。&lt;br&gt;&lt;br&gt;腾讯对欧美游戏市场确实有极大的热情并与Kotick关系密切，收购Epic股票和代理Activision的COD OL都是明证。腾讯有巨大的现金储备，但国内的经济形势整体停滞，可投资的项目并不多，金额与其现金流相比量级大都是九牛一毛，国际市场很多项目相对健康，因此目光转向。另一方面，近年来国内游戏市场的变化以及自身运营产品的受关注度让腾讯意识到精品化、品牌与技术是将来游戏市场最重要的，而这些主要集中在国际市场上，与国际大公司的合作也日渐增加，如Take Two（2K NBA)、Capcom（怪物猎人）、EA（FIFA OL 3）、Activision（COD OL）等公司都有了合作，也有了几笔重要的投资收购（Riot和Epic）。不过在Activision Blizzard独立这件事情上，可能关系并不大，更像如Bobby Kotick所说是一次被动投资，但是将来相信会物超所值的。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21395089/answer/18101222
-</link>
-<author>
-刘震林
-</author>
-<title>
-这个球算不算越位？
-</title>
-<description>
-中路的黄色球员处于越位的位置。因为他比球和倒数第二位的红色球员更靠近端线。&lt;br&gt;&lt;br&gt;越位规则：“first, the player must be in the opposing team's half of the field. Second, the player must be in front of the ball. And third, there must be fewer than two opposing players between him and the opposing goal line, with the goalkeeper counting as an opposing player for these purposes. ”&lt;br&gt;简单来说，越位三条件：对方半场、位于球前、少于两名球员位于该球员与端线。所以，越位严格上是不考虑传球者的位置的。&lt;br&gt;&lt;br&gt;我把规则从评论里提到回答。&lt;br&gt;&lt;br&gt;需要注意的是，处于越位位置，并不违例；在越位位置获利，才是违例。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20404175/answer/18103879
-</link>
-<author>
-acel rovsion
-</author>
-<title>
-为什么2010年代很多海外留学的中国人已经拿到了绿卡了却又纷纷回中国发展？
-</title>
-<description>
-首先，谢谢邀请。（更新提示，所有的更新都放在了第二部分）&lt;br&gt;这个问题，在其他国家我不知，但是在北美，尤其是MITBBS上几乎成了月经问题。mitbbs上随处可以摘录很多无比感伤的句子，即使是被称为北美wsn的理工科或者基础学科人士，其过于理性的文字里面都透露出几许伤痕文学的影子。无数回国徘徊街头的当年美利坚追梦者，除了感慨共和国变化以外，都在痛惜所谓“失去的十年”。&lt;br&gt;动用某位知乎上某位大神的句子加以改变：&lt;br&gt;“天堂在上，美国在这，祖国何向？但指在根。”&lt;br&gt;好了，煽情到此结束。我个人不是一个文艺青年，即使文艺起来，文字中冷嘲热讽也是居多。所以我个人原因死理性派一点，分类梳理一下这个问题。&lt;br&gt;我的回答分三部分：分别是原因与现状，理想与现实。&lt;br&gt;&lt;br&gt;实际上越来越多的回流现象，甚至是某些入籍人士如今疯狂地挤回中国无非就这么几点原因：&lt;br&gt;&lt;br&gt;第一，越来越客观认识到美国不是天堂。美国本来就不是天堂，这不是中国新千年快速发展后地事情，实际上在90年代末互联网时代，当时newgrounp也好还是后来海归网也好（当时mitbbs的创始人王，李二位还在mit和wapi读书），实际上90年代末，整体海外华人对于北美地区的评价变得越来越负面。90年代末是美国所谓“中产阶级崩溃“的年代，经济增长点地匮乏，以及90年代各国的移民潮，让美国当时的最大的社会负担都压在了中产阶级身上，极高的直接税率，以及产业发展的贫乏，让所有人越来越意识到当初脑子发热来追寻的美国梦成了一个笑话。在这个年代就已经出现大量的海外人士归国了，这一批人也是最具有”赌徒“心态的人，他们愿意在一片还未建成的热土上投资自己的一切，而不是把困死在美国这个鬼地方，其勇气和气魄丝毫不亚于当年漂北京，闯深圳的第一代企业家们。而到现在这个年代，”中产阶级“的社会价值被更重的负担捆绑，很多地方，比如纽约，税负甚至高达百分之三十，10年一个童鞋去wall street当freshman（做analysis）大概也就10w块左右地收入，但是连曼哈顿都不敢住而只敢住jersycity，而即使是这样，也完全存不下钱来，要知道10w块钱在纽约这个”全国贫困市“是绝对超越中位数地收入。所以作为中产率最高地华裔及华人群体，这个10几年地美国把他们的美国梦直接变成一个笑话。&lt;br&gt;&lt;br&gt;第二，留学生群体结构地变化。以前我国的状况是精英出国，能出国念个书简直是不得了的事情，而现在说实话只要家里有接近中等收入的水平，完全就可以承担这个费用，而且出国念书的各类考试相对于高考来说，相当得弱智。所以留学是一个很普遍得选择，尤其是不想高考的话，故而中国留学生在美的整体竞争力自然也不是当年那么让人闻风丧胆。而且产业化程度高了以后，每年得留学生人数简直跟流水线一样，连德州乡下学校都可以组织上万人的中国学生会。那么在产业经济增长点越来越少，且华人学生供应源源不绝的情况下，绝大部分人或出于自己选择，或出于条件限制，不得不回流。美国根本提供不了一分像样子的安身立命的机会，当然肯定要回流。&lt;br&gt;&lt;br&gt;第三，美国已经提供不了相对优越的条件，反而是更差的条件，以及更严苛的门槛。这年头你到上海找差头，如果差头认为你看起来很土，就会直接问你”北美回来的？“。&lt;br&gt;以前硅谷10w＋分红的收入给一个高级工程师是听起来还不错的收入，但是现在这个bay area的房价动不动就上百万的房价，而且房屋档次还非常烂的情况下，10年后的今天10w美刀的收入显得无比的吊丝。同在s大学计算机的学长们也好，mitbbs上做开发的前辈也好，直接了当地说”硅谷现在已经不是全球科技业的理想之地，而是把一堆一堆的清北学生送进绞肉机的坑。”硅谷的geek们说到底当年在出国前都有一些理想主义。都带着要改变世界，要创造科技之不可能，等等理想主义来到美国硅谷这么个大农村勤勤恳恳地搞开发，结果白了少年头，除了十来万到几十万美刀的收入（不少人还达不到这个水平），一个烂房子，一部烂车，除了这些之外一无所有。谁的美国梦都会粉身碎骨的。&lt;br&gt;（这一段关于华人在各行业的一些忧虑和现状，我明天再来补充一下）。&lt;br&gt;&lt;br&gt;第四，就是对于国内发展的幻想，以及北美汉子的现状（大拿除外），激励了下一代海外华人。中国从90年代初开始进入了黄金年代，那个年代留在国内的或者回国的人士往往都成了第一代企业家或者第二代企业家，这让在美华人的回国欲望非常强烈，因为这就是一个一个的中国财富梦啊，中国即使到现在也是最具性价比的赚钱地方。但是在这个年代，这个想法已经不是激励在美华人回国发展的欲望，而是一种幻想了。在mitbbs上，在美华人最常感叹的就是“老子当年要是早点回国，一定早就xxx”，“现在要是有个机会，老子马上回国。”之类的，所谓的“失去的黄金十年”，实际上大家都知道，这种说法和“老子要是知道房价要涨，一定多囤几套”这种逻辑基本上一回事。2000年代左右的海外华人，是最惨的海外华人，因为他们的在美生涯相对艰苦，而且还正好错过中国发展最快的黄金十年，和身边的同学，混北美的反而成了混得最差的了，国内同学无论从财富上还是地位上，把北美汉子们的美国梦击得粉碎，这个落差是非常可怕的，一边是发达的国内友人们，一边是挣扎在中产线北美汉子，谁都会抓狂的！所以这种“回国发财“或者”回国忽悠“的想法成了这代华人遗传给下代华人的意志，现在诸如我们这代海外华人，有一个潜意识的幻想，就是回国满地是金子，回去当忽悠都能赚钱。但是实际上我们都知道，中国虽然现在也很有机会，但是创业潮已过，民营资本的超级发展期已过，社会已经有阶级状况产生，海外华人盲目往回赶，反而成了弱势群体。而且这个年头，海外文凭和海外背景越来越不值钱，这贬值速度和失水的豆腐一样。以前海外文凭几乎成了hr认定人才的一个标准，现在除非你的学校非常拿得出手，经历非常拿得出手，否则给企业带来的价值还不如国内教育出身的孩子，在90年代，中国企业急需扩张海外，一个海外生活背景都可以忽悠不少人了，现在的hr早就学聪明了，都知道你的海外经历实质没多少价值，国内经历又是空白。所以现状，大家的境地是进退两难的，无论是海归还是归国留学生。很多领域已经极端到非”hsympcbcal“等等这些所大学以外其他的都是扯的地步，清北文凭现在变得无比值钱（相对以前）。在学术领域，更是如此，以前在争取终生教职不成，也就是双t的情况下，只要愿意回国，只要经历还ok，学校也不错，绝对有国内一流大学的人要你。现在除非是大拿（主要是经历），其他的你就靠边玩吧，现在去普通的211大学谋求一份低微的教职，人家也未必理你。当然我觉得这些对于国内就业价值观来说是好事。&lt;br&gt;&lt;br&gt;第五，就是对于祖国的爱。不要觉得这个听起来多么不可思议，中国的寻根意识是很强的，中国对外从古到今都非常包容，但是中国人完全融入异文化的情况实际上并不多，因为对自己民族的认同感无比的强大，所以很多人只拿绿卡而不拿国籍的愿意，很多都是出于这种心理洁癖。很多人不是融不进主流文化，而是时时刻刻人认同自己是中国人。天主教文化根基的国家很多，但是大中华只有一个！&lt;br&gt;&lt;br&gt;第六，很多人不是拿了绿卡归国，而是为了归国顺手拿张绿卡，这其实有点误解。也就是所谓给自己寻一条退路，虽然这条退路基本上纯属心理安慰。很多人觉得把美国那边敲定下来，作为一个大后方，然后在国内奋斗可以相对安心一点。&lt;br&gt;其次，很多海外华人都在做”中美之间“的生意，尤其是以安普若大叔等等wall st出身的华人大拿，在中美之间的投资领域非常活跃，所以一张绿卡只是为了便利而已，他们也确实主要在国内发展。&lt;br&gt;&lt;br&gt;第二部分。&lt;br&gt;本来我说第二部分我们聊一些政治不是那么正确的话题，结果貌似评论里很多人觉得我“有意”，”主观“地去”黑美国“，其实我必须说，黑美国对于我本人来说，没有任何意义，也没有人发我钱来当喉舌。本题是要说明为什么华人放弃既定选择而回国，这个问题本身对于美国来说就是负面向的论述，我写这些东西并不是说美国一文不值。我个人再写这篇文章的时候，没有这么多主观性在里面，只是单纯列举一些现状而已&lt;br&gt;&lt;b&gt;单纯客观来说，就民生方面，美国是相对于国内或许好一些，不过也只是”或许“和”好一些“而已。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;本来第一部分把整个问题基本上已经分析透了，但是由于我第一部分的某些描述让某些人觉得自己心中的美国被颠覆了，且我认为第二部分对于第一部分有一些补充性意义，所以我也加到这片回答之中来。&lt;br&gt;&lt;br&gt;一，为什么北美华人对于所在国（主要是美国）的负面倾向要高于其他国家？&lt;br&gt;这个问题其实直接就是”海归”心态的高度概括。&lt;br&gt;其实很简单，&lt;br&gt;首先，北美华人的集中爆发期正好是新千年过后的时代，而这个时代不仅仅是中国的爆发期，更是整个发展中国家的时代。而相反美国是陷入了竞争力的疲软期，这个年代的中产阶级压力在无限增大，自然滋生负面情绪。&lt;br&gt;其次，就是在新千年过后，出现的最多的言论消费品就是“中美话题”。所谓中美话题一般两种路数：其一，就是把中国的东西打包（夹带私货）之后卖到美国去，比如虎妈；还有就是把美国的东西打包到中国来，比如无数宣扬美国先进理念，甚至有点过于美化的各种产品。&lt;br&gt;其二，就是关于公共政治言论了，某些人过于美化美国，某些人又过于妖魔化美国。&lt;br&gt;以上两种类型的“中美话题”作为大剂量的公共言论消费品出现在国内各种时政话题之中，甚至极端到逢中国问题必提美国的尴尬境地，这让大部分海外华人产生了反感。&lt;br&gt;&lt;br&gt;最后，就是心态的问题。&lt;br&gt;留日的华人，大部分是寻求一种积极稳定，快节奏的生活态度，他们真正比较纠结的东西在于“如何以平和的心态来看待日本”。。而事实上日本虽然不是容纳梦想和开创者的地方，但是相对于其他发达国家，收入阶层要稳定的多，对于职场人士来说，甚至有几十岁＝几十万的说法在里面，即使首都圈和阪神圈的消费很高，但是大部分人都有一种稳定的生活态度。故而留日的回流比例远远不如北美那么夸张。&lt;br&gt;（因为事情要出去一下，回来更新，不好意思）
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20540916/answer/18102913
-</link>
-<author>
-戚本刚
-</author>
-<title>
-网易、腾讯等公司「游戏评测中心」的职责、组织构架、工作方式是什么样的？
-</title>
-<description>
-2011年初加入网易游戏测评中心，2012年中内部转岗去做策划，在测评中心度过了异常快乐的一年半。&lt;br&gt;&lt;br&gt;&lt;b&gt;组织职能&lt;/b&gt;&lt;br&gt;网易游戏测评中心（下简称GAC）与UE、UI、US三个兄弟部门共同组成了用户体验部，是网易在线游戏事业部重要的辅助部门。&lt;br&gt;&lt;br&gt;网易游戏测评中心的主要职能是&lt;br&gt;1 深入了解竞品游戏，产出试玩报告&lt;br&gt;2 试玩潜在代理目标游戏，产出试玩报告&lt;br&gt;3 试玩公司内游戏原型、版本Demo，给出评估意见&lt;br&gt;4 协助公司游戏开发，为产品设计出谋划策&lt;br&gt;&lt;br&gt;&lt;b&gt;组织结构&lt;/b&gt;&lt;br&gt;GAC分为广州和杭州两个区域，每个区域独立开展工作。单区域的GAC又可以根据工作方向的不同分成竞品类组和跟进类组。一般一地竞品类组有一个，而跟进类组依照业务的不同又可能有很多，具体的组别可能有涉密内容我就不多说了。&lt;br&gt;&lt;br&gt;GAC采取组长负责制，每个组长对自己组内的工作有高度的权限。我在做FPS类跟进组组长的时候就包揽了下属招聘、下属培训、目标制定、报告审核等诸多工作。每个组因为组长的不同也高度的风格化。&lt;br&gt;这里必须说一点是，GAC的招聘一开始是由游戏部HR来完成，但是随着团队的扩张，GAC招聘的自主权也在增加。一方面，GAC要的是高端职业玩家，高端玩家懂高端玩家，HR不懂；另一方面，GAC在成长的过程中打破了网易太多学历上的限制，我记得曾经有过的最低学历是高中肄业吧，这种不拘一格降人才的招聘方式也不方便由HR来完成。&lt;br&gt;GAC总负责人的职责就是保证大家情绪稳定&lt;b&gt;（这很重要，而且也很难）&lt;/b&gt;而且每个组都有一个好组长。&lt;br&gt;&lt;br&gt;&lt;b&gt;个人感受&lt;/b&gt;&lt;br&gt;我毕业四年，来网易之前在一个小网站做过编辑，在新东方教过书，来网易之后当了一年半GAC，然后又分别在两个产品当过策划。在我所有的工作经历中，GAC是最愉快、最难忘的。GAC的同事——说的游戏化一点——更像是一个公会里的战友。是的，不是同学，不是同事，是战友。尽管我们的目标很卑微，就是去挑战虚拟世界的一和零，但是我们大多数人给了彼此毫无保留的信任。&lt;br&gt;&lt;br&gt;我为GAC工作了17个月，GAC就像我的家。
 </description>
 </item>
 </channel>
