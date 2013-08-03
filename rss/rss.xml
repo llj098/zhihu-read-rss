@@ -15,6 +15,87 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21405746/answer/18127287
+</link>
+<author>
+知乎用户
+</author>
+<title>
+软件的版本号有时候会类似 1.0.1 / 3.5.3，这些都是怎么决定的？
+</title>
+<description>
+这是软件版本命名的规则&lt;br&gt;&lt;br&gt;版本控制比较普遍的 3 种命名格式 :&lt;br&gt;&lt;br&gt;&lt;strong&gt;一、GNU 风格的版本号命名格式 
+:&lt;/strong&gt;&lt;br&gt;主版本号 . 子版本号 [. 修正版本号 [. 编译版本号 
+]]&lt;br&gt;Major_Version_Number.Minor_Version_Number[.Revision_Number[.Build_Number]]&lt;br&gt;示例 
+: 1.2.1, 2.0, 5.0.0 build-13124&lt;br&gt;&lt;br&gt;&lt;strong&gt;二、Windows 风格的版本号命名格式 
+:&lt;/strong&gt;&lt;br&gt;主版本号 . 子版本号 [ 修正版本号 [. 编译版本号 
+]]&lt;br&gt;Major_Version_Number.Minor_Version_Number[Revision_Number[.Build_Number]]&lt;br&gt;示例: 
+1.21, 2.0&lt;br&gt;&lt;br&gt;&lt;strong&gt;三、.Net Framework 
+风格的版本号命名格式:&lt;/strong&gt;&lt;br&gt;主版本号.子版本号[.编译版本号[.修正版本号]]&lt;br&gt;Major_Version_Number.Minor_Version_Number[.Build_Number[.Revision_Number]]&lt;br&gt;版本号由二至四个部分组成：主版本号、次版本号、内部版本号和修订号。主版本号和次版本号是必选的；内部版本号和修订号是可选的，但是如果定义了修订号部分，则内部版本号就是必选的。所有定义的部分都必须是大于或等于 
+0 的整数。&lt;br&gt;&lt;br&gt;&lt;strong&gt;应根据下面的约定使用这些部分：&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Major 
+：具有相同名称但不同主版本号的程序集不可互换。例如，这适用于对产品的大量重写，这些重写使得无法实现向后兼容性。&lt;br&gt;&lt;br&gt;Minor 
+：如果两个程序集的名称和主版本号相同，而次版本号不同，这指示显著增强，但照顾到了向后兼容性。例如，这适用于产品的修正版或完全向后兼容的新版本。&lt;br&gt;&lt;br&gt;Build 
+：内部版本号的不同表示对相同源所作的重新编译。这适合于更改处理器、平台或编译器的情况。&lt;br&gt;&lt;br&gt;Revision 
+：名称、主版本号和次版本号都相同但修订号不同的程序集应是完全可互换的。这适用于修复以前发布的程序集中的安全漏洞。&lt;br&gt;&lt;br&gt;程序集的只有内部版本号或修订号不同的后续版本被认为是先前版本的修补程序 
+(Hotfix) 更新。&lt;br&gt;&lt;br&gt;&lt;strong&gt;版本号管理策略&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;一、GNU 
+风格的版本号管理策略：&lt;/strong&gt;&lt;br&gt;&lt;br&gt;1．项目初版本时，版本号可以为 0.1 或 0.1.0, 也可以为 1.0 或 
+1.0.0，如果你为人很低调，我想你会选择那个主版本号为 0 的方式；&lt;br&gt;2．当项目在进行了局部修改或 bug 
+修正时，主版本号和子版本号都不变，修正版本号加 1；&lt;br&gt;3. 当项目在原有的基础上增加了部分功能时，主版本号不变，子版本号加 1，修正版本号复位为 
+0，因而可以被忽略掉；&lt;br&gt;4．当项目在进行了重大修改或局部修正累积较多，而导致项目整体发生全局变化时，主版本号加 
+1；&lt;br&gt;5．另外，编译版本号一般是编译器在编译过程中自动生成的，我们只定义其格式，并不进行人为控制。&lt;br&gt;&lt;br&gt;&lt;strong&gt;二、Window 
+下的版本号管理策略：&lt;/strong&gt;&lt;br&gt;1．项目初版时，版本号为 1.0 或 1.00；&lt;br&gt;2. 当项目在进行了局部修改或 bug 
+修正时，主版本号和子版本号都不变，修正版本号加 1；&lt;br&gt;3. 当项目在原有的基础上增加了部分功能时，主版本号不变，子版本号加 1，修正版本号复位为 
+0，因而可以被忽略掉；&lt;br&gt;4. 当项目在进行了重大修改或局部修正累积较多，而导致项目整体发生全局变化时，主版本号加 1；&lt;br&gt;5. 另外 , 
+编译版本号一般是编译器在编译过程中自动生成的，我们只定义其格式，并不进行人为控制。&lt;br&gt;&lt;br&gt;另外，还可以在版本号后面加入 
+Alpha、Beta、Gamma、Current、RC (Release Candidate)、Release、Stable 等后缀，在这些后缀后面还可以加入 
+1 
+位数字的版本号。&lt;br&gt;&lt;br&gt;对于用户来说，如果某个软件的主版本号进行了升级，用户还想继续那个软件，则发行软件的公司一般要对用户收取升级费用；而如果子版本号或修正版本号发生了升级，一般来说是免费的。&lt;br&gt;&lt;br&gt;=====附录软件版本名称=====&lt;br&gt;&lt;br&gt;&lt;strong&gt;α（alphal） 
+内部测试版&lt;/strong&gt;&lt;br&gt;α版，此版本表示该软件仅仅是一个初步完成品，通常只在软件开发者内部交流，也有很少一部分发布给专业测试人员。一般而言，该版本软件的 
+bug 
+较多，普通用户最好不要安装。&lt;br&gt;&lt;br&gt;&lt;strong&gt;β（beta）外部测试版&lt;/strong&gt;&lt;br&gt;该版本相对于α版已有了很大的改进，消除了严重的错误，但还是存在着一些缺陷，需要经过大规模的发布测试来进一步消除。这一版本通常由软件公司免费发布，用户可从相关的站点下载。通过一些专业爱好者的测试，将结果反馈给开发者，开发者们再进行有针对性的修改。该版本也不适合一般用户安装。&lt;br&gt;&lt;br&gt;&lt;strong&gt;γ（gamma）版&lt;/strong&gt;&lt;br&gt;该版本已经相当成熟了，与即将发行的正式版相差无几，如果用户实在等不及了，尽可以装上一试。&lt;br&gt;&lt;br&gt;&lt;strong&gt;trial（试用版）&lt;/strong&gt;&lt;br&gt;试用版软件在最近的几年里颇为流行，主要是得益于互联网的迅速发展。该版本软件通常都有时间限制，过期之后用户如果希望继续使用，一般得交纳一定的费用进行注册或购买。有些试用版软件还在功能上做了一定的限制。&lt;br&gt;&lt;br&gt;&lt;strong&gt;unregistered（未注册版）&lt;/strong&gt;&lt;br&gt;未注册版与试用版极其类似，只是未注册版通常没有时间限制，在功能上相对于正式版做了一定的限制，例如绝大多数网络电话软件的注册版和未注册版，两者之间在通话质量上有很大差距。还有些虽然在使用上与正式版毫无二致，但是动不动就会弹出一个恼人的消息框来提醒你注册，如看图软件acdsee、智能陈桥汉字输入软件等。&lt;br&gt;&lt;br&gt;&lt;strong&gt;demo 
+演示版&lt;/strong&gt;&lt;br&gt;在非正式版软件中，该版本的知名度最大。demo版仅仅集成了正式版中的几个功能，颇有点像 
+unregistered。不同的是，demo版一般不能通过升级或注册的方法变为正式版。&lt;br&gt;&lt;br&gt;以上是软件正式版本推出之前的几个版本，α、β、γ可以称为测试版，大凡成熟软件总会有多个测试版，如 
+windows 98 的β版，前前后后将近有10个。这么多的测试版一方面为了最终产品尽可能地满足用户的需要，另一方面也尽量减少了软件中的bug 。而 trial 
+、unregistered 
+、demo有时统称为演示版，这一类版本的广告色彩较浓，颇有点先尝后买的味道，对于普通用户而言自然是可以免费尝鲜了。&lt;br&gt;&lt;br&gt;&lt;strong&gt;正式版，不同类型的软件的正式版本通常也有区别。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;release 
+最终释放版&lt;/strong&gt;&lt;br&gt;该版本意味“最终释放版”，在出了一系列的测试版之后，终归会有一个正式版本，对于用户而言，购买该版本的软件绝对不会错。该版本有时也称为标准版。一般情况下，release不会以单词形式出现在软件封面上，取而代之的是符号 
+(r) ，如 windows nt(r) 4.0、ms-dos(r) 6.22 等。&lt;br&gt;&lt;br&gt;&lt;strong&gt;registered 
+注册版&lt;/strong&gt;&lt;br&gt;很显然，该版本是与 unregistered 
+相对的注册版。注册版、release和下面所讲的standard版一样，都是软件的正式版本，只是注册版软件的前身有很大一部分是从网上下载的。&lt;br&gt;&lt;br&gt;&lt;strong&gt;standard 
+标准版&lt;/strong&gt;&lt;br&gt;这是最常见的标准版，不论是什么软件，标准版一定存在。标准版中包含了该软件的基本组件及一些常用功能，可以满足一般用户的需求。其价格相对高一级版本而言还是“平易近人”的。&lt;br&gt;&lt;br&gt;&lt;strong&gt;deluxe 
+豪华版&lt;/strong&gt;&lt;br&gt;顾名思义即为“豪华版”。豪华版通常是相对于标准版而言的，主要区别是多了几项功能，价格当然会高出一大块，不推荐一般用户购买。此版本通常是为那些追求“完美”的专业用户所准备的。&lt;br&gt;&lt;br&gt;&lt;strong&gt;reference&lt;/strong&gt;&lt;br&gt;该版本型号常见于百科全书中，比较有名的是微软的encarta系列。 
+reference是最高级别，其包含的主题、图像、影片剪辑等相对于standard和deluxe版均有大幅增加，容量由一张光盘猛增至三张光盘，并且加入了很强的交互功能，当然价格也不菲。可以这么说，这一版本的百科全书才能算是真正的百科全书，也是发烧友们收藏的首选。&lt;br&gt;&lt;br&gt;&lt;strong&gt;professional（专业版）&lt;/strong&gt;&lt;br&gt;专业版是针对某些特定的开发工具软件而言的。专业版中有许多内容是标准版中所没有的，这些内容对于一个专业的软件开发人员来说是极为重要的。如微软的visual 
+foxpro标准版并不具备编译成可执行文件的功能，这对于一个完整的开发项目而言显然是无法忍受的，若客户机上没有foxpro将不能使用。如果用专业版就没有这个问题了。&lt;br&gt;&lt;br&gt;&lt;strong&gt;enterprise（企业版）&lt;/strong&gt;&lt;br&gt;企业版是开发类软件中的极品（相当于百科全书中的reference版）。拥有一套这种版本的软件可以毫无障碍地开发任何级别的应用软件。如著名的visual 
+c++的企业版相对于专业版来说增加了几个附加的特性，如sql调试、扩展的存储过程向导、支持as/400对ole 
+db的访问等。而这一版本的价格也是普通用户无法接受的。如微软的visual studios 6.0 enterprise 中文版的价格为 23000 
+元。&lt;br&gt;&lt;br&gt;&lt;strong&gt;其他版本，除了以上介绍的一些版本外，还有一些专有版本名称。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;update（升级版）&lt;/strong&gt;&lt;br&gt;升级版的软件是不能独立使用的，该版本的软件在安装过程中会搜索原有的正式版，如果不存在，则拒绝执行下一步。如microsoft 
+office 2000升级版、windows 9x升级版等等。&lt;br&gt;&lt;br&gt;&lt;strong&gt;oem版&lt;/strong&gt;&lt;br&gt;oem 
+版通常是捆绑在硬件中而不单独销售的版本。将自己的产品交给别的公司去卖，保留自己的著作权，双方互惠互利，一举两得。&lt;br&gt;&lt;br&gt;&lt;strong&gt;单机（网络）版&lt;/strong&gt;&lt;br&gt;网络版在功能、结构上远比单机版复杂，如果留心一下软件的报价，你就会发现某些软件单机版和网络版的价格相差非常大，有些网络版甚至多一个客户端口就要加不少钱。&lt;br&gt;&lt;br&gt;&lt;strong&gt;普及版&lt;/strong&gt;&lt;br&gt;该版本有时也会被称为共享版，其特点是价格便宜（有些甚至完全免费）、功能单一、针对性强（当然也有占领市场、打击盗版等因素）。与试用版不同的是，该版本的软件一般不会有时间上的限制。当然，如果用户想升级，最好还是去购买正式版。&lt;br&gt;&lt;br&gt;Enhance 
+增强版或者加强版 属于正式版&lt;br&gt;Free 自由版&lt;br&gt;Full version 完全版 属于正式版&lt;br&gt;shareware 共享版&lt;br&gt;Release 
+发行版 有时间限制&lt;br&gt;Upgrade 升级版&lt;br&gt;Retail 零售版&lt;br&gt;Cardware 
+属共享软件的一种，只要给作者回复一封电邮或明信片即可。（有的作者并由此提供注册码等），目前这种形式已不多见。&lt;br&gt;Plus 
+属增强版，不过这种大部分是在程序界面及多媒体功能上增强。&lt;br&gt;Preview 预览版&lt;br&gt;Corporation &amp;amp; Enterprise 
+企业版&lt;br&gt;Standard 标准版&lt;br&gt;Mini 迷你版也叫精简版只有最基本的功能&lt;br&gt;Premium -- 贵价版&lt;br&gt;Professional 
+-- 专业版&lt;br&gt;Express -- 特别版&lt;br&gt;Deluxe -- 豪华版&lt;br&gt;Regged -- 已注册版&lt;br&gt;CN -- 
+简体中文版&lt;br&gt;CHT -- 繁体中文版&lt;br&gt;EN -- 英文版&lt;br&gt;Multilanguage -- 多语言版
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21417238/answer/18172962
+</link>
+<author>
+飞鸟冰河
+</author>
+<title>
+缉毒警察的照片上了新闻头条，这些警察会被毒贩报复吗？
+</title>
+<description>
+我也说两句吧，看着争议挺激烈的，但很多人并没明白&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/tian-hao-20-5&quot; data-tip=&quot;p$b$tian-hao-20-5&quot;&gt;@田浩&lt;/a&gt; 所说的重点。就我自身来讲，对这个问题也挺熟悉的，趁着周末有点时间，我也简单说两句&lt;br&gt;1.对缉毒警察的公众暴露情况要做好周密的保护，这一点我是绝对赞同的。我父亲当年就很注意这些，他的同事也很注意。田浩也说了，这一点绝对正确，没什么好争议的。&lt;br&gt;2.有人就说了，你们不是说贩毒分子没那么大狗胆么？咋又要保护的这么周全呢？因为缉毒警察面临的不仅仅是缉毒分子的仇恨，还面临着吸毒者、洗钱者等整条贩毒产业链上所有人的敌视。须知“杀人父母，断人财路”，这都是要和你拼命的，很多有利益相关贩毒产业其中的人，虽然并不是直接的贩毒分子，但其内心对缉毒警察的仇恨，也是丝毫不少的。而对很多已经是烂命一条，人生无趣的吸毒者来说，能报复缉毒警察一下，让自己这条烂命心里的仇恨得到一些发泄，也是可以不顾及任何后果的。这样的恶性案例并不止一起，遭遇报复的也不止缉毒警察本人，还可能包括家属，朋友，邻居……总之一切可能有社会关联的人，都可能在其中，出于这种原因，对于缉毒警察本人及家属还有社会关系的保护，都是很严密的，但这种保护并不证明贩毒分子有那么大狗胆，倒是吸毒的人烂命一条很疯狂，这个是很麻烦的事情。&lt;br&gt;3.所谓警察多么热爱这份职业，所以坚持至今，我觉得也是扯淡，至少我爹不是。但我爹和他大多数的同事是这样说的：你穿了这身衣服，就要对得起身上的警徽，这是你的工作，有风险没办法，你选了就要承担。你不想做了，可以退出，大家都理解你。认真对待自己的工作，这是每个人的美德，不止是警察的。&lt;br&gt;&lt;br&gt;所以呢，就付出和牺牲来说，我尊敬所有和我爹一样坚强勇敢，不畏艰险的警察，包括&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/tian-hao-20-5&quot; data-tip=&quot;p$b$tian-hao-20-5&quot;&gt;@田浩&lt;/a&gt; 这样退伍的前警察。但我觉得实在没必要过度渲染，甚至用谎言来包装他们的，过度神化和过度矮化，都是一样不堪的行为，只有真实才是最好的说明。&lt;br&gt;&lt;br&gt;再次向所有勇敢坚强的警察致敬。&lt;br&gt;=========无脑的分隔线========&lt;br&gt;有点烦了，加班很晚才回到家，一上微博，看见江宁公安在线也在给二宝洗地，虽然也说“二宝描述有水分”，但主要矛头还是针对&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/tian-hao-20-5&quot; data-tip=&quot;p$b$tian-hao-20-5&quot;&gt;@田浩&lt;/a&gt; ，还有特地跑来@我的，于是在此补充说明一下&lt;br&gt;&lt;br&gt;&lt;b&gt;1.二宝呼吁媒体不要公布有关缉毒警察正面影像的图片，以及相关隐私信息，这是对的，田浩也赞成这是对的，我也赞成，这个核心点没分歧。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;2.二宝说在云南，“毒贩有个不成文规定：&lt;b&gt;”三公斤配两颗手雷，五公斤配苏制手雷甚至小钢炮“&lt;/b&gt;，我爹还从警时，曾经去过云南接过被抓获的维族毒贩，至少没听他说过云南毒贩有这么牛逼的规定，小钢炮是什么？RPG？AT4？巴祖卡？还是60迫击炮？这么重的武器，真的是准备反攻大陆了是么？有人拿上世纪90年代平远扫毒的例子来证明，且不说那个年代的毒贩是否能例证现在的例子，单就平远街本身来说，能发展到那个地步，不是因为那条街有多少枪，而是因为那里是回族聚居区，民族关系错综复杂，不能随便处理，加上交通不便，所以才有后来的大动干戈，有武警伤亡。但这正好说明 一个事实，就是“&lt;b&gt;仅仅有枪杆子，毒贩也是嚣张不起来的，硬来只能被消灭&lt;/b&gt;”，他们最常用的手法还是老鼠一样偷偷运毒，而且尽量少带枪。&lt;br&gt;另外，毒贩不仅是男的，也有女的，请问女毒贩也个个带枪，那么悍不畏死么？&lt;br&gt;&lt;br&gt;3.扫毒英雄的人头价格名单，这种传说我听过很多次，警方内部喝酒的时候也曾经拿这个笑谈来吹牛逼，什么“我脑袋比你的贵，你给我喝光”之类，但公开承认这份名单的没有，因为这意味着缉毒警的身份被泄露，身处危险之中。退一步说，开个黑名单能有多大意义？我不止一次听到我爹的老战友说“老子脑袋值这个价钱？来吧，拿去，有本事你来拿。”一副压根不鸟的气概，这才是缉毒警。&lt;b&gt;我还给本拉登开过1000万的赏格呢&lt;/b&gt;，我没那个钱，丫也不鸟我，也不来报复我一下，好气馁。所以这个当酒桌谈资说说可以，还是别拿出来蛊惑人民群众了吧。&lt;br&gt;&lt;br&gt;4.毒贩带武器的情况有，缴获大量枪支的也不少见，但那不是常态，二宝拿“毒贩都配枪，甚至重武器”的故事来例证缉毒警的工作危险，过于危险耸听。这不是打云南公安的脸么？运毒难查也就罢了，这枪都往省里随便运了么？我去昆明几次，没觉得哪里都是枪啊？这是开始黑战友了么？高级黑啊。&lt;br&gt;&lt;br&gt;5.缉毒警面临巨大风险，这个已经是众所周知的常识，但不必如此渲染悲情，一副把缉毒警捧上神坛的架势，我爹至少是上不了那个神坛的，没那么高觉悟，什么热爱之类，他中过枪，因此转户籍内勤，但他和我说，选了这个工作，那就要认，说辛苦，谁不辛苦？说危险谁不危险？消防兵危险不？交通警察辛苦不？海关缉私危险不？那是职责，你的工作，你的责任，警察蜀黍不是白让小朋友叫的，该上的时候就要上。他身边的同事如瘦狗叔，库尔班江叔，都这个牛逼性格，这种牛逼哄哄的性格深深影响了我，以至于我从小虽然也小心翼翼，却依旧胆大妄为……跑题了，拉回来。&lt;b&gt;我觉得渲染这种悲情，并不合适&lt;/b&gt;。对于因公牺牲、致残、染毒的警察，我还是很难过，并尽力帮助的，只是悲情无济于事，&lt;b&gt;把毒贩子都干掉才是解决问题的根本&lt;/b&gt;。或许山西警察习惯那种风格，我爹是新疆警察，习惯“牛逼一哈子”。&lt;br&gt;&lt;br&gt;6.“禁毒民警都有卧底的经历”，这个说法，作为一个缉毒警察的儿子，我可以证实至少有一个例外，就是我爹。我痴迷香港警匪片的时候，曾经问过我爹有否卧底的经历，我爹瞪我一眼说：如果穿便衣抓人算是卧底，那算有。我后来以为他是保密，不肯说，又曾经问过，他和他同事喝了几杯，回答说：“哪里那么多卧底？那么好卧的么？不靠卧底抓不了人是么？屁话多！”好吧我就闭嘴了。这话我信，&lt;b&gt;不靠卧底就抓不了毒贩了？小看缉毒警&lt;/b&gt;&lt;br&gt;&lt;br&gt;7.对于田浩的身份，以及质疑，若有分歧，可以辩论。但二宝这种一上来就“无良媒体收买的写手”，请问有实际证据么？这手法实在是不入流。田浩的身份我不能认证，但从他所说的细节，我相信他的经历。我和他之间不是没分歧，但都可以求同存异，而不是上来就“你这个骗子”这种架势，先诋毁了人的身份，然后他的言论就都是假的，不值得一驳的，这种正是很多心虚，不敢核实细节的人最爱使用的手段。不同意我这话的人，&lt;b&gt;你们的生活作风都有问题！&lt;/b&gt;总之捕快二宝这次说话做事风格很不妥当。&lt;br&gt;&lt;br&gt;总之，正视缉毒警的牺牲和付出，保护他们和家人的隐私，这我没意见，而且这对我也好。但作为一个缉毒警察的儿子，以及一个前记者，我坚持：&lt;b&gt;不要用谎言来证明真理，这不是执行正义的人，应该使用的手段。&lt;/b&gt;警察是一个讲求逻辑和证据的职业，和记者一样，那么发表公开言论的时候，需要有理有据，不要信口开河，也不要随意判定人“枪手”的身份。&lt;br&gt;&lt;br&gt;就写这么多，感谢有耐心看到这里的人。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21418846/answer/18169517
 </link>
 <author>
@@ -263,34 +344,6 @@ http://www.zhihu.com/question/20187769/answer/18146435
 </title>
 <description>
 戴瑞克兄和王存亮兄都已经说到点子上了, 法海来展开一下吧:&lt;br&gt;成熟的蜂蜜是高糖度低水分(且低水分活度, 谢谢熊小洲童鞋补充), 所以本身的渗透压极大. 蜂蜜不容易变质其很重要的一点在于蜂蜜本身的高浓度高&lt;a href=&quot;http://wenwen.soso.com/z/Search.e?sp=S%E6%B8%97%E9%80%8F%E5%8E%8B&amp;amp;ch=w.search.yjjlink&amp;amp;cid=w.search.yjjlink&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;渗透压&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，当低浓度物质与高浓度物质相遇时，理论上低浓度物质会向高浓度物质中扩散，以最终达到平衡。所以当细菌与蜂蜜相遇时，细菌本身的细胞渗透压要低于蜂蜜，所以渗透压会使细菌的细胞液从细胞膜中渗出而导致细菌破裂死亡。这是蜂蜜不大容易受到细菌侵蚀的一个大的原因。&lt;br&gt;而蜂蜜本身出了高渗透压可以抑菌外，其本身还含有其他多种抑菌元素，可以杀菌抑菌。&lt;br&gt;所以蜂蜜的杀菌作用的原理主要体现在蜂蜜的高渗透压以及内含的多种抑菌元素等综合作用的结果。&lt;br&gt;&lt;br&gt;当然蜂蜜并不是永远都不会坏的, 如果蜂蜜吸收了空气中的水分, 浓度慢慢下降稀释, 酵母菌就会慢慢起作用, 对蜂蜜中的糖分进行分解, 产生二氧化碳和酒精和更多的水, 这样持续下去, 蜂蜜当然会发酵变酸, 有时候您可能会闻到蜂蜜瓶子打开有酸气甚至是酒味, 这就是蜂蜜在分解变质了.&lt;br&gt;&lt;br&gt;另外, 即使隔绝空气保存, 蜂蜜的营养成份也会随着时间的推移发生降解, 尤其是其中含有的多重生物酶, 如过氧化氢酶, 葡萄糖转化酶, 活性成份的效用会慢慢降低. 还有关键的一点是HMF(羟甲基糠醛)&lt;i&gt;, &lt;/i&gt;这是一种有害的物质, 新鲜蜂蜜中HMF的含量大概在3-15mg/KG, 随着储存时间的增加, 或者温度的升高, HMF的含量会逐渐增加, 这就是为啥不建议用开水冲蜂蜜, 或者用蜂蜜来涂烧烤的原因. &lt;br&gt;&lt;br&gt;一般来讲, 含水量极低的成熟蜂蜜(含水量17%, 对应波美度43)正常室温下密封避光保存个2-3年完全没有问题. 如果是不成熟的蜂蜜, 含水量高或者储存条件不好, 当然会变质. 总的来说, 蜂蜜越新鲜越好:)&lt;br&gt;&lt;br&gt;特意追加一张欧盟的蜂蜜检测报告, 除了一般的水分, 蔗糖, 葡萄糖, 果糖含量以外, 欧盟会检测汞, 镉, 铅的含量, 羟甲基糠醛含量, 并对蜜源植物是否含有转基因的基因序列进行检测.&lt;br&gt;以下检测报告的检测样品来自奥地利欧乐曼庄园的早春果树花纯蜂蜜.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/14/eb/14ebcdcf2a0d8a3da21c1fe6dccc4477_m.jpg&quot; data-rawwidth=&quot;689&quot; data-rawheight=&quot;902&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;689&quot; data-original=&quot;http://p2.zhimg.com/14/eb/14ebcdcf2a0d8a3da21c1fe6dccc4477_r.jpg&quot;&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19703558/answer/12703821
-</link>
-<author>
-Lawrence Li
-</author>
-<title>
-「Presentation」和「keynote」这两个词有什么区别？
-</title>
-<description>
-任何針對某一主題、為特定對象所做講演都可以叫 presentation。Presentation 的字面意思就是「把什麼什麼呈現給妳」。&lt;br&gt;&lt;br&gt;Keynote 則是指會議的主題演講。一場會議通常只有一個 keynote 演講。比如  WWDC 上可能有 N 場 presentation，但 keynote 只有 CEO 的那個。&lt;br&gt;&lt;br&gt;--- 補充一下 ---&lt;br&gt;&lt;br&gt;維基百科的 Keynote 詞條說：Increasingly the word &lt;i&gt;keynote&lt;/i&gt; is being used as a synonym for &quot;invited talk,&quot; with some conferences having an &lt;i&gt;opening keynote,&lt;/i&gt; a &lt;i&gt;closing keynote,&lt;/i&gt; and many other keynotes. This usage is incorrect; there is literally only one keynote.&lt;br&gt;&lt;br&gt;根據這個說法，一場會議確實只有一個 keynote——雖然在原頁面上，「This usage is incorrect」後面有 citation needed（請註明出處）。&lt;br&gt;&lt;br&gt;儘管我也見過有會議上安排了多場 keynote 演講的情況，但那感覺像是爲了面子，把所謂重要人物的演講都一股腦稱作 keynote 了。Keynote 是一個衍生用法，從本義上說，keynote 是音樂裡的「主音」，即決定調性的那個音符（例如 C 大調的 keynote 就是 C 音）。我正是由此推出 keynote 演講是指奠定活動基調的演講這一結論的。&lt;br&gt;&lt;br&gt;但正如中國人（不管事業多成功）的語文不一定都好一樣，美國人（不管事業多成功）的英文也不一定都好。因爲一些瑣碎無聊的原因，keynote 一詞在商業環境被濫用，以至於一場會議裡塞進 N 個 keynote 演講，我覺得是很有可能的。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21407325/answer/18146078
-</link>
-<author>
-颜镇钟
-</author>
-<title>
-苹果公司 CEO Tim Cook 第三次访华（2013 年 7 月）是来谈什么？
-</title>
-<description>
-这个事情实际上只有当事人和相关者才能了解内情。&lt;br&gt;&lt;br&gt;&lt;b&gt;但这并不妨碍我们神棍一把。&lt;/b&gt;&lt;br&gt;&lt;br&gt;在 Tim Cook 来华拜访移动与电信高层的前一天，我刚好在雪球上分享对苹果 FY13Q3 表现与公司未来的看法（&lt;a href=&quot;http://xueqiu.com/talks/item/20121287&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;智能机观察者颜镇钟解读苹果Q3销售数据&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）。关于苹果在中国市场的机会，我提到：&lt;br&gt;&lt;blockquote&gt;Q3 季报显示，大中华区 FY13Q3 同比下跌 14%，环比下跌 43%。季报发布后的分析师会议上，Tim Cook 提到主要原因在香港市场。实际上，忽略渠道库存影响，仅计算零售收入，中国内地零售收入录得 5% 的增长。因此这个成绩不算太差。而看未来，苹果在中国内地也存在机会，包括：&lt;br&gt;&lt;ol&gt;&lt;li&gt;4G 网络铺设后，苹果没有理由不与中移动合作，中移动发力推 iPhone 会帮助苹果产生大量销售；&lt;br&gt;&lt;/li&gt;&lt;li&gt;Tim Cook 此前提到，会在 2014 年将苹果（中国）门店翻一番，目前 iPhone 在内地的大量销售来自于加价的水货，正规渠道的增加有利于分销和产品普及；&lt;br&gt;&lt;/li&gt;&lt;li&gt;与新兴市场一样，低价 iPhone 能占领中国内地可观的中端市场，提升中国市场表现&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/blockquote&gt;（库存部分借鉴了&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@David Chang&quot; href=&quot;http://www.zhihu.com/people/davidchang&quot; data-tip=&quot;p$b$davidchang&quot;&gt;@David Chang&lt;/a&gt; 在 &lt;a href=&quot;http://www.zhihu.com/question/21381677/answer/18107076?group_id=59264774#comment-3282456&quot; class=&quot;internal&quot;&gt;苹果大中华区 Q3 Y13 营收环比暴跌 43%，同比下滑 14%，这是为什么？&lt;/a&gt; 中的论述，在此谢过！）&lt;br&gt;&lt;br&gt;运营商是 iPhone 销售的最重要的渠道，主要因为 Apple Store 整体规模很难达到第三方渠道级别：Apple Store 直营店最多的美国，也仅是 250 家，但 AT&amp;amp;T、Verizon、T-Mobile 和 Sprint 等运营商的门店则有约 9000 家。另外，运营商提供一定的补贴也是更吸引顾客的因素。&lt;br&gt;&lt;br&gt;在成熟的美国市场，智能手机的主要销售渠道在运营商。iPhone 5 自 2012 年 9 月发布至 2013 年头 2 个季度，通过运营商渠道销售占比高达 60%，而通过苹果官方零售店销售的 iPhone 5 占比不足 15%。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5d/c5/5dc518c1c54629721c214d27aa27f316_m.jpg&quot; data-rawwidth=&quot;574&quot; data-rawheight=&quot;273&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;574&quot; data-original=&quot;http://p2.zhimg.com/5d/c5/5dc518c1c54629721c214d27aa27f316_r.jpg&quot;&gt;&lt;br&gt;反观中国，可以发现大有潜力可挖。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d8/17/d817d523bb91ac98f2a9f41d2540ca26_m.jpg&quot; data-rawwidth=&quot;631&quot; data-rawheight=&quot;393&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;631&quot; data-original=&quot;http://p1.zhimg.com/d8/17/d817d523bb91ac98f2a9f41d2540ca26_r.jpg&quot;&gt;（上图来源于网络，数据来源未验证。）&lt;br&gt;&lt;br&gt;中国目前是苹果在全球第二大的市场，并明显会在未来成为最大的市场。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/ba/1f/ba1fa5d73f7e4f9743b1ff32d74636f9_m.jpg&quot; data-rawwidth=&quot;460&quot; data-rawheight=&quot;465&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;460&quot; data-original=&quot;http://p3.zhimg.com/ba/1f/ba1fa5d73f7e4f9743b1ff32d74636f9_r.jpg&quot;&gt;&lt;br&gt;目前，中国移动有超过 28,000 个营业网点，电信次之，联通居末。而中国移动的用户数量、优质用户占比和运营实力无疑也是三大运营商之中最好的。抢占这个市场，苹果需要借助中移动的营销与渠道。&lt;br&gt;&lt;br&gt;由 CNNIC 数据中，我们可以推算中国手机用户数量以及 3 大运营商的份额。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e4/fa/e4fa80ef972c2d84a09c4002c7a4e8a5_m.jpg&quot; data-rawwidth=&quot;652&quot; data-rawheight=&quot;394&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;652&quot; data-original=&quot;http://p2.zhimg.com/e4/fa/e4fa80ef972c2d84a09c4002c7a4e8a5_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/bb/f4/bbf47b7367259e49dbddd19a85f62d1d_m.jpg&quot; data-rawwidth=&quot;520&quot; data-rawheight=&quot;215&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;520&quot; data-original=&quot;http://p3.zhimg.com/bb/f4/bbf47b7367259e49dbddd19a85f62d1d_r.jpg&quot;&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Jeffery Lin&quot; href=&quot;http://www.zhihu.com/people/jeffery-lin&quot; data-tip=&quot;p$b$jeffery-lin&quot;&gt;@Jeffery Lin&lt;/a&gt; 提醒：「移动 3G 包含大量 TD 固话。电信 3G 包含大量捆绑的沉默用户。」数据会有一定的偏差。&lt;br&gt;&lt;br&gt;不像 Apple Store，只可能开在一线城市和省会城市，移动网点覆盖中国所有地区。&lt;b&gt;对于要推 iPhone 5C/Budget iPhone 的苹果来说意味着什么？苹果将切入所有城市的高端至中端消费者。&lt;/b&gt;&lt;br&gt;&lt;br&gt;而经过多年纠葛后，苹果和中国移动的合作机会来了：4G。&lt;br&gt;&lt;br&gt;几乎可以肯定，iPhone 5 与 TDD 无缘后，下一代 iPhone 不会重蹈覆辙，肯定会支持移动的 TDD。具体可以参考：&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/20498035&quot; class=&quot;internal&quot;&gt;iPhone 5 能否支持 LTE-TDD 和 TD-SCDMA？&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://bbs.weiphone.com/read-htm-tid-5219218.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;技术性分析iPhone 5官网参数中，三种LTE网络规格的区别！顺便做个关于LTE的简单科普～～并重申移动的3G/LTE继续与iPhone 5无缘！|iPhone5 综合讨论区&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;另外，在 2013 高通合作伙伴峰会上，高通也宣布芯片将支持包括 TDD（和 TDS-CDMA）在内的多个频段。由于高通深圳分公司就在对门，我今天上洗手间的时候抓住一个工程师，也确认了相关的情况。他的原话是：「我们的芯片组就是支持 TDD 频段，给到苹果用，他们当然支持。」&lt;br&gt;&lt;br&gt;在使用 TDS-CDMA 时，移动都能成为中国 3G 用户最多的运营商。目前中国移动重注 4G，大力建设 TDD 试验网；而牌照方面，中国移动长久以来对主管部门的游说已不是秘密。加上 7 月 30 日政治局会议中提到：&lt;br&gt;&lt;blockquote&gt;加快推进产业结构调整，推动传统产业转型升级，积极培育和发展战略性新兴产业，加快信息产业发展，大力发展节能环保和新能源产业，推动新兴服务业和生活性服务业发展。&lt;/blockquote&gt;我推测，年内提前发放 4G 牌照是很可能的事。&lt;br&gt;&lt;br&gt;而移动，也需要一款皇牌机型，为他们在 4G 时代打响头炮。&lt;br&gt;&lt;br&gt;移动的 3G（TDS-CDMA）用户升级 4G，或是 2G 用户（包括前代 iPhone 用户）签约移动 4G 套餐协议购买下一代 iPhone，&lt;b&gt;这画面太美，移动和苹果都不敢看。&lt;/b&gt;
 </description>
 </item>
 </channel>
