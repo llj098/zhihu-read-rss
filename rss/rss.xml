@@ -15,6 +15,48 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21423456/answer/18184716
+</link>
+<author>
+Desire Zen
+</author>
+<title>
+智能储物柜的解决办法在国内物流市场上需求如何？现有哪些较成熟的模式？
+</title>
+<description>
+感谢邀请，今天斯德哥尔摩举行同性恋大游行，队伍经过我的住所附近，在答题还是去看裸体的瑞典MM之间犹豫了好久，最后留下了，怪只怪这个题目太有趣，凭借自己微薄的理论知识来试着答一答，嗯&lt;br&gt;&lt;br&gt;因为现在国外，所以还是倾向于先说一些国外的应用模式。但这个技术在国内应用是必然的，特别是对于中国的社会结构来说（稍后说明）。这个技术在中国能不能马上应用最关键的不是技术本身，而是有没有足够的市场压力，和各种利益的博弈（稍后说明）。&lt;br&gt;&lt;br&gt;&lt;b&gt;还是想先说一下自己对这个技术的理解：&lt;/b&gt;&lt;br&gt;&lt;br&gt;我们可以把智能储柜看成一个微型仓储，通过该终端进行的物流行为把消费者的行为也纳入了物流运行中来，使之成为免费使用的资源。（这一点很重要，配送终端的配送成本比干线运输要高很多）物流企业对于进行一定让利，以消除最终端配送的高成本（时间成本高于人力物流成本），是喜闻乐见的。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/fb/b2/fbb2d8a799b0fc35a184fa7501a2f78b_m.jpg&quot; data-rawwidth=&quot;583&quot; data-rawheight=&quot;560&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;583&quot; data-original=&quot;http://p3.zhimg.com/fb/b2/fbb2d8a799b0fc35a184fa7501a2f78b_r.jpg&quot;&gt;&lt;i&gt;中国最后公里配送成本超过总成本的50 %&lt;/i&gt;&lt;br&gt;&lt;br&gt;几个图片简述一下配送终端数量和成本，以及反馈时间的关系&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bf/c3/bfc396a6bd47124a8cfdbd11d0e757b2_m.jpg&quot; data-rawwidth=&quot;661&quot; data-rawheight=&quot;481&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;661&quot; data-original=&quot;http://p3.zhimg.com/bf/c3/bfc396a6bd47124a8cfdbd11d0e757b2_r.jpg&quot;&gt;&lt;br&gt;1. 配送反馈时间越短，所需的配送设施越多（越贴近终端，物流系统反应越快，比如一个小区一个智能储柜）&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f7/f6/f7f6e81f8fec277f207b6b71d82b11e4_m.jpg&quot; data-rawwidth=&quot;531&quot; data-rawheight=&quot;377&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;531&quot; data-original=&quot;http://p3.zhimg.com/f7/f6/f7f6e81f8fec277f207b6b71d82b11e4_r.jpg&quot;&gt;&lt;br&gt;2. 终端设备增加，一定阶段内运输的成本下降，超过临界点后运输成本亦增加（这里所说只是配送中心到储柜终端的运输，并不包括快递人员，下车、上楼、签收等一些列行为所产生的成本）&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2e/0c/2e0ca1db27998bfe6894111aae012276_m.jpg&quot; data-rawwidth=&quot;429&quot; data-rawheight=&quot;299&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;429&quot; data-original=&quot;http://p3.zhimg.com/2e/0c/2e0ca1db27998bfe6894111aae012276_r.jpg&quot;&gt;&lt;br&gt;3. 终端设备增加，总成本开始减少，至临界点时达到最低，随后开始增加（反应时间是一直相对减少的）&lt;br&gt;&lt;br&gt;这三幅图是Amazon对其配送点的分析，几个要素关系相对客观，并建立在数据上。直接拿过来用于智能储柜的参考不严谨，但是期间的变化关系还是值得借鉴的。结论是找到最有的临界点，可以达到成本最小化，和反应时间相对最大化。&lt;br&gt;&lt;br&gt;要效率最大化，光收件是不行的，一个优秀的智能储柜必须实现收派的双向功能，消费者利用它寄送，快递人员负责收货。当然这只是同一个技术的逆向运用而已，实现应该不难。&lt;br&gt;&lt;br&gt;&lt;b&gt;DHL在德国科隆做了相关的研究：&lt;/b&gt;&lt;br&gt;&lt;br&gt;截取一些数据如图&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ef/67/ef6780d72efe33715f6aeb8b2cb5f29b_m.jpg&quot; data-rawwidth=&quot;778&quot; data-rawheight=&quot;553&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;778&quot; data-original=&quot;http://p2.zhimg.com/ef/67/ef6780d72efe33715f6aeb8b2cb5f29b_r.jpg&quot;&gt;研究的结果比较直白，一是节省了运输里程，成本；&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9d/fc/9dfc0dab9cc2a34bb4df89487035b8fa_m.jpg&quot; data-rawwidth=&quot;825&quot; data-rawheight=&quot;613&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;825&quot; data-original=&quot;http://p2.zhimg.com/9d/fc/9dfc0dab9cc2a34bb4df89487035b8fa_r.jpg&quot;&gt;二是分摊了配送时间，没有高峰端，配送人员和消费者都更方便轻松&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a7/ff/a7ff99af935566b84185b21fd99b47c1_m.jpg&quot; data-rawwidth=&quot;782&quot; data-rawheight=&quot;567&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;782&quot; data-original=&quot;http://p2.zhimg.com/a7/ff/a7ff99af935566b84185b21fd99b47c1_r.jpg&quot;&gt;&lt;br&gt;DHL还是一如既往的整洁，干练啊&lt;br&gt;&lt;br&gt;&lt;b&gt;这里说一下顺丰：&lt;/b&gt;&lt;br&gt;&lt;br&gt;顺丰的业务结构，类似总公司发动每一个快递员进行一场“农村包围城市”的战斗，王卫自己说“奋斗在一线的快递员才是最可爱的人”，他们当然是最可爱的人。顺丰按派送区域将订单非配给每个快递人员 = 给每个人分了一块地，你在自己的农田上耕种，收成多少你自己负责，我是负责收租的地主。&lt;br&gt;&lt;br&gt;顺丰通过该策略获得了无与伦比的扩张速度，但一个问题也就随之产生，个配送区域的负责人获得更大的权利，顺丰依赖于各地的配送人员，以至于许多区域高管带着人才出走，创办自己的快递公司。顺丰对于这种现象的对策就是，快，无论你通过怎样的经营，我都能比你快，从而产生消费者粘度，保持快速发展。&lt;br&gt;&lt;br&gt;顺丰引进IBM为其优化信息系统，也是为了打造硬件水平上的绝对优势，国际上的物流大头如DHL、FedEx、UPS都是重型资产性的物流企业。顺丰引入新的物流硬件和系统，会进一步增加员工对公司的依赖性，所以我觉得顺丰肯定会是引进智能储柜的领头羊。这便是市场压力的作用&lt;br&gt;&lt;br&gt;截取几个图片简述一下顺丰的配送流程：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2b/e8/2be8849293bfe6c470b12edddd29ef1d_m.jpg&quot; data-rawwidth=&quot;663&quot; data-rawheight=&quot;508&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;663&quot; data-original=&quot;http://p3.zhimg.com/2b/e8/2be8849293bfe6c470b12edddd29ef1d_r.jpg&quot;&gt;无论是电话下单，还是网络下单，对于引入智能储柜都不会影响顺丰现有的接单调度流程。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/97/b0/97b0096d79c9bf674eb5de0a65732d75_m.jpg&quot; data-rawwidth=&quot;668&quot; data-rawheight=&quot;372&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;668&quot; data-original=&quot;http://p2.zhimg.com/97/b0/97b0096d79c9bf674eb5de0a65732d75_r.jpg&quot;&gt;&lt;img src=&quot;http://p4.zhimg.com/c5/2a/c52a7334c53136ac6bccaf78c2c5efd9_m.jpg&quot; data-rawwidth=&quot;653&quot; data-rawheight=&quot;440&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;653&quot; data-original=&quot;http://p4.zhimg.com/c5/2a/c52a7334c53136ac6bccaf78c2c5efd9_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/1d/67/1d67c72f23997fee60893aa5d06c58ea_m.jpg&quot; data-rawwidth=&quot;671&quot; data-rawheight=&quot;536&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;671&quot; data-original=&quot;http://p2.zhimg.com/1d/67/1d67c72f23997fee60893aa5d06c58ea_r.jpg&quot;&gt;&lt;br&gt;影响的只是订单录入和运力调度之间的操作方法&lt;br&gt;我们可以想象，顺丰并不需要改变现有的网络下单模式，同样下单后，通过网络输送信息流和资金流，给予消费者一个密码用于打开特定的储柜，随后调度收件员统一收货并配送。（对硬件的信息系统提出了要求，也许IBM在做的优化就与之相关联，建立于绝对硬件优势上的信息流优势，才是核心竞争力）。&lt;br&gt;如题主所说，Amazon也布局了很多自提点。正巧昨天购买了几本书籍，在亚马逊英国购买到瑞典，物流时间3天内，有自提点但很少，本想特意尝试一下，但对比价格后还是在国内购买了再请朋友捎带。如果茫茫多的自提点建立起来，一定是通过物流社会化，不可能单个企业自建物流也来一堆自提点。&lt;br&gt;&lt;br&gt;&lt;b&gt;介绍一种自提点成熟的模式：&lt;/b&gt;&lt;br&gt;&lt;br&gt;最近正好在做皇家邮政的case study，瑞典几乎所有的自提点都被瑞典皇家邮政（Posten）所垄断，额 说个题外话，瑞典几十年前是最接近社会主义的国家。。。&lt;br&gt;从2001年起Posten引入了一种类似自提店的微型仓储，在全瑞典的各个城市进行该项业务。它是介于智能储柜和邮递员之间的一种业务，简单说就是有人服务的智能储柜，或者说是简约化了的便利店快递（顺丰现在深圳大力开发零售快递业务，准备搞3000+的顺丰便利店来开发便利店结合快递的业务）&lt;br&gt;&lt;br&gt;智能储柜的应用形式，最终还是由市场来选择，至少在瑞典，人们倾向于有人服务的自提点。Posten为了保持全国3000+左右的自提点不至于成为纯物流成本，而在自提点加入了快消品的服务内容。如图：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b3/ed/b3ed827d44938814cd9e6e0877525b39_m.jpg&quot; data-rawwidth=&quot;582&quot; data-rawheight=&quot;339&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;582&quot; data-original=&quot;http://p3.zhimg.com/b3/ed/b3ed827d44938814cd9e6e0877525b39_r.jpg&quot;&gt;清一色的快消品，香烟，口香糖，饮料，乐透抽奖。。。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8d/9a/8d9a245f9e340a8eeea42b8e0dc3c14f_m.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;283&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;http://p1.zhimg.com/8d/9a/8d9a245f9e340a8eeea42b8e0dc3c14f_r.jpg&quot;&gt;&lt;img src=&quot;http://p1.zhimg.com/42/bc/42bc0ade4d406926da40e286e990eec5_m.jpg&quot; data-rawwidth=&quot;584&quot; data-rawheight=&quot;782&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;584&quot; data-original=&quot;http://p1.zhimg.com/42/bc/42bc0ade4d406926da40e286e990eec5_r.jpg&quot;&gt;&lt;br&gt;这一营业内容的引进，不光保持了自提点的收支平衡，甚至达到了一定的盈利。&lt;br&gt;&lt;br&gt;&lt;b&gt;为什么说在国内能否应用取决于利益的博弈：&lt;/b&gt;&lt;br&gt;&lt;br&gt;因为现在国内的居住结构，或者是小区形式，或者是大院形式，已经出现了满足这一代收件功能的模式————小区物业&amp;amp;传达室&lt;br&gt;&lt;br&gt;就拿母亲大人所住的小区数据来说吧：&lt;br&gt;小区人数 – 1200户 3600 人&lt;br&gt;平均每个月 80% 包裹物业代收，直接送达20 %&lt;br&gt;平均每天包裹 65个&lt;br&gt;平均每个包裹滞留物业时间3天左右&lt;br&gt;物流公司业务量比较：申通20% 中通20% 韵达15% EMS10% 其他（包括顺丰）5%&lt;br&gt;&lt;br&gt;最开始看到这个数据也很诧异，因为我最喜欢的顺丰竟然和天天，汇通等加起来才到5%的业务量，这样的数据完全不能支持其在老妈所住的小区布点的计划。且既然物业通过物业管理费的收入主动承担了此项业务，快递公司短期内又有什么利益压力去在广大的居民小区附近布点呢？&lt;br&gt;&lt;br&gt;我们看另外一个景象，深圳罗湖，各种AAAAA写字楼，顺丰快递员，各种跑上跑下，那么在这里，是否应该布局一个智能储柜呢？我觉得短期内，国内对于智能储柜的真正需求在这里，业务密度最大的写字楼区。而这样的区分划分和7-11的选址策略有一定的相似性，也许这也是顺丰在深圳和7-11合作的原因吧。&lt;br&gt;&lt;br&gt;最后送上一张物流行业最可爱的快递人员照片，赶紧去看同性恋大游行了&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ee/0c/ee0cbc065a2a8a8938598d45d20cc4d8_m.jpg&quot; data-rawwidth=&quot;520&quot; data-rawheight=&quot;305&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;520&quot; data-original=&quot;http://p2.zhimg.com/ee/0c/ee0cbc065a2a8a8938598d45d20cc4d8_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21405505/answer/18193230
+</link>
+<author>
+maggie
+</author>
+<title>
+如何做一份好吃的凉面？
+</title>
+<description>
+谢谢若水两次邀，为了答题而做面，这是什么精神？！&lt;br&gt;先上图（Path滤镜处理过的效果），对嗒，冷面。炎热酷暑，有这么一晚面下肚，那真是凉爽极了。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/92/b1/92b1ebeec49045452d2288700e8a536a_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/92/b1/92b1ebeec49045452d2288700e8a536a_r.jpg&quot;&gt;&lt;br&gt;小时候，我家的冷面都是村里先压出来的荞麦面，那才是正宗地道。冷面是鲜族人家的绝活，各家总是有些差异，就好象我们吃韩式冷面、延吉冷面、北朝平壤冷面口感不同一样，韩式冷面汤的酸甜度并不太适合中国人口味，从前北京那儿有著名的西四朝鲜冷面，那是延吉风味的。据说北朝使馆的冷面是真正的好吃，可惜到现在还没机会。&lt;br&gt;&lt;br&gt;各大超市都有速成的冷面卖，但千万别买煮好的，非要买，就买半成品，面自己来煮，汤和小咸菜是现成的。比如这个品牌，味道不错。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2d/1d/2d1d40b9c784ce9ca72d460ae78cb158_m.jpg&quot; data-rawwidth=&quot;2448&quot; data-rawheight=&quot;3264&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2448&quot; data-original=&quot;http://p3.zhimg.com/2d/1d/2d1d40b9c784ce9ca72d460ae78cb158_r.jpg&quot;&gt;&lt;br&gt;先把面用凉水泡上，为了更容易入口，拿剪刀剪成三段。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/de/09/de097ac480fb1f21ee6bb5a8032d1739_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p1.zhimg.com/de/09/de097ac480fb1f21ee6bb5a8032d1739_r.jpg&quot;&gt;&lt;br&gt;这个时候开始煮鸡蛋，一般饭馆的冷面一碗就给半个，自家吃，就别太抠门了。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/63/0c/630cf24f9f8110621791e261bc9e94d9_m.jpg&quot; data-rawwidth=&quot;3264&quot; data-rawheight=&quot;2448&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3264&quot; data-original=&quot;http://p3.zhimg.com/63/0c/630cf24f9f8110621791e261bc9e94d9_r.jpg&quot;&gt;&lt;br&gt;汤的配制是冷面里最重要的部分。韩式和北朝最大的区别就在汤的做法。我家的传统做法是，不带一点油的牛肉熬制成汤，然后加白糖、盐、白醋、一小勺调味酱油。在冰箱里冰镇。口感是酸酸甜甜的。面条之路里讲平壤冷面还会加点发酵的冷冰冰的萝卜泡菜汁，所以更加清爽可口。延吉做法和北朝类似，韩式还会放点辣椒酱，酸甜度不够。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/42/58/42580953e46c4e6857a2a43e5370404c_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p1.zhimg.com/42/58/42580953e46c4e6857a2a43e5370404c_r.jpg&quot;&gt;&lt;br&gt;开始准备小料：黄瓜丝、泡菜（腌大头菜或者辣白菜）、葱末，延吉那边要切点苹果片，当然无论哪样也少不了几片牛肉，这顿就拿粉肠代替了。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/54/5b/545b4ba08a10375a117b97ddf4be9d3a_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/54/5b/545b4ba08a10375a117b97ddf4be9d3a_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/55/26/5526dfe5dd5cc01f029259b36f3fc6b9_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/55/26/5526dfe5dd5cc01f029259b36f3fc6b9_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/fd/59/fd59dabad2b747d2fdfdff9617faeaac_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p3.zhimg.com/fd/59/fd59dabad2b747d2fdfdff9617faeaac_r.jpg&quot;&gt;辣酱是自家做的，辣椒、姜、蒜、调料的混合体。辣酱和泡菜做法详见&lt;a href=&quot;http://www.zhihu.com/question/19980606/answer/13550692&quot; class=&quot;internal&quot;&gt;如何做泡菜？&lt;/a&gt;&lt;br&gt;&lt;br&gt;下锅煮面：准备一口大锅，水烧开后，滴一滴油，面不容易粘在一起，而且有光泽。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8b/63/8b6399b34c758edc6e237886ab5984f0_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p1.zhimg.com/8b/63/8b6399b34c758edc6e237886ab5984f0_r.jpg&quot;&gt;&lt;br&gt;超市买来的面，下锅一会儿就熟，边煮边尝，千万别过劲儿了，黏糊糊地一坨就难看了。煮好之后，用冷水冲，让面更劲道。然后倒入提前烧开凉好的凉白开水盆中，如果肠胃功能好，直接用冷水也成。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d9/a6/d9a612e9300436091d8db29a5c51adce_m.jpg&quot; data-rawwidth=&quot;718&quot; data-rawheight=&quot;547&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;718&quot; data-original=&quot;http://p1.zhimg.com/d9/a6/d9a612e9300436091d8db29a5c51adce_r.jpg&quot;&gt;&lt;br&gt;冷面、小菜、鸡蛋装盘。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bf/5d/bf5d4b7ef588c28dfc8b39949789ef40_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p3.zhimg.com/bf/5d/bf5d4b7ef588c28dfc8b39949789ef40_r.jpg&quot;&gt;&lt;br&gt;浇上冷面汤，一碗爽口的冷面就做好了。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/55/8d/558d255982fc24a6741a36f39bee5abe_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/55/8d/558d255982fc24a6741a36f39bee5abe_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21426741/answer/18192166
+</link>
+<author>
+张亮
+</author>
+<title>
+为什么李嘉诚将半数资产转移到欧洲？包含了哪些方面的考量？
+</title>
+<description>
+和黄系全球投资真的不是一天半天了。Orange Telecom 在欧洲为主，Husky 石油是加拿大的，港口是全世界的，Facebook 是美国的，Spotify 是瑞典的，Waze 是以色列的... 全球哪儿有机会就把资金投向哪儿，不是高明的生意经吗？&lt;br&gt;&lt;br&gt;媒体说最近三年李嘉诚大量投资欧洲，别忘了，这是欧洲经济严冬的三年，这时候敢往欧洲投资，是要胆识和洞察力的。几年后欧洲复兴了，大家就会更好评估这些投资。&lt;br&gt;&lt;br&gt;香港现在的确没有太多投资机会，闲置资金不成？
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21422903/answer/18190099
 </link>
 <author>
@@ -249,48 +291,6 @@ Rio
 </title>
 <description>
 知乎大部分项目是 Python 写的，有几个小项目是用 Go 写的。我从一个 Python 为主的开发者的角度说说对 Go 的优点的体会吧：&lt;br&gt;&lt;ol&gt;&lt;li&gt;部署简单。Go 编译生成的是一个静态可执行文件，除了 glibc 外没有其他外部依赖。这让部署变得异常方便：目标机器上只需要一个基础的系统和必要的管理、监控工具，完全不需要操心应用所需的各种包、库的依赖关系，大大减轻了维护的负担。这和 Python 有着巨大的区别。由于历史的原因，Python 的部署工具生态相当混乱【比如 setuptools, distutils, pip, buildout 的不同适用场合以及兼容性问题】。官方 PyPI 源又经常出问题，需要搭建私有镜像，而维护这个镜像又要花费不少时间和精力。&lt;/li&gt;&lt;li&gt;并发性好。Goroutine 和 channel 使得编写高并发的服务端软件变得相当容易，很多情况下完全不需要考虑锁机制以及由此带来的各种问题。单个 Go 应用也能有效的利用多个 CPU 核，并行执行的性能好。这和 Python 也是天壤之比。多线程和多进程的服务端程序编写起来并不简单，而且由于全局锁 GIL 的原因，多线程的 Python 程序并不能有效利用多核，只能用多进程的方式部署；如果用标准库里的 multiprocessing 包又会对监控和管理造成不少的挑战【我们用的 supervisor 管理进程，对 fork 支持不好】。部署 Python 应用的时候通常是每个 CPU 核部署一个应用，这会造成不少资源的浪费，比如假设某个 Python 应用启动后需要占用 100MB 内存，而服务器有 32 个 CPU 核，那么留一个核给系统、运行 31 个应用副本就要浪费 3GB 的内存资源。&lt;/li&gt;&lt;li&gt;良好的语言设计。从学术的角度讲 Go 语言其实非常平庸，不支持许多高级的语言特性；但从工程的角度讲，Go 的设计是非常优秀的：规范足够简单灵活，有其他语言基础的程序员都能迅速上手。更重要的是 Go 自带完善的工具链，大大提高了团队协作的一致性。比如 gofmt 自动排版 Go 代码，很大程度上杜绝了不同人写的代码排版风格不一致的问题。把编辑器配置成在编辑存档的时候自动运行 gofmt，这样在编写代码的时候可以随意摆放位置，存档的时候自动变成正确排版的代码。此外还有 gofix, govet 等非常有用的工具。&lt;/li&gt;&lt;li&gt;执行性能好。虽然不如 C 和 Java，但通常比原生 Python 应用还是高一个数量级的，适合编写一些瓶颈业务。内存占用也非常省。&lt;/li&gt;&lt;/ol&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21423177/answer/18181891
-</link>
-<author>
-动机在杭州
-</author>
-<title>
-为什么人们宁可承认自己不够努力，却不愿承认自己智力（Intelligence）有所不足？
-</title>
-<description>
-        谢邀。&lt;br&gt;       从某种意义上，人像是一个侦探，在不断对事情发生的原因进行总结归纳。不同的人在对事情结果的归因方式上确实存在着系统性的差异。最基本的差异有三个：&lt;br&gt;&lt;ol&gt;&lt;li&gt;外在原因和内在原因。事情搞砸了，如果你觉得是别人的错，那是外在归因。如果你觉得是自己的错，那是内在归因。&lt;br&gt;&lt;/li&gt;&lt;li&gt;稳定的原因和不稳定的原因。事情搞砸了，如果你觉得是智商问题，那是稳定的原因，如果你觉得是努力问题，或者时运不济，那是不稳定的原因。因为努力可以改变，时运也会变化，但智商却很难变化。&lt;/li&gt;&lt;li&gt;可控的原因和不可控的原因。事情搞砸了，如果是努力不够的原因，那是你自己能够控制的。如果是智力的原因，那就不是你能控制的了。&lt;/li&gt;&lt;/ol&gt;      对成功和失败的不同归因方式会影响人的自尊。如果把成功归为内在的，稳定的，可控的原因，人的自尊就会得到提升，产生“老子就是牛逼”的感觉。如果把失败归为内在、稳定、不可控的原因，人的自尊就会收到打击，产生“老子就是撸sir”,的感觉，并产生抑郁情绪。&lt;br&gt;      现在回到题主的问题。“为什么人们宁可承认自己不够努力却不愿承认自己智商不如别人？”&lt;b&gt;是因为大部分时候，我们的归因方式，会自动为保护我们的自尊服务。&lt;/b&gt;努力和智商都是内在原因，但努力通常被认为是不稳定的可控的因素，把失败归为自己的努力，你常常会有“我分分钟就能迎头赶上”的错觉，不会太伤自尊。而智商通常被认为是稳定、不可控的因素。把失败归因为智商，你会产生&quot;再努力都没用&quot;了的感觉。这对自尊是极大的打击。&lt;br&gt;      所以，当自己失败而别人成功时，大部分人会觉得，嗯，这是努力问题。但是当自己成功而别人失败时，大部分人都会觉得，嗯，这是智商问题。说到底，这都是可耻的虚荣心在作怪啊。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21419460/answer/18170629
-</link>
-<author>
-佐藤謙一
-</author>
-<title>
-日本人喜欢吃生鲜的食物，都做检验检疫了吗？他们怎样避免寄生虫病？
-</title>
-<description>
--&lt;br&gt;&lt;br&gt;謝謝提問先生的邀請。&lt;br&gt;&lt;br&gt;其實我們家大體生活在歐洲，一直以來也不是很敢吃歐洲的生牛肉、生魚、生馬肉、生雞蛋這些，畢竟不是國產的，不太信任，而且這些食材在歐洲也不是爲了生吃而準備的。家人雖然通常去價格較貴的超級市場買標明 organic 的食材，但是也有發生過族人在烏冬中放生雞蛋而腹瀉的事情，所以仍然很謹慎。（將近一歐元一枚的雞蛋，我以爲質量應該沒有任何問題了）&lt;br&gt;&lt;br&gt;而日本的各種食材，和牛也好，雞蛋也好，通常考慮到了日本民族愛生食的傳統，所以質量控管非常嚴格，每個食材都有獨立編號，譬如雞蛋、牛肉一旦有任何質量上的問題可以追蹤到料源農場的那批牛和雞。有些食材的包裝上也會同時標明「此日期前可生食」、「此日期前可食用」等日期標註，幫助國民判斷一個食材是否過了生食期。（在歐洲通常只有「此日期前可食用」而沒有「此日期前可生食」）。&lt;br&gt;&lt;br&gt;所以總的說來，因爲國產的食材有比較有效的追蹤系統和提示信息，所以生食的時候並不擔心會有問題。因爲一切都是清清楚楚的流程，並且國民對國產農作物和農民的信任，所以在日本，沒有人擔心生食的問題。&lt;br&gt;&lt;br&gt;另外提一點，日本以外的話，只有愛爾蘭產的牛肉（BoardBia 認證）是令我放心生食的。此地連麥當勞都不得不標明「100%國產牛肉」才有生意可做。&lt;br&gt;&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20714569/answer/18170560
-</link>
-<author>
-李楠
-</author>
-<title>
-怎样通过投行实习面试？
-</title>
-<description>
-我们比较土鳖，一般三板斧，过了，进入下一轮，不过，送你一瓶饮料，谢谢对我们的支持&lt;br&gt;&lt;br&gt;第一，眼缘，说话待人的细节&lt;br&gt;比如我会主动递名片给她，然后看她的处理方式，曾经有女孩子拿了我的名片看都没看就收起来了，我在她做完自我介绍之后问了一个问题，：我叫什么名字？&lt;br&gt;&lt;br&gt;第二，自我介绍偏重个人优点介绍以及过往实践经验&lt;br&gt;我希望面试者自信一些，把自己的优点和经验展示给我，但是，这确实是个陷阱，因为你必须诚实，必须如实回答，否则等待你的将是无情的打击。&lt;br&gt;曾经有个孩子说，他对各种估值模型都很了解，和我一起面试的一个专职财务研究的同事，直接问，你告诉我DCF模型的定义和适用范围&lt;br&gt;&lt;br&gt;还有个孩子跟我说对电商很了解，我只好问，那么你觉得凡客诚品怎么估值？它上一轮估值多少？主投方是谁？&lt;br&gt;&lt;br&gt;也有很好的，有个在普华做过实习的孩子，基本功很扎实，对审计基本知识和工作流程都很了解，因为自己也炒股，所以对上市公司股票那些事都比较熟悉，对自己感兴趣的股票和所在行业，聊起来头头是道，这样的学生，就是我们比较喜欢的&lt;br&gt;&lt;br&gt;第三，会做一部分实操的考察&lt;br&gt;一般会让学财务或者金融出身的面试者当着我们面做一张损益表，或者花点时间做一个简单的行业研究，或者对上市公司的某个财报热门话题做一个评述，主要是看他们日常的学习方法论和对常用工具的操作能力。&lt;br&gt;&lt;br&gt;一般人都会在第二步倒下，我们用这三板斧，淘汰了200多人最后选了两个实习生，非常好用&lt;br&gt;&lt;br&gt;PS：作为面试官，本不该以貌取人，但如果实在看的不顺眼，没有眼缘，气场不和或者谈的不投机的，我会投反对票，本来就招实习生，自己都不喜欢的人，以后没法合作&lt;br&gt;&lt;br&gt;应 &lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/zhang-xiao-mo-41&quot; data-tip=&quot;p$b$zhang-xiao-mo-41&quot;&gt;@张小默&lt;/a&gt; 提及，简单说一下我们员工的标准：&lt;br&gt;1. 应届生：全球TOP100或国内前20 211,985 会计、金融及相关专业毕业生，学士以上&lt;br&gt;2. 社招：学历本科以上，不过我们这里好像绝大部分都是硕士以上。专业不太限制，但如果非金融，会计专业的，需要有5年以上工作经验，最好是500强部门总监及以上职位，或自己创业当过老板。&lt;br&gt;举个例子：我们有个VP 美国CPA，CMA，某个大所的审计经理，国内某企业的财务总监。还有个老哥，也是VP，国家高级会计师，副教授级财会专家，多家企业的CFO
 </description>
 </item>
 </channel>
