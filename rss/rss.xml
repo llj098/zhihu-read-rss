@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21408545/answer/18189276
+</link>
+<author>
+负二
+</author>
+<title>
+以现今的科技，集全世界之力，能否造出《环太平洋》中的机甲？
+</title>
+<description>
+脑控这种非常科幻的玩意自然是实现不了的了。&lt;br&gt;&lt;br&gt;材料学完全不懂，不知道80米高的机甲只重2000吨该用什么材料实现。&lt;br&gt;&lt;br&gt;以下只是从纯机械角度出发，一个非常粗糙的估算：&lt;br&gt;&lt;br&gt;假设一台Jaeger的运动能力与一名成年男性运动员相当。&lt;br&gt;&lt;br&gt;一名体重70公斤的成年男性运动员的功率大约为1KW，功重比为1/70——Jaeger重约2000吨，这意味着它需要功率为28571KW的功率驱动，鉴于机器人运动还需要伺服电机等额外的能量消耗，这个功率还要乘以一个大约1.54的系数，得到Jaeger的设计总功率约为44000千瓦。&lt;br&gt;&lt;br&gt;电影中的主角Jarger“危险流浪者“使用的是核动力——但用核反应堆作为Jaeger的动力源目前无法实现，主要是在剧烈的运动与打斗中，无法保证反应堆不受损泄露（貌似Marshall得辐射病就是因为这个原因）。&lt;br&gt;&lt;br&gt;电影中常规动力的Jaeger使用柴油引擎——这目前也无法实现，因为眼下的柴油机自重太重，功重比太低——以瓦锡兰公司目前最先进的低速柴油机为例，44000千瓦级的X92（用于超大型油轮的推进器）最轻也要1460吨。&lt;br&gt;&lt;br&gt;目前可以作为Jaeger引擎的最佳选择是拥有超高功重比的直升机用航空涡轴发动机——我能查到的功率最大的涡轴发动机是通用公司的T64-GE-419（西科斯基公司著名的CH-53E“超级种马”——就是《变形金刚》电影中“眩晕”的原型机——就搭载了三台这种发动机），功率3542KW，功重比达到了10.5——这意味着一台Jaeger大约需要13台这种柴油发动机，可将4台分布在四肢，给四肢的关节伺服电机提供动力，也可尽量减少线缆长度和传动损耗。&lt;br&gt;&lt;br&gt;如果美军把最先进的引擎技术拿出来——传说中的CH-53K的6000轴马力引擎，那么总发动机数能够减少到10台。&lt;br&gt;&lt;br&gt;20000升航空煤油应该够驱动Jaeger五小时以上，所以Jaeger应该不会重复像奥特曼那样只能打15分钟的悲剧。&lt;br&gt;&lt;br&gt;从动力上来说，应该没有问题。&lt;br&gt;&lt;br&gt;百吨至千吨级的液压传动系统也没有问题。&lt;br&gt;&lt;br&gt;机器人的每个关节的运动与停止都需要伺服电机驱动。伺服电机貌似是个大问题——目前功率最大的伺服电机也只有200多KW，对于Jaeger四肢运动所产生的巨大力矩，这样的伺服电机显然不够劲。把一组数台伺服电机并联似乎是唯一的解决办法，但关键在于关节的那点空间要装入大量的伺服电机、线缆、液压管、缓冲避震系统，机构会变得非常复杂和脆弱，必定需要额外的装甲保护，还得不影响运动，我觉得关节部分的设计是个巨大的挑战！&lt;br&gt;&lt;br&gt;至于二足步行、奔跑、跳跃——许多人大概会认为这是Jaeger在科技上最大的难点，以及跌倒再爬起来是很困难的——但对于Jaeger来说，这并不是问题，因为它是由驾驶员操控的，只要驾驶员操控得当，所有这些动作都是可以实现的。&lt;br&gt;&lt;br&gt;电影中将驾驶舱布局在Jaeger的头部我觉得是机械设计上最大的败笔——头部缺乏防护且运动幅度明显大于躯干，最合理的布局，当然是将驾驶舱装在装甲最厚，运动幅度最小的躯干中央，在头部安排几组摄像头提供视野就好了。这样的设计还方便给驾驶舱提供稳定系统（类似于这家公司给摄像机设计的稳定架 &lt;a href=&quot;http://www.freeflysystems.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;FREEFLY - Professional Multirotor Platforms / Freefly Systems&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）让驾驶员不至于在打斗中被晃晕。&lt;br&gt;&lt;br&gt;总地来讲，我认为除了脑控之外，合人类之科技，还是有可能设计制造出一台Jaeger原型机的。&lt;br&gt;&lt;br&gt;本人只是机甲宅一枚，并非机械专业出身，以上答案中之谬误，还请专业人士不吝赐教。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21423456/answer/18184716
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21413332/answer/18182202
 </title>
 <description>
 我觉得这是在中国的一个怪现象。&lt;br&gt;学问做得好和家境和富裕以否，有必然联系吗？&lt;br&gt;学问做得好，就没法挣钱吗？&lt;br&gt;&lt;br&gt;我们在宣传某个成功人士，都喜欢说他家境贫寒，恨不得说自己是三代贫农。&lt;br&gt;例如我校新晋院士。&lt;br&gt;不知道是不是49年以后出现的这种宣传套路：家境贫寒——自幼努力——历经磨难——取得成功&lt;br&gt;所以清贫似乎和美德划上等号了。&lt;br&gt;（随便举个反例，梁启超的儿子们）&lt;br&gt;&lt;br&gt;穷且益坚不坠青云之志，也是被用来衡量知识分子的道德准则。&lt;br&gt;这里就有的吐槽了，到底是穷（处于逆境）的时候，不坠青云之志难，还是富裕（处于顺境）的时候，不坠青云之志难？&lt;br&gt;我以为，这句话的核心在不坠青云之志，而不是穷且益坚。&lt;br&gt;&lt;br&gt;会到题目本身来，认为做科研就得忍受清贫，这个恐怕是未必吧。&lt;br&gt;无论国内国外，尤其是国外，科研做得好，经济收入也高的，恐怕不在少数。&lt;br&gt;国外的教授们做着科研开着公司，大把挣钱。我记得Matlab软件，当初就是&lt;a class=&quot; wrap external&quot; href=&quot;http://baike.baidu.com/view/5789482.htm&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Cleve Moler&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;教授为了学生做数值试验编的一个小软件。&lt;br&gt;清贫是个模糊的描述，怎么样算清贫这个很难说的。&lt;br&gt;清贫也是一个相对量，这和个人的欲望有关，你和比尔盖茨比，谁都算清贫的；你和一般的工人比，高校教师恐怕是算不上清贫的。&lt;br&gt;&lt;br&gt;任何人都有通过工作获取合理报酬的权利，无论是什么工作，包括科研。&lt;br&gt;我非常赞同&lt;a data-title=&quot;@陳浩&quot; data-editable=&quot;true&quot; class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/chen-hao-84&quot; data-tip=&quot;p$b$chen-hao-84&quot;&gt;@陳浩&lt;/a&gt; 的观点，科研只是职业之一，别把科研神圣化，科研承载不了太多的圣人的要求。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21409296/answer/18145585
-</link>
-<author>
-Rio
-</author>
-<title>
-为什么要使用 Go 语言，Go 语言的优势在哪里？
-</title>
-<description>
-知乎大部分项目是 Python 写的，有几个小项目是用 Go 写的。我从一个 Python 为主的开发者的角度说说对 Go 的优点的体会吧：&lt;br&gt;&lt;ol&gt;&lt;li&gt;部署简单。Go 编译生成的是一个静态可执行文件，除了 glibc 外没有其他外部依赖。这让部署变得异常方便：目标机器上只需要一个基础的系统和必要的管理、监控工具，完全不需要操心应用所需的各种包、库的依赖关系，大大减轻了维护的负担。这和 Python 有着巨大的区别。由于历史的原因，Python 的部署工具生态相当混乱【比如 setuptools, distutils, pip, buildout 的不同适用场合以及兼容性问题】。官方 PyPI 源又经常出问题，需要搭建私有镜像，而维护这个镜像又要花费不少时间和精力。&lt;/li&gt;&lt;li&gt;并发性好。Goroutine 和 channel 使得编写高并发的服务端软件变得相当容易，很多情况下完全不需要考虑锁机制以及由此带来的各种问题。单个 Go 应用也能有效的利用多个 CPU 核，并行执行的性能好。这和 Python 也是天壤之比。多线程和多进程的服务端程序编写起来并不简单，而且由于全局锁 GIL 的原因，多线程的 Python 程序并不能有效利用多核，只能用多进程的方式部署；如果用标准库里的 multiprocessing 包又会对监控和管理造成不少的挑战【我们用的 supervisor 管理进程，对 fork 支持不好】。部署 Python 应用的时候通常是每个 CPU 核部署一个应用，这会造成不少资源的浪费，比如假设某个 Python 应用启动后需要占用 100MB 内存，而服务器有 32 个 CPU 核，那么留一个核给系统、运行 31 个应用副本就要浪费 3GB 的内存资源。&lt;/li&gt;&lt;li&gt;良好的语言设计。从学术的角度讲 Go 语言其实非常平庸，不支持许多高级的语言特性；但从工程的角度讲，Go 的设计是非常优秀的：规范足够简单灵活，有其他语言基础的程序员都能迅速上手。更重要的是 Go 自带完善的工具链，大大提高了团队协作的一致性。比如 gofmt 自动排版 Go 代码，很大程度上杜绝了不同人写的代码排版风格不一致的问题。把编辑器配置成在编辑存档的时候自动运行 gofmt，这样在编写代码的时候可以随意摆放位置，存档的时候自动变成正确排版的代码。此外还有 gofix, govet 等非常有用的工具。&lt;/li&gt;&lt;li&gt;执行性能好。虽然不如 C 和 Java，但通常比原生 Python 应用还是高一个数量级的，适合编写一些瓶颈业务。内存占用也非常省。&lt;/li&gt;&lt;/ol&gt;
 </description>
 </item>
 </channel>
