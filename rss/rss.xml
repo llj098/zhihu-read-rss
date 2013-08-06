@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20206948/answer/15390979
+</link>
+<author>
+joey chen
+</author>
+<title>
+「适当的献血有利于身体健康」是舆论导向还是真正的科学？
+</title>
+<description>
+给你一个跟医学没啥关系的答案吧。也不算什么答案，不过是本人的亲身经历而已。&lt;br&gt;&lt;br&gt;我在学校献血4次，总共800毫升，按照“一人献血 全家受益”的原则，我的直系亲属可以至少免费用400毫升。&lt;br&gt;大学时，我爷爷生病做手术需要用血，我拿出我的血证准备去医院领血（其实要先去当地血站开个单子，这样就可以在医院里拿等价的血）。好嘛，悲剧开始了。血站说需要，我本人：身份证，户口本，工作单位证明，街道证明。我爷爷：身份证，户口本，工作单位证明，街道证明。我爸爸：……我都曰了，就算你神奇的把这么一大堆证明都开好，血站还有杀手锏的！&lt;br&gt;&lt;br&gt;“小同志，你不是在本血站献的血，你就不能领本血站的血。如果你想领，就现在先献800毫升吧，我们可以给你开具证明，你就可以去医院用血了！”&lt;br&gt;&lt;br&gt;亲们，这是原话啊，事情过了6‘7年了，我一个字都没忘记过，我当时真的快要喷800毫升在他脸上了！至今，我的献血证还在家里躺着，时刻鞭策！
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21430811/answer/18218742
+</link>
+<author>
+獾源
+</author>
+<title>
+几种典型的 iOS 应用界面的交互框架各自的优缺点是什么？
+</title>
+<description>
+&lt;b&gt;标签式&lt;/b&gt;&lt;b&gt; / Tab Menu&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d4/b9/d4b9566f1ecbf5fb3af5d82ed80d103a_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、清楚当前所在的入口位置&lt;br&gt;2、轻松在各入口间频繁跳转且不会迷失方向&lt;br&gt;3、直接展现最重要入口的内容信息&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;&lt;br&gt;功能入口过多时，该模式显得笨重不实用&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9a/63/9a630cc35d98adc3085858163ea70954_m.jpg&quot; data-rawwidth=&quot;652&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;652&quot; data-original=&quot;http://p2.zhimg.com/9a/63/9a630cc35d98adc3085858163ea70954_r.jpg&quot;&gt;&lt;br&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;跳板式&lt;/b&gt;&lt;b&gt; / Springborad&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/04/b5/04b590cce7137b54da173f5cab2f6039_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、清晰展现各入口&lt;br&gt;2、容易记住各入口位置，方便快速找到&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、无法在多入口间灵活跳转，不适合多任务操作&lt;br&gt;2、容易形成更深的路径&lt;br&gt;3、不能直接展现入口内容&lt;br&gt;&lt;br&gt;4、不能显示太多入口次级内容&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/42/dd/42ddd364823c0c1b1292406f7b88d7c4_m.jpg&quot; data-rawwidth=&quot;652&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;652&quot; data-original=&quot;http://p1.zhimg.com/42/dd/42ddd364823c0c1b1292406f7b88d7c4_r.jpg&quot;&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;b&gt;列表式&lt;/b&gt;&lt;b&gt; / List Menu&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/dd/c7/ddc74aa8b78cf7cfe33d2e3e92ae6682_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;优点：&lt;br&gt;1、层次展示清晰&lt;br&gt;2、可展示内容较长的标题&lt;br&gt;3、可展示标题的次级内容&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、同级内容过多时，用户浏览容易产生疲劳&lt;br&gt;2、排版灵活性不是很高&lt;br&gt;&lt;br&gt;3、只能通过排列顺序、颜色来区分各入口重要程度&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/db/2d/db2dc77eaff8f445466b9a4f8a48f88a_m.jpg&quot; data-rawwidth=&quot;651&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;651&quot; data-original=&quot;http://p1.zhimg.com/db/2d/db2dc77eaff8f445466b9a4f8a48f88a_r.jpg&quot;&gt;&lt;br&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;b&gt;旋转木马&lt;/b&gt;&lt;b&gt; / Carousel&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c0/2a/c02a04174feb43ac1b5e92711702c635_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、单页面内容整体性强&lt;br&gt;2、线性的浏览方式有顺畅感、方向感&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、不适合展示过多页面&lt;br&gt;2、不能跳跃性地查看间隔的页面，只能按顺序查看相邻的页面&lt;br&gt;&lt;br&gt;3、由于各页面内容结构相似，容易忽略后面的内容&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a0/5a/a05aea01da9db718e112d0859ac152f7_m.jpg&quot; data-rawwidth=&quot;652&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;652&quot; data-original=&quot;http://p2.zhimg.com/a0/5a/a05aea01da9db718e112d0859ac152f7_r.jpg&quot;&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;b&gt;抽屉式&lt;/b&gt;&lt;b&gt; / Drawer&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a7/2b/a72b4771929146a1738d1049f698a76f_m.jpg&quot; data-rawwidth=&quot;229&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;229&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、兼容多种模式&lt;br&gt;2、扩展性好&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、隐藏框架中其他入口&lt;br&gt;2、对入口交互的功能可见性（affordance）要求高&lt;br&gt;&lt;br&gt;3、对排版要求高&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c8/6b/c86bd84acbcd5eac64d38ba31e41cca0_m.jpg&quot; data-rawwidth=&quot;765&quot; data-rawheight=&quot;540&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;765&quot; data-original=&quot;http://p4.zhimg.com/c8/6b/c86bd84acbcd5eac64d38ba31e41cca0_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0f/b5/0fb5d1b2ce68f9dd291c429bfa3ea644_m.jpg&quot; data-rawwidth=&quot;767&quot; data-rawheight=&quot;540&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;767&quot; data-original=&quot;http://p1.zhimg.com/0f/b5/0fb5d1b2ce68f9dd291c429bfa3ea644_r.jpg&quot;&gt;&lt;br&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;b&gt;点聚式&lt;/b&gt;&lt;b&gt; / Plus&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/44/c2/44c252d1bcf97beeb9c6f970184a19d1_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、灵活&lt;br&gt;2、展示方式有趣&lt;br&gt;3、使界面更开阔&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、隐藏框架中其他入口&lt;br&gt;&lt;br&gt;2、对入口交互的功能可见性（affordance）要求高&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/89/1e/891e0e7b8f12ebe4adf24bb1c37ea107_m.jpg&quot; data-rawwidth=&quot;756&quot; data-rawheight=&quot;540&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;756&quot; data-original=&quot;http://p1.zhimg.com/89/1e/891e0e7b8f12ebe4adf24bb1c37ea107_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bc/81/bc81a72d29e3a138581aecb3b1b8b2ae_m.jpg&quot; data-rawwidth=&quot;759&quot; data-rawheight=&quot;540&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;759&quot; data-original=&quot;http://p3.zhimg.com/bc/81/bc81a72d29e3a138581aecb3b1b8b2ae_r.jpg&quot;&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;b&gt;陈列馆式&lt;/b&gt;&lt;b&gt; / Gallery&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4a/14/4a148d696ef3db7bd7cdbb75ab463481_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;238&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、直观展现各项内容&lt;br&gt;2、方便浏览经常更新的内容&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、不适合展现顶层入口框架&lt;br&gt;2、容易形成界面内容过多，显得杂乱&lt;br&gt;&lt;br&gt;3、设计效果容易呆板&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/57/9f/579f16d7ec3bcf854dd46038a9bf8138_m.jpg&quot; data-rawwidth=&quot;651&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;651&quot; data-original=&quot;http://p2.zhimg.com/57/9f/579f16d7ec3bcf854dd46038a9bf8138_r.jpg&quot;&gt;————————————————————————————————————————————&lt;br&gt;&lt;br&gt;&lt;b&gt;瀑布式&lt;/b&gt;&lt;b&gt; / Waterfall&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/fe/30/fe303b76b79884482eb9720a600819b0_m.jpg&quot; data-rawwidth=&quot;159&quot; data-rawheight=&quot;239&quot; class=&quot;content_image&quot; width=&quot;159&quot;&gt;&lt;br&gt;&lt;br&gt;优点：&lt;br&gt;1、浏览时产生流畅体验&lt;br&gt;&lt;br&gt;缺点：&lt;br&gt;1、缺乏对整体内容的体积感，容易发生空间位置迷失&lt;br&gt;&lt;br&gt;2、浏览一段时间后，容易产生疲劳感&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f0/53/f053d3e5e5d64031db54fb5bc0d39305_m.jpg&quot; data-rawwidth=&quot;651&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;651&quot; data-original=&quot;http://p3.zhimg.com/f0/53/f053d3e5e5d64031db54fb5bc0d39305_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20767458/answer/16248321
 </link>
 <author>
@@ -46,7 +74,7 @@ http://www.zhihu.com/question/21426351/answer/18216788
 http://www.zhihu.com/question/21422541/answer/18212056
 </link>
 <author>
-鲍小斯
+知乎用户
 </author>
 <title>
 男性拍照时有哪些不错的pose可以选择？
@@ -242,7 +270,7 @@ kassapa maha
 http://www.zhihu.com/question/21238547/answer/17648704
 </link>
 <author>
-刘蕴
+知乎用户
 </author>
 <title>
 如何看待农民工月薪 1.4 万？
@@ -263,34 +291,6 @@ MIUI系列如何在不同机型中迁移？
 </title>
 <description>
 MIUI现在专职负责非小米手机的工程师只有一个，最多的时候也不过六个人而已，没有大家想象的那么复杂。这里面贡献最大的是MIUI独特的patchROM适配方式，ROM合作开发的补贴机制，以及MIUI开发组对于Android发展方向的准确把握。&lt;br&gt;&lt;br&gt;先介绍一下patchROM，这是MIUI从Android 4.0开始的一个改变：利用原厂ROM的资源，对目标文件进行反编译成类似汇编的smali代码，然后修改其中的某些文件，插入MIUI自己的代码，重新编译成目标代码。这种做法的优点是可以充分发挥原厂的硬件，比如相机和一些特有的接口，且不需要内核源代码；缺点是某些深层的改动无法进行，损失一小部分功能，而且技术门槛有点高。&lt;br&gt;&lt;br&gt;patchROM开始适配某个机型的时候是最难的，因为需要把MIUI的所有改动都放进去，一般需要一个月的时间，熟练的话也要两个星期。之后每次MIUI升级都会比较容易，因为改动不大，除非更改原厂ROM底包。按照这个速度，目前MIUI官方适配机型的速度大概就是每个月一款，之前人多的时候，每个星期都会有一款新机型。同时，所有官方适配的机型的patchROM代码都可以公开在网上下载，这样别人也可以在此基础上进行二次开发。&lt;br&gt;&lt;br&gt;为了让MIUI用在更多的手机上，我们引入了合作开发的概念：任何人都可以根据patchROM的代码进行二次开发，适配在任意手机上；只要在MIUI论坛上发布，随着MIUI更新，都可以拿到补贴。补贴是按照活跃用户量来计算的，有一个简单的算法，目前合作开发者对于补贴还是满意的。做得好的人还可以同时从其它社区拿到补贴，是因为其它社区都是一次性补贴，和MIUI的每月补贴正好互补，不冲突。&lt;br&gt;&lt;br&gt;有了合作开发组之后，MIUI官方的ROM适配工程师的角色从移植变成了技术支持，合作开发组就是他的用户，随着合作开发组的壮大，MIUI内部会增加人手，确保支持力度。尤其是这次红米的发布，MIUI开发组专门针对MTK平台开发的双卡方案可以非常容易的移植到其它MTK平台的手机上去，MIUI适配的机型会快速增加。&lt;br&gt;&lt;br&gt;顺便广告一下，MIUI正在举行ROM大赛，奖品规模是所有ROM大赛中最高的，已经有上百人报名了，相信更多手机会通过这次大赛适配上MIUI。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19588191/answer/18192390
-</link>
-<author>
-yolfilm
-</author>
-<title>
-中国是否有希望开创类似美剧的季播剧模式？它的阻力有哪些？
-</title>
-<description>
--&lt;br&gt;一、&lt;br&gt;广电法规，有规定「连续剧，不能两部前后不同时间制作的戏，用同一个名字」（大意如是）。&lt;br&gt;&lt;br&gt;比如还珠格格，一二三四五，这种叫法，已经被禁止了。&lt;br&gt;&lt;br&gt;第一次，你用「还珠格格」，收视大好，作续集。&lt;br&gt;第二批生产，就得改成「还珠格格之小燕子落跑云南记」，类似这种命名法。&lt;br&gt;&lt;br&gt;包括众所周知的，集数的限制，都在制止「美剧式影集」的出现。&lt;br&gt;&lt;br&gt;为何？&lt;br&gt;&lt;br&gt;二、&lt;br&gt;我个人的看法是：这是慎密思考后，上层结构的决定。&lt;br&gt;&lt;br&gt;我认为，中国的广电法规后面，是一群有「严密逻辑」的宣传口的管理人。&lt;br&gt;&lt;br&gt;他们有几个根本逻辑，比如，可以让「机构壮大」，比如电视台，因为那是党的喉舌。&lt;br&gt;但，「制播」定要分离 ，制作能力，下放民间，培养上市公司，因为能产生「文化产业」效应。&lt;br&gt;但，最重要的是，，制作单位绝对不能够太过强大，以免收束不住。&lt;br&gt;&lt;br&gt;（大家可以观察，华谊、光线、华策、海潤……这几家上市公司的「起伏」，如同钟表一般。）&lt;br&gt;&lt;br&gt;换言之，美剧这种「联播制」，「好剧一播八年十年」的情况，&lt;br&gt;上层结构，我不认为他们看不到，但，应该不会鼓励。&lt;br&gt;&lt;br&gt;红火的剧集出现，是好事。&lt;br&gt;但，红火的剧集一播十年八年，就容易培养出尾大不掉的媒体势力出来。&lt;br&gt;&lt;br&gt;君不见，国内所有的媒体产品，都如是。&lt;br&gt;&lt;br&gt;节目红火，上头鼓励。&lt;br&gt;但节目红火到，成为社会现象时（比如超女），就必需扼住。&lt;br&gt;&lt;br&gt;早年的作品，且不说了，那个一剧数百集，连制数年的时代，已经过去了。&lt;br&gt;&lt;br&gt;近年，「丑女无敌」也好，「婆媳一家亲」也罢，这种长播数百集的剧集，也不能说完全绝迹，&lt;br&gt;但在我眼中，它们的存活，有几个原因，一是大多為电视台的自播剧，不是民间公司的行为。&lt;br&gt;另一点，说实话，不够红火，不过是「没有成为社会现象」前的，少数特例。&lt;br&gt;&lt;br&gt;总之，影视行业中的人，总会感觉到无形之中，有个看不见，摸不着的尺度。&lt;br&gt;&lt;br&gt;当然，这是我的个人看法。&lt;br&gt;&lt;br&gt;&lt;br&gt;ps：&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@罗登&quot; href=&quot;http://www.zhihu.com/people/nordenbox&quot; data-tip=&quot;p$b$nordenbox&quot;&gt;@罗登&lt;/a&gt; 补注意见：&lt;br&gt;&lt;br&gt;另，美剧的播出形式，不利于审查，对全剧没有整体的掌控，边拍边播，出事了不好控制。&lt;/blockquote&gt;&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21411599/answer/18153138
-</link>
-<author>
-鲍淑玮
-</author>
-<title>
-红米手机为什么要和 QQ 空间合作？
-</title>
-<description>
-：）&lt;br&gt;遇到这种等了半天没等来有数据的答案时总是忍不住自己来一发。。。&lt;br&gt;&lt;br&gt;小米发行新款手机，如果选择社交平台进行宣传合作，大概可以有微博、微信、QQ空间、人人网这四种选择。这次小米选择和QQ空间合作，确实有点在意料之外，但仔细分析数据，又确实在情理之中。&lt;br&gt;为了答案的简洁，就不一一列举四种社交平台的特征进行分析了，直接拿QQ空间开刀：&lt;br&gt;&lt;br&gt;&lt;b&gt;一、QQ空间的老大地位：&lt;/b&gt;&lt;br&gt;中国互联网状况白皮书的数据表明，截止2012年12月，博客空间类应用网民使用率为66.1%，在2012年各类互联网应用中，网民渗透率位列第4位。而微博和社交网站分别排第7、第8位。&lt;br&gt;而在博客类应用中，QQ空间又占据老大地位，下图为截至2013年3月20日国内博客空间类应用网民覆盖情况：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4b/f9/4bf94e91ec9e10a1f43c6770b4bc81c7_m.jpg&quot; data-rawwidth=&quot;521&quot; data-rawheight=&quot;315&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;521&quot; data-original=&quot;http://p1.zhimg.com/4b/f9/4bf94e91ec9e10a1f43c6770b4bc81c7_r.jpg&quot;&gt;所以说，虽然QQ空间看起来式微（很少相关数据有木有，很少新闻提到啊有木有），但其依然具有庞大的用户数量。QQ空间是一种基于强关系的社交网站，和微博等其他社交网站不同的是，QQ空间内的好友大多都是熟人，即使你不常用，你可能也会不定期上去看看。千万不要因为自己和身边的朋友们不常用QQ空间了，就认为QQ空间在产品宣传上也失去了价值。&lt;br&gt;&lt;br&gt;&lt;b&gt;二、QQ空间自身特点与红米手机契合度极高：&lt;/b&gt;&lt;br&gt;先来看几组数据对比：&lt;br&gt;&lt;b&gt;全国网民的月收入结构：&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5d/e3/5de30233e511bb1de5b0da8c3139c2ac_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;422&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p2.zhimg.com/5d/e3/5de30233e511bb1de5b0da8c3139c2ac_r.jpg&quot;&gt;&lt;b&gt;QQ空间用户收入情况：&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/31/da/31dae07d7586c18b83d8aaf0f9102184_m.jpg&quot; data-rawwidth=&quot;452&quot; data-rawheight=&quot;222&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;452&quot; data-original=&quot;http://p4.zhimg.com/31/da/31dae07d7586c18b83d8aaf0f9102184_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;对比两图可以看出，相比全国网民来说，QQ空间有一大批无收入用户，且用户中最多的收入群体为2001-3000组（24.7%），而全国网民中最多的收入群体为3001-5000组（18.4%）。&lt;br&gt;&lt;br&gt;再来看用户的受教育属性情况，拿微信做个对比：&lt;br&gt;&lt;b&gt;QQ空间用户学历属性情况：&lt;/b&gt;&lt;img src=&quot;http://p2.zhimg.com/55/26/55265e61664d464441b367b031477d99_m.jpg&quot; data-rawwidth=&quot;477&quot; data-rawheight=&quot;275&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;477&quot; data-original=&quot;http://p2.zhimg.com/55/26/55265e61664d464441b367b031477d99_r.jpg&quot;&gt;&lt;b&gt;微信用户学历属性情况&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4b/95/4b95b1bea442bfaf0d75f79c613d1d50_m.jpg&quot; data-rawwidth=&quot;248&quot; data-rawheight=&quot;186&quot; class=&quot;content_image&quot; width=&quot;248&quot;&gt;&lt;br&gt;两图对比，可以非常清楚地看出QQ空间和微信在用户受教育程度上的差异。QQ空间用户中，大专以上教育水平的用户仅有24.93%，而微信用户中，大专以上教育水平用户高达82.5%。&lt;br&gt;&lt;br&gt;·····························8月4日更新·····························&lt;br&gt;对于不同收入和不同受教育水平的人群来说，其购机欲望、预期在购机上付出的花费（智能手机用户的特征指数）也是不同的：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/ca/55/ca55e582622e126e438645bf7bda83bc_m.jpg&quot; data-rawwidth=&quot;691&quot; data-rawheight=&quot;403&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;691&quot; data-original=&quot;http://p4.zhimg.com/ca/55/ca55e582622e126e438645bf7bda83bc_r.jpg&quot;&gt;&lt;br&gt;前面已经分析过，QQ空间较全国网民收入结构相比，用户的低收入化特征更明显。与其他社交网站相比，受教育水平较低的用户比例较大。由上图可知，&lt;b&gt;这一部分低收入、低学历的人群，在智能手机方面的特征值都很低，也就是说，甚至其中很大一部分人可能还没有用过智能机。&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;而由下图可以看出，非智能机网民与智能机网民的一个显著区别就是，非智能机网民的计划购机价格大多较低。&lt;/b&gt;小米试图以红米手机低廉的价格、超高的性价比快速大量的占有低端机市场，诱惑那些还在用功能机的人群（即红米手机的目标用户：收入较低或者不愿在电子产品上花费较多收入的群体。）更换智能手机。顺便说一句，小米试图通过占领这一部分用户从而在市场中做大，这是在下一盘很大的棋啊~&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a9/a6/a9a6064c8076c3ce90fc9af5d49622bb_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;316&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;590&quot; data-original=&quot;http://p2.zhimg.com/a9/a6/a9a6064c8076c3ce90fc9af5d49622bb_r.jpg&quot;&gt;&lt;br&gt;因此，QQ空间刚好契合红米手机的用户定位，通过QQ空间的强社交关系，小米可以成功使这批收入较低、学历较低的用户注意到进而购买红米手机。而其他如微博微信等，哪个能精准的达到这个目的？&lt;br&gt;&lt;br&gt;&lt;b&gt;结合以上所有，QQ空间既有庞大的用户群，又与红米手机产品定位的契合度极高，小米选择与QQ空间合作，是因为QQ空间不仅长得漂亮，连性格气质也与红米十分契合好嘛。&lt;/b&gt;&lt;br&gt;··························································&lt;br&gt;本文数据来自&lt;a href=&quot;http://www.cnidp.cn/enter/sponsorSupport.do?method=sampleExtension&amp;amp;flag=4&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中国互联网数据平台&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，本人疏懒，未对数据进行验证。如有错漏欢迎告知，感谢包容。&lt;br&gt;：）
 </description>
 </item>
 </channel>
