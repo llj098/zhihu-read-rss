@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21435889/answer/18241170
+</link>
+<author>
+李五知
+</author>
+<title>
+Mac 的 OS X 系统，为何只有一个分区？重装的话是否对数据不安全？
+</title>
+<description>
+本来打算只是在已有答案上吐槽一下，不过看到目前排名第一的答案里面几乎所有观点都是错误的，不得不专门发片回答以免更多的知友被误导。&lt;br&gt;&lt;br&gt;其实题主的问题本身是个伪命题。&lt;br&gt;1. Mac OS X 只有一个分区吗？&lt;br&gt;这个只是默认情况而已。大量厂商的Windows机器也照样默认只有一个分区，那么你说Windows只有一个分区吗？只要你愿意，完全可以给苹果机器分多个分区出来，例如我现在用的：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f5/b5/f5b5ae269f9fb08b8a6bf02206d56e68_m.jpg&quot; data-rawwidth=&quot;741&quot; data-rawheight=&quot;641&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;741&quot; data-original=&quot;http://p3.zhimg.com/f5/b5/f5b5ae269f9fb08b8a6bf02206d56e68_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;2. 毫无疑问，Windows重装并不必须格式化分区，10多年前我每次重装Windows 95的时候，为了避免备份数据的麻烦，就只是删除Windows目录而已，之后的历任Windows系统也都支持这么做。至于为什么存在Windows重装要格式化分区这个迷思，可能是由于Windows 2000之前的民用Windows系统（ME, 98, 95 ...，不含NT4等商用Windows，Windows 2000之后两条产品线合并了）不够稳定，数月乃至一两个月就需要重装。如果不给Windows一个单独分区，那么频繁备份数据很麻烦，而单独给Windows一个分区的好处是显而易见的：格式化分区比删除Windows系统数据速度快。&lt;br&gt;&lt;br&gt;3. 在Windows中，使用中的文件不能被删除，这个不是一个错误的设计，相反，我认为是个良好的设计。Windows是面向普通用户的，如果正在使用的文件可以被删除，那么如果被删除的是操作系统的重要文件，操作系统本身就很会崩溃；如果删除的是用户文件，用户可能会迷惑或者抱怨。而UNIX系统当初的设计是给专业用户使用的，其思想是：谁做的事情谁自己负责，系统给你最大的自由。在UNIX系统里面，root用户可以轻松把当前运行的操作系统删除 -- 许多人由于失误干过这种事情，包括我。当年在IBM的AIX上编译安装软件时，由于Makefile依赖的一个环境变量没有设置，make install的时候从 / 开始删除，等我发现不对劲的时候，系统已经无法挽回了，那台工作站从此就成了摆设，因为没有系统安装盘。而Mac OS X也是UNIX，Linux是UNIX Clone，因此都传承了同样的设计思想。Mac OS X似乎也不是任何文件均可删除，例如page file? 我不想折腾我的系统，哪位有爱好试试吧。&lt;br&gt;&lt;br&gt;此外，在类UNIX系统中，你rm一个文件，文件系统看不见了，并不一定这个文件就被真正删除了。如果这个文件没有被关闭，其实还在呢，只不过你看不见罢了：这就更让普通用户迷惑了，不是吗？&lt;br&gt;&lt;br&gt;4. Windows上的这个“错误”设计也不是因为文件被memory mapping的原因，对于executable binary，各个系统上都一样会映射到内存。&lt;br&gt;&lt;br&gt;以上。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21443455/answer/18251240
+</link>
+<author>
+余亦多
+</author>
+<title>
+投行里的员工来源分几种？都是做出什么成绩才能进入投行的？
+</title>
+<description>
+我只说外资投行吧。&lt;br&gt;&lt;br&gt;这个问题确实太大了。因为所谓“投行”，也是一个庞大的机构。&lt;br&gt;前台有投行部、销售交易部、资产管理部；中台有风控；后台有IT、HR等等，每个职位对应的招生来源都不一样，对人员素质的要求也不一样。&lt;br&gt;&lt;br&gt;再缩小限定范围，我只说大家觉得光环比较集中的“前台部门”，我们通常指三个：投资银行部(Investment Banking Division)，销售交易部(Sales &amp;amp; Trading Division)，资产管理部(Asset Management Division)。&lt;br&gt;&lt;br&gt;接着再缩小范围，我只说&quot;投资银行部&quot;。但不同地域的投资银行部招生风格也不一样，我们再限定范围至香港和纽约两地。而且我把讨论限定为初级职员（分析员、经理级别），到董事及董事总经理级别来源就很广了，只要能拉来项目。&lt;br&gt;&lt;br&gt;关于投资银行部是干嘛的，我就不科普了。但内部划分，可以细说一下。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;纽约的投行&lt;/u&gt;&lt;/b&gt;一般分为产品组与行业组。&lt;br&gt;所谓产品组，即M&amp;amp;A, IPO, PIPE等针对不同交易类型分的组。组员擅长于每种产品的不同结构，不同组合。&lt;br&gt;而行业组，顾名思义，则是钻研某行业的细分知识，如地产、资源、TMT、工业、金融机构等。&lt;br&gt;通常一个项目，我们确定“中国工商银行上市”，那就是IPO+金融机构组；&quot;中国铝业收购力合力拓&quot;，那就是M&amp;amp;A + 资源组，共同协作。&lt;br&gt;&lt;br&gt;产品组喜欢招思维灵活、对交易结构上能提出自己思维的，而行业组则更偏向“术业有专攻”的。&lt;br&gt;招生通常大部分限于目标学校（target school），即HYPSM（哈佛、耶鲁、普林斯顿、斯坦福、麻省理工），加上其他常春藤以及芝加哥大学、NYU等老牌金融牛校。也有从英国牛津、剑桥、LSE、LBS来的。因为前台工作毕竟需要跟客户常交流，所以好点的学历作为第一印象确实重要。当然，这只是敲门砖之一而已，接下来你还得向客户证明你的专业性，以及解决问题的能力。毕竟作为一个二十出头的年轻人，你必然有超过常人之处，才有机会去和公司CEO等高层坐一块开会。（当然，通常开口机会很少，纽约的投行还是很讲“秩序”的，自我感觉太过良好、对自我膨胀缺乏约束自律的人很容易被上级海K。）&lt;br&gt;&lt;br&gt;这个世界上，有很多事情，真的是需要&lt;b&gt;&lt;u&gt;资格&lt;/u&gt;&lt;/b&gt;的。&lt;br&gt;&lt;br&gt;纽约的投行也有“关系户”，但相对比例较少，大多数还是目标学校的校园招聘。而且一旦入职，大家作为初级职员，干的活都差不多。PPT、Excel十级技工。&lt;br&gt;&lt;br&gt;&lt;b&gt;香港的投行&lt;/b&gt;也大同小异，但有一点不同在于，通常香港的投行都有一个&quot;China Team&quot;或者说&quot;客户关系组&quot;。这个团队，传说始作俑者是UBS不朽的“造雨者” Henry Cai前辈。组上确实会聚集一些家庭背景关系远优于一般人的、“能为客户提供附加增值服务”的能人。在我以前工作的投行，也有包括外国元首家属以及我国从部级干部往上的家属等，但我认为这也无可厚非，在中国金融体系发展的过程中，这是必然的现象。&lt;br&gt;&lt;br&gt;目前中国的金融体系发展阶段注定了各公司的财务体系、资本结构相对简单，而且因为对于金融更为严厉的管制，使得可调用的金融工具不多，因此，所有中介机构提供的服务趋于同质化，在这个前提下，客户选择把项目给谁，自然是“功夫在纸外”。但过去五年，这情况已经有很大改观，大家也更注重于交易本身了。&lt;br&gt;纽约的投行也需要关系做垫脚石，但最终，还是谁能提供最优的解决方案才是王道。在这方面，你不得不佩服高盛。&lt;br&gt;&lt;br&gt;拉回来说，香港投行的初级职员通常分 “执行团队”与“客户团队”。执行团队负责具体的文书制作，模型搭建等工作，而“客户团队”则负责在前线打拼，将案子抢下。&lt;br&gt;没有客户来源的初级职员，通常也需要是拿得出手的学校毕业，并能通过一系列严格面试的。&lt;br&gt;有客户的初级职员，则没有那么多条条框框的要求。毕竟，赚钱才是王道。&lt;br&gt;==============================================&lt;br&gt;说到这里，不得不离题说一下，前两天有人邀请我回答“中信集团下有哪些太子党公司”什么的，我没有回答。&lt;br&gt;在我身边，也确实有很多出身良好的朋友，他们或多或少的因为自己的血统，而获得了比常人更好的“起跑线”。这些人里有选择躺在大树下乘凉的，也有刻苦用功并胸怀宽广的。&lt;br&gt;但旁观者们，把这作为己不如人心理安慰的吗啡，确实是一种无能的表现。&lt;br&gt;&lt;br&gt;一个人在学会接受现实的基础上，才能学会正确定位自己，也才能发挥出自己最大的优势和力量，其他抱怨，对你的人生，不会有任何养分。&lt;br&gt;&lt;br&gt;&lt;b&gt;Stop whining like a bitch. Be a man, do the right thing~~~&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div class=&quot;video-box&quot; data-swfurl=&quot;http://player.youku.com/player.php/sid/XMTIwNzg3MDY4/v.swf&quot;&gt; &lt;div class=&quot;video-box-inner&quot;&gt;   &lt;img class=&quot;video-subnail&quot; src=&quot;http://g1.ykimg.com/0100641F464D4537F850BE026101F27D8032A7-3FBD-77D2-FD0F-60AE43D8DE38&quot;&gt;&lt;div class=&quot;video-play-icon&quot;&gt;&lt;/div&gt; &lt;div class=&quot;video-box-body&quot;&gt; &lt;strong class=&quot;video-title&quot;&gt;Damn It Feels Good To Be A Banker&lt;/strong&gt; &lt;p class=&quot;video-info&quot;&gt;http://v.youku.com/v_show/id_XMTIwNzg3MDY4.html&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/73/5a/735a3a4af73d6e79edab02484a1a1761_m.jpg&quot; data-rawwidth=&quot;367&quot; data-rawheight=&quot;550&quot; class=&quot;content_image&quot; width=&quot;367&quot;&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20018285/answer/13827486
 </link>
 <author>
@@ -74,7 +102,7 @@ http://www.zhihu.com/question/21437486/answer/18246742
 http://www.zhihu.com/question/20018285/answer/18145202
 </link>
 <author>
-He Yang
+知乎用户
 </author>
 <title>
 生活在 450℃ 高温环境中的海虾，该如何煮熟？
@@ -130,7 +158,7 @@ yolfilm
 http://www.zhihu.com/question/20623800/answer/18252336
 </link>
 <author>
-accc
+知乎用户
 </author>
 <title>
 亚马逊中国为什么没有积分制度？
@@ -158,7 +186,7 @@ http://www.zhihu.com/question/21424153/answer/18189021
 http://www.zhihu.com/question/21160234/answer/17412806
 </link>
 <author>
-eno-one
+知乎用户
 </author>
 <title>
 在图文混合的信息流里面，如何突出纯文本的信息呢？
@@ -264,34 +292,6 @@ http://www.zhihu.com/question/21438549/answer/18237536
 <description>
 公益组织公开透明是有边界的。其原因在于：首先，信息披露是有成本的；其次，还需要保护捐赠人的隐私；最后，一些公益组织认为，涉及组织核心竞争力的信息也不宜对外披露。因此，公益组织在向不同对象披露信息时，需要把握不同的边界，掌握不同的度。对于一些小的公益组织而言，由于需要披露的信息有限，因此，披露的内容更细，而对于一些大的公益组织而言，如果需要披露到每一分钱的使用，甚至买了多少包打印纸都需要披露，那么披露的成本无疑非常巨大，其实这也是浪费有限的人力物力和慈善资源。通常，公益组织披露的底线是根据各国的法律法规，向公众披露年度报告、财务报告、项目活动等基本信息。例如，根据《基金会信息公布办法》，基金会需要向社会公布的信息包括：年度工作报告、公募基金会组织募捐活动的信息、基金会开展公益资助项目的信息。 
 &lt;br&gt;而在该办法规定的基础上，基金会也可以自行决定公布更多的信息，而这些则属于自选的公布信息。通常公益组织在公布信息时，其边界就在于尊重捐赠人隐私、信息公布的成本可控。另外，根据一些国家通行的做法，如果公众需要查询公益组织的某些信息，公益组织有义务提供，但公众需要支付信息披露的成本，例如邮寄费。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20333843/answer/18201623
-</link>
-<author>
-王成
-</author>
-<title>
-iPhone 下凹的 home 键，关闭程序需要双击，返回键位于左上角， 这些是体验糟糕的设计吗，如何分析？
-</title>
-<description>
-我很同意你说的三点，这也是我使用 iOS 设备的时候感到最不爽的三个体验，我精确一点形容就是：&lt;br&gt;&lt;ul&gt;&lt;li&gt;实体 Home 键和屏幕上的触控操作没法形成连贯的体验；&lt;/li&gt;&lt;li&gt;左上角的返回够不到；&lt;/li&gt;&lt;li&gt;多任务的呼出太痛苦。&lt;/li&gt;&lt;/ul&gt;但是，我觉得这些设计在当时都是十分合理的。事实上，设计是很理性的，而且设计师都不是傻子，所以任何设计都是有道理。iOS 当初，并不是一个很复杂的系统。&lt;br&gt;&lt;br&gt;* * *&lt;br&gt;&lt;br&gt;你要去苹果大楼办事，每个部门都是独立的办公空间，而且必须在且只能在大厅开一个门，在一个办公室办完事还必须回到大厅进另一个房间办另一件事。一开始，你要办的事情不复杂（不需要牵扯太多部门），而且部门数量少，大楼就那么几层，办公空间也不复杂可能就一两个房间，只需要跑几个办公室就行了，这样你会觉得这个楼的设计是很合理的，因为永远不怕迷路。&lt;br&gt;&lt;br&gt;而 Android 这栋大楼，设计上是不同的。它不会把所有部门唯一的入口都设在大厅，而是把业务最繁忙的部门放在了大厅，其他的搁在一个长长的走廊里。而且，对于一些简单的小业务，部门可以自由在大厅设置快速窗口，不用进办公室就能办理。这栋楼比较复杂，大厅里很吵，新手进来很容易迷路。&lt;br&gt;&lt;br&gt;随着时间的推移，现在来政府办事动辄就要走好几各部门，每个部门又有好几个办公室，再加上部门越来越多，苹果大楼的大厅扩建又扩建，来办事的人面对的问题就不再是迷路了，而是一进大厅就要面对几十个大门并列在面前，而且每次都要回到大厅里面再去下一个部门。&lt;br&gt;&lt;br&gt;苹果大楼发现大家需要在各个部门之间穿梭的快速通道，他们的做法是在大楼的外面搭了一圈栈道把每个办公室的阳台连起来。非常简单，但是每次都要爬窗户，很吃力还容易把裤子磨破。（不过很快有人发现残疾人通道不用爬窗户……）&lt;br&gt;&lt;br&gt;Android 也发现了这个问题，于是他们在每一层楼的上面新建了一个完全没有墙的夹层，作为专门的中转层，每个办公室都有楼梯直通这个夹层。&lt;br&gt;&lt;br&gt;* * *&lt;br&gt;&lt;br&gt;再比如返回键的问题，苹果大楼的扶梯都是这样的：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/81/ea/81ea5a120389a0e0f166bc9b21b5b426_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;298&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;这也是很自然的，一边上，一边下；找到上楼的地方也就一定能找到下楼的地方。感觉扶梯就应该这样设计。iOS 的返回键其实也是这样的，因为交互逻辑和过渡动画，返回键就应该在那个地方。但是这种扶梯，一旦你要连续上下楼，就要在每一层都要步行绕一大圈。&lt;br&gt;&lt;br&gt;Android 大楼是这样的：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/dc/4d/dc4daf27f285f9867ea908d80e088e5a_m.jpg&quot; data-rawwidth=&quot;221&quot; data-rawheight=&quot;277&quot; class=&quot;content_image&quot; width=&quot;221&quot;&gt;&lt;br&gt;上下楼很快，但是也会有问题，就是很容易走到一个扶梯面前才发现方向是反的，或者找到了上楼的却找不到下楼的。&lt;br&gt;&lt;br&gt;* * *&lt;br&gt;&lt;br&gt;所以说，每种设计都是合理的，都没有错。但是要我说，苹果的设计是直接但妥协的，稳定而顽固的，而 Android 的设计是复杂但直接的，善变但灵活的。&lt;br&gt;&lt;br&gt;你如果看第一代 iPhone 的发布会，会发现乔布斯专门论述触摸屏的优势，就是可以在不需要按键的时候，充分利用机身的空间去显示界面，所以 iPhone 尽量要减少按键，这样一来有两个影响：1. 唯一的 home 键就要足够的特别和「安全」，是一个「panic button」；2. 很多其他的常用操作，就要在屏幕上放置一个按钮了（比如返回）。&lt;br&gt;&lt;br&gt;但是我们都知道 Android 其实一开始定位于类似黑莓的键盘手机，所以并不会像 iPhone 那么极端。我觉得用一下 G1 和 Android 1.x/2.x，就会理解它背后的道理——最大化内容在屏幕上的比例，而把常用的操作提取成实体按键。比如菜单，返回，搜索。2.x 及之前的很多 app，界面上没有任何多余的元素，都是需要用菜单键来呼出（看看 G1 菜单键的位置，和屏幕上菜单出现的位置是呼应的）。&lt;br&gt;&lt;br&gt;同样的，你要使用带屏幕内虚拟按键（至少有独立多任务键）的手机才能体会 Android 3.x/4.x 的：配置变快，屏幕变大后，菜单键不再重要，但是多任务切换越发的重要。Android 4.x 里面多任务是一等公民（而 iOS 里面是二等），有独立的按键。我想说，这对于手机的使用习惯，是颠覆性的。&lt;br&gt;&lt;br&gt;苹果会不会改呢，我觉得一定会，但是需要时机，因为 iOS 是稳定但顽固的，任何一种改动都是伤筋动骨——比如屏幕尺寸的改动。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21261475/answer/17723291
-</link>
-<author>
-匿名用户
-</author>
-<title>
-能否说程序员和设计师等专业人员更青睐 OS X / Mac 电脑？
-</title>
-<description>
-相比一般用户，专业用户有一个很大的特点是：他们清楚自己要什么。从另一个方面看，他们也清楚自己不需要什么，以及如何用替代工具达到一样的目的。&lt;br&gt;&lt;br&gt;去问一个普通电脑用户（非 IT，甚至普通 IT 行业人员）：让你换 Mac，有什么担心的？&lt;br&gt;他们通常会说：“我那些软件还能不能用？”&lt;br&gt;如果你跟上问一句：“你用的最多的是什么软件？”&lt;br&gt;基本上除了 QQ 迅雷，很难听到任何新鲜的东西。但是真的给他们一台 Mac 之后，他们很快会开始问：百度视频浏览器怎么装，没有 360 怎么办，五笔怎么用……也就是说，他们太习惯于自己每天接触的那些“东西”，而不是他们完成的任务。电脑对他们是一个玩具，上面每一个按钮都是“按钮”本身，这是他们和专业人士最大的不同。给他们换一个玩具，按钮颜色或者触感不同，他们都有一种被冒犯的感觉。这，是阻挡普通人换系统最大的原因。&lt;br&gt;&lt;br&gt;程序员、专业人员换系统的时候，通常有两种情况：目标平台有更适合他们的工具，或者目标平台有一样、或者至少可以接受的、能够达到之前目的的替换工具。这种“目标驱动”的特点让他们能够解决未知的问题，并且（就从 Windows 切换到 OS X 这个具体情况来说）在大多数情况下得到更优的解。他们首先通过寻找替换工具，满足了“完成我必须完成的任务”这个基本需求。这种“任务驱动”和“解决问题”的能力是定义一个“专业人士”的根本所在。&lt;br&gt;在这个需求被达成之后，他们才会有更多的精力去进行回顾和判断，判断之前做出的选择，如切换系统，是不是合适自己；在这个过程中进行的判断和研究有没有问题；现在使用的工具有什么更多的不同是之前不了解的。这种回顾和扩展，是对自己作为一个“专业人士”的技能领域的不断自我改进，这同样是一个优秀的“专业人士”最重要的特性。&lt;br&gt;&lt;br&gt;所以，回到问题，为什么专业人员（例如程序员和设计师）更青睐 OS X / Mac 电脑？&lt;br&gt;答案：因为他们有能力认识到自己需要解决的是什么问题，而不是把目光局限在“我有什么工具”本身；他们有能力和职业习惯进行研究、判断和做出改变（改进）；他们有兴趣探索未知的世界，寻找“更优解”而不是停留在“我一直都是这么做的”这个程度上。这些“专业人士”的性格特征允许他们不断前进，找到、并且创造，更多更好的东西。&lt;br&gt;Because they CHANGE things.
 </description>
 </item>
 </channel>
