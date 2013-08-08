@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21447958/answer/18255195
+</link>
+<author>
+徐腾飞
+</author>
+<title>
+用50米高的钢筋混凝土墙将太平洋围起来，建设过程中可能会遇到什么困难？
+</title>
+<description>
+首先这个墙要造的出来才行。&lt;br&gt;&lt;br&gt;简单下了一下，目前想到的几个&lt;br&gt;首先是材料问题&lt;br&gt;这么大体积的混凝土，我们估算一下材料的用量&lt;br&gt;&lt;br&gt;查了维基百科&lt;br&gt;&lt;br&gt;&lt;i&gt;中国拥有近300万平方公里的海域与32000公里长的海岸线。海岸线分为大陆岸线与海岛岸线，其中大陆岸线为18000公里。其北部起始点为鸭绿江口，南方终点为北仑河口。&lt;/i&gt;&lt;br&gt;&lt;br&gt;我们就只算，大陆海岸线，18000公里，那么假设太平洋周长是中国大陆海岸线的5倍，太平洋周长为是90000千米。&lt;br&gt;混凝土的方量是：90000*1000*50*30=1.35e11立方米，重量是3375亿吨。&lt;br&gt;&lt;br&gt;&lt;b&gt;我们以C40混凝土为例，这就要消耗水泥572亿吨。&lt;br&gt;&lt;br&gt;百度了一个数据&lt;br&gt;&lt;img data-rawheight=&quot;395&quot; data-rawwidth=&quot;687&quot; src=&quot;http://p1.zhimg.com/d3/c2/d3c25fed4dda7e768a69f20aded3d9de_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;687&quot; data-original=&quot;http://p1.zhimg.com/d3/c2/d3c25fed4dda7e768a69f20aded3d9de_r.jpg&quot;&gt;08年，09年，10年三年水泥总产量为92.1亿吨，占水泥需求量的16%。&lt;br&gt;然后我们再看看耗水量，水灰比如果是0.4的话，也就是说要用229亿吨的淡水。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;根据@&lt;a href=&quot;http://www.zhihu.com/people/zhou-hao-55&quot; class=&quot;internal&quot;&gt;周浩  &lt;/a&gt;的提示，按照每立方米200公斤估算钢筋用量，大概是要270亿吨，按照我国2012年的产量，150年？按照我国产量占世界的比重80%，全球一起开动，也要120年左右吧。&lt;/b&gt;&lt;br&gt;&lt;img data-rawheight=&quot;165&quot; data-rawwidth=&quot;628&quot; src=&quot;http://p1.zhimg.com/8c/bd/8cbd014d90f50dfdf10355614c608779_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;628&quot; data-original=&quot;http://p1.zhimg.com/8c/bd/8cbd014d90f50dfdf10355614c608779_r.jpg&quot;&gt;&lt;img data-rawheight=&quot;206&quot; data-rawwidth=&quot;719&quot; src=&quot;http://p2.zhimg.com/10/76/107618b0f29664b8d68b51aab0a09758_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;719&quot; data-original=&quot;http://p2.zhimg.com/10/76/107618b0f29664b8d68b51aab0a09758_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;比起材料问题来，剩下的技术问题可能都是渣了&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1、30m厚，50m高的混凝土，能够承担自身的重量不？会不会自己就塌了&lt;br&gt;&lt;br&gt;2、大体积混凝土带来的开裂问题。&lt;br&gt;&lt;br&gt;3、我们知道材料都有热涨冷缩效应，根据上面的周长，可以估计一下，升温一度，这个墙要伸长多少，产生多大的应力，估计一下就把自己压坏了&lt;br&gt;（注：考虑到墙是用来抵御怪兽的，所以不能留下收缩缝，尤其是每间隔几十米就留一道伸缩缝）&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;混凝土结构设计时，当温度在0~100℃范围内时，线膨胀系数为0.00001/℃。（《混凝土结构设计规范》（GB 50010-2010 ）4.1.8条&lt;br&gt;&lt;br&gt;也就是说1公里的墙，温度每升高一度，墙要伸长1cm，咱们就算中国海岸线的这段吧，18000公里，温度升高一度，墙就要伸长180米，这对墙下的基础来说，就是灾难。&lt;br&gt;同时，这只是温度升高一度的结果，咱们想想温度波动的情况，一会升温一会降温，整个墙会跳舞的。&lt;br&gt;再考虑南北温差，墙修好之日，就是垮塌之时。&lt;br&gt;&lt;b&gt;&lt;br&gt;4、与温度类似的，混凝土的收缩徐变效应，也会把墙搞垮掉。&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21440245/answer/18238436
 </link>
 <author>
@@ -116,7 +130,7 @@ http://www.zhihu.com/question/21437486/answer/18246742
 http://www.zhihu.com/question/20018285/answer/18145202
 </link>
 <author>
-He Yang
+知乎用户
 </author>
 <title>
 生活在 450℃ 高温环境中的海虾，该如何煮熟？
@@ -172,7 +186,7 @@ yolfilm
 http://www.zhihu.com/question/20623800/answer/18252336
 </link>
 <author>
-accc
+知乎用户
 </author>
 <title>
 亚马逊中国为什么没有积分制度？
@@ -200,7 +214,7 @@ http://www.zhihu.com/question/21424153/answer/18189021
 http://www.zhihu.com/question/21160234/answer/17412806
 </link>
 <author>
-eno-one
+知乎用户
 </author>
 <title>
 在图文混合的信息流里面，如何突出纯文本的信息呢？
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21437369/answer/18225087
 </title>
 <description>
 这件事被很多人夸大了很多，而且事件本身被讨论到肉毒杆菌如何杀灭和自我救治上面，真是令人匪夷所思的转折……有问题的东西应该停止食用，出现症状或者吃过疑似污染的食品应该就医才对。&lt;br&gt;&lt;br&gt;事件的奶粉实际是被原料污染的，一些批次的奶制品采用了受到污染的原料。出问题的 2012 年 5 月恒天然生产的浓缩乳清蛋白粉，从这里面检查出肉毒杆菌。而浓缩乳清蛋白粉作为原料，一部分用于自身奶制品，另一部分销售。根据现有消息整理了一份国内产品和部分国外产品受到影响的产品。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8f/28/8f284f02ce2cc2972706c965255bbdf0_m.jpg&quot; data-rawwidth=&quot;721&quot; data-rawheight=&quot;586&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;721&quot; data-original=&quot;http://p1.zhimg.com/8f/28/8f284f02ce2cc2972706c965255bbdf0_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;就如同刚开始说的，讨论肉毒杆菌是件令人匪夷所思的事情，因为普通人不需要管这件事……&lt;br&gt;&lt;br&gt;作为食品生产原料，所有生产批次使用的原料批次都会有记录。所以在出现食品安全事件时，会启动追溯机制追溯。恒天然方面已经对绝大多数销售路径发出通知，国家质检总局也已经就国内进口相关批次浓缩乳清蛋白粉的厂家进行通知（进口批次是可以查询的）。而作为食品生产企业，这些涉及使用的企业都已经公布使用批次，开始启动食品召回工作。&lt;br&gt;&lt;br&gt;所以，普通消费者应该做的，就是看看如果你手头有这些产品，如果在召回批号内，那么别吃了，别喝了，哪里买的送到哪里去。如果出现恶心、腹泻、视力紊乱、吞咽困难、呼吸困难等症状，马上去就医（平时身体不适也应该去就医……）。肉毒毒素中毒通常有数小时的潜伏期，个别长达几天。如果食用过疑似污染食品建议去医院检查。&lt;br&gt;&lt;br&gt;当然，考虑到可瑞康和牛栏奶粉有很多人是海外代购渠道购买的，如果购买的恰好是相关污染批次去给代购打电话吧。&lt;br&gt;&lt;br&gt;另外，值得一提的是这次食品安全事件国内处理和召回速度很迅速。&lt;br&gt;&lt;br&gt;下面附上各厂家公布的对应批次（最终召回批次请以官方数据为准）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;娃哈哈&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;巢湖公司生产的钙好喝饮品（350g×15）2个批次，批号20130113、20130114；利乐包锌爽歪歪营养酸奶饮品28个批次，批号20130116-20130126、20130130、20130131、20130607-20130615、20130704-20130709。&lt;br&gt;山西公司生产的220毫升AD（1×24）1个批次，批号20130605。&lt;br&gt;宜昌公司生产的200g×24新爽歪歪6个批次，批号20130313-20130319。&lt;br&gt;杭州宏胜饮料生产的爽歪歪营养酸奶125g（1×24）2个批次；爽歪歪营养酸奶饮品200g（1×24）2个批次，批号均为20130608、20130609。&lt;br&gt;莲花山公司的AD钙奶100g(1×48)2个批次，批号20121005、20121006；AD钙奶220g(1×24)5个批次，批号20121007-20121011；锌爽歪歪营养酸奶饮品125g（1×32）1个批次，批号20121005；锌爽歪歪营养酸奶饮品200g（1×24）5个批次，批号20121006-20121009、20121011；天窗版锌爽歪歪营养酸奶200g（1×16×4）1个批次，批号20121006。&lt;br&gt;&lt;ul&gt;&lt;li&gt;可口可乐&lt;/li&gt;&lt;/ul&gt;2013 年 3 月 5 日 06：50~17：50 之间在东莞工厂生产的批号末尾为“DGP 6”的美汁源菠萝口味果粒奶优，该批次产品售往云南（3273 箱）、广西（788 箱）和广东（14967 箱）。&lt;br&gt;&lt;ul&gt;&lt;li&gt;多美滋&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;5月23日之后生产的多领加延续较大婴幼儿配方奶粉2阶段：400克批号1F3171，1200克批号1F3144；&lt;br&gt;6月15日之后产优阶贝护延续较大婴儿配方奶粉2阶段：360g*3批号2E3170、1E3182，400克批号1C3170、2C3180，400g*3批号2E3172、1E3181，850g+50g1H3172、1H3180，900克2H3166、2H3181。&lt;br&gt;&lt;ul&gt;&lt;li&gt;可瑞康&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;可瑞康普通版1段批次(0至6个月使用)3169、3170 1段，生产日期为2013年6月18日至6月17日。&lt;br&gt;金装2段批次，6至12个月使用，D3183 2段，生产日期为2013年7月30日至2014年12月30日。&lt;br&gt;&lt;ul&gt;&lt;li&gt;牛栏奶粉&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;回收的奶粉是批次编号是3178和3179，食用期限分别是2015年6月27日和28日。&lt;br&gt;&lt;ul&gt;&lt;li&gt;雅培&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;雅培幼儿喜康力(3段)900克/罐，涉及批次为287834K402、287844K402，生产时间均为今年5月2日。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20100349/answer/18224217
-</link>
-<author>
-贾浩
-</author>
-<title>
-同是面粉，为什么欧洲人做出来的是面包，我们做出来的是馒头？这其中历史发展过程是怎样的？
-</title>
-<description>
-&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/cha-men-hu-de-xiao-bei-xin&quot; data-tip=&quot;p$b$cha-men-hu-de-xiao-bei-xin&quot;&gt;@插门胡的小背心&lt;/a&gt;  从烹饪方式的角度很好地解释了中西方面食文化的不同，我再从小麦面粉品质的方面做一下补充。 &lt;br&gt;首先，小麦依据面粉中蛋白质含量和组分造成面筋性质的差异，分为&lt;b&gt;强筋小麦、中筋小麦&lt;/b&gt;（强中筋、弱中筋）和&lt;b&gt;弱筋小麦&lt;/b&gt;。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b0/83/b0832a92f6d44121c5a28927658c6fed_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p3.zhimg.com/b0/83/b0832a92f6d44121c5a28927658c6fed_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d5/01/d501d693541f725d553ee1cf3aea4d70_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p1.zhimg.com/d5/01/d501d693541f725d553ee1cf3aea4d70_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d9/19/d919166c339b05133395ba4be14c9d5a_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p1.zhimg.com/d9/19/d919166c339b05133395ba4be14c9d5a_r.jpg&quot;&gt;&lt;br&gt;不同类型的小麦适合制作不同类型的面食。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7e/dd/7eddd8df1273df0259064d7ba9ae22e1_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p4.zhimg.com/7e/dd/7eddd8df1273df0259064d7ba9ae22e1_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b1/9c/b19c5f386162c88ad3e5f82580cb48a8_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p3.zhimg.com/b1/9c/b19c5f386162c88ad3e5f82580cb48a8_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/36/50/3650c88635d79cf459c5a786607ebc4a_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p4.zhimg.com/36/50/3650c88635d79cf459c5a786607ebc4a_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/06/57/065709ab957ba459aa6bbfef35288d87_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p1.zhimg.com/06/57/065709ab957ba459aa6bbfef35288d87_r.jpg&quot;&gt;&lt;br&gt;然而由于各种原因（可能是品种的传入、育种家的有意选择或人们饮食习惯，有待考证），我国主要栽培的品种主要属于中筋小麦，强筋和弱筋小麦较少，这就造成了目前我国面食&lt;b&gt;以馒头面条为主&lt;/b&gt;的饮食结构。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7b/eb/7bebd54cf4bd58b522f230f8274684f0_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p4.zhimg.com/7b/eb/7bebd54cf4bd58b522f230f8274684f0_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b8/fd/b8fdeef7cf22641e21cf2612ad057d22_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p3.zhimg.com/b8/fd/b8fdeef7cf22641e21cf2612ad057d22_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d7/da/d7da22892492176a4ce9e8779d22559f_m.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;720&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;http://p1.zhimg.com/d7/da/d7da22892492176a4ce9e8779d22559f_r.jpg&quot;&gt;&lt;br&gt;最后附上我们在小麦面食加工课程上的小成果：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d6/42/d6423e1565efe1485f495efc56e8f591_m.jpg&quot; data-rawwidth=&quot;3264&quot; data-rawheight=&quot;2448&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3264&quot; data-original=&quot;http://p1.zhimg.com/d6/42/d6423e1565efe1485f495efc56e8f591_r.jpg&quot;&gt;&lt;br&gt;馒头&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a6/17/a6170ade23daf746db8465b0ce025177_m.jpg&quot; data-rawwidth=&quot;3264&quot; data-rawheight=&quot;2448&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3264&quot; data-original=&quot;http://p2.zhimg.com/a6/17/a6170ade23daf746db8465b0ce025177_r.jpg&quot;&gt;面条&lt;img src=&quot;http://p4.zhimg.com/31/c4/31c482d8bf1d581dcf8addd59cebfc8e_m.jpg&quot; data-rawwidth=&quot;3264&quot; data-rawheight=&quot;2448&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3264&quot; data-original=&quot;http://p4.zhimg.com/31/c4/31c482d8bf1d581dcf8addd59cebfc8e_r.jpg&quot;&gt;&lt;br&gt;注：图片源自中国农业大学农学院李保云《&lt;b&gt;作物品质改良与鉴定方法&lt;/b&gt;》课程。
 </description>
 </item>
 </channel>
