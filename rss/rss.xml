@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20379986/answer/18227254
+</link>
+<author>
+猫助
+</author>
+<title>
+摆摊，如何提高所谓的转化率？
+</title>
+<description>
+常年毕业大甩卖冠军（不管毕不毕业都参加），基本全部卖空而归，并且卖的不便宜的人来这里秘售大家摆摊卖二手货机宜。&lt;br&gt;&lt;br&gt;摒弃一切理论，其实就四点：&lt;br&gt;1、选择安全的，和你同类却比你消费能力略低的群体聚集地&lt;br&gt;2、货要尽量同气质，不能太杂，文艺就都文艺，生活就都生活，宅男就都宅男。  &lt;br&gt;3、一定要有便宜的好货，搭着略贵的烂货，并放一个自己不是很舍得卖看起来有逼格的贵货  &lt;br&gt;4、无论卖什么，要装扮的像卖的东西的专家，因为地摊是单挑，摊主个人魅力很重要。 不能让人觉得，『这是这个人乱买东西，自己不用了就卖掉的』，要让人觉得，『这人好专业，肯定有通常渠道拿不到的好货』。&lt;br&gt;&lt;br&gt;以上，我卖的二手杂志，书，碟，经常被大堆购买，并且卖的都比隔壁同类型的要贵。&lt;br&gt;&lt;br&gt;（其实我不会告诉你们每次摆摊我都露乳沟的。）
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21449668/answer/18273699
 </link>
 <author>
@@ -277,20 +291,6 @@ Mac 的 OS X 系统，为何只有一个分区？重装的话是否对数据不�
 </title>
 <description>
 本来打算只是在已有答案上吐槽一下，不过看到目前排名第一的答案里面几乎所有观点都是错误的，不得不专门发片回答以免更多的知友被误导。&lt;br&gt;&lt;br&gt;其实题主的问题本身是个伪命题。&lt;br&gt;1. Mac OS X 只有一个分区吗？&lt;br&gt;这个只是默认情况而已。大量厂商的Windows机器也照样默认只有一个分区，那么你说Windows只有一个分区吗？只要你愿意，完全可以给苹果机器分多个分区出来，例如我现在用的：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f5/b5/f5b5ae269f9fb08b8a6bf02206d56e68_m.jpg&quot; data-rawwidth=&quot;741&quot; data-rawheight=&quot;641&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;741&quot; data-original=&quot;http://p3.zhimg.com/f5/b5/f5b5ae269f9fb08b8a6bf02206d56e68_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;2. 毫无疑问，Windows重装并不必须格式化分区，10多年前我每次重装Windows 95的时候，为了避免备份数据的麻烦，就只是删除Windows目录而已，之后的历任Windows系统也都支持这么做。至于为什么存在Windows重装要格式化分区这个迷思，可能是由于Windows 2000之前的民用Windows系统（ME, 98, 95 ...，不含NT4等商用Windows，Windows 2000之后两条产品线合并了）不够稳定，数月乃至一两个月就需要重装。如果不给Windows一个单独分区，那么频繁备份数据很麻烦，而单独给Windows一个分区的好处是显而易见的：格式化分区比删除Windows系统数据速度快。&lt;br&gt;&lt;br&gt;3. 在Windows中，使用中的文件不能被删除，这个不是一个错误的设计，相反，我认为是个良好的设计。Windows是面向普通用户的，如果正在使用的文件可以被删除，那么如果被删除的是操作系统的重要文件，操作系统本身就很会崩溃；如果删除的是用户文件，用户可能会迷惑或者抱怨。而UNIX系统当初的设计是给专业用户使用的，其思想是：谁做的事情谁自己负责，系统给你最大的自由。在UNIX系统里面，root用户可以轻松把当前运行的操作系统删除 -- 许多人由于失误干过这种事情，包括我。当年在IBM的AIX上编译安装软件时，由于Makefile依赖的一个环境变量没有设置，make install的时候从 / 开始删除，等我发现不对劲的时候，系统已经无法挽回了，那台工作站从此就成了摆设，因为没有系统安装盘。而Mac OS X也是UNIX，Linux是UNIX Clone，因此都传承了同样的设计思想。Mac OS X似乎也不是任何文件均可删除，例如page file? 我不想折腾我的系统，哪位有爱好试试吧。&lt;br&gt;&lt;br&gt;此外，在类UNIX系统中，你rm一个文件，文件系统看不见了，并不一定这个文件就被真正删除了。如果这个文件没有被关闭，其实还在呢，只不过你看不见罢了：这就更让普通用户迷惑了，不是吗？&lt;br&gt;&lt;br&gt;4. Windows上的这个“错误”设计也不是因为文件被memory mapping的原因，对于executable binary，各个系统上都一样会映射到内存。&lt;br&gt;&lt;br&gt;以上。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21443455/answer/18251240
-</link>
-<author>
-余亦多
-</author>
-<title>
-投行里的员工来源分几种？都是做出什么成绩才能进入投行的？
-</title>
-<description>
-我只说外资投行吧。&lt;br&gt;&lt;br&gt;这个问题确实太大了。因为所谓“投行”，也是一个庞大的机构。&lt;br&gt;前台有投行部、销售交易部、资产管理部；中台有风控；后台有IT、HR等等，每个职位对应的招生来源都不一样，对人员素质的要求也不一样。&lt;br&gt;&lt;br&gt;再缩小限定范围，我只说大家觉得光环比较集中的“前台部门”，我们通常指三个：投资银行部(Investment Banking Division)，销售交易部(Sales &amp;amp; Trading Division)，资产管理部(Asset Management Division)。&lt;br&gt;&lt;br&gt;接着再缩小范围，我只说&quot;投资银行部&quot;。但不同地域的投资银行部招生风格也不一样，我们再限定范围至香港和纽约两地。而且我把讨论限定为初级职员（分析员、经理级别），到董事及董事总经理级别来源就很广了，只要能拉来项目。&lt;br&gt;&lt;br&gt;关于投资银行部是干嘛的，我就不科普了。但内部划分，可以细说一下。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;纽约的投行&lt;/u&gt;&lt;/b&gt;一般分为产品组与行业组。&lt;br&gt;所谓产品组，即M&amp;amp;A, IPO, PIPE等针对不同交易类型分的组。组员擅长于每种产品的不同结构，不同组合。&lt;br&gt;而行业组，顾名思义，则是钻研某行业的细分知识，如地产、资源、TMT、工业、金融机构等。&lt;br&gt;通常一个项目，我们确定“中国工商银行上市”，那就是IPO+金融机构组；&quot;中国铝业收购力合力拓&quot;，那就是M&amp;amp;A + 资源组，共同协作。&lt;br&gt;&lt;br&gt;产品组喜欢招思维灵活、对交易结构上能提出自己思维的，而行业组则更偏向“术业有专攻”的。&lt;br&gt;招生通常大部分限于目标学校（target school），即HYPSM（哈佛、耶鲁、普林斯顿、斯坦福、麻省理工），加上其他常春藤以及芝加哥大学、NYU等老牌金融牛校。也有从英国牛津、剑桥、LSE、LBS来的。因为前台工作毕竟需要跟客户常交流，所以好点的学历作为第一印象确实重要。当然，这只是敲门砖之一而已，接下来你还得向客户证明你的专业性，以及解决问题的能力。毕竟作为一个二十出头的年轻人，你必然有超过常人之处，才有机会去和公司CEO等高层坐一块开会。（当然，通常开口机会很少，纽约的投行还是很讲“秩序”的，自我感觉太过良好、对自我膨胀缺乏约束自律的人很容易被上级海K。）&lt;br&gt;&lt;br&gt;这个世界上，有很多事情，真的是需要&lt;b&gt;&lt;u&gt;资格&lt;/u&gt;&lt;/b&gt;的。&lt;br&gt;&lt;br&gt;纽约的投行也有“关系户”，但相对比例较少，大多数还是目标学校的校园招聘。而且一旦入职，大家作为初级职员，干的活都差不多。PPT、Excel十级技工。&lt;br&gt;&lt;br&gt;&lt;b&gt;香港的投行&lt;/b&gt;也大同小异，但有一点不同在于，通常香港的投行都有一个&quot;China Team&quot;或者说&quot;客户关系组&quot;。这个团队，传说始作俑者是UBS不朽的“造雨者” Henry Cai前辈。组上确实会聚集一些家庭背景关系远优于一般人的、“能为客户提供附加增值服务”的能人。在我以前工作的投行，也有包括外国元首家属以及我国从部级干部往上的家属等，但我认为这也无可厚非，在中国金融体系发展的过程中，这是必然的现象。&lt;br&gt;&lt;br&gt;目前中国的金融体系发展阶段注定了各公司的财务体系、资本结构相对简单，而且因为对于金融更为严厉的管制，使得可调用的金融工具不多，因此，所有中介机构提供的服务趋于同质化，在这个前提下，客户选择把项目给谁，自然是“功夫在纸外”。但过去五年，这情况已经有很大改观，大家也更注重于交易本身了。&lt;br&gt;纽约的投行也需要关系做垫脚石，但最终，还是谁能提供最优的解决方案才是王道。在这方面，你不得不佩服高盛。&lt;br&gt;&lt;br&gt;拉回来说，香港投行的初级职员通常分 “执行团队”与“客户团队”。执行团队负责具体的文书制作，模型搭建等工作，而“客户团队”则负责在前线打拼，将案子抢下。&lt;br&gt;没有客户来源的初级职员，通常也需要是拿得出手的学校毕业，并能通过一系列严格面试的。&lt;br&gt;有客户的初级职员，则没有那么多条条框框的要求。毕竟，赚钱才是王道。&lt;br&gt;==============================================&lt;br&gt;说到这里，不得不离题说一下，前两天有人邀请我回答“中信集团下有哪些太子党公司”什么的，我没有回答。&lt;br&gt;在我身边，也确实有很多出身良好的朋友，他们或多或少的因为自己的血统，而获得了比常人更好的“起跑线”。这些人里有选择躺在大树下乘凉的，也有刻苦用功并胸怀宽广的。&lt;br&gt;但旁观者们，把这作为己不如人心理安慰的吗啡，确实是一种无能的表现。&lt;br&gt;&lt;br&gt;一个人在学会接受现实的基础上，才能学会正确定位自己，也才能发挥出自己最大的优势和力量，其他抱怨，对你的人生，不会有任何养分。&lt;br&gt;&lt;br&gt;&lt;b&gt;Stop whining like a bitch. Be a man, do the right thing~~~&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div class=&quot;video-box&quot; data-swfurl=&quot;http://player.youku.com/player.php/sid/XMTIwNzg3MDY4/v.swf&quot;&gt; &lt;div class=&quot;video-box-inner&quot;&gt;   &lt;img class=&quot;video-subnail&quot; src=&quot;http://g1.ykimg.com/0100641F464D4537F850BE026101F27D8032A7-3FBD-77D2-FD0F-60AE43D8DE38&quot;&gt;&lt;div class=&quot;video-play-icon&quot;&gt;&lt;/div&gt; &lt;div class=&quot;video-box-body&quot;&gt; &lt;strong class=&quot;video-title&quot;&gt;Damn It Feels Good To Be A Banker&lt;/strong&gt; &lt;p class=&quot;video-info&quot;&gt;http://v.youku.com/v_show/id_XMTIwNzg3MDY4.html&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/73/5a/735a3a4af73d6e79edab02484a1a1761_m.jpg&quot; data-rawwidth=&quot;367&quot; data-rawheight=&quot;550&quot; class=&quot;content_image&quot; width=&quot;367&quot;&gt;
 </description>
 </item>
 </channel>
