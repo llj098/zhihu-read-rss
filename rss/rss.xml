@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21292902/answer/17802737
+</link>
+<author>
+杜威
+</author>
+<title>
+都说黑莓安全，请问他安全在哪里？
+</title>
+<description>
+确实太技术了，看得人累。我就打个比方吧。&lt;br&gt;&lt;br&gt;&lt;b&gt;就比如小时候在学校你和人传纸条，在途中你肯定害怕纸条的内容被途中的什么人看（尤其信息还属于比较敏感的）。&lt;/b&gt;&lt;br&gt;&lt;b&gt;那么黑莓的出现就是在纸条传出去的时候先转换成没人看的懂的语言，然后再撕碎，接下来让一群人无序地帮你传递，然后到目的地的时候，再自动帮你把纸条拼起来复原。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;----------------------------&lt;/b&gt;&lt;b&gt;-------------------------&lt;/b&gt;&lt;b&gt;---------分隔符---------------------------------------------------------------------&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;首先从硬件开始说 &lt;img src=&quot;http://p2.zhimg.com/93/5e/935e1da9f2449eb0ec591170384a463b_m.jpg&quot; data-rawwidth=&quot;579&quot; data-rawheight=&quot;323&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;579&quot; data-original=&quot;http://p2.zhimg.com/93/5e/935e1da9f2449eb0ec591170384a463b_r.jpg&quot;&gt;&lt;br&gt;这是真的。&lt;br&gt;&lt;br&gt;软件&lt;br&gt;&lt;br&gt;先从手机的加密开始说，众所周知，现在的安卓和苹果的密码都是可以有软件破解的。黑莓的不行，试足够多的次数（最多十次）就会全部擦除，连各种多媒体的照片都没有了（本人曾经误删除过……我以为只擦除数据的）&lt;br&gt;&lt;br&gt;开通服务以后：只说老系统(OS5/6/7)，不管是BIS还是BES，只要通过&lt;a href=&quot;http://blackberry.net&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;blackberry.net&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;接入点出去的数据就会经过加密和压缩。而经过&lt;a href=&quot;http://blackberry.net&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;blackberry.net&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;的数据主要就是BBM和各种邮件。&lt;br&gt;1，BBM是依靠手机的PIN码来加密/对方的PIN码来解密的，即使发错了（没出现过），收到的也是乱码或者就收不到……说通俗一点，数据是打乱并且打碎传输的，对方手机收到再整合在一起。用老款手机比如内存128M的9000收到BBM的时候明显会卡一下……&lt;br&gt;2，邮件（哎我的培训资料哪里去了……）首先，软件（这里的软件讲的应该是服务器端的软件）监测到了有新邮件到达或数据发生了更改，然后，软件将信息进行压缩和打包，并重新定向到手持设备。服务器使用超文本传输协议(HTTP)和传输控制协议(TCP)与手持设备通信，同时，还使用三重数据加密标准(DES)或高级加密标准(AES)对数据进行加密。&lt;br&gt;&lt;br&gt;并且每个软件的权限用户都是可以修改的，或者BES服务器的管理员来修改。&lt;br&gt;&lt;br&gt;&lt;br&gt;BES&lt;br&gt;在使用黑莓BES服务的手机与服务器的通信中，所有数据传输采用了AES-256位或3DES加密，此加密算法世界从未破解成功。&lt;br&gt;黑莓发邮件，从A机发邮件，发送前手机SMIME服务对邮件加密，压缩后传送至基站，基站传送至BES Server, BES邮件解密解压缩发送至的邮件服务器中发送，收邮件也是同样的道理，BES从邮件服务器中获取内容加密后传送至黑莓终端。&lt;br&gt;打个比方，&lt;b&gt;运营商的网络就是高速公路，信号就是运输车辆，你的信息就是车上的货物。一般的信息是在大货车上运输的，会丢包会被人看见如果遇见警察还会被人用关键字审核。那么黑莓发出去的信息就是打碎打乱在很多个不同的运钞车里面运输的，不会丢不会被看到无视警察无法审核，而你的代价就是运钞车的租赁费用，每个月XX元。&lt;/b&gt;&lt;br&gt;&lt;br&gt;SMIME的功能解释：&lt;br&gt;全称Secure / Multipart Internet Mail Extensions 安全多用途网络信件扩展格式，他是一个给邮件传输提供比标准系统更加安全的系统，最广泛使用的邮件加密协议，该协议由IETF RFC组织定义&lt;br&gt;&lt;br&gt;原理：&lt;br&gt;发送人使用接收人的公钥加密邮件&lt;br&gt;接收人使用自己的私钥解密邮件&lt;br&gt;签名发送人使用自己的私钥签名邮件&lt;br&gt;接收人使用发送人的公钥验证邮件&lt;br&gt;加密和签名&lt;br&gt;&lt;br&gt;总之，就是&lt;b&gt;不管在手机里面的信息还是传输中的信息，只要你想，都可以加密到这个世界没有任何人可以破解的程度。同时你的代价就是没有很多好用的软件可以用……&lt;/b&gt;&lt;br&gt;&lt;br&gt;欢迎讨论，有些是Google来的或者朋友写的，有些东西全凭记忆写的，如果有差错欢迎指出。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21359865/answer/18355547
+</link>
+<author>
+张佳玮
+</author>
+<title>
+在七龙珠里，为什么伴随主线剧情走到最后的是贝吉塔，而不是孙悟空的哥哥拉蒂兹？
+</title>
+<description>
+谢邀。&lt;br&gt;&lt;br&gt;不知道你注意过这个细节没：&lt;br&gt;&lt;b&gt;《七龙珠》里，滥杀过无辜的人，都会死，而且永不超生，无法洗白。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;拉蒂兹杀死过那个”战斗力只有5的渣滓“。&lt;/b&gt;&lt;br&gt;&lt;br&gt;其他：那巴杀死过天津饭、饺子和短笛。萨博和多多利亚都杀过那美克星人。弗利萨血债累累。人造人19号和20号杀过市民。沙鲁就不提了。&lt;br&gt;他们都死了，而且没机会洗白。&lt;br&gt;&lt;br&gt;&lt;br&gt;老短笛杀过许多人，所以死了；短笛没屠戮过地球人，所以能洗白。16、17、18号没屠戮过地球人，所以能洗白。贝吉塔没屠戮过地球人，所以能洗白。但他一直背负着罪孽，所以那美克星上死了一次。最后比武大会上，他被控制后，杀了场上观众，于是打布欧又死一回，算是赎罪。&lt;br&gt;综上，只要没大肆屠戮过无辜群众的人，或者以死赎罪过的，就都还能洗白。&lt;br&gt;&lt;br&gt;毕竟是少年热血漫画，有个基本是非。&lt;br&gt;所以鸟山明在这种事情上，其实非常非常细心。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20594483/answer/18347394
 </link>
 <author>
@@ -268,34 +296,6 @@ http://www.zhihu.com/question/21469187/answer/18333584
 </title>
 <description>
 我认为人们对复仇的喜好，大致来源与一种非常广泛的认知倾向：&lt;br&gt;&lt;br&gt;&lt;strong&gt;公正世界假设/公正世界谬误 （Just-world Hypothesis/Just-world Fallacy）：一个人的所作所为会给他带来公正的结果；他做好事就有好报，做坏事就有坏报。换言之，一报还一报，不是不报，时候未到。再换言之，就是把事情的结果，归因于更高的道德层面上的公平。&lt;/strong&gt;&lt;br&gt;（发现没有，文化之间的相似性，很多时候来源于人类的某些共性）&lt;br&gt;&lt;br&gt;人类为什么会有这样的假设呢？社会心理学家Melvin Lerner（最先研究这个现象的心理学家）提出，正常人在生活中，需要维持一个良好的自我感觉，但正常人又常常会遇到身边的人、报纸上的人、各种各样的人遭受不幸。这样的事虽然很多，但大多数人并没有陷入恐慌，原因便在于我们都多多少少有些公正世界的假设，&lt;strong&gt;认为这些人之所以遭受不幸，一定是因为他们做了什么错事&lt;/strong&gt;。&lt;br&gt;&lt;br&gt;因此，网络上也好、闲谈中也好，常常会出现怪罪受害人的情况（“你之所以被强奸，是因为你长得漂亮穿的少大晚上还光着大腿上街”）。这种想法或归因方式，很可能是偏激的、缺乏正义感的、不人道的、政治不正确的（所以强烈建议大家不要表达出这种看法），但他对我们自己的内心起到了安慰作用：&lt;strong&gt;只要我不做这样的事，只要我不是他这样的人，我就不会遭到这种不幸。&lt;/strong&gt;因为有着这样的信念，大多数人也保持着乐观，相信自己掌握着自己的人生脉络，而不会被某些（有原因的）意外打击致死。&lt;br&gt;&lt;br&gt;具体到复仇情结，正是因为复仇情结符合了人们的公正世界假设（你做了这样的事，所以被这样报复），安慰了人们“恶有恶报，善有善终”的愿望，所以人们才会对这个题材偏爱有加。实事不评，群众喜闻乐见的文学作品《呼啸山庄》，很多人对男主人公Heathcliff的同情也源于此：他之所以“丧心病狂”地报复，是因为Hindley和Edgar对他不公正的待遇，而后两者被Heathcliff“折磨致死”也是他们罪有应得。&lt;br&gt;&lt;br&gt;最后需要再次重申的是，公正世界假设虽然可以自我安慰，也可以解释一些事情的一部分原因，但这种倾向并不一定都是好的。谴责强奸受害者“长得漂亮”、“穿得少”是一件很荒谬的事，他们没有犯法，长相和穿着也是人家的自由，而犯罪者的邪恶行为才是悲剧发生的主因。公正世界假设有时候可以当作一部分解释，但永远不要忽略事情的主因和重点。（我好像跑题了。。。）
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20826516/answer/18298362
-</link>
-<author>
-王焱欣
-</author>
-<title>
-ATM 机的结构是什么？
-</title>
-<description>
-ATM分为两种：取款机和存取款一体机。取款机往往都是十多年前的老机型，安全性不高，现在正逐渐被存取款一体机所取代。 大家稍微注意下就能发现各银行的存取款一体机逐渐在增加，在大城市这种趋势更加明显（为了不取出假钞，请大家尽可能使用存取款一体机，放弃取款机）。&lt;br&gt;&lt;br&gt;本文主要介绍的就是存取款一体机的结构。下图是七八年前的存取款一体机老机型，虽然在市面上已很少见了，但ATM结构是类似的（为了避免透露敏感信息，请原谅我没用最常见的机型来举例）。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/ce/83/ce83079fad147062d34a78f6f60141df_m.jpg&quot; data-rawwidth=&quot;301&quot; data-rawheight=&quot;358&quot; class=&quot;content_image&quot; width=&quot;301&quot;&gt;ATM下半部分是个保险柜，里面放着ATM最重要的部件：&lt;b&gt;钞箱&lt;/b&gt;和&lt;b&gt;电脑&lt;/b&gt;。&lt;br&gt;&lt;b&gt;钞箱：&lt;/b&gt;自然就是放钱的地方，一般是4个钞箱，分为3个取款箱和1个存款箱（不光是存款，假钞异常钞都进了这个箱子）。个别机型有5个钞箱。每个钞箱的设计容量是&lt;b&gt;30w&lt;/b&gt;RMB，这指的是新钞票，一般银行往里面放的是旧钞，钞票会稍微厚点，所以每个钞箱一般就20多wRMB。  &lt;br&gt;在这里要请对ATM有企图的江湖大盗仔细想想，一台ATM满打满算也就几十w，说不定里面还没满，其获取难度和收益太不成正比，所以请放过ATM吧，弄坏了还得让我们来维修，很麻烦的。&lt;br&gt;&lt;b&gt;电脑&lt;/b&gt;：windowsXP系统，不同于常见的XP，是专门向微软定制的XP系统。电脑本身配置不高，也不需要太高，大家存取款操作的界面就是windowsXP上运行的一个软件，和office等工具软件是类似的，只不过这软件可以控制ATM存取款而已。 有时候程序异常退出，大家可以看见ATM屏幕上显示熟悉的windows桌面或者Dos界面。&lt;br&gt;&lt;br&gt;ATM上半部分不会存放钞票，顶多是存款时暂存一会，所以时不时看见新闻报道说某某人怒砸ATM屏幕/出钞口试图拿钱，我只想诚心的说一句：哥，你砸错地儿了，那儿没钱而且也不值钱，砸坏了银行不心疼。&lt;br&gt;ATM上半部分中最关键的部件是：&lt;b&gt;验钞模板。&lt;/b&gt;位置是在出钞口往ATM机体内侧几厘米。&lt;br&gt;&lt;b&gt;验钞模板（术语叫BV）：&lt;/b&gt; ATM制造商最核心的技术，其理念是100%正确，绝对没问题。因为没有任何人允许自己收到一张假钞。国外的ATM制造商，其他部分都可以在中国生产，但验钞模块必定是在本国生产。如果一台外国ATM卖20w，其验钞模块就价值几w。而中国最大ATM制造厂商广电运通卖一台ATM才15w，比国外的便宜了几w就是因为其验证模块不如国外的好，底气不足（销售价格只是举例，如有雷同就算巧合吧）。  &lt;br&gt;另外还说一点，对存取款一体机，存款和取款都是会验钞的，而且是取款验钞一次，存款验钞两次，所以1、取款不会取到假钱。银行对这事非常重视，而我从业几年中，从没有银行对我们投诉这点。（有些取款机是十多年的机型早该淘汰了，取款不验钞，自然有可能取到假钱）。&lt;br&gt;2、媒体报道或者没报道的存款时可以以假换真的手段已经不可能发生。存取款一体机在中国已经好多年了，成千上万的ATM分布在全国各地，真有这种漏洞那会有多恶劣的影响啊，ATM从业者都直接下岗得了。&lt;br&gt;&lt;br&gt;&lt;b&gt;读卡器：&lt;/b&gt;能读磁卡和IC卡的模块。&lt;br&gt;&lt;b&gt;键盘：&lt;/b&gt;输入密码的键盘。采用的是硬件加密，安全性很高。 &lt;br&gt;谣言一：通过听按键的不同声音获得输入的密码（把键盘制造商当弱智？为啥要制造出有不同声音的键盘）。&lt;br&gt;谣言二：被人挟持时，通过反向输入密码报警（输入密码后，连ATM软件都不知道输入的是啥，银行怎么可能知道你是反向输入。银行只能判断密码对或错）。&lt;br&gt;&lt;b&gt;凭条打印机：&lt;/b&gt;打印给用户的凭证。出了问题，个人可以拿着凭条找银行。&lt;br&gt;&lt;b&gt;日志打印机：&lt;/b&gt;打印给银行人员和ATM厂商维护人员看的。记录ATM的所有交易行为和操作行为，如卡号、交易类型、金额、时间等。 如果ATM发生了长款或短款，负责ATM的银行职员就得拿着长长的日志纸， 仔细排查是哪笔交易出了问题。&lt;br&gt;&lt;br&gt;最后说说ATM整体的安全性。有知友说“ATM机是有震动报警系统”，这个真是想多了。近几年金融设备竞争激烈，年年降价年年省成本，连ATM的摄像头都不再是ATM标配，需要银行花额外的钱买摄像头，出现过某些ATM没装摄像头就直接上线了。连摄像头那点钱都要省了，怎么会还装个“震动报警系统”。&lt;br&gt;从硬件安全性上讲，要从ATM里拿出钱需要通过3把锁，其中关键的还是保险柜那把锁，另外2把锁我觉得就是打酱油的。&lt;br&gt;从网络安全性上讲，ATM连接的是银行内网，而连接网线的电脑放在最安全的保险柜里。如果能侵入银行内网，控制ATM吐钱不是难事（银行招标时，银行主机和ATM的接口文档自然流传到了ATM制造商，也就容易流传到社会上）。但既然已经牛B到能够侵入银行内网了，搞点电子转账汇款之类的一大笔钱就流动了，何必再打ATM那点小钱的主意。&lt;br&gt;&lt;br&gt;综上所述，ATM还是很安全的，请大家放心使用！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21462637/answer/18304842
-</link>
-<author>
-李峰
-</author>
-<title>
-关于品酒，如何入门，如何进阶？相关的专业标准是如何的？
-</title>
-<description>
-谢邀。&lt;br&gt;&lt;br&gt;这个问题问的有点大，我尽量一条条的回答。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;一.当我们在讨论品酒的时候，我们在谈论什么？&lt;/b&gt;&lt;br&gt;&lt;br&gt;记得知乎上有个问题，叫做“品酒为什么要由品酒师操作，不能被精密的化学成分分析取代吗”。品酒之所以不能被机器代替，是因为机器只能告诉你这款酒的成分，而人是一种不理性的动物，每个地区的人的口味偏好，都是不尽相同的，价格和营销方式也都会影响到人对同一款酒的体验。这个时候，就需要专业人士出马了。&lt;br&gt;&lt;br&gt;很多人以为酒水顾问需要保护味蕾和嗅觉，不能抽烟喝酒、吃辣吃香料，是因为他们混淆了酿酒师与酒水顾问的区别。酿酒师的工作性质，就是把人当作一具精细的机器来使用，因此酿酒师需要严格律己以保持嗅觉和味觉的绝对灵敏。而&lt;b&gt;酒水顾问不是干这个的，相对机器，他更像是一个传教士&lt;/b&gt;，把好酒的美妙传递给大家，告诉大家和酒有关的仪式和品饮方式，让大家能更愉悦的享受美酒。&lt;br&gt;&lt;br&gt;如果你不吸烟，你如何取得一个烟民的认同？如何自己体会到一只好的雪茄搭配干邑白兰地或者单一麦芽威士忌的美妙？如果你不吃辣，你如何取得一个吃货的认同？如何告诉湖北湖南人民何种美酒可以搭配他们的食物？&lt;br&gt;&lt;br&gt;&lt;b&gt;因此当一群专业人士或者爱好者在谈论品酒的时候，他们会谈论这个酒的香气、口感、结构、酿造工艺、风土和价格。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;二.大众对品酒的误解&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.香气&lt;br&gt;&lt;br&gt;很多人会以为一个酒水顾问一定天赋异禀，嗅觉异于常人。这是错误的。所有号称给自己的鼻子上了多少钱保险的业内人士，都是利用大众对此的误解，在营销自己而已。&lt;br&gt;&lt;br&gt;&lt;b&gt;一个酒水顾问的嗅觉，和常人没什么两样&lt;/b&gt;。而真正嗅觉异于常人的人，往往是以其他五官方面的缺陷为代价换来的（比如天生视觉或听觉有障碍），这类人在香水产业比较多。所以只要你嗅觉没什么特别问题，都可以通过后期训练，达到这个职业的需求。&lt;br&gt;&lt;br&gt;所谓后期训练，就是训练自己&lt;b&gt;对香气的记忆能力&lt;/b&gt;。因为普通人在生活中基本上不会有记忆香气的习惯（比如我喜欢拿玫瑰香气的香精瓶给女孩闻，大多数姑娘只会觉得非常熟悉可一时间就是无法具体描述它是何种气味）。&lt;br&gt;&lt;br&gt;通过短期的系统训练（不到一个月），正常人基本就能做到闻啥是啥的水平。&lt;br&gt;&lt;br&gt;大众关于香气的误解之二，就是觉得你能从一杯葡萄酒里闻出黑醋栗、蓝莓、桉树、香草、肉蔻的气味就很牛逼。但&lt;b&gt;闻出什么，只是最最基本的要求&lt;/b&gt;，你需要丰富的理论知识告诉自己何种葡萄品种酿造工艺陈酿方式造成了这种香气。&lt;br&gt;&lt;br&gt;一般记忆香气除了平时逮啥拼命嗅啥（超市就是个训练的好地方只要你能不在意旁人惊讶的目光），还有酒鼻子可供选择。一套54种香，非常高端大气。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e5/4d/e54da23672c85ddc87577ef26e7c842c_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;552&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/e5/4d/e54da23672c85ddc87577ef26e7c842c_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;2.年份，风土&lt;br&gt;&lt;br&gt;很多人会以为一个酒水顾问只用尝尝一杯酒，就能大致说出它的年份和产地，非常厉害。然后很多人会进而以为一个酒水顾问的工作性质就是这个。。。&lt;br&gt;&lt;br&gt;当然不是了。你从酒标上就能轻易看出产地葡萄品种和年份，再猜一次能产生任何经济效益么？&lt;br&gt;&lt;br&gt;这里顺便说说盲品知年份风土葡萄品种是如何做到的。&lt;br&gt;&lt;br&gt;首先，&lt;b&gt;盲品只是一个游戏&lt;/b&gt;，一个专业人士猜错年份风土和葡萄品种非常正常。因为在几十年前，葡萄酒产业还非常原始没有引入科学种植和酿造激技术，好酒和差酒的区别是非常大的。如果你喝到好的黑皮诺，那肯定就只有勃艮第。喝到好的赤霞珠梅洛混酿，肯定就只有波尔多。喝到好的西拉，肯定就只有罗纳河谷。而如今葡萄酒产业全球化，世界各地都能有条件产好酒（中国等国家除外），一瓶好的长相思，可能来自法国的卢瓦尔河谷也可能来自新西兰的cloudy bay。再加上除了那些知名葡萄品种，越来越多的全球各地的本土葡萄品种开始活跃在这个舞台，盲品的难度就更大了。&lt;br&gt;&lt;br&gt;记得曾经有一个记者采访一位葡萄酒大师（master of wine)，你上次把波尔多和勃艮第弄混是什么时候？别人回答，啊，就是今天中午吃饭的时候。&lt;br&gt;&lt;br&gt;不过虽然说了这么多，&lt;b&gt;在一定范围内，专业人士猜中年份风土葡萄品种也是非常容易的&lt;/b&gt;。&lt;br&gt;&lt;br&gt;所谓一定范围内，打个比方。假设我们都在一家葡萄酒专卖店工作，你是老板我是总经理，然后有一天你准备考我一下，从酒窖里拿了瓶酒出来请我盲品。&lt;br&gt;&lt;br&gt;因为我在这儿工作，所以我知道我们店主销的是法国产品，因此我只用判断葡萄品种是何种法国主流葡萄品种即可。因为我和你共事，知道你这个人比较小气，只会拿几百块售价于是进价不会超过两三百块的酒请我喝，因此我只需要从0607,0809,1011（分别代表了这个价位的老，适饮和年轻）这三个年份区间做选择。如果我觉得这个酒的口感有点老，那我就会选择06年或者07年，大致都不会错。&lt;br&gt;&lt;br&gt;至于有些人喝上一口酒就能告诉你这个酒的葡萄是在清晨的露水中由工人一串串亲手摘下或者破皮过程是由抠脚大汉手牵手用脚踩的。。。相信我，也是可以做到的。&lt;br&gt;&lt;br&gt;因为他心中首先判断出了这款酒的产地，然后他坚实的理论知识告诉他这个区域的法律规定了只能人工采摘或者人工破皮。于是他潇洒的装了一手好格调，深藏功与名。&lt;br&gt;&lt;br&gt;所以，一个&lt;b&gt;盲品，考到的其实是非常多的知识储备&lt;/b&gt;。每个酒水顾问光鲜的外表背后都是啃书啃到死，如图&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/cd/2e/cd2ed8d02e2bfdd1dbb798eaee514354_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;346&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;440&quot; data-original=&quot;http://p4.zhimg.com/cd/2e/cd2ed8d02e2bfdd1dbb798eaee514354_r.jpg&quot;&gt;&lt;br&gt;3.所谓品酒师&lt;br&gt;&lt;br&gt;可能有人已经注意到了，在上文里，我没有用品酒师，而是用酒水顾问（wine specialist)这个称呼来指代这个专业群体。&lt;br&gt;&lt;br&gt;因为&lt;b&gt;在国外，根本是没有品酒师这个职业&lt;/b&gt;的。。。&lt;br&gt;&lt;br&gt;侍酒师，调酒师，酿酒师，葡萄酒专栏作家，酒吧店主，葡萄酒培训师，品牌大使（brand ambassador)......这些都是职业，一目了然。但是品酒师是什么？品酒能创造出经济利益么？&lt;br&gt;&lt;br&gt;所以基本上，自称自己是品酒师的，如果不是为了让大家对自己的职业有个快速理解（说自己是品酒师比解释给杂志写专栏给人搞培训更容易），就是爱装逼的，尤其是那些在业内人士面前还自称品酒师的人。&lt;br&gt;&lt;br&gt;当然，国内的品酒师不在我说的此类。国内的白酒品酒师做的其实就是酿酒师的工作。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;三.品酒的规范标准&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;品酒当然是有一套自己的规范标准的。一般都会按照&lt;b&gt;外观，香气，口感，和结论&lt;/b&gt;这个框架进行。&lt;br&gt;&lt;br&gt;所以一份正规的品酒笔记，大致写成这样&lt;br&gt;&lt;br&gt;Wine: XXX. XXX. XXX&lt;br&gt;Appearance: A clear, pale, lemon green wine with a watery rim&lt;br&gt;Nose: This wine is clean, pronounced intensity, developing aromas of peach, green apple and botrytis&lt;br&gt;Palate: This wine is medium sweet with high acidity, medium- alcohol and medium+ body. It has a pronounced flavour intensity with flavours of peach, botrytis, honey, lemon and a creamy coating texture. Long length.&lt;br&gt;Conclusion: An outstanding wine, can drink now but has potential for ageing.&lt;br&gt;&lt;br&gt;如你所见，通过观察外观，品闻香气，体会口感，最后得出了结论。这个酒究竟怎么样？值得陈年还是应该尽快喝掉？可以打多少分？值不值得它的价格？&lt;br&gt;&lt;br&gt;当你判断是否该让它们陈年和可以卖多少钱的时候，你就开始创造经济价值了嘛。&lt;br&gt;&lt;br&gt;而做出这样的判断，更多的不是基于它的外观和香气，而是基于它的口感和结构。&lt;b&gt;是结构（丹宁，酸，酒精度，香味物质）决定了它是否值得陈年，是香气的复杂程度和回味长度决定了它值多少钱。所以口感和结构，就是我们品酒时最应关注的点了&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;b&gt;一份正规的优秀的品酒笔记，是可以让另一位没喝过这款酒的专业人士，仅通过你的笔记就判断出你喝的是哪个地区哪种葡萄哪个年份甚至哪家产牌的酒的&lt;/b&gt;。因此客观和专业非常重要。&lt;br&gt;&lt;br&gt;相比之下，&lt;b&gt;一切文艺的品酒笔记，都是在耍流氓&lt;/b&gt;。或是在掩盖自己的无能。&lt;br&gt;&lt;br&gt;比如：这款酒让我想起了我的青春，那是2001年3月的一个下午，我和我的女朋友，带着一块桌布和一篮食物，来到了北京市郊的一处草地……&lt;br&gt;&lt;br&gt;我见过的最夸张的两条品酒笔记，一条来自知乎，还有一条来自微博。微博上的那条大致是这么写的：很多人问我拉菲是什么味道，我无法回答这个问题因为我没有喝过大拉菲。小拉菲给我的感觉，就像西门吹雪的剑，温暖，犀利，锐意。悄无声息的，就迅速捕获了你，恰如爱情。&lt;br&gt;&lt;br&gt;咳，这样的品酒笔记，读完除了知道西门吹雪很厉害，爱情很厉害，关于这款酒你还知道了什么？&lt;br&gt;&lt;br&gt;总之，&lt;b&gt;像普鲁斯特描写玛德琳小点心那样的品酒笔记，虽然很美，但全无用处&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;四.剩下的问题有空了再写。主要会写些品酒的哲学和喝酒装逼的哲学。&lt;/b&gt;
 </description>
 </item>
 </channel>
