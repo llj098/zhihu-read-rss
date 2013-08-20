@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21235456/answer/18453779
+</link>
+<author>
+郭则庆
+</author>
+<title>
+战争时，躲在弹坑里会降低被炮弹击中的概率么？
+</title>
+<description>
+如果算直接命中的话如同&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/nordenbox&quot; data-tip=&quot;p$b$nordenbox&quot;&gt;@罗登&lt;/a&gt;所言，每个点被命中的概率都是一样的，不会因为弹坑被击中过再次被击中的概率就小了。&lt;br&gt;但是炮弹毁伤主要靠的是爆炸破片。因为炮弹一般是在落地后爆炸，躲在弹坑里被爆炸破片伤到的概率显然会大大降低；另外爆炸冲击波进入弹坑后会形成稀疏波，因此冲击波的强度理论上有所降低，但这个降低的量就要看弹坑的大小和形状了。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/28/e6/28e6676afc86dd2dfa2ec073c63d2c4a_m.jpg&quot; data-rawwidth=&quot;794&quot; data-rawheight=&quot;396&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;794&quot; data-original=&quot;http://p3.zhimg.com/28/e6/28e6676afc86dd2dfa2ec073c63d2c4a_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21508156/answer/18452345
+</link>
+<author>
+徐腾飞
+</author>
+<title>
+既然有傻瓜式的结构设计软件了，为什么还要在大学里学习力学、混凝土结构这些专业课？
+</title>
+<description>
+傻瓜软件是给傻瓜用的，这当然是一句笑话。这里的傻瓜都是打引号的。&lt;br&gt;&lt;br&gt;要不要学，力学，混凝土结构这些专业课，当然要，你们不学我就失业了。&lt;br&gt;&lt;br&gt;为什么要学呢？有几个原因&lt;br&gt;&lt;br&gt;&lt;b&gt;1、真的有所谓的傻瓜设计软件吗？&lt;br&gt;      傻瓜软件（或者说智能设计软件，傻瓜和智能都是一回事）可以搞定所有事情吗？&lt;/b&gt;&lt;br&gt;我一直也幻想这有这样的智能软件，可惜现在的科技水平下，还没有。&lt;br&gt;&lt;br&gt;在我的专栏文章&lt;a class=&quot; wrap external&quot; href=&quot;http://zhuanlan.zhihu.com/soar1120/19568941&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;有限元基本思想&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;中就提到了下面的观点：&lt;br&gt;&lt;img data-rawheight=&quot;325&quot; data-rawwidth=&quot;587&quot; src=&quot;http://p1.zhimg.com/49/dc/49dc0a52dd056f5b5a7268596feb2540_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;587&quot; data-original=&quot;http://p1.zhimg.com/49/dc/49dc0a52dd056f5b5a7268596feb2540_r.jpg&quot;&gt;计算机没法自动帮你建立一个正确的结构有限元模型，模型需要人来正确的建立（现实中，经常人也未必能够正确建立模型），这需要力学知识。&lt;br&gt;&lt;br&gt;&lt;b&gt;举一个例子，一个普通的简支梁桥的验算。&lt;/b&gt;&lt;br&gt;一个25m跨的简支梁桥。跨度这么小的一个桥，而且是简支梁桥，按说是很好建模分析的一个桥了。但是别小看了这么一个桥，他的宽度达到了将近17m。&lt;br&gt;&lt;b&gt;&lt;br&gt;也就是说，这已经将近是个板了，而不是简单的梁。&lt;/b&gt;这个判断，是需要力学知识的。&lt;br&gt;同时要做出另一个判断，&lt;b&gt;大件车在桥中线附近通过，如计算时认为梁体完全整体受力，有可能导致结果偏于不安全。因此要先分析板的受力有效宽度，再进行验算。&lt;br&gt;目前的傻瓜软件，可不会帮你做这个判断。&lt;br&gt;&lt;br&gt;在这里，我先用Ansys建立了该桥的空间分析模型，考察在车辆居中运行的时候，桥梁的空间变形情况。&lt;br&gt;&lt;br&gt;然后根据变形情况，得到荷载的有效分布宽度，并得到每个箱室的荷载分配。&lt;br&gt;&lt;br&gt;同时，利用桥梁博士分析平面分析中，每个箱室的横向分配系数。&lt;br&gt;&lt;br&gt;在这两个基础上，选取安全的横向分配系数。&lt;br&gt;&lt;br&gt;最后用Midas软件，进行验算。&lt;br&gt;&lt;br&gt;这中间的每个步骤都是需要有力学知识作为判断依据的。&lt;br&gt;&lt;img data-rawheight=&quot;349&quot; data-rawwidth=&quot;559&quot; src=&quot;http://p2.zhimg.com/5c/42/5c42324ab259a3fb2c6d299cd8c155d5_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;559&quot; data-original=&quot;http://p2.zhimg.com/5c/42/5c42324ab259a3fb2c6d299cd8c155d5_r.jpg&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;2、如果傻瓜软件（或者说智能设计软件，傻瓜和智能都是一回事）很牛叉叉，大部分问题都能搞定，还要不要学力学和混凝土结构。&lt;br&gt;&lt;br&gt;&lt;/b&gt;答案是：当然要&lt;b&gt;。&lt;br&gt;在&lt;/b&gt;&lt;b&gt;&lt;b&gt;傻瓜软件都能搞定大部分问题的前提下，&lt;/b&gt;我们设想一下这样一个场景：&lt;br&gt;&lt;br&gt;&lt;/b&gt;业主要修一栋房子或者一座桥。他打开一个傻瓜软件，设定几个参数，噼噼啪啪两下搞定，图纸什么乱七八糟的东西都开始在打印机里出来了。&lt;br&gt;&lt;br&gt;这时候还要设计院干啥，还要设计师干啥。&lt;br&gt;该干啥干啥，该关门的关门，该回家带孩子的带孩子。&lt;br&gt;&lt;br&gt;&lt;b&gt;哪些设计师不回家带孩子呢？&lt;br&gt;&lt;br&gt;业主突发奇想，这里我要搞个这个新奇玩意，输入电脑，我靠，居然搞不定。&lt;br&gt;快，去找个设计师来给我看看&lt;br&gt;&lt;br&gt;这个被找的设计师，就可以继续工作了。&lt;br&gt;&lt;br&gt;3、规范都有错，何况傻瓜软件&lt;/b&gt;。&lt;b&gt;一个好的结构师绝对不能拘泥于规范。&lt;/b&gt;&lt;b&gt;&lt;b&gt;我们有个很错误的观点，规范就是法律，是不可逾越的。&lt;/b&gt;有时候我甚至开玩笑说，规范就是用来违背的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;实际上，规范只是标准，是一直在更新的，哪条法律每隔两三年就更新一次。（关于这条，我想有时间写个专栏文章讨论一下）&lt;br&gt;&lt;br&gt;规范不可迷信，傻瓜软件就更有可能错误百出了。&lt;br&gt;&lt;br&gt;&lt;br&gt;比起计算机或者其他专业来说，土木专业课程的设置是和实际紧密相关的，因为土木太成熟了，毕业后用的东西就是上课中学的东西，不存在学的过时的问题。&lt;br&gt;&lt;br&gt;所以还是好好学吧。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21506181/answer/18456002
 </link>
 <author>
@@ -46,7 +74,7 @@ Martin Lee
 http://www.zhihu.com/question/21505586/answer/18443313
 </link>
 <author>
-知乎用户
+仲晨
 </author>
 <title>
 ZMap 为什么能在一个小时内就扫描整个互联网？
@@ -74,7 +102,7 @@ http://www.zhihu.com/question/21508156/answer/18455226
 http://www.zhihu.com/question/21478931/answer/18400205
 </link>
 <author>
-知乎用户
+Jing
 </author>
 <title>
 晕车是怎么一回事？
@@ -102,7 +130,7 @@ http://www.zhihu.com/question/21390309/answer/18404877
 http://www.zhihu.com/question/21504071/answer/18444038
 </link>
 <author>
-知乎用户
+accc
 </author>
 <title>
 光大证券事件停止真的是靠拔电源吗？
@@ -146,7 +174,7 @@ http://www.zhihu.com/question/21508134/answer/18450597
 http://www.zhihu.com/question/21474237/answer/18343971
 </link>
 <author>
-知乎用户
+姜博
 </author>
 <title>
 买房子，要检查哪些建筑结构、施工细节，确定质量好坏？
@@ -174,7 +202,7 @@ http://www.zhihu.com/question/21505333/answer/18448187
 http://www.zhihu.com/question/21491713/answer/18445660
 </link>
 <author>
-知乎用户
+Xiaoxiao Lu
 </author>
 <title>
 为什么从事生物行业的人都说「生物是个坑」，但国内大学本科生物专业要求的分数却很高？
@@ -265,34 +293,6 @@ http://www.zhihu.com/question/21500787/answer/18431235
 </title>
 <description>
 首先要明确一个观念：私有财产神圣不可侵犯！管他熊孩子还是谁（切忌过于相信这句话对抗政府的作用）。&lt;br&gt;这种案件，如果属实，索赔基本是没有任何困难的。一来事实清楚：该熊孩子损坏了自己的手办、耳机等，二来证据确凿：有正规发票、有录音、有证人等等。&lt;b&gt;三来关系极其简单的民事纠纷，且当事人双方是亲戚，调解可能性大，法官愿意做工作（这点比较重要，因为积极配合调解的话，亲戚家不会败诉，不至于太难看，而己方也可以获得赔偿）。&lt;/b&gt;&lt;br&gt;法院立案庭的大厅写着“和为贵”三个大字，这是告诉人们不要事事诉诸法律；但是，如果因此走向了“厌讼”的极端，那就没有必要。官司不是什么洪水猛兽，打一场民事官司绝对不会让你名声扫地。对于民间纠纷，向来鼓励协商解决，协商不成的，可以打官司。我们常说“用法律武器保护自己”，怎么到了自己的财产受损时反而害怕使用法律了？&lt;br&gt;想保护自己的财产，就得敢于维权，现在连法院也不敢去，原因竟然是“害怕人家讨厌我”。谁被告了会爽啊，要告人家还要人家心甘情愿，那永远也别打官司了，受到损害就自认倒霉吧。&lt;br&gt;只希望这篇文章不是假的，白让我搜了这一堆案例。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.pkulaw.cn/fulltext_form.aspx?Db=pfnl&amp;amp;Gid=118670287&amp;amp;keyword=&amp;amp;EncodingName=&amp;amp;Search_Mode=&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;刘XX诉陶XX财产损害赔偿纠纷案&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（熊孩子因塞车不耐烦，撞坏挡风玻璃，被判赔偿1992元）&lt;br&gt;&lt;a href=&quot;http://www.pkulaw.cn/fulltext_form.aspx?Db=pfnl&amp;amp;Gid=118584190&amp;amp;keyword=&amp;amp;EncodingName=&amp;amp;Search_Mode=&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;原告陈永义诉被告杨东江财产损害赔偿纠纷案&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（熊孩子玩火烧坏树木，被判赔偿1017元）&lt;br&gt;&lt;a href=&quot;http://www.pkulaw.cn/fulltext_form.aspx?Db=pfnl&amp;amp;Gid=117903641&amp;amp;keyword=&amp;amp;EncodingName=&amp;amp;Search_Mode=&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;谢某与周一等财产损害赔偿纠纷再审案&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（俩熊孩子玩火烧山，被判赔偿7504元，ps：这俩熊孩子名字叫周一、周二）&lt;br&gt;&lt;a href=&quot;http://www.pkulaw.cn/fulltext_form.aspx?Db=pfnl&amp;amp;Gid=118171420&amp;amp;keyword=&amp;amp;EncodingName=&amp;amp;Search_Mode=&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;贺东x、贺小x、贺宇x、李xx诉贺军财产损害赔偿纠纷案&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（四个熊孩子把人家十多年的手稿拿走而且弄丢了，判赔精神损失8000元，这个可能有帮助，看当事人能否说明这些手办的精神价值，比如是限量版什么的）&lt;br&gt;&lt;a href=&quot;http://www.pkulaw.cn/fulltext_form.aspx?Db=pfnl&amp;amp;Gid=117676951&amp;amp;keyword=&amp;amp;EncodingName=&amp;amp;Search_Mode=&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;吴鸿娣诉章1等损害赔偿案&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（熊孩子拿走金首饰并且埋在花坛里后丢失，判赔1500元）&lt;br&gt;&lt;br&gt;随便搜了一下，类似的未成年人纯财产损坏案件有30多个，反正一句话：有损失、有证据，就有赔偿。不一一列举了。&lt;br&gt;至于给熊孩子军团以重击，靠法律还是不行的，得靠个人智慧……这里推荐果壳网一篇文章：&lt;a href=&quot;http://www.guokr.com/post/282955/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;【熊出没注意！】大家都是怎么治那些来家里玩的熊孩子的？&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20589441/answer/18364959
-</link>
-<author>
-吴思多
-</author>
-<title>
-为什么刚炒好的花生吃起来不脆，一定要等凉了以后才脆呢？
-</title>
-<description>
-上面得票数近百的是我学弟，都是学高分子的。我觉得他专业知识学得还挺扎实，只是应用在这个问题有点欠妥，说说我的看法吧。&lt;br&gt;首先说为什么跟高分子松弛理论没有关系。花生里面有24-25%的蛋白质，另外还有少量淀粉形式存在的碳水，如果较真的话还有点纤维素但是很少，也算多糖，这三样都是天然高分子，由于这三者都是极性高分子，熔点很高，在熔点以下都是刚性的，而且没到熔点前两者就变了性了。蛋白质的变性类于鸡蛋清的固化或者牛奶发酵成酸奶，淀粉的变性是从取向结晶的状态出现支链化这样更容易被吸收，纤维素没办法，取向太高结晶完善通常烹饪手段无法让它达到容易吸收的程度。话再说回来，这三者变了性也是刚性，过了玻璃化转变里面还是有氢键之类键合，无法表现出韧性。单纯讨论玻璃化转变是不合理的。花生是个混合物没法讨论玻璃化转变，充其量说一下软化温度。&lt;br&gt;那原因究竟是什么呢? 是水分的流失。花生我是真没少吃，油炸花生米下酒我吃了数不清多少了，生花生也吃了很多。油炸的过程除了天然高分子的变性以外，最明显的变化是水分的流失。吃货都知道花生不能炸太久否则水分流失了以后蛋白质老化以及不饱和脂肪酸的双键断裂会变得很快，表观上出现发黄。所以不能把水分炸干，应该炸差不多干再利用花生自身温度继续烘出水分。刚出锅的时候已经比生花生脆很多了，水分继续流失才会变得更脆。&lt;br&gt;有两个事实可以佐证，一，油炸过的花生放潮了会没那么脆了;二，油炸过的花生米冷却到室温后再炸一遍，出锅的时候你尝一下就知道了，依旧是很脆，因为水分已经不在了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21499374/answer/18437079
-</link>
-<author>
-张石敧
-</author>
-<title>
-阿基米德时代是地心论，为什么他会说出撬动地球这种毁三观的话？
-</title>
-<description>
-一、阿基米德真的说过那句话吗？&lt;br&gt;Δός μοι ποῦ στῶ καὶ κινῶ τὴν γῆν（给我一个地方站，我就能移动地球）这句话最早出现在帕普斯（Pappus of Alexandria，公元4世纪）的《数学汇编》第八卷（Hultsch本，p. 1060），此时已是希腊罗马时代末期，比阿基米德晚五百多年。帕普斯声称这句话是阿基米德说的，但他没有给出这个说法的来源。阿基米德本人的著作又遗失了很多，现存的阿基米德著作中找不到这句话。证据不足，无法判断。我们只能讨论一下可能性：&lt;br&gt;&lt;br&gt;二、地心说是当时的三观吗？&lt;br&gt;地心说的意思是大地静止在宇宙中心，这当然是古代很普遍的想法，人们凭着日常直观就会这么觉得。但最早想到这件事还需要论证的是阿那克西曼德（Anaximander，公元前6世纪），后来亚里士多德也给出了一个重要的论证。&lt;br&gt;&lt;br&gt;但是，阿那克西曼德年代久远，仅有只言片语传世，谈不上什么影响力。亚里士多德学说在阿基米德时代也没有影响，他的著作生前没有出版，死后藏在地窖里两百多年，到公元前1世纪才重新编纂出版。因此，在阿基米德的时代，地心说虽然是大众的普遍观念，也是许多天文学家使用的模型，但还不是一个得到严格论证的宇宙论学说，不具有不可动摇的地位。&lt;br&gt;&lt;br&gt;阿基米德《沙粒的计算》（Ψαμμίτης）这篇论文讨论怎样表示整个宇宙能装下的沙粒数目。那么当然他首先要明确「宇宙」的定义。在论文开头部分（Heiberg本，卷II，p. 244），阿基米德说：许多天文学家讲的「宇宙」是指以地球中心为球心，以太阳中心到地球中心的连线为半径的一个球体；而根据阿里斯塔克（Aristarchus of Samos）新发表的一些假说，宇宙要比上面说的大很多，以太阳为中心，恒星天球为边界，地球绕太阳做圆周运动，这个圆比恒星天球小得多。[1] 接下去，阿基米德分别按照这两种不同的宇宙定义计算了宇宙能装下的沙粒数目。&lt;br&gt;&lt;br&gt;由此可见，阿基米德时代对于宇宙中心在哪儿并没有一个权威的或固定的说法，阿基米德本人也对此保持开放的态度，并没有贸然判断地心说和日心说哪一个更正确。&lt;br&gt;&lt;br&gt;三、即使阿基米德赞成地心说，也不会妨碍他说出「移动地球」的话。&lt;br&gt;我们不妨假设一下，如果阿基米德时代的学者接受了阿那克西曼德或亚里士多德的论证，会怎样。&lt;br&gt;&lt;br&gt;阿那克西曼德的论证是：既然大地处在中心，也就是说它在各个方向上到边界的距离都相等，那么它有什么理由朝着这一个方向运动而不朝着那一个方向运动呢？所以，大地没有理由朝着任何一个方向运动，它只能静止在宇宙的中心。&lt;br&gt;&lt;br&gt;我们看到，这个论证的要点是对称性，由于各个方向上没有差异，所以没有理由运动。那么，如果阿基米德用杠杆或其它机械来推动地球，就已经打破了对称性，已经给了地球一个运动的理由，这并不违反阿那克西曼德的论证。&lt;br&gt;&lt;br&gt;亚里士多德认为阿那克西曼德的论证无效，他给出了另一个论证：根据他的运动定义，运动有自然运动和受迫运动之分，自然运动是因为自身的本性而运动。地球由土构成，土作为最重的元素，其本性就是向下，在不受迫的情况下会自然地朝着它的天然位置——宇宙中心运动。因此，即使把地球从宇宙中心移开，它还是会回到宇宙中心。所以，地球只能静止在宇宙的中心。&lt;br&gt;&lt;br&gt;亚里士多德论证的核心是自然运动，即在不受迫的情况下的运动。而希腊人所理解的机械，就是专门做自然做不到的事情。[2] 使用机械去推动地球，就是让地球做受迫运动，让地球暂时离开其天然位置，这是完全可能的，就像石块可以往上抛一样。因此移动地球也不违反亚里士多德的论证。&lt;br&gt;&lt;br&gt;综上所述，即使我们假设阿基米德的时代已经把地心说树立为权威，也丝毫不妨碍阿基米德发出「移动地球」的豪言壮语。&lt;img data-rawheight=&quot;400&quot; data-rawwidth=&quot;600&quot; src=&quot;http://p2.zhimg.com/a4/e7/a4e7083c793c68dcbe5b318aac7f53da_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/a4/e7/a4e7083c793c68dcbe5b318aac7f53da_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;----------------------&lt;br&gt;[1] 阿基米德讲的前一种宇宙定义其实是有点奇怪的。一般来讲，古希腊人都会认为宇宙要么没边界，要么以恒星天球为边界，没听说过谁把太阳所在的球面当成宇宙边界的，因为显然木星、土星、恒星等天体都比太阳更远，宇宙怎能不包含它们在内呢？或许阿基米德这里讲的是叙拉古地方对「宇宙」一词的某种特殊用法。&lt;br&gt;[2] 可见希腊人的「自然」概念跟近代以来的「自然」概念极为不同。近代科学会把机械做的事情也称为「自然」的，我们在加速器里制造只能存在几毫秒的人工元素，在实验室里制造转基因生物，这些都被认为是「自然」的事情，因为符合自然规律。然而在希腊人看来，这些东西就像亚历山大港的灯塔、罗得岛的太阳神铜像一样，是人工物而不是自然物，制造它们的过程就像用水车提水一样，是在用人力迫使自然物做违背自然的事情。
 </description>
 </item>
 </channel>
