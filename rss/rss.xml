@@ -15,10 +15,38 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21505586/answer/18443313
+</link>
+<author>
+仲晨
+</author>
+<title>
+ZMap 为什么能在一个小时内就扫描整个互联网？
+</title>
+<description>
+传统上的TCP/IP需要“三次握手”报文交互，在此期间需要维持记录着与对方交互的状态。&lt;br&gt;这种状态记录量是巨大的，占用内存和CPU资源很大。&lt;br&gt;而ZMap索性就不进行三次握手，只进行第一个SYN，然后等待对方回复SYN-ACK，之后即RST取消连接。这样肯定会因网络原因丢失一定比例的数据，根据其实验，这个比例在2%左右。&lt;br&gt;关键性的问题出现在对回复的SYN-ACK进行seq number的校验。传统上就需要记录状态。&lt;br&gt;而ZMap是将对方receiver ip地址进行hash，将其处理保存到了sender port和seq number两个字段中，当SYN-ACK回来的时候，就可以根据sender ip、receiver port、ack number这些字段进行校验。&lt;br&gt;因此避免了状态存储，接近了网络带宽极限。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e9/38/e9381d105ed0655c15b5d58a3e04572e_m.jpg&quot; data-rawwidth=&quot;939&quot; data-rawheight=&quot;698&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;939&quot; data-original=&quot;http://p2.zhimg.com/e9/38/e9381d105ed0655c15b5d58a3e04572e_r.jpg&quot;&gt;&lt;a href=&quot;https://zmap.io/paper.pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;zmap.io/paper.pdf&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21508156/answer/18455226
+</link>
+<author>
+猪小宝
+</author>
+<title>
+既然有傻瓜式的结构设计软件了，为什么还要在大学里学习力学、混凝土结构这些专业课？
+</title>
+<description>
+算是自问自答吧，请原谅我絮叨一点。&lt;br&gt;&lt;br&gt;在科幻小说界的传世巨著《基地》三部曲中，阿西莫夫描绘了一幅很巧妙却又很意味深长的画面。基地，地盘小，武装弱，但却在虎视眈眈的强权势力中游刃有余，甚至某种意义上，是基地凌驾于这些强权势力之上。基地对周边势力的控制，靠的不是大炮巨舰的武力威慑，也不是给钱给物的经济贿赂，而是靠着穿了“宗教”马甲的“科技”。&lt;br&gt;&lt;br&gt;基地为周边强大而又蛮荒的强权势力提供科技援助，免费且热情，比如核电技术和生物医学技术。然而，这些科技援助被有意的“伪装”成“宗教”。其它势力的所有技术人员都要到基地接受培训，基地教给他们的只是如何操作这些高技术设备，而不会教给他们背后的原理。事实上，这些技术人员被叫做“教士”。对于他们而言，基地教给他们的不是科学技术，而是宗教；他们也不是来基地学习，而是来“朝圣”；操作核电站也并不是在操作核电站，而是在以神圣的不可改变的仪式来侍奉“科学神殿”里的“神圣力量来源”。如果他们操作错了，核电装置坏了，对他们而言则是他们的神圣仪式出了差错、不够虔诚，所以神发怒了。同样，基地的先进药物都是神的恩赐，如果不按照神的旨意服用，那么也会得到神的惩罚，比如病治不好或者副作用。对于周边的强权势力来说，基地并不是科学援助的来源，而是神灵的所在，上天眷顾之所。&lt;br&gt;&lt;br&gt;当然，我们能在阿西莫夫的描写中看到历史上罗马天主教廷的影子。但同样，我觉得《基地》也揭示了现代技术与从业人员之间的微妙关系。我们知道我们自己在干什么吗？我们在一步一步的使用设计软件的时候，知道它具体的原理吗？如果不知道的话，我们跟这些基地培养的科学“教士”有什么区别？&lt;br&gt;&lt;br&gt;一定程度上，没有什么区别。&lt;b&gt;我们就是结构设计“教士”。有限元软件就是我们神庙里的神谕，规范就是我们神庙里的圣经。&lt;/b&gt;我们中的绝大多人，都是在依靠黑箱子里出来的神谕活着；我们中的绝大多数人，终其一生也不会走出圣经所规定的那个圈圈。“规范就是这么说的”和“软件算过去了就行”，嗯哼，“圣经就是这么说的”和“按照神谕做就行”，这就是我们结构设计师的两大信条。什么？神谕里面是什么样子的？圣经为什么是这样的？你管呢！&lt;br&gt;&lt;br&gt;也许这就是为什么像阿西莫夫这样的人会认为技术可能会反过来阻碍人类社会的发展：我们有可能沦为高技术的奴隶。久而久之，当年的技术资料终将被埋在历史的垃圾堆里，科技也将沦为宗教。到那时候，没有人会明白神谕的含义，没有人会明白圣经的来源。人类的命运不再属于我们自己，而是属于这些古老却顽固的神谕和圣经。&lt;br&gt;&lt;br&gt;&lt;b&gt;我并不是危言耸听，如果所谓的结构设计师只是一个机械的执行规范、图集、有限元软件的人肉批处理程序的时候，我们离危险也就不远了。&lt;/b&gt;规范里就是这么规定的，所以我遵守就行了。结果呢？汶川地震的时候，有几个框架真正做到了“强柱弱梁”？图集里楼梯就是这么配筋的，所以我比着做就行了。结果呢？汶川地震的时候多少楼梯被生生拉断？软件里没有楼梯，所以我不考虑它的影响。结果呢？有多少框架结构是因为偏心布置的现浇楼梯造成了严重的震害？&lt;br&gt;&lt;br&gt;就像钢结构论坛上的马升东老师所说的，结构设计软件这个黑匣子给设计师的眼睛上蒙上了一块黑布，标准图集又是一匹瞎马，而业主的“科学发展观”又不断的催促设计师赶路，真可谓是“盲人骑瞎马,夜半临深池”！&lt;br&gt;&lt;br&gt;甚至，有很多很多的结构“设计师”在直接用着 PKPM 自动生成的图纸，这都不是“盲人骑瞎马”了，简直就是“信马由缰”了。到底是谁在设计？“设计师”？还是 PKPM？当然，你可以说 PKPM 不够好，市面上有更好的。的确，比如 Midas 就看准了这个市场，推出了 Midas Building，号称可以一站式解决问题。但即使是软件再优秀，它能替代人类设计师吗？它能具有自我更新和自我纠错的能力吗？它会摆脱黑箱子吗？如果它不再是黑箱子式的神谕，它还能叫软件吗？&lt;br&gt;&lt;br&gt;很不幸，就目前来看，计算机是懒惰的、愚蠢的，它们倾向于偷懒，倾向于得到平庸的回答。也许有一天，人工智能的发展会让我们拥有优秀的结构设计机器人。但至少在目前，以及未来很长一段时间内，都不会有比 Ove Arup 或者 Jorg Schlaich 更优秀的机器人设计师。&lt;b&gt;没错，机器人可以在国际象棋上打败最好的人类，但我不觉得短期内机器人可以在结构设计领域胜过最好的人类，我不觉得短期内机器人会懂得结构设计的优雅和艺术。&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a2/39/a239817d29406a3db255fc21c5f55e32_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;400&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/a2/39/a239817d29406a3db255fc21c5f55e32_r.jpg&quot;&gt;这是 Ove Arup 设计的 Kingsgate 步行桥，看上去很平淡，但你能想象的出它是怎么建造的么？&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b4/c4/b4c45e940dc687115c255a7de9a7ed58_m.jpg&quot; data-rawwidth=&quot;799&quot; data-rawheight=&quot;292&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;799&quot; data-original=&quot;http://p3.zhimg.com/b4/c4/b4c45e940dc687115c255a7de9a7ed58_r.jpg&quot;&gt;这是这座步行桥的建造过程，先在河岸两边分别浇筑桥体的一半，然后分别旋转90度，刚刚好拼接成一座步行桥。这座桥的施工甚至都没有打扰到每天在河里训练的赛艇运动员。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/3a/fe/3afe309e1e36078f0d94960cfadb7c67_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;390&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p4.zhimg.com/3a/fe/3afe309e1e36078f0d94960cfadb7c67_r.jpg&quot;&gt;这是川口卫设计的神户 World Memorial Hall，这个穹顶又是怎么建起来的呢？&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/02/db/02db5bc9f7eda1f54d1195663b911030_m.jpg&quot; data-rawwidth=&quot;330&quot; data-rawheight=&quot;272&quot; class=&quot;content_image&quot; width=&quot;330&quot;&gt;这是它的施工照片，穹顶先在地面拼装完成，然后向上顶升。就像变形金刚一样，自己从趴着的状态变成直立状态。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b7/98/b79860f0b7b71f7091506cced05cd161_m.jpg&quot; data-rawwidth=&quot;1000&quot; data-rawheight=&quot;536&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1000&quot; data-original=&quot;http://p3.zhimg.com/b7/98/b79860f0b7b71f7091506cced05cd161_r.jpg&quot;&gt;&lt;br&gt;这是我画的示意图，可以想象成是顶升过程的连续曝光。不需要搭建大规模的脚手架，也不需要高空作业，只需要地面拼装，然后千斤顶同步顶升。&lt;br&gt;&lt;br&gt;之所以举这两个例子，是想说明为什么我说结构设计是优雅的，是艺术的。我对技术的发展很乐观，如果有一天，机器人、电脑、人工智能，不管是什么，只要它能做出这样的结构设计，我就认为我们不再需要人类设计师了。至于那会造成什么影响，完全是另一个问题，就像汽车替代了马车、网购代替了供销社一样。&lt;br&gt;&lt;br&gt;但很明显，你我都明白，很久很久以后，机器人才可能会拥有这样的创造力。所以，在这之前，我们还是需要人类设计师，这些优雅的设计还是需要人类设计师来完成。为了做到这些，你必须得明白背后的东西，而不是只会操作。你必须像基地的自己人一样掌握科学技术，而不是像基地培训的“教士”一样只会使用不懂原理。就像一个摄影师，为了拍出好作品，就必须至少明白光圈是什么、快门是什么、ISO 又是什么。如果只会用傻瓜相机，是很难拍出好作品的，甚至还可能会因为种种原因，造成曝光失误。&lt;br&gt;&lt;br&gt;回到正题，看看 GT STRUDL 的创始人 Leroy Z. Emkin 教授是怎么说的吧：&lt;br&gt;&lt;blockquote&gt;NO COMPUTER SOFTWARE PRODUCT SHOULD BE USED FOR STRUCTURAL ENGINEERING COMPUTATIONS UNLESS IT HAS BEEN FULLY AND PROPERLY VALIDATED AND CERTIFIED PURSUANT TO INDUSTRY ACCEPTED STANDARDS OF ENGINEERING SOFTWARE QA AND QC.&lt;br&gt;The structural engineer must apply the same high degree of care and detail when validating computer software accuracy and checking actual computer results as is applied when using time tested and traditional procedures for checking hand computations (e.g., every detail, data value, assumption, and computation must be checked and rechecked prior to use).&lt;/blockquote&gt;用 Emkin 教授的一句话结尾：&lt;br&gt;&lt;blockquote&gt;In other words, a good computer program does not make a good engineer, only a good engineer should use a good computer program!&lt;/blockquote&gt;&lt;b&gt;好软件并不会让你成为好工程师，只有好工程师才配使用好软件。&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21478931/answer/18400205
 </link>
 <author>
-知乎用户
+Jing
 </author>
 <title>
 晕车是怎么一回事？
@@ -46,7 +74,7 @@ http://www.zhihu.com/question/21390309/answer/18404877
 http://www.zhihu.com/question/21504071/answer/18444038
 </link>
 <author>
-知乎用户
+accc
 </author>
 <title>
 光大证券事件停止真的是靠拔电源吗？
@@ -90,7 +118,7 @@ http://www.zhihu.com/question/21508134/answer/18450597
 http://www.zhihu.com/question/21474237/answer/18343971
 </link>
 <author>
-知乎用户
+姜博
 </author>
 <title>
 买房子，要检查哪些建筑结构、施工细节，确定质量好坏？
@@ -118,7 +146,7 @@ http://www.zhihu.com/question/21505333/answer/18448187
 http://www.zhihu.com/question/21491713/answer/18445660
 </link>
 <author>
-知乎用户
+Xiaoxiao Lu
 </author>
 <title>
 为什么从事生物行业的人都说「生物是个坑」，但国内大学本科生物专业要求的分数却很高？
@@ -265,34 +293,6 @@ http://www.zhihu.com/question/20361395/answer/14910265
 </title>
 <description>
 剩余价值理论根本就是错的,因为剩余价值这个东西根本就&lt;u&gt;&lt;b&gt;不存在&lt;/b&gt;&lt;/u&gt;.&lt;br&gt;为什么剩余价值不存在,因为按照马克思定义,剩余价值=劳动价值-工资,&lt;br&gt;而劳动价值这个东西就&lt;b&gt;&lt;u&gt;不存在&lt;/u&gt;&lt;/b&gt;!&lt;br&gt;&lt;br&gt;为什么不存在呢?&lt;br&gt;@刘新征,提了一个很好的例子&lt;br&gt;A工厂，因为技术先进，每个员工月薪一万，资本家每月收入百万。B工厂技术或者管理落后或者货物不对市场销路，同样素质的工人，月薪5000，资本家每月干赔50万。请用剩余价值理论解释一下。剩余价值在哪里？？？ &lt;br&gt;&lt;br&gt;为什么会遇到这个困境呢?因为成本和收益之间根本就&lt;b&gt;没有必然联系&lt;/b&gt;.按照古典经济学的观点,收益是由市场供给和需求两方面力量决定的,而劳动价值论假设了收益(马克思的所谓劳动价值)由供给方决定的.&lt;br&gt;&lt;br&gt;举知乎作为例子,你在知乎上得到最多赞同的回答不一定是你最用心的回答,而一定是大家觉得最有帮助和共鸣的回答.&lt;br&gt;&lt;br&gt;劳动价值论会说,你在知乎上得到最多赞同的一定是你最用心的回答,这只有在&lt;b&gt;少数情况下是对的&lt;/b&gt;,&lt;br&gt;而古典经济学理论会说(市场订价格的理论),你在知乎上得到最多赞同的回答,一定是大家觉得最有帮助和共鸣的回答.这在&lt;b&gt;所有情况下都是对的,包括劳动价值论结果正确的时候&lt;/b&gt;.&lt;br&gt;&lt;br&gt;所以,&lt;b&gt;劳动价值论是错误的,古典经济学是正确的&lt;/b&gt;.&lt;br&gt;&lt;br&gt;以马克思主义经济学为基础的计划经济理论已经给中国造成了无数伤害,包括大炼钢铁等大量无谓的劳动,间接导致了毫无效率的国有企业垮台时无数工人的下岗.劳动价值论到底对谁有好处,不光要动心,也要动脑子想一下.&lt;br&gt;&lt;br&gt;因为上了知乎日报,有必要稍微对读者的评论做些回答.最大的意见是认为我没有仔细研读马克思理论,对概念不清楚,其实马克思的理论完全能解释我所说的现象.我简单解释一下,我大体同意马克思的理论是逻辑自洽的.但逻辑自洽其实是对任何理论最基本的要求,在马克思的框架下理解马克思理论当然是正确的.但问题的关键在于马克思理论是否能够真正帮助我们理解现实,并且更好地为中国的经济发展提供理论的指导.从这个角度说,马克思主义理论是失败的.
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20362737/answer/18437446
-</link>
-<author>
-徐腾飞
-</author>
-<title>
-大學老師是否真的月收入只有3000-5000，如果是那他們為什麽不跳槽呢？是因為有寒暑假而且工作很清閒嗎？
-</title>
-<description>
-&lt;img data-rawheight=&quot;544&quot; data-rawwidth=&quot;805&quot; src=&quot;http://p1.zhimg.com/02/85/02854d33ce8dd2db46ff17cdb9963082_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;805&quot; data-original=&quot;http://p1.zhimg.com/02/85/02854d33ce8dd2db46ff17cdb9963082_r.jpg&quot;&gt;&lt;img data-rawheight=&quot;516&quot; data-rawwidth=&quot;800&quot; src=&quot;http://p4.zhimg.com/70/bd/70bddb3255f4a06bd62bd0ea547738bd_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p4.zhimg.com/70/bd/70bddb3255f4a06bd62bd0ea547738bd_r.jpg&quot;&gt;&lt;img data-rawheight=&quot;345&quot; data-rawwidth=&quot;987&quot; src=&quot;http://p3.zhimg.com/2c/9e/2c9ee1c5500cfda3e11fab5651b379dc_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;987&quot; data-original=&quot;http://p3.zhimg.com/2c/9e/2c9ee1c5500cfda3e11fab5651b379dc_r.jpg&quot;&gt;&lt;br&gt;我可以直接把工资晒了吧。&lt;br&gt;&lt;br&gt;这是2013年的工资。&lt;br&gt;工资由三部分组成：工资+酬金+补贴（可选）。&lt;br&gt;&lt;br&gt;从上面几张图看出来，&lt;b&gt;扣完所有的税费之后，工资收入（含住房补贴）每个月是1592元，酬金收入是1672元，青年教师补充津贴700&lt;/b&gt;（这是今年才有，享受这个补贴，还要去上网络学校，还要交一笔学费，这个就不算了）&lt;br&gt;&lt;br&gt;合计每个月到手，4000左右吧。&lt;br&gt;年底有一次津贴发放，比较多。&lt;br&gt;预计今年的年收入，达到7万。&lt;br&gt;&lt;br&gt;今年是加薪了的，去年的情况是这样的：&lt;br&gt;&lt;img data-rawheight=&quot;434&quot; data-rawwidth=&quot;962&quot; src=&quot;http://p4.zhimg.com/32/17/3217cdac16619871944fedef3d0dcdd5_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;962&quot; data-original=&quot;http://p4.zhimg.com/32/17/3217cdac16619871944fedef3d0dcdd5_r.jpg&quot;&gt;&lt;img data-rawheight=&quot;482&quot; data-rawwidth=&quot;962&quot; src=&quot;http://p1.zhimg.com/48/65/486555e15dacdc576c553a36eafb2c1d_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;962&quot; data-original=&quot;http://p1.zhimg.com/48/65/486555e15dacdc576c553a36eafb2c1d_r.jpg&quot;&gt;&lt;img data-rawheight=&quot;469&quot; data-rawwidth=&quot;1002&quot; src=&quot;http://p4.zhimg.com/7a/34/7a34f685462b22b4fd6317acd3477000_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1002&quot; data-original=&quot;http://p4.zhimg.com/7a/34/7a34f685462b22b4fd6317acd3477000_r.jpg&quot;&gt;2012年是：工资737+酬金1000+住房补贴994=2700左右。&lt;br&gt;加上年终奖&lt;br&gt;&lt;br&gt;去年收入5万左右。&lt;br&gt;&lt;br&gt;&lt;br&gt;所以问题中收入是不是只有3000-5000，对于我来说，这是真的。&lt;br&gt;&lt;br&gt;&lt;br&gt;那我是否满意自己的收入呢？&lt;b&gt;我很满意，尤其是今年加薪之后。&lt;br&gt;&lt;/b&gt;&lt;br&gt;寒暑假就不说了，一年工作时间是10个月。&lt;br&gt;&lt;br&gt;应该是专业差异，我们系承担专业基础课和专业课教学，课程不重，所以平均一年有2门课上，就算多的了。每门课一周是上1-2次。&lt;br&gt;&lt;br&gt;如果不想晋升，一辈子都当个讲师，那就好好上课，一周上1-2次课，就可以拿3000-5000的工资，考核也没问题。剩余时间，就想干啥干啥，随便干点项目，一年10万收入是有的。&lt;br&gt;&lt;br&gt;如果要想晋升压力就会比较大了，&lt;br&gt;&lt;br&gt;1、每年寒假，都要给国家自然科学基金委交&quot;贺年卡“，直到中标为止，去年年三十，我就是在申报书，还好今年中了，今年的暑假可以轻松一点了。还有教育部的博士点基金，各个省部级的基金，都需要申报。&lt;br&gt;&lt;br&gt;2、论文，我们专业SCI不好发，我给自己订的目标就是1年写1-2篇出来，中不中另说。&lt;br&gt;&lt;br&gt;3、横向课题。&lt;br&gt;     3000-5000的工资，对于青椒来说，肯定是不够用的，所以还要想办法争取横向课题。而悖论是，青椒由于人脉和影响力问题，却比较难拿到科研课题，所以很可能就要加入某个团队，给某个大老板打工。&lt;br&gt;&lt;br&gt;&lt;br&gt;我还是属于想要晋升的那类人，虽然压力大，但是我还是喜欢。&lt;br&gt;首先是兴趣，毕业后没有去设计院，虽然设计院可能会有几十万的年薪，但是想着天天要画图和图纸打交道我就发毛；&lt;br&gt;那时候，不知道谁给我说了句话，我觉得很有道理，”拿着国家的钱，做自己感兴趣的事情，哪里找这个好事“。&lt;br&gt;&lt;br&gt;其次是还可以的收入，7万保底年薪，我是很满足了；&lt;br&gt;&lt;br&gt;然后是高校的平台好，进可攻，退可守，可以投身企业界，也可以好好教书，搞研究。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20405263/answer/16385266
-</link>
-<author>
-鼎革
-</author>
-<title>
-北京有哪些值得一看的博物馆？
-</title>
-<description>
-以下博物馆是我去过的&lt;br&gt;&lt;br&gt;&lt;b&gt;五星级推荐，去了还要再去的：&lt;br&gt;&lt;/b&gt;&lt;br&gt;故宫博物馆：大名鼎鼎，无需多说，本宫在北京生活十多年，去了十多次。每次感觉都不一样。&lt;i&gt;（备注：珍宝馆与钟表馆为常设展览，书画馆更换展品。午门上的展馆会与国外博物馆联合办展，前一阵被盗的就是这里了。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;中国国家博物馆：彪悍。去的时候记得自备干粮与衣服。里面冷气很足，而且没有吃的。我每次去都是被饿出来的。保安与服务人员很多，多到让人反感，而且态度极差，极为没有教养，志愿者人都不错。&lt;i&gt;（备注：有常设展馆与国外博物馆联合办展。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;首都博物馆：相比较国家博物馆高高在上装逼劲儿，我更喜欢首都博物馆的亲和力。北京到底是帝都，常设的展览的展品也很彪悍，定期也会跟国外博物馆联合办展。可以定期去看看。&lt;i&gt;（备注：有常设展馆与国外博物馆联合办展。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;中国古生物馆（中国科学院古脊椎动物与古人类研究所）：震撼，全是恐龙。几层楼高的恐龙！！！！！有侏罗纪公园里硕大的霸王龙啊有木有！！！&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;中国美术馆：在北京有这样的好处，不出国门就可以看到全球最顶级的名画作品。经常会有国家级的展览，什么达芬奇，毕加索的，每年都能看几次。&lt;i&gt;（备注：无常设展览，展览每月都不一样。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;中国人民革命军事博物馆(军博)：虽然是洗脑的地方，但能看到很多枪支大炮的，蛮有趣的。&lt;i&gt;（备注：常设展览，展品轻易不换，除非发射新的火箭了，然后残骸就拉过来摆着。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;火车博物馆：震撼。全是各种各样的火车，大到不可想象，我觉得比西客站都大。摄影爱好者必须去的圣地之一。&lt;i&gt;（备注：常设展览，展品轻易不换。说是博物馆，这里简直就是火车仓库嘛）&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;偶尔去一次即可的：&lt;br&gt;&lt;/b&gt;&lt;br&gt;孔庙和国子监博物馆：去过一次，有好多石碑，书法爱好者必须去的圣地之一。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;云居寺石经博物馆：烧香的时候去的，很震撼，经书藏在地底下，可以下去，像是藏宝库一样。就是离市区很远。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;北京市古代钱币展览馆：介绍古代钱币铸造工艺，就是几件屋子，放了很多铜钱，路过德胜门的时候，可以上去看看。博物馆可以用一个铜版压一个纪念币，蛮有趣的。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;白塔寺：就是一个塔，在门口看，跟进去看都一样。进去可以绕塔走几圈。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;某主席纪念堂：展品就是一具尸体，除非尸变，否则实在找不出去第二次的理由。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;大钟寺古钟博物馆：介绍大钟铸造工艺，还不错，很多钟。鼓楼那边的大钟其实是放在这里的。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;北京服装学院民族服饰博物馆：怎么说呢，不推荐专门跑去，主要讲丝织品的东西，路过的话或者去北服勾搭帅哥美女的时候可以顺便去看看。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;钟鼓楼（北京市钟鼓楼文物保管所）：没有爬过城楼、古塔的人可以上去看看，挺好的玩的。现如今鼓楼那边修地铁大拆迁，爬上去也没啥景色，等改造完申请中轴路文化遗产的时候再上去吧。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;圆明园展览馆：上次去圆明园赶上了沙尘暴，才知道什么叫废墟。那么好的园子就这样荒废了，实在是可惜，我个人是支持重新复原原貌的。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;五塔寺(北京石刻艺术博物馆)：除了好多石碑外，还有好多石雕，甚至还有整座石头雕刻的古墓，就在院子里摆着。五塔可以上去看的，建筑风格很不错。北京动物园后门出来，然后过河就是了，或者坐地铁到国图，沿着河岸往东大概六七百米。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;雍和宫藏传佛教艺术博物馆：因为雍和宫每年要去上香好几次，所以每次去也就顺便就看了。博物馆占了两间大殿，放了许多清朝时期赠送给藏地的密宗鎏金佛像，经书唐卡等，还有乾隆皇帝的蜡像与几件龙袍。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;老舍故居：逛王府井可以顺便去看看，标准的小四合院，标准北京知识分子的安静生活，想到老舍先生的惨死，每次去都很惆怅。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;红楼：挨着老舍故居，也可以去看看。红色教育基地，本宫莅临纯粹是看民国建筑与室内设计的。&lt;i&gt;（备注：常设展览，展品轻易不换）&lt;/i&gt;&lt;br&gt;&lt;br&gt;中华世纪坛：世纪坛本身不值得看，但联合展览做得还行。&lt;br&gt;&lt;br&gt;香山双清别墅：某主席住过的地方，在香山里面。爬香山的时候可以去看看。&lt;br&gt;&lt;br&gt;&lt;b&gt;不是博物馆，但也可以作为博物馆去的地方，也是&lt;/b&gt;&lt;b&gt;五星级推荐&lt;/b&gt;&lt;b&gt;：&lt;/b&gt;&lt;br&gt;&lt;br&gt;段祺瑞府：在张自忠路，地铁五号线出来就是，鲁迅纪念刘和珍君的地方。这个大院落弄得跟鬼屋一样，但其实是大杂院，隶属人民大学，相当有民国情调。门口保安不拦，直接走进去即可。&lt;br&gt;&lt;br&gt;琉璃厂：文玩字画街道，有荣宝斋可以逛。这是中国传统艺术喽，可以看到满大街启功先生写的招牌。&lt;br&gt;&lt;br&gt;国家图书馆：国图其实是有两个馆的。白石桥的新馆很震撼，每次座它的电梯都跟上天堂一样。而在北海旁边的文津阁是古籍藏馆，“望白塔而苦读”，相当有情调。出来后顺便可以去北海泛舟、景山公园走走。&lt;br&gt;&lt;br&gt;国家大剧院：买票听一场演出很便宜，连参观门票都省了。里面也有一些关于音乐的展厅。&lt;br&gt;&lt;br&gt;北京动物园：作为建于清朝的中国第一家动物园，还是去看看吧。&lt;br&gt;&lt;br&gt;今日美术馆：虽然不在798艺术区，但今日美术馆的展览不输于798的任何一展馆。在百子湾苹果社区。&lt;i&gt;（定期会有一些名人讲座，我上次去见到了传说中的原研哉）&lt;/i&gt;&lt;br&gt;&lt;br&gt;天安时间当代艺术中心（前门23号）：号称是前门地区的798艺术区，一个很大的院落，之前好像是各国大使馆吧。建筑很有特色，定期有不同的展览。&lt;br&gt;&lt;br&gt;宋庄：WOW，一个当代艺术的村落哇。&lt;br&gt;&lt;br&gt;&lt;b&gt;798艺术区，艺术馆的聚集地。（798无常设展览，每日都有新展的开幕酒会。）&lt;/b&gt;&lt;br&gt;&lt;br&gt;WOW，现如今的旅游胜地啊。里面有几个艺术展馆一定要去看的。这是当代艺术喽。除了国际知名的艺术馆外，也有一些画家的个人studio，艺术店铺，创意公司等。&lt;a href=&quot;http://www.798art.org/index.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;北京798艺术区网站&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;  这个网站有地图，里面太大，如果花心思逛需要两天时间。重点推荐的有：&lt;br&gt;&lt;br&gt;01：UCCA尤伦斯：目前中国区排名第一的私人艺术画廊。尤伦斯夫妇是享誉国际的收藏家，他们的策展也非常专业，工作人员也是来自全球。尤伦斯也是798唯一收取门票的场馆了。&lt;i&gt;（定期会有一些名人学者讲座，最近一阵子好像跟【三联生活周刊】搞学者讲座。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;02：蜂巢当代艺术中心（原伊比利亚当代艺术中心）：前一阵子西班牙抓了一个号称华人洗钱的团伙，这家艺术中心就是他开的。被抓后就改名了。这家艺术中心是目前仅次于尤伦斯专业的艺术空间，免费参观。&lt;br&gt;&lt;br&gt;03：东京画廊：听名字就知道是日本人开的。喜欢日本当代艺术的要时刻关注哦。&lt;br&gt;&lt;br&gt;04：时态画廊：如果你听说过798，那么一定是从这家画廊开始了解的。国产MV最爱拍摄的景点之一，工厂展馆内写着某主席语录的，就是这家。因为场地都是对外出租的，所以，这家画廊展览做得很一般。&lt;br&gt;&lt;br&gt;其它还有无数大大小小的画廊，不一一列举了，甚至耐克还有一家属于自己的艺术空间，门口放着一个大球鞋。上面四个是必须要去看的。&lt;br&gt;&lt;br&gt;&lt;b&gt;完全不推荐去的坑爹地方：&lt;br&gt;&lt;/b&gt;&lt;br&gt;恭王府及花园，绝对骗游客钱的坑爹地方，去了一次，后悔死了。里面人员主要的工作就是推荐康熙写的那个寿字。&lt;i&gt;（备注：无展品。全是骗钱的旅游纪念品商店。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;北京天文馆：坑爹的地方。理由是几万平米的展馆，展品就是几块都没巴掌大的陨石石头，然后就是什么4D影院，以及到处跑来跑去的熊孩子，还有一些火箭模型玩具，偷窥望远镜卖。&lt;i&gt;（备注：常设展览，展品轻易不换。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;北京王府井古人类文化遗址博物馆：坑爹的地方，在王府井地铁里，总共没30平米大，居然还收门票，因为实在没有可展览的，不知从什么地方借了一具干尸摆着……，同样是干尸，你看看人家广场上的那位待遇～，真是的。&lt;i&gt;（备注：常设展览，展品轻易不换。）&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;我没去过，但一直想去的地方：&lt;/b&gt;&lt;br&gt;&lt;br&gt;1，中国地质博物馆：没去过。&lt;br&gt;&lt;br&gt;2，天桥的自然博物馆：天桥那边交通不方便，而且每次去都迷路。上次到门口，人家下班了。&lt;br&gt;&lt;br&gt;3，观复博物馆：马未都的私人博物馆。据说宝贝很多，很多朋友都爱死了。&lt;br&gt;&lt;br&gt;4，紫檀博物馆：唐僧的老婆开的私人博物馆。地铁四惠东就到了。距离我家不过一千米，但没有去过，据说也是很震撼。每次路过那里都会想，不如去对面的高碑店家具市场看看～&lt;br&gt;&lt;br&gt;5，中国工艺美术馆：能看到好多宝贝，在复兴门，有时间去看看。&lt;br&gt;&lt;br&gt;&lt;br&gt;___________&lt;br&gt;&lt;br&gt;补充的：&lt;br&gt;&lt;br&gt;1&lt;br&gt;&lt;br&gt;北京正儿八经展览古文物的超级博物馆有3个，分别是故宫、国家博物馆与首都博物馆。堪称是惊天地泣鬼神，北京的博物馆怎是一个大字了得，不仅是囊括中国古代近代全部宝贝的经典场所，展品都过百万，你知道的，天朝地大物博嘛，动不动就要玩个世界第一，想要顺心逛一遍跟自助游其实差不多，倘若准备不足，走马观花，浪费了时间精力，也可能会错过一些珍贵的展品。，有的展品可能今生只能有机会见到一次，如果去了却没留意，岂不遗憾？国家博物馆号称是世界最大单体建筑博物馆。从南头走到北头，每个好体格都得累断气，何况是细心看展品呢。累都累死了。而故宫呢，更是世界最大的宫殿群，从书画馆走到珍宝馆都得小半天时间……，中间拍拍照，合合影，看看美女，好容易走到了，人家打样了……&lt;br&gt;&lt;br&gt;国家博物馆攻略：国家博物馆是免票的，可以提前网上预约，然后拿票进入即可。当然，如果没有预约也能进去。大多数人都在西门入口（朝着广场的那个门），傻乎乎的排队，排队就得小半天。其实，国家博物馆是有两个入口的，你完全可以从北门进去（朝着长安街开的门）。如果没有预约，门口保安会问你，不会放行。这时候，你就要拿出资深博物馆参观者的水平了。你只需说，我是来看收费展览的，需要买票的。&lt;br&gt;&lt;br&gt;嘿嘿。其实国家博物馆每一期都有一次收费的主题展，国家博物馆装修完毕的开幕展你知道是什么吗？路易士威登……，门票多少忘了，但你只需要买票进去即可，不然进去后依然要再买票。除非你不想看收费的展览，那就预约了，否则就去西门乖乖排队。国家博物馆的主题站做了LV与宝格丽这样的奢侈品品牌之后，就开始走大师路线了，什么打马赛克的米开朗基洛啦，以及最近的“道法自然——大都会艺术博物馆精品展”，可以看到伦勃朗、德拉克洛瓦、莫奈、雷诺阿、塞尚、凡高、高更、透纳、霍普的原作。这样的展览千载难逢，自然是买票也要去看的。&lt;br&gt;&lt;br&gt;去之前记得看国家博物馆的网站，另外，全球的博物馆、美术馆大多数在周一的时候休息不营业，嫌人多可以选择周二、周三去。去参观之前要做足功课，譬如这次展览的主题，有哪些珍贵展品可以提前了解一下。我有此去中国美术馆，专门去看达芬奇的铅笔画，很多人不知道这次展览有这样的宝贝，因为展品实在是太小，估计很多人都没有留意到。于是，我可以安静的站在其对面，没有任何人打扰，看了好久。如果有带纸笔，画几遍下来的时间都有。&lt;br&gt;&lt;br&gt;逛国家博物馆有个问题，就是里面冷气太剽悍，不累死也得冻死，人家服务生在夏天都西装革履的，你呢，就带一件登山服吧。另外就是食品与饮用水，不要指望在外卖吃完再进去，或者说在里面买面包了，自己带着便当，饿了休息一下可以有体力继续参观，博物馆卖东西都贵的要死，自己带最划算啦。&lt;br&gt;&lt;br&gt;参观的时候，可以租一台讲解机（博物馆、美术馆一般都有这玩意儿，找服务台即可），押金一般是100，收费十多块钱吧，有助于你了解展品。每个展厅，每格一段时间会有一个专门的讲解员带领，跟着听即可。国家博物馆的收费展览是不允许拍照的，但常规展览可以拍，记得不要用闪光灯，以免伤害文物。每个博物馆也都有镇馆之宝喽，国家博物馆是礼器，商周时期的青铜器，数量实在是太多……，够看的了。&lt;br&gt;&lt;br&gt;国家博物馆这个地方，用两整天的时间，可以细心看完。走马观花，每个场馆走一遍，大概需要半天时间。首都博物馆亦复如是，不再赘述。记得进门的时候，用手机拍摄一下场馆分布图，这样避免走冤枉路。&lt;br&gt;&lt;br&gt;&lt;br&gt;2&lt;br&gt;&lt;br&gt;故宫：基本上，去任何博物馆参观之前，都需要了解博物馆常规展览与镇馆之宝。而且，还需要了解外接联合展览的主题与展品。至于故宫，珍宝馆、钟表馆基本上不更改的，而书画馆一年要更换四次，每次都不一样，这个要提前了解一下。说不定你可以赶上《清明上河图》的展览呢。&lt;br&gt;&lt;br&gt;细说故宫，这个……太大了。我觉得每次去感觉都不一样，没办法一次性看完。我去了故宫有十多次吧，但有一次特殊经历我想拿出来分享一下。&lt;br&gt;&lt;br&gt;知道传说中的建福宫吗？也就是前年沸沸扬扬的全球顶级富豪独立私人会所的事情。我估计也没几个人知道里面是什么样子，有幸我去瞧过。事情是这样的，话说我认识的一位家居类杂志的编辑，要做一位设计师的专访，而这个设计师负责建福宫高级会所的室内设计。那天我跟这位编辑，还有一位香港的摄影师，在天黑的时候，来到了故宫的北门。&lt;br&gt;&lt;br&gt;故宫早已经打烊了，里面专门出来人开车接我们进去，来到了传说中的建福宫。我去的那个时候，里面还在装修，叮叮当当的，编辑负责采访嘛，然后设计师的另外一个同事，带着我跟摄影师在建福宫里参观。我靠，现在想起来还浑身起鸡皮疙瘩，太震撼了！话说故宫在晚上的时候，是要关灯限电的，以免“走水”，于是我们登上了建福宫里最高的建筑，一个阁楼。&lt;br&gt;&lt;br&gt;阁楼的楼梯在里面，先说这个楼梯。这个楼梯不是我们常见的中国古代建筑的楼梯，而是一个非常现代的楼梯设计。设计师是贝聿铭级别的一位大师，是不是贝律铭还是王澍我忘记了，反正是获得过普利兹克奖的设计师吧，总之这个楼梯放到任何的建筑空间里都是惊天地，泣鬼神的作品，足够流传千古。&lt;br&gt;&lt;br&gt;接下来，我们踩着楼梯，来到了建福宫的最高层喽，看到了现在想起来都起鸡皮疙瘩的壮观景象。没有一丝灯光，幽静而暗黑的紫禁城！！！！！具体壮丽的景象已经无法用语言形容，欢迎各位发挥想象。
 </description>
 </item>
 </channel>
