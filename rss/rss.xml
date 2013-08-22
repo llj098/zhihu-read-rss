@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21277559/answer/18185925
+</link>
+<author>
+知乎用户
+</author>
+<title>
+Mac OS X 中的 Time Machine 真的有用吗？
+</title>
+<description>
+当你硬盘损坏，假如你里面存储有你几年以来收集存储的资料&lt;br&gt;有你写了几个月的文档&lt;br&gt;有你拍的成千上万张相片&lt;br&gt;有你的所有个人信息&lt;br&gt;&lt;br&gt;那时候你会愿意花多少钱换回来呢？&lt;br&gt;&lt;br&gt;当然如果你本身的数据都不值钱，随时可以扔，想要了随时可以再下载回来，那么time machine没啥用&lt;br&gt;&lt;br&gt;事实上对于把电脑当做生产工具来用的人，他们的数据的价值都远远比几个硬盘贵得多&lt;br&gt;&lt;br&gt;数据恢复公司大概是恢复1M 80块钱打底。而且还不一定能恢复的出来。&lt;br&gt;------------------------------------------------&lt;br&gt;经&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/blk182&quot; data-tip=&quot;p$b$blk182&quot;&gt;@鼓鼓&lt;/a&gt; 提醒，TM还有一个非常有用的功能就是备份下来个人的系统使用习惯&lt;br&gt;在更换电脑的时候好用到爆&lt;br&gt;ios也沿袭了这个好处&lt;br&gt;我ios系统不愿意越狱的主要原因之一就是为了在更换了ip以后数据可以完全一样&lt;br&gt;我第一次使用的时候直接被震惊了
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20350322/answer/18481306
 </link>
 <author>
@@ -285,20 +299,6 @@ http://www.zhihu.com/question/19783376/answer/18460622
 </title>
 <description>
 纯粹分享一点八卦...&lt;br&gt;&lt;br&gt;0. 刚开始做&amp;lt;Iron Man&amp;gt;的时候，Jon Favreau导演说一部分盔甲的镜头要用实景道具拍，ILM给了他两个demo，导演挑了效果好的那个，但是效果好的那个是电脑渲染的...&lt;br&gt;&lt;br&gt;1. ILM拿了一大票学院科技成就奖，但是学院成就奖不和学院的表演奖一起颁发。一个老员工说是因为他们太nerdy了...&lt;br&gt;&lt;br&gt;2. 在&amp;lt;Battleship&amp;gt;之前，ILM的流体系统用的是基于PLS的PhysBAM，是Stanford的Ron Fedkiw教授和他一帮Phd马仔搞的。一个他的学生跟我说，ILM有个哥们认为他自己可以用一下午把整个流体系统重写了，牛逼吹太大了。后来Battleship的流体系统被一个叫Nick Rasmussen的人重写了[一大部分]。不过应该不是一下午写完的！因为我在的期间他基本都在写那个...&lt;br&gt;&lt;br&gt;3. Fedkiw教授是一个练举重的猛男，而且对学生非常狠。曾就有个学生因为连续工作过长时间，要回家洗澡，被Fedkiw教授过肩摔在楼道里。Fedkiw教授在ILM的title好像是advisor一类的。Fedkiw教授和Nick君是好基友，而且Fedkiw教授每次来ILM的时候会导致Nick君几个小时不能工作。&lt;br&gt;&lt;br&gt;4. ILM的兄弟公司Skywalker Sound，是给电影做音效的，也是Luas旗下的。Skywalker的威名其实要比ILM牛逼一点。因为ILM还有竞争对手如Weta, DD。但是Skywalker真的是无出其二。Skywalker在一个大农场里面，风景如画，还种葡萄。&lt;br&gt;&lt;br&gt;5. 我实习期间ILM的前身，做实景特效的公司Kerner Optical破产了。&lt;br&gt;&lt;br&gt;6. ILM的成功很大一部分是积累出来的。内部pipeline的工具一大堆。我的mentor用cuda写了一个实时的渲染系统，渲染一些不是特别复杂的光照物体的成图可以直接用于production了。&lt;br&gt;&lt;br&gt;7. 同为R&amp;amp;D部门，感觉Pixar的面试比ILM要难一点...&lt;br&gt;&lt;br&gt;8.  想起来继续补充...&lt;br&gt;&lt;br&gt;9. ILM的正门前有一个Yoda雕塑。整个公司保密不是一般的严格。基本上只有Yoda那一个地方可以拍照。&lt;img src=&quot;http://p2.zhimg.com/16/80/1680fa374e39593c62b04a499c16689c_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;834&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/16/80/1680fa374e39593c62b04a499c16689c_r.jpg&quot;&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21499606/answer/18468797
-</link>
-<author>
-罗璞
-</author>
-<title>
-如何评价网易和中国电信联合打造的即时通讯软件「易信」？
-</title>
-<description>
-易信推出的通讯协议开放方案，是对腾讯最有威胁的狙击。&lt;br&gt;&lt;br&gt;举例来说，如果360推出“安信”，百度做一个“百信”，这些产品可以和易信共用一套通讯标准、互联互通。如果我是安信用户，可以很轻松的使用易信的你发送消息，而你可以顺手转到百信的消息群里。&lt;br&gt;这是一次建立行业标准的尝试，如果能够成功的话，中国的大部分互联网企业、移动APP开发者甚至包括三大运营商，都可以开发自己的通讯软件，这些软件相互之间随意发消息就像发电子邮件一样，毫无障碍。&lt;br&gt;&lt;br&gt;如果微信不采用这个标准，那么它会和其他所有采用这个标准的移动通讯APP隔离开，等于以一个APP对抗全行业，胜负难料。&lt;br&gt;如果腾讯采用这个标准，那么任何工具上的任何用户都可以与微信用户往来沟通，用易信也能与微信上的朋友畅快聊天，微信的王牌——私有的社交关系网就成为所有人都能访问的公共资源，腾讯更不能接受。&lt;br&gt;网易和电信终于看到了一点击败腾讯的机会。&lt;br&gt;&lt;br&gt;当然，越是牛逼的战略设想，实施起来也越困难：&lt;br&gt;1、微信的免费业务还有些禁区，而易信免费几乎没有界限，这会很快要了运营商的命。运营商不会为了击败微信而去做一个比微信更危险的产品，哪怕这个产品是亲儿子也不行。电信内部的利益纠葛很可能会釜底抽薪，让易信半途而废。&lt;br&gt;2、开放平台的成功取决于行业应用广度。以三大运营商、各大互联网公司之间的竞争之激烈、芥蒂之深，要他们接受两位竞争对手倡导的标准几乎是不可能完成的任务。如果接入这个标准的企业过少，没有纠集起全行业的力量，那击败微信仍然没戏。
 </description>
 </item>
 </channel>
