@@ -15,10 +15,24 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20956344/answer/18565446
+</link>
+<author>
+刘炜
+</author>
+<title>
+Quartz Composer 如何入门？
+</title>
+<description>
+&lt;img src=&quot;http://p1.zhimg.com/00/96/009612e5c86fb437152b886ee55c4dd5_m.jpg&quot; data-rawwidth=&quot;512&quot; data-rawheight=&quot;256&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;512&quot; data-original=&quot;http://p1.zhimg.com/00/96/009612e5c86fb437152b886ee55c4dd5_r.jpg&quot;&gt;&lt;br&gt;Quartz Composer 是一款图形化的编程工具，专门用来生成各种动态视觉效果，包括可交互的界面原型。&lt;br&gt;&lt;br&gt;Quartz Composer 的优势一来在于它生成的交互原型是可操作的，二来它能生成的动态效果灵活丰富，自由度相当高（它可以自定义曲线控制运动速度与轨迹，如下图），另外它虽然是编程工具，但基本不用写代码就可以实现生成动态效果与交互所需要的逻辑。（对于复杂的逻辑则可以通过 JavaScript 实现）&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4f/96/4f964c79e68669278302d7cdf4dda72c_m.jpg&quot; data-rawwidth=&quot;687&quot; data-rawheight=&quot;460&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;687&quot; data-original=&quot;http://p1.zhimg.com/4f/96/4f964c79e68669278302d7cdf4dda72c_r.jpg&quot;&gt;在 Quartz Composer 中可以通过 Timeline Patch 来自定义动态变化的轨迹。&lt;br&gt;&lt;br&gt;与 Quartz Composer 对比起来，After Effect 等工具制作的交互演示动画是不可操作的，开发者仅看一段设定好的动画理解起来可能会有障碍。HTML/CSS/JS 实现的交互原型可操作，但动画效果不如 QC 丰富灵活，另外写代码经常需要除 bug，也增加了时间成本。（因此不需交互的动画就别用 QC 来做了，用 QC 来实现动画效果某种程度上相当于用代码把动画写出来，效率自然不如 AE 高。同理，如果熟悉 HTML/CSS 的话，用于网页的 CSS 动画也没必要用 QC 来设计）&lt;br&gt;&lt;br&gt;简单来说可以把 Quartz Composer 想象成图形化的 jQuery，我们只需把封装好的代码模块（patch）组装起来，设好参数，便能生成各种动态效果。由于是个编程工具，入门 Quartz Composer 需要点编程基础，最好会写 JavaScript 方便实现复杂的逻辑（初期对各种 patch 不熟悉更常会用到）。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9a/2c/9a2c00386e15d81f9303fbefda14a253_m.jpg&quot; data-rawwidth=&quot;940&quot; data-rawheight=&quot;413&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;940&quot; data-original=&quot;http://p2.zhimg.com/9a/2c/9a2c00386e15d81f9303fbefda14a253_r.jpg&quot;&gt;Quartz Composer 的基本原理就是把各种封装好的代码模块拼接起来。&lt;br&gt;&lt;br&gt;&lt;b&gt;我是这样上手的&lt;/b&gt;（废话完了，攻略开始）：&lt;br&gt;&lt;br&gt;1. 简单了解 Quartz Composer。QCDesigners 上有比较简要的介绍：&lt;a href=&quot;http://qcdesigners.com/index.php/forums/topic/2/new-to-quartz-composer-start-he&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;QC Designers&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，或者过一遍苹果的 Quartz Composer User Guide ：&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/QuartzComposerUserGuide.pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;developer.apple.com/lib&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;rary/mac/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/QuartzComposerUserGuide.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;2. 完整地看了 David O Brien 的 Facebook Home 视频教程，并下载源文件研究了一遍。需注意他的教程是现学现卖的，有的地方实现的方法不太优雅，但不碍于了解 Quartz Composer 的运作方式与制作流程。&lt;br&gt;&lt;a href=&quot;https://vimeo.com/channels/fbhomeqc&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;vimeo.com/channels/fbho&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;meqc&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.youtube.com/user/oledaveoh/videos&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;youtube.com/user/oledav&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;eoh/videos&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;3. 浏览 Branch 上的讨论：&lt;a href=&quot;http://branch.com/b/quartz-composer&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;quartz composer&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，其中 Facebook 设计师 Brandon Walkin 提供的示例文件非常值得参考。&lt;br&gt;&lt;br&gt;4. 上面 Branch 讨论中还有个示例文件是相当好的，里面的注释非常完善，认真地过一遍就基本会用 Quartz Composer 了。&lt;br&gt;&lt;a href=&quot;https://www.dropbox.com/s/v85bw3txks0k8av/Quartz%20Composer%20iPhone%20Screen%20Tutorial%20-%20%40verbiate.zip&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dropbox - Quartz Composer iPhone Screen Tutorial&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;5. 自己尝试制作 Quartz Composition，了解基本 patch 的原理和运作方式。所有 patch 在 app 中都有说明，有的 patch 还带有 example 链接（如下图）。有精力的话建议把 QC 内自带的所有 example 找出来仔细研究，苹果自己的例子是最好的。它们藏在 /Applications/Quartz Composer.app/Contents/Resources/Examples/Patches（找到 Quartz Composer.app 点右键，选择「Show Package Content」）&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1b/c6/1bc6830f7add483ed538b68ee10b31d7_m.jpg&quot; data-rawwidth=&quot;319&quot; data-rawheight=&quot;277&quot; class=&quot;content_image&quot; width=&quot;319&quot;&gt;较复杂的 patch 会自带实例。&lt;br&gt;&lt;br&gt;6. 设计师 Hans van de Bruggen 建立了 QCDesigners 论坛，是目前最集中的 QC 讨论区。他还开发了插件集 jQC，尝试让交互原型的制作流程更轻松简单。因为 jQC 附带了详细的实例，所以是很好的自学素材，目前最新版本是 0.8：&lt;a href=&quot;http://qcdesigners.com/index.php/forums/topic/66/just-released-j-qc-0-8-a-ui-fr&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;QC Designers&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;br&gt;&lt;br&gt;7. 这时 Quartz Composer 应该基本上手了，接下来主要靠自己在制作交互原型中学习和摸索了。&lt;br&gt;&lt;br&gt;另外我之前在 Dribbble 上分享了个 Quartz 文件，展示了 iOS 7 的几个动态效果，也可以参考：&lt;br&gt;&lt;a href=&quot;http://dribbble.com/shots/1164814-iOS-7-Chat-View-Interaction-Animation-and-Freebie&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dribbble - iOS 7 Chat View Interaction (Animation and Freebie) by Neway Lau&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;注：目前 Quartz 文件只能在 Mac 下运行，有人在 iOS 上模拟 Quartz Composer 环境（&lt;a href=&quot;http://joris.kluivers.nl/blog/2013/06/04/quartz-composer-for-ios/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Quartz Composer for iOS&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），但开发仍处于初级阶段。另外把 QC 做出的动态效果直接移植成 iOS 代码的想法也是不现实的。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21539816/answer/18555513
 </link>
 <author>
-金钊立
+知乎用户
 </author>
 <title>
 圈里人是否都不喜欢「动漫」这个词？
@@ -89,7 +103,7 @@ http://www.zhihu.com/question/21504549/answer/18531636
 http://www.zhihu.com/question/21538328/answer/18547070
 </link>
 <author>
-Phil
+知乎用户
 </author>
 <title>
 性交易是否该合法化，为什么？
@@ -173,7 +187,7 @@ http://www.zhihu.com/question/21529672/answer/18541513
 http://www.zhihu.com/question/21537097/answer/18543868
 </link>
 <author>
-梁伟楠
+知乎用户
 </author>
 <title>
 如何看待薛蛮子涉嫌嫖娼一案？
@@ -201,7 +215,7 @@ The Color Run 是怎样的一个活动？参加这个活动的人都有哪些见
 http://www.zhihu.com/question/21535805/answer/18542629
 </link>
 <author>
-王维
+知乎用户
 </author>
 <title>
 《半泽直树》里关于金融方面有什么 bug？
@@ -278,20 +292,6 @@ enm dear
 </title>
 <description>
 其实鲍尔默并没有媒体宣扬的不堪。&lt;br&gt;&lt;br&gt;主要是当年乔布斯的评价“做销售的人经营公司，做产品的人就不再那么重要，其中很多人就失去了创造的激情。斯卡利加入后，苹果就发生了这样的事情，那是我的失误；鲍尔默接管微软后也是这样。苹果很幸运，能够东山再起，但我认为只要鲍尔默还在掌舵，微软就不会有什么起色。”&lt;br&gt;&lt;br&gt;这评价被媒体不断解读，各种贬低鲍尔默的报道铺天盖地，就算是几天也不少见。&lt;br&gt;并且微软在win95时代步上巅峰，发布Windows 95的日子简直就是一个狂欢节，很多没有电脑的顾客也开始而排队购买软件, 他们甚至根本不知道Windows 95是什么. 短短4天时间, Windows 95就卖出超过100万份。那个时代的微软不亚于2年前的Apple,  2000年鲍尔默担任ceo，任何接手一个光芒四射的公司的人注定要活在过去领导人的阴影下，就像库克今天依然挥不去乔布斯的阴影一样，鲍尔默注定活在盖茨的阴影里面。一个公司达到了顶峰后走下坡路回归平庸是很正常的，就像今天的Apple是达不到2年前乔布斯时代的那个水平的；但人们习惯把责任归结到库克头上。同样道理，人们也把微软市值的下降归结到鲍尔默头上。&lt;br&gt;因此公众也形成一种共识--    鲍尔默是销售人员，他给微软拖后腿。&lt;br&gt;&lt;br&gt;事实上，鲍尔默在任期间，微软员工的人数增加了三倍，年营收增长四倍，年利润增长十倍。&lt;br&gt;xp  ,win7 ，Xbox，Windows Server都称得上集大成之作，取得的成绩大家也有目共睹。鲍尔默错失了智能手机、平板电脑的巨大机会，没领导类似iPhone或者iPad这类创新产品的成功，但微软仍然牢牢抓住了桌面操作系统90%以上的市场份额。&lt;br&gt;这样的答卷难道不及格吗？&lt;br&gt;&lt;br&gt;微软完全抛弃wm,打造了一个完全脱胎换骨的wp。冒天下之大不韪推出win8，引领pc走向触屏化。尽管wp和win8受到的批评不少，但不可否认的是这样的产品称为“创新“当之无愧。可怕的不是强大的对手也不是落后，可怕的是不敢改变。鲍尔默能带领Windows做出如此颠覆性的改变，绝不是平庸之辈，不管产品是否成功。&lt;br&gt;&lt;br&gt;鲍尔默时代努力打造的三屏一云”大统一“战略以初见成效，然后鲍尔默退休了。”大统一“假如未来成功了，人们就把功劳戴到新任掌门头上。大言不惭的说是鲍尔默的离开才让微软迎接到了光明。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21529865/answer/18529423
-</link>
-<author>
-李峰
-</author>
-<title>
-瓜瓜从非洲带回家的肉是什么肉？
-</title>
-<description>
-&lt;img src=&quot;http://p1.zhimg.com/47/43/4743a57c87973a45da75cba994a81772_m.jpg&quot; data-rawwidth=&quot;650&quot; data-rawheight=&quot;357&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;650&quot; data-original=&quot;http://p1.zhimg.com/47/43/4743a57c87973a45da75cba994a81772_r.jpg&quot;&gt;&lt;br&gt;很多人说是南非生肉干，但比尔通味道就那样，吃不了这么久，也不会挂在木架上用刀削着吃。所以应该是火腿。&lt;br&gt;&lt;br&gt;外国的火腿真是越吃越让人上瘾的神物，如果你爱cheese，基本也会喜欢吃火腿。整只大腿挂在木架上，由专门的削火腿师傅，一片片削成如纸薄的肉片，放在碟子里端过来。你拿起一片放在口里，浓郁的咸鲜肉香，迷人的榛子坚果味道，满口芝士感觉的陈年油气，油滑圆肥的生火腿却柔嫩的可以在口里融化。配上一瓶好的西班牙里奥哈红酒或者波尔多左岸，当真是妙不可言的神仙感受。&lt;br&gt;&lt;br&gt;《三个火枪手》里，达达尼安去小旅馆接付不起住宿费把自己关在地窖的阿托斯。结果发现他躲在里面一口火腿一口波尔多的，差点吃光了旅馆的全部窖藏。&lt;br&gt;&lt;br&gt;好吃的火腿除了大家耳熟能详的&lt;b&gt;西班牙伊比利亚生火腿&lt;/b&gt;，还有&lt;b&gt;意大利帕尔玛生火腿&lt;/b&gt;，意大利圣达聂乐生火腿，西班牙Trevelez山火腿，法国巴约钠生火腿。&lt;br&gt;&lt;br&gt;吃法嘛，主要是生吃，不过也可以用橄榄油稍微煎一下，下酒或者配面包做三明治。&lt;br&gt;&lt;br&gt;想尝鲜的话，taobao即有卖，虽然一小盒几片儿就卖那么贵，但一盒火腿一瓶红酒，换几位好友一场愉悦闲适的聊天，还是相当值得的。&lt;br&gt;&lt;br&gt;--------------------------------------&lt;br&gt;&lt;br&gt;真想去taobao上买火腿的知友，我推荐Sanchez Romero Carvajal公司的5J Reserva，这个在西班牙国内也是最出名的火腿厂。&lt;br&gt;&lt;br&gt;另外有知友说如果是火腿以尚书的吃喝玩乐眼界不可能不知道，对此我的理解是，片状的他可能见的多了，整条的可能还真不知道是什么肉。。。大概跟美国的部分小朋友见过鸡肉却没见过鸡是一个道理。&lt;br&gt;&lt;br&gt;大家有时真不能把50后60后的见识和80后90后比。曾经和两位医院院长吃过一顿法餐。两人一坐下来，这个炫耀上周在美国学习时吃的和牛牛扒，那个炫耀上月在法国考察时吃的松露鱼子酱。我相信他们真心都享受过那些米其林餐厅，但他们的很多见解和见识也确实是错的。毕竟这些中老年权贵一天到晚也没把心思放在这上面。瓜瓜说该生吃但他爸还是把肉给煮了，这事还不能说明问题吗？&lt;br&gt;&lt;br&gt;对伊比利亚火腿制作工艺比较好奇的知友，可以看看这篇 &lt;a href=&quot;http://chinacy120.com/blog/more.asp?name=xilei&amp;amp;id=81346&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;什么样的一块肉能让bo一家吃一个月&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;但仅从这段供诉文字的描述，是看不出来他们吃的究竟是何种火腿的。该文直接扯到伊比利亚火腿，有点武断了。
 </description>
 </item>
 </channel>
