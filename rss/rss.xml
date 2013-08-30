@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19929096/answer/18615120
+</link>
+<author>
+孟德尔
+</author>
+<title>
+天文照片里灿烂的星云是肉眼可以直接看到的还是相机拍摄的效果？
+</title>
+<description>
+嗯，是个感兴趣的话题。&lt;br&gt;依然是分类回答&lt;br&gt;&lt;br&gt;1 肉眼能看到像照片那美丽的天文图像吗？&lt;br&gt;不能，很多朋友认为人眼是个很棒的相机，很遗憾，人眼是个非常差劲的相机，远远比市面上的民用相机要差得多，更别说和科研相机比了。定焦镜头，对焦速度一般，换高感模式要20分钟，中心画质与边缘差很多。人眼的强大来自大脑视觉处理的强大，就好像IPHONE一样，本身只是个垃圾手机镜头，但有强大的图像处理软件做后期，就可以战翻卡片相机了。&lt;br&gt;天文摄影主要依赖高感光和长曝光，人的眼睛显然没有长曝光功能，高感差不多相当于ISO25600的样子，而且人的弱光视觉细胞只感受明暗，对色彩不敏感，所以是看不到颜色的，就算在望远镜上，也只能看到模糊的黑白图像。&lt;br&gt;&lt;br&gt;2 天文照片的色彩是怎么来的？&lt;br&gt;天文照片的色彩是可以直接照相得来的，普通的单反甚至卡片相机就可以呈现出色彩，并不一定需要后期。&lt;br&gt;但是在彩色相机的感光板上，每个像素分成3原色接收，也就是每个像素利用到的光线只是实际的1/3，其他色彩都被滤色板吸收了。&lt;br&gt;为了克服这个缺点，可以采用单色CCD进行感光。在单色CCD上，像素没有色彩划分，只感受明暗，每个像素是100%吸收光线。为了让单色摄影也获得色彩，就需要利用滤光片。&lt;br&gt;我们将天体发出的光线中强度最大的三个频率定义为三原色，然后用窄带滤波镜对原始光线进行过滤，这样每次曝光得到的光线都是只表现单一波长光线的黑白照片。我们把3张黑白照片分别赋予红黄蓝原色，再叠加到一起，就得到了一张彩色照片。&lt;br&gt;当然实际做起来很复杂，比如高级赤道仪，导星仪，冷冻CCD，都是半专业器材了，拍摄的时候还有明场平场暗场做参考，一张照片需要很多张原始片合成，总之基本相当于半个科学实验了。&lt;br&gt;还有最重要的，拍摄地点。美国有些地方不许开灯的。&lt;br&gt;&lt;br&gt;3 天文照片的色彩是否是真实的色彩？&lt;br&gt;这是天文摄影中争论最激烈的话题，实话说，不是。&lt;br&gt;由于窄带滤波对波段的选择是根据光线强度而非严格的色彩比例关系，而且最后合成时选定的也未必是三原色（更多考虑的是科学上的统一标准，最好是一看照片就知道天体的化学成分，科学界存在不同的滤色和PS标准，比如NASA色），因此与“实际”的自然色彩有差别是很正常的。另外，红外段甚至紫外段光线的引入，也使得天体摄影的感光远远偏离可见光范围，根本不是人能看到的颜色。&lt;br&gt;不过——&lt;br&gt;很多人知道天文摄影色彩是后期PS合成的，就认为一切都是假的。这些朋友的标准说法是：“和肉眼看到的不一样。”&lt;br&gt;其实，归根结底，天文摄影是对肉眼的一种技术补偿手段，你在地球上用肉眼根本就看不到这些天体的颜色，何来不一样？&lt;br&gt;另外，由于大气层，宇宙尘埃，还有引力透镜等各种奇葩因素的存在，传播到地球上的光线受到很多损失和歪曲，天文摄影的修正技术可以修正这些问题。&lt;br&gt;还有个BT的红移问题，宇宙膨胀本身就会导致红移，理论上所有照片都要调蓝才是“真实”的色彩。特别是超新星爆发后产生的星云，一部分高速向地球靠近，一部分高速远离，一部分平行运动，结果就是明明星云各部分的色彩是完全一样的，但是你在固定一点上看到的色彩却完全不同！&lt;br&gt;所谓自然的色彩应该是，我们坐宇宙飞船，飞到天体附近，这时光线几乎没有衰减，肉眼可以充分感受色彩，用IPHONE拍到的也是非常准确的色彩，可惜，暂时办不到。&lt;br&gt;&lt;br&gt;所以“我合成的这个照片就是实际的色彩，如果不是我输你100亿，请拿4光年外的现场照片为证”。&lt;br&gt;&lt;br&gt;&lt;br&gt;如果有空，我会从天文论坛转几个样片来说明一下，不过还是先放一张我最喜欢的外国天文照片吧，就是普通相机拍的，你也能拍到。&lt;br&gt;（The Milky Road  by Larry Landolfi ）&lt;br&gt;&lt;img data-rawheight=&quot;864&quot; data-rawwidth=&quot;576&quot; src=&quot;http://p2.zhimg.com/ef/cc/efcc85bfa00d64cf3ab176bf636e3352_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;576&quot; data-original=&quot;http://p2.zhimg.com/ef/cc/efcc85bfa00d64cf3ab176bf636e3352_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21562896/answer/18633809
 </link>
 <author>
@@ -74,7 +88,7 @@ Kevin Lin
 http://www.zhihu.com/question/21562158/answer/18629724
 </link>
 <author>
-知乎用户
+Samhero
 </author>
 <title>
 传说的「金正恩前女友涉及淫秽色情被枪决」是怎么回事？
@@ -130,7 +144,7 @@ http://www.zhihu.com/question/21559958/answer/18618307
 http://www.zhihu.com/question/21532161/answer/18616590
 </link>
 <author>
-知乎用户
+Cmmmleave
 </author>
 <title>
 《哈勃望远镜3D》中 8 分 50 秒开始拍摄的深入星云内部的镜头是真的还是电脑制作的？
@@ -200,7 +214,7 @@ Kevin Lin
 http://www.zhihu.com/question/21560405/answer/18618612
 </link>
 <author>
-知乎用户
+言凌
 </author>
 <title>
 谷歌的 Hugo Barra 离职加入小米是什么情况？
@@ -242,7 +256,7 @@ Kevin Xuan
 http://www.zhihu.com/question/20491886/answer/18601511
 </link>
 <author>
-知乎用户
+zecy
 </author>
 <title>
 如何优雅地使用 Windows 系统？
@@ -270,27 +284,13 @@ http://www.zhihu.com/question/19712843/answer/12940882
 http://www.zhihu.com/question/21550160/answer/18585225
 </link>
 <author>
-知乎用户
+yukirock
 </author>
 <title>
 让浴缸水里狂加盐能达到让人浮在水上的死海效果吗？
 </title>
 <description>
 能，不过我们来算一下要多少盐吧。&lt;br&gt;&lt;br&gt;死海海水含盐量在 23% 至 30% 左右[1]，取下界 23%。&lt;br&gt;浴缸容量按 200L[2] 即 200kg 水算，那么这时需要的盐就要&lt;br&gt;&lt;img src=&quot;http://www.zhihu.com/equation?tex=200%5Ctimes%5Cfrac%7B23%5C%25%7D%7B1-23%5C%25%7D%3D59.74%5Ctextup%7Bkg%7D&quot; alt=&quot;200\times\frac{23\%}{1-23\%}=59.74\textup{kg}&quot; eeimg=&quot;1&quot;&gt;&lt;br&gt;一号店查到的食盐价格是 1.5 元/400g[3]。&lt;br&gt;掐指一算需要 224 块。&lt;br&gt;&lt;br&gt;祝题主玩得高兴。&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E6%AD%BB%E6%B5%B7#cite_note-3&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;死海&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;不同型号体积不一样，比如说这个 &lt;a href=&quot;http://www.americanstandard-us.com/bathtubs/spectra-cast-iron-bathtub/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Spectra Cast Iron Bathtub&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 刚好 200L&lt;/li&gt;&lt;li&gt;&lt;a class=&quot; wrap external&quot; href=&quot;http://www.yihaodian.com/item/66772_1&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中盐 特制食盐 400g/袋【品牌 产地 促销 价格 评论 正品】&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;***&lt;/p&gt;&lt;p&gt;你们别急着算省机票啊，我还没算水电咧。&lt;/p&gt;&lt;p&gt;还有浴缸别忘了算钱啊……&lt;/p&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21553160/answer/18601863
-</link>
-<author>
-Rio
-</author>
-<title>
-Chromecast 的实际使用体验如何？
-</title>
-<description>
-前段时间 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Bill Zhong&quot; href=&quot;http://www.zhihu.com/people/billzhong&quot; data-tip=&quot;p$b$billzhong&quot;&gt;@Bill Zhong&lt;/a&gt; 送了我一个【在此说声多谢啦！】。我还有个 Apple TV 3，说说用了一段时间后的对比体会。&lt;br&gt;&lt;br&gt;Chromecast 在硬件设计上完胜 Apple TV 3。体积小巧，插在电视背后不占地方。通过 USB 供电，现在很多新的平板电视都有 USB 接口，通常就在 HDMI 接口旁边，完全不需要使用附带的电源，彻底隐蔽。Apple TV 就不行，而且前面板有个白色的 LED 指示灯，如果房间黑暗【比如关灯看电影的时候】就会有那个白色小亮点影响观感。&lt;br&gt;&lt;br&gt;可能更重要的一点是 Chromecast 的插入式设计完全不需要单独的 HDMI 连接线。考虑到欧美消费电子卖场【如 BestBuy 等】一根普通的 1.8 米长 HDMI 连接线价格动辄 30~60 刀【贵的能到 80~90 刀】，Chromecast 光是免 HDMI 连接线这一个设计就足够赞了。Apple TV 3 虽然售价 $99，但苹果官网上的 HDMI 连接线却需要 $19，合计 $118。作为对比，Chromecast 整个才 $35。&lt;br&gt;&lt;br&gt;Chromecast 因为没有自带遥控器，初始设置的时候必须要先通过电脑下载一个配置软件才能让 Chromecast 连入 WiFi。这一点上和 Apple TV 可以说是各有千秋，因为 Apple TV 初始用遥控器输入 WiFi 密码的设计也非常坑爹【我的 WiFi 密码是 20 多位随机混合数字+字母+符号……】。现在 Apple TV 3 支持蓝牙键盘了，输入长密码的问题也许稍微缓和一些。听说 iOS 7 里面专门加入了系统功能可以让 Apple TV 从 iOS 设备获取 WiFi 密码的功能，不知道能不能彻底解决这个初始化难题。不过好在初始化只需要一次，再痛苦也忍了。说到 WiFi，Chromecast 只支持 2.4 GHz 频段，如果周围 2.4 GHz 频段干扰比较多，传输效果可能会受影响。Apple TV 2/3 支持 5GHz 频段，嘈杂环境下的干扰问题要好很多。&lt;br&gt;&lt;br&gt;日常使用上，Chromecast 的主要问题是内容源太少了。目前仅支持 YouTube, Netflix 等非常有限的几个网站，碰巧我又不怎么看这几个网站的内容，于是不知道拿 Chromecast 干什么了，估计等完善的破解版本出来越狱一个捣鼓玩吧……&lt;br&gt;&lt;br&gt;和 AirPlay 不同，Cast 不是系统级别的 API，必须要内容方特别提供支持才能用 Chromecast 播放内容，这会严重影响 Chromecast 的普及速度。AirPlay 则没有这个问题，因为是系统级别的 API，特别是在 iOS 上，只要内容方没有特别申明拒绝通过 AirPlay 播放，大部分内容都可以通过 AirPlay 播放到 Apple TV 上。比如我自己有个网络存储器 (NAS)，上面放着很多电影。我自己写了个简易的网页界面，用 iPhone 浏览器访问，播放视频【视频需要特定的格式，比如 H264/AAC/MP4】后就可以通过 AirPlay 播放到电视上。Chromecast 现在就做不到这一点，前两天有个第三方开发者用私有 API 实现播放本地视频的功能后来都被禁掉了。我不知道谷歌打算怎么在这个问题上推进，似乎是无解的。&lt;br&gt;&lt;br&gt;Chromecast 的另外一个重要功能是镜像，几乎完败给 AirPlay 镜像。AirPlay 镜像是镜像整个桌面 (OS X/iOS)，比起 Chromecast 只能镜像 Chrome 浏览器标签页有用多了。这也是第三方服务永远无法和系统服务比的一个体现吧…… Chromecast 镜像的延迟比较大，只能看视频，没法做实时交互用。AirPlay 镜像的延迟要小很多，多数场合下基本不影响使用，也正是因为这个苹果才敢在即将发布的 OS X 10.9 Mavericks 里把 Apple TV 连接的电视通过 AirPlay 当成扩展屏幕用。&lt;br&gt;&lt;br&gt;想来 Chromecast 和 AirPlay 的延迟有较大区别的原因应该是 Chromecast 镜像用的视频编码是自家的 VP8，AirPlay 用的是工业标准 H.264，而在我测试的设备 (MacBook Pro, iPhone, iPad) 上，H.264 编码都有硬件加速所致。这从镜像时的 CPU 占用可以看出来：我的 MacBook Pro 是 Core i7 2.6 GHz 处理器，用 Chromecast 开最高画质镜像【也才 720p，输出码率约 6Mbps】时 CPU 占用的增量超过 40%，而用 AirPlay 【1080p，输出码率约 10Mbps】基本看不到有明显增加。在硬件更弱的移动设备上，没有硬件加速的视频编码要做镜像就不现实了，所以除非是最新的 ARM 处理器有 VP8 硬件支持，否则镜像手机桌面到 Chromecast 就不要想了。&lt;br&gt;&lt;br&gt;先想到这么多，后续有更多想法了再来更新。
 </description>
 </item>
 </channel>
