@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21562896/answer/18633809
+</link>
+<author>
+王博涵
+</author>
+<title>
+军舰上的火炮是如何排除波浪的颠簸影响，实现准确稳定的射击的？
+</title>
+<description>
+不邀自答。&lt;br&gt;&lt;br&gt;&lt;b&gt;一、船是怎么颠簸的。&lt;/b&gt;&lt;br&gt;在海里浮着的船，其实跟飞机差不多，分为纵摇（Pitch，倾斜）、横摇（Roll，滚）和艏摇（Yaw，偏航）。&lt;br&gt;简单来说，纵摇是沿着船艏-船尾的连线（绕着P轴-左右）上下摇，船艏上则船娓下；&lt;br&gt;横摇是沿着左舷-右舷的连线（绕着R轴-前后）上下摇，左舷上则右舷下；&lt;br&gt;艏摇是沿着船艏-船艉的方向左右摇（绕着Y轴-垂直），船艏偏左则船艉偏右。&lt;br&gt;用文字解释起来还是有点儿恼火，我索性手绘了一张图供参考。（请原谅我小学幼儿园级别的手绘水平）&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0a/f2/0af2e319fb908a23551516d9e1a4bffc_m.jpg&quot; data-rawwidth=&quot;799&quot; data-rawheight=&quot;617&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;799&quot; data-original=&quot;http://p1.zhimg.com/0a/f2/0af2e319fb908a23551516d9e1a4bffc_r.jpg&quot;&gt;&lt;br&gt;从宏观上来看，船身前进时有点儿类似于子弹在枪管里的章动，有点儿摇头晃脑螺旋形前进的意思。而跟弹药落点相关的是火炮身管的指向，这个指向则跟随着船身的运动在俯仰和方位&lt;b&gt;两个角度&lt;/b&gt;上不断变化。&lt;br&gt;&lt;br&gt;&lt;b&gt;二、风帆战舰时代，仅修正横摇。&lt;/b&gt;&lt;br&gt;风帆战舰的时代，火炮全部位于舷侧，大部分情况下火炮身管在垂直方向上与船身呈完全的90度。由于交战距离较近，基本可以认为身管在水平方向上平行于甲板。&lt;br&gt;图为风帆时代战舰对决的典型场景。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0f/1b/0f1baca2ed78877ed432c672d08c2032_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;399&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p1.zhimg.com/0f/1b/0f1baca2ed78877ed432c672d08c2032_r.jpg&quot;&gt;&lt;br&gt;由图可以看到，在舷侧对射为主的风帆时代，横摇对于战舰的命中率有着较大的影响：抬高了就打飞，落低了就入海。（图中是从船头看过的去的样子啊，不是从侧面）&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5b/ee/5bee0ab4dc117302521ea8dbe114c9fd_m.jpg&quot; data-rawwidth=&quot;1221&quot; data-rawheight=&quot;658&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1221&quot; data-original=&quot;http://p2.zhimg.com/5b/ee/5bee0ab4dc117302521ea8dbe114c9fd_r.jpg&quot;&gt;针对横摇带来的影响，有经验的炮手早在纳尔逊时代就已经发现了窍门，并利用这一点来有意的针对敌舰的桅杆或水线进行射击：命中桅杆则会使对方丧失机动航行的能力，命中水线以下的船体则会导致对方大进水。&lt;br&gt;最终，在19世纪末，一艘名为HMS Scylla的英国二等巡洋舰的舰长，&lt;a href=&quot;http://en.wikipedia.org/wiki/Percy_Scott&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Percy Scott&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，发现他的战舰上射击成绩比较好的炮手，总是随着船身的摇摆不断的改变俯仰角，而提高或压低瞄准线。这样子，无论船身怎么横摇，火炮身管的指向在水平方向上是不变的。这就是所谓的“连续瞄准”系统。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ed/d1/edd1af7463d1a2490bdeb284879a9f02_m.jpg&quot; data-rawwidth=&quot;1221&quot; data-rawheight=&quot;658&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1221&quot; data-original=&quot;http://p2.zhimg.com/ed/d1/edd1af7463d1a2490bdeb284879a9f02_r.jpg&quot;&gt;连续瞄准有两个要求：&lt;br&gt;1.找到水平参照系，这样才能确定横摇到了什么程度，从而调整火炮俯仰角。&lt;br&gt;2.快速调整俯仰角。&lt;br&gt;针对1，刚开始时采用钟摆式：重物吊在线上悬空，则会一直指向地心引力方向，也就是垂直于地面的方向，由此可以确定水平面在哪里；&lt;br&gt;后来采用海平面法：甲板上往地平线那里看，基本上视线与水平面是平行的，再看看“视线”与甲板平面的角度，即可推算出横摇角；&lt;br&gt;最后，则采用陀螺仪式：由于陀螺有自稳定性，无论船身如何横摇，陀螺的姿态是不变。这样就可以轻松的读出来横摇角。&lt;br&gt;针对2，海军发现仅仅依靠人力来快速调整火炮俯仰角不太可能，因为大型战舰还好说，横摇速度比较慢，炮手可以抓住时机开火；小型战舰横摇很快，炮手要累死的。&lt;br&gt;于是，20世纪初，英国海军率先在猎户座级超无畏战列舰Orion号上采用了液压装置，从而使大口径火炮能够快速改变俯仰角。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/90/7a/907a78c15d80a2f74d7ebd5298447c69_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;381&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/90/7a/907a78c15d80a2f74d7ebd5298447c69_r.jpg&quot;&gt;&lt;br&gt;三、曲射时代，横摇和复合横摇。&lt;br&gt;当19世纪末、20世纪初，随着冶金和火药技术的发展，出于对提高交战距离的要求，10寸、12寸甚至是14寸的大口径、长身管火炮不断出现，战舰的典型交战距离也从三四百米逐渐提高至几千米。同时，能够灵活改变方位角的炮塔也出现了。&lt;br&gt;因为要射得远，战舰在交战时火炮身管不再平行于海面；因为要提高火力灵活性，火炮身管也不再是指向3点、9点方向，而是360度方位指向。&lt;br&gt;当远距离射击时，由于炮管斜指天空，船身的纵摇也开始导致身管俯仰角（上下）的变化，同时还会影响身管炮耳轴向角度（左右）；当身管指向偏向艏、艉时，单纯的横摇也会导致身管在炮耳轴向角度的变化。&lt;br&gt;针对身管轴向上的运动，由于原来仅仅是横摇（roll）引起的，所以这叫做叫Roll，也叫做Level；&lt;br&gt;针对炮耳轴向上的运动，由于这也是横摇导致的后果之一，跟Roll又不一样，所以叫Crossroll，也叫Crosslevel。&lt;br&gt;&lt;br&gt;刚才已经介绍了如何克服火炮的roll，就是先有参照系，再来个反方向的运动，那么crossroll也一样，先找到参照系，再来个反方向的运动。&lt;br&gt;参照系好找，继续用陀螺仪就行；但反方向的运动不好办了。为啥不好办呢，要从炮塔结构说起。虽然战列舰上一个炮塔有2—4根身管，但这每一根身管都是独立瞄准、独立俯仰的。下图中的这艘英王乔治五世级战列舰就是这样，某根炮管抬起来用于检修。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/12/f1/12f10ac5190458ad2ae64b555b600504_m.jpg&quot; data-rawwidth=&quot;1339&quot; data-rawheight=&quot;980&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1339&quot; data-original=&quot;http://p2.zhimg.com/12/f1/12f10ac5190458ad2ae64b555b600504_r.jpg&quot;&gt;&lt;br&gt;这样子，一套液压的俯仰角快速控制系统，只需要负责挪动一根上百吨的炮管。但方位角就不只是这一根炮管了：斜着改变炮耳轴向，需要挪动整个炮塔，保罗全部四根炮管、厚厚的炮塔装甲、里面所有的设备和人员还有升降机啥的，一下子就从上百吨变成了上千吨。&lt;br&gt;举个例子：衣阿华的Mk.7 16寸口径火炮重量是110吨，三联装炮塔的重量是1700吨；大和的18寸火炮重量是170吨，三联装炮塔重量是2700吨。&lt;br&gt;ROLL的补偿，是在20-30秒内将100吨的炮管俯仰角改变10-15度；Crossroll呢，是在20-30秒内将几千吨钢铁扭动10-15度，这中间难度上的差距就不是一点儿半点儿了。所以一直到垂稳系统出现之前，人们只能等到Crossroll回到水平之后再开炮。等待Crossroll回平了再开炮，这又再次的影响了战舰的射速，抵消了前述的俯仰角控制系统带来的快速开火的优势。&lt;br&gt;于是呢，人们想到了直接在瞄准上进行补偿的方式。我既然不能扭动整个炮塔，吗我把Crossroll对落点的影响计算出来，分解成在方位角上的变化和在俯仰角上的变化。方位角靠旋转炮塔来补偿，俯仰角靠前述的俯仰角控制系统来补偿。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b8/57/b8579b2873eb5150fb500b8a91f2e600_m.jpg&quot; data-rawwidth=&quot;873&quot; data-rawheight=&quot;625&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;873&quot; data-original=&quot;http://p3.zhimg.com/b8/57/b8579b2873eb5150fb500b8a91f2e600_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;四、其他。&lt;br&gt;至此，由于船身摇摆引起的影响基本算是消除掉了，因为把全部运动带来的影响都分解为在俯仰角和方位角两个方向上的变化。&lt;br&gt;下面要解决的，就是自己和敌舰在不断运动中（动对动）的方位和距离变化带来的影响，也就是火炮火控系统中的另外几个要素：距离、距离变化率、方位和方位变化率。&lt;br&gt;感谢看完整个答案的朋友，看着自己幼儿园没毕业的手绘+小学没毕业的汉字+初中没毕业的英语，实在是无地自容啊T_T
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21541150/answer/18629259
+</link>
+<author>
+yolfilm
+</author>
+<title>
+如何快速地涉猎一个领域的知识？
+</title>
+<description>
+-&lt;br&gt;这是一个非常好的问题。&lt;br&gt;&lt;br&gt;一般来说，专业领域的 know how，我一般分为「常识」「知识」，以及「门道」。&lt;br&gt;&lt;br&gt;一、&lt;br&gt;比如在维基，在百度，能找到的答案，一般是「常识」，只因你能在上面找到，也能在别处找到，那些「常识」不能说没有价值，放以前的世界，你还得掏钱上书店买去，到了这时代，在网络的时代，「常识」的价值已趋近於零。&lt;br&gt;&lt;br&gt;二、&lt;br&gt;再来说「知识」。&lt;br&gt;&lt;br&gt;比如在知乎，很多时候，因为答题人的善意，所以能看到比较深入的「知识」。它比「常识」要深入不少，对行外人，对非专业人仕的人而言，有时见到，跟「撞墙」一样，我的妈，有这内幕？有这说法？有这讲究？&lt;br&gt;&lt;br&gt;我不信。&lt;br&gt;&lt;br&gt;通常你看到有意义的「知识」，第一个反应，就是「不信」，不能到叫你惊讶的程度，就不能被称为「知识」。&lt;br&gt;&lt;br&gt;可惜的是，「知识」在知乎被提出来，总会引来一群疯狗乱咬。&lt;br&gt;&lt;br&gt;正所谓，「咬吕洞宾的『白目』之犬」。&lt;br&gt;&lt;br&gt;在知乎，我常劝人，不要对「不同於己见」的答案，肆意攻击。因为那些「不同於你的『浅薄看法》的视见」，让你惊讶的「圈内人说法」，其实是最宝贵的，它掺杂了「血淋淋的经验」，也有答题人承受的「痛苦教训」，更有无私分享的「主观善意」在里面。&lt;br&gt;&lt;br&gt;不能因为跟你原来的「常识」冲突了，你就在讨论串中鸡鸡歪歪。&lt;br&gt;&lt;br&gt;凭啥？你明明是个圈外人，你明明啥都不懂，不是吗？&lt;br&gt;&lt;br&gt;试想一点即可，大部份的人在公司行号里上班，能手把手启发你的长官或同事，多稀有珍贵？&lt;br&gt;&lt;br&gt;但在知乎，几乎每个写的好的答案的讨论串里面，都有偌大的一群混蛋在骂人。&lt;br&gt;&lt;br&gt;三、&lt;br&gt;最後，要说「不传之秘」，真正的行业「内幕」，真正高价值的，成体系的一套玩意。&lt;br&gt;&lt;br&gt;我形容为「门道」。&lt;br&gt;&lt;br&gt;门道，是不可能随便说给别人听的，我带了几个写剧本的徒弟，这几徒弟也在知乎上出没，（我相信，知乎上如我一样，有师父徒弟同时存在的，一定不少。）我想，这许多人一定能理解我说的是什么？&lt;br&gt;&lt;br&gt;真正行业内的，不能说透，不能随便免费给你指点，叫你一辈子也参透不了的门道，别傻了，图书馆，书店，网络上，都不可能找见。在知乎，也不可能看见。&lt;br&gt;&lt;br&gt;（以编剧的「门道」，比如，怎麽同时写两部剧？如何把点子给人看，又不会被偷走？又比如，库存的伟大烂小说，可以让你拍五年十年拍不完的库存？从没人知道的奇妙点子。电视台几个编审中，各有哪些怪异品味？甚至，如何把红包送出去给关键人物的，收钱的白手套……）&lt;br&gt;&lt;br&gt;那得「以物易物」才能得来。&lt;br&gt;&lt;br&gt;比如，我今天还在车上还把徒弟骂了一通，因为他犯错了，我骂他「你用生命换来的门道，老实说，你自己若不重视，你对不起你自己」。&lt;br&gt;&lt;br&gt;那种东西，是一代一代师徒传下来的，跟衣钵一样，不是交到你手上，你就能「悟道」了，不是的，交给你，是师父的责任，能不能理解参透，只有老天爷知道。&lt;br&gt;&lt;br&gt;四、&lt;br&gt;说结论吧。&lt;br&gt;&lt;br&gt;如题所问，要「快速地」涉猎一个领域的「知识」，若说的「知识」，是我上面的定义。&lt;br&gt;其实不难，跟紧几个网上的有心人，现实中，学校跟上个好老师，公司跟紧个好前辈，&lt;br&gt;想偷来知识，学来知识，真心不难。&lt;br&gt;&lt;br&gt;但坦白说，那些「知识」都太过廉价，也没有太多意义。&lt;br&gt;&lt;br&gt;原因就是，它们被获得的途径和方法，没有代价。&lt;br&gt;&lt;br&gt;这个世界，没有白吃的午餐。&lt;br&gt;&lt;br&gt;-
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21537097/answer/18566702
 </link>
 <author>
@@ -46,7 +74,7 @@ Kevin Lin
 http://www.zhihu.com/question/21562158/answer/18629724
 </link>
 <author>
-Samhero
+知乎用户
 </author>
 <title>
 传说的「金正恩前女友涉及淫秽色情被枪决」是怎么回事？
@@ -102,7 +130,7 @@ http://www.zhihu.com/question/21559958/answer/18618307
 http://www.zhihu.com/question/21532161/answer/18616590
 </link>
 <author>
-Cmmmleave
+知乎用户
 </author>
 <title>
 《哈勃望远镜3D》中 8 分 50 秒开始拍摄的深入星云内部的镜头是真的还是电脑制作的？
@@ -172,7 +200,7 @@ Kevin Lin
 http://www.zhihu.com/question/21560405/answer/18618612
 </link>
 <author>
-言凌
+知乎用户
 </author>
 <title>
 谷歌的 Hugo Barra 离职加入小米是什么情况？
@@ -214,7 +242,7 @@ Kevin Xuan
 http://www.zhihu.com/question/20491886/answer/18601511
 </link>
 <author>
-zecy
+知乎用户
 </author>
 <title>
 如何优雅地使用 Windows 系统？
@@ -242,7 +270,7 @@ http://www.zhihu.com/question/19712843/answer/12940882
 http://www.zhihu.com/question/21550160/answer/18585225
 </link>
 <author>
-yukirock
+知乎用户
 </author>
 <title>
 让浴缸水里狂加盐能达到让人浮在水上的死海效果吗？
@@ -263,34 +291,6 @@ Chromecast 的实际使用体验如何？
 </title>
 <description>
 前段时间 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Bill Zhong&quot; href=&quot;http://www.zhihu.com/people/billzhong&quot; data-tip=&quot;p$b$billzhong&quot;&gt;@Bill Zhong&lt;/a&gt; 送了我一个【在此说声多谢啦！】。我还有个 Apple TV 3，说说用了一段时间后的对比体会。&lt;br&gt;&lt;br&gt;Chromecast 在硬件设计上完胜 Apple TV 3。体积小巧，插在电视背后不占地方。通过 USB 供电，现在很多新的平板电视都有 USB 接口，通常就在 HDMI 接口旁边，完全不需要使用附带的电源，彻底隐蔽。Apple TV 就不行，而且前面板有个白色的 LED 指示灯，如果房间黑暗【比如关灯看电影的时候】就会有那个白色小亮点影响观感。&lt;br&gt;&lt;br&gt;可能更重要的一点是 Chromecast 的插入式设计完全不需要单独的 HDMI 连接线。考虑到欧美消费电子卖场【如 BestBuy 等】一根普通的 1.8 米长 HDMI 连接线价格动辄 30~60 刀【贵的能到 80~90 刀】，Chromecast 光是免 HDMI 连接线这一个设计就足够赞了。Apple TV 3 虽然售价 $99，但苹果官网上的 HDMI 连接线却需要 $19，合计 $118。作为对比，Chromecast 整个才 $35。&lt;br&gt;&lt;br&gt;Chromecast 因为没有自带遥控器，初始设置的时候必须要先通过电脑下载一个配置软件才能让 Chromecast 连入 WiFi。这一点上和 Apple TV 可以说是各有千秋，因为 Apple TV 初始用遥控器输入 WiFi 密码的设计也非常坑爹【我的 WiFi 密码是 20 多位随机混合数字+字母+符号……】。现在 Apple TV 3 支持蓝牙键盘了，输入长密码的问题也许稍微缓和一些。听说 iOS 7 里面专门加入了系统功能可以让 Apple TV 从 iOS 设备获取 WiFi 密码的功能，不知道能不能彻底解决这个初始化难题。不过好在初始化只需要一次，再痛苦也忍了。说到 WiFi，Chromecast 只支持 2.4 GHz 频段，如果周围 2.4 GHz 频段干扰比较多，传输效果可能会受影响。Apple TV 2/3 支持 5GHz 频段，嘈杂环境下的干扰问题要好很多。&lt;br&gt;&lt;br&gt;日常使用上，Chromecast 的主要问题是内容源太少了。目前仅支持 YouTube, Netflix 等非常有限的几个网站，碰巧我又不怎么看这几个网站的内容，于是不知道拿 Chromecast 干什么了，估计等完善的破解版本出来越狱一个捣鼓玩吧……&lt;br&gt;&lt;br&gt;和 AirPlay 不同，Cast 不是系统级别的 API，必须要内容方特别提供支持才能用 Chromecast 播放内容，这会严重影响 Chromecast 的普及速度。AirPlay 则没有这个问题，因为是系统级别的 API，特别是在 iOS 上，只要内容方没有特别申明拒绝通过 AirPlay 播放，大部分内容都可以通过 AirPlay 播放到 Apple TV 上。比如我自己有个网络存储器 (NAS)，上面放着很多电影。我自己写了个简易的网页界面，用 iPhone 浏览器访问，播放视频【视频需要特定的格式，比如 H264/AAC/MP4】后就可以通过 AirPlay 播放到电视上。Chromecast 现在就做不到这一点，前两天有个第三方开发者用私有 API 实现播放本地视频的功能后来都被禁掉了。我不知道谷歌打算怎么在这个问题上推进，似乎是无解的。&lt;br&gt;&lt;br&gt;Chromecast 的另外一个重要功能是镜像，几乎完败给 AirPlay 镜像。AirPlay 镜像是镜像整个桌面 (OS X/iOS)，比起 Chromecast 只能镜像 Chrome 浏览器标签页有用多了。这也是第三方服务永远无法和系统服务比的一个体现吧…… Chromecast 镜像的延迟比较大，只能看视频，没法做实时交互用。AirPlay 镜像的延迟要小很多，多数场合下基本不影响使用，也正是因为这个苹果才敢在即将发布的 OS X 10.9 Mavericks 里把 Apple TV 连接的电视通过 AirPlay 当成扩展屏幕用。&lt;br&gt;&lt;br&gt;想来 Chromecast 和 AirPlay 的延迟有较大区别的原因应该是 Chromecast 镜像用的视频编码是自家的 VP8，AirPlay 用的是工业标准 H.264，而在我测试的设备 (MacBook Pro, iPhone, iPad) 上，H.264 编码都有硬件加速所致。这从镜像时的 CPU 占用可以看出来：我的 MacBook Pro 是 Core i7 2.6 GHz 处理器，用 Chromecast 开最高画质镜像【也才 720p，输出码率约 6Mbps】时 CPU 占用的增量超过 40%，而用 AirPlay 【1080p，输出码率约 10Mbps】基本看不到有明显增加。在硬件更弱的移动设备上，没有硬件加速的视频编码要做镜像就不现实了，所以除非是最新的 ARM 处理器有 VP8 硬件支持，否则镜像手机桌面到 Chromecast 就不要想了。&lt;br&gt;&lt;br&gt;先想到这么多，后续有更多想法了再来更新。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21552858/answer/18599357
-</link>
-<author>
-未甫
-</author>
-<title>
-Zealer 被爆曾接受雷军的投资，那么他们如何能有公正客观独立的立场？
-</title>
-<description>
-1.不知道题主如果真的看了mx2和mi2的测评的话，怎么还会觉得“MX2的评测中好的一笔带过，不足之处大作篇幅” ，其实几个月前，zealer刚出mx2的测评的时候，就在魅族论坛被黄章和一群魅粉攻击，当时我就觉得特莫名其妙，因为先出的小米2的测评，我和朋友还笑称小米被黑出翔了，而看mx2测评的时候，我就一直在犯嘀咕，连三星苹果诺基亚都被自如挖出一堆毛病，怎么到魅族这儿，语气这么客气？&lt;br&gt;&lt;br&gt;&lt;br&gt;2.现在知乎似乎很流行提出“为什么1+1等于3？”之类的，先下不实的定义，再问为什么 的莫名其妙的提问方式误导大家，无图无真相，我就贴上一些米2和mx2测评的截图，看看zealer是不是&lt;b&gt;对mx2的优点一笔带过，不足大作篇幅（&lt;/b&gt;&lt;a href=&quot;http://www.zealer.com/post/11&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;MEIZU MX2 测评&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;     2.1外观设计&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/13/1e/131e20fda14e88f92bb68204cd96013d_m.jpg&quot; data-rawwidth=&quot;981&quot; data-rawheight=&quot;565&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;981&quot; data-original=&quot;http://p2.zhimg.com/13/1e/131e20fda14e88f92bb68204cd96013d_r.jpg&quot;&gt;1分54秒，接下来是“上手之后，明显感觉到国产手机少有的细腻与精致直到3分03秒，都在赞美魅族的外观设计，而后吐槽了能开后盖不能换电池的设计和按键&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ee/5f/ee5f350bcea711747e985e1742538642_m.jpg&quot; data-rawwidth=&quot;752&quot; data-rawheight=&quot;574&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;752&quot; data-original=&quot;http://p2.zhimg.com/ee/5f/ee5f350bcea711747e985e1742538642_r.jpg&quot;&gt;虽然有美中不足，依然是测试过的国产手机中（注意，这时候米2已经测过了），做工最好的产品。&lt;br&gt;&lt;br&gt;&lt;b&gt;2.2屏幕显示&lt;/b&gt;&lt;br&gt;  首先说到了屏幕质量很高，第一观感很舒服，然后对比了米2，除了色域更广（实际也感觉不到差距），其他很接近。 然后针对如网传的屏幕漏光，按压出现水波纹的问题一一作了解答，这个基本是拿出苹果三星小米帮魅族说话，说明这些都是正常现象，算是帮魅族作了次小的公关和辟谣吧。&lt;br&gt;&lt;br&gt;&lt;b&gt;2.3flyme vs miui&lt;/b&gt;&lt;br&gt;      一个极简，一个自定义，而zealer 的评价呢？ &lt;b&gt;团队一致认为，MX2成功的将外表的精致延续到了系统里面，从这点上来说，MX2绝对比米2做的更好     flyme os是拿来用的，miui是拿来折腾的。&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/16/6c/166cb906bbed3ce5815b3cb2ac128327_m.jpg&quot; data-rawwidth=&quot;776&quot; data-rawheight=&quot;550&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;776&quot; data-original=&quot;http://p2.zhimg.com/16/6c/166cb906bbed3ce5815b3cb2ac128327_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;   2.4 整体性能&lt;/b&gt;&lt;br&gt;高度评价了mx2自带浏览器&lt;br&gt;      游戏性能 用高速相机捕捉，明显看到mx2比米2流畅，大概在视频的12分40左右，大家可以自己去看，如果说上一个flyme和miui的比较还不算太惨，那米2在这个环节已经被爆出渣黑出翔了&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/27/85/2785e962dfb40bf9a25b276f6a67d2ff_m.jpg&quot; data-rawwidth=&quot;675&quot; data-rawheight=&quot;525&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;675&quot; data-original=&quot;http://p3.zhimg.com/27/85/2785e962dfb40bf9a25b276f6a67d2ff_r.jpg&quot;&gt;&lt;br&gt;接下来是视频解码，直接上图 &lt;img src=&quot;http://p3.zhimg.com/66/1c/661ce7391b4464e0a9b75f8b767b82a0_m.jpg&quot; data-rawwidth=&quot;812&quot; data-rawheight=&quot;296&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;812&quot; data-original=&quot;http://p3.zhimg.com/66/1c/661ce7391b4464e0a9b75f8b767b82a0_r.jpg&quot;&gt;&lt;img src=&quot;http://p4.zhimg.com/c2/2f/c22f8d2130ffe58f715f8e66b674dd10_m.jpg&quot; data-rawwidth=&quot;539&quot; data-rawheight=&quot;458&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;539&quot; data-original=&quot;http://p4.zhimg.com/c2/2f/c22f8d2130ffe58f715f8e66b674dd10_r.jpg&quot;&gt;后面那张是功耗百分比&lt;br&gt;&lt;br&gt;&lt;br&gt; 指出了虚拟home键不灵敏的问题（终于有说缺点了）&lt;br&gt;&lt;br&gt;&lt;b&gt;2.5 相机成像&lt;/b&gt;&lt;br&gt;相机界面，操作的逻辑等米2和mx2相差不大&lt;br&gt;   前置摄像头mx2表现不如米2好&lt;br&gt;   主摄像头，小米广角取景更广，但解析力mx2占优&lt;br&gt;   白平衡米2和mx2都不好&lt;br&gt;   夜景mx2不太理想&lt;br&gt;   视频录制不论是静止状态还是走动起来，在对比度，画面清晰度，防抖等方面mx2都比米2要强&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2.6 SmartBar&lt;/b&gt;&lt;br&gt;实际兼容性并不理想（不过，听说有一些主流应用做了魅族专版的，自如的判断到底对不对，等待时间的检验）&lt;br&gt;&lt;br&gt;&lt;b&gt;2.7信号问题&lt;/b&gt;&lt;br&gt; 说这个点上边有重点说魅族的缺点，是事实。魅族从m8以来信号问题一直被诟病，而zealer用更专业的手段去测量我觉得反而应该鼓励，在zealer出现之前，网上有多少做测评的，觉得开个箱，玩两个游戏开几个网页录制下来就是测评了，你那只能叫上手试玩好吗？ 这一块的实际结果是，mx2的信号确实不太好，比iphone5低30%，比米2低20%左右。  最后总结道：&lt;b&gt;即使有差距，测试的四部手机也都是达到标准的，只是在信号不好的时候，才会感觉得到一些差距。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2.8其他&lt;/b&gt;&lt;br&gt;wifi下载速度比较慢&lt;br&gt;   网友担心的听筒声音太小问题不存在&lt;br&gt;&lt;br&gt;&lt;b&gt;2.9续航发热&lt;/b&gt;&lt;br&gt;续航测试略低于米2，但属于正常行业水准&lt;br&gt;    发热也是比较普遍反映&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1a/18/1a18324e1d7d171f25730a1d5c7b6a45_m.jpg&quot; data-rawwidth=&quot;998&quot; data-rawheight=&quot;389&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;998&quot; data-original=&quot;http://p2.zhimg.com/1a/18/1a18324e1d7d171f25730a1d5c7b6a45_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;红色是mx2，测试只是印证了确实存在的问题，而对于发热，自如总结是：&lt;b&gt;除了对温度特敏感的，一般人不用去纠结这个问题，因为影响并不大。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2.10 总结&lt;/b&gt;&lt;br&gt;总结里面，自如说，&lt;b&gt;“&lt;/b&gt;两个手机谁都不能完全的打败谁.....&lt;b&gt;比优质内容更缺乏的，是独立思考。”  &lt;/b&gt;而我们在看待各类信息的时候，有没有想过&lt;b&gt;独立思考&lt;/b&gt;呢，更多的时候，只是盲目的听说这个，听说那个，这种风气不论是在回答或是提问中盛行的话，知乎这趟水就要混掉了。&lt;br&gt;&lt;br&gt;可以看得到，在说魅族优点的时候自如毫不吝啬褒奖之词，而谈到缺点的时候，在总结里都会说明影响如何，一般人是否需要在意。 &lt;b&gt;对于喜欢科技的人来说，他们乐于看到深入彻底的分析和实打实的干货，而对于普通消费者，他们只需要知道，这个问题影不影响我的使用&lt;/b&gt;，而zealer对于两者，我觉得都把握的不错，既高端上档次，又通俗接地气。&lt;br&gt;&lt;br&gt;3.至于题主所说的行业规则，zealer也多次说过&lt;b&gt;独立客观公正&lt;/b&gt;是他们的原则，我觉得对于测评，受众多少还是有点数码知识基础的，如果觉得有失偏颇，不看便是，反过来对于测评机构也一样，如果客观独立问题饱受质疑，那么必然也走不长久，我相信自如他们还是知道这一点的。&lt;br&gt;&lt;br&gt;4.根据&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@子小文&quot; href=&quot;http://www.zhihu.com/people/zi-xiao-wen-84&quot; data-tip=&quot;p$b$zi-xiao-wen-84&quot;&gt;@子小文&lt;/a&gt; 的评论，以及评论里面的建议，我又查了一下新闻，如下：&lt;br&gt;    【日前有媒体爆出&lt;a href=&quot;http://www.lingtuan.com/keywords/%E6%89%8B%E6%9C%BA/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;手机&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;视频评测网站ZEALER获得雷军旗下的顺为创投基金数百万人民币天使投资。随后王自如确认，在去年7月份的时候确实获得顺为创投基金的数百万天使投资，距今已经一年多的时间，现在ZEALER已经在开始准备A轮融资。&lt;a href=&quot;http://zixun.lingtuan.com/article-33332-1.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ZEALER获雷军天使投资 雷军放弃其董事和股票权&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;】&lt;br&gt;     而在优酷上看到米2的视频是9个月前做的（&lt;a href=&quot;http://v.youku.com/v_show/id_XNDc2NDAwMjc2.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;「ZEALER 出品」小米2代 MI2 量产机测评&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），也就是说12月份出的米2量产机视频，mx2则更晚，而7月时已经获得了投资，而我上面说的很清楚，在评测中，zealer对mx2的评价甚至比米2要客气，米2不论是在工程机测评，量产机测评还是在mx2测评中作为对比的机型出现，几乎都是被黑得多。所以既然当时大家都不知道雷军投资的情况下，zealer没有偏向于小米，那么现在爆出来了，有了大家的监督，zealer更不会做这种“自杀”的行为。&lt;br&gt;&lt;br&gt;第一次认真的回答一个问题，欢迎批评指正。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21556152/answer/18608600
-</link>
-<author>
-裘伯纯Benjamin
-</author>
-<title>
-为什么美国上市公司股价下跌之后，常常会有律师发起集体诉讼？
-</title>
-<description>
-谢邀。&lt;br&gt;&lt;br&gt;「美国上市公司股价下跌之后，有律师发起集体诉讼」这种情况经常发生。举例来说，Facebook在去年5月上市之后股价大跌，面临41起诉讼，对象包括公司以及高管，其中有8起将纳斯达克列为共同被告。&lt;br&gt;&lt;br&gt;从历史上看，大萧条期间，美国从联邦政府到小股东（选民们）都被混乱而惊险的股市震撼了，美国证券法（Securities Act of 1933）颁布后，证券市场总体上开始坚持“保护投资者”的理念。&lt;br&gt;&lt;br&gt;通过多年的联邦、地方法院的一系列诉讼，美国构建起一套发达的证券集体诉讼制度，而且催生了一个就此发起诉讼以及作为对立面代表公司及高管进行抗辩的产业。通过集体诉讼，往往占上市公司股东大多人数，但不掌握公司控制权的中小股东，可以同时代表其他尚未正式参与案件的股东，对公司和/或公司高管侵害其利益的行为进行指控，并获得赔偿（当然很大一部分钱最后进原告律师的口袋）。&lt;br&gt;&lt;br&gt;现在这个制度常被滥用，给上市公司增加难以预期的成本。很多时候在小股东考虑维权之前，是那些习惯代表原告的律师先从股市的波动嗅到血腥，主动征召股民来做原告（没有赔偿就不用付律师费），甚至有律师违规给股民某种形式的贿赂来引诱他们雇佣该律师发起诉讼，不过这样的律师会受律师行会和法院惩罚。比如，曾经极大牌的原告型证券诉讼律师 William Lerach 甚至因为给原告（也就是他的客户）提供回扣，在2008年被判入狱两年（见：&lt;a href=&quot;http://en.wikipedia.org/wiki/William_Lerach&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;en.wikipedia.org/wiki/W&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;illiam_Lerach&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）。&lt;br&gt;&lt;br&gt;相关的主要法律和案例有以下：&lt;br&gt;&lt;br&gt;当一家上市公司的股价大幅下跌后，投资者可以根据Securities Exchange Act of 1934 和Private Securities Litigation Reform Act of 1995来向公司提起集体诉讼，要求公司赔偿因股价下跌而遭受的损失。但是按照投资风险自负的原则，法律在一般情况下不会为投资者因市场风险遭受的损失兜底。所以为了说服法官，投资者必须证明股价的下跌是由公司的虚假陈述（或不当/缺失披露）造成。这一点在Private Securities Litigation Reform Act of 1995中有着清楚的规定 ，同时在美国最高法院的Dura Pharms., Inc. v. Broudo案中也有提到 。&lt;br&gt;&lt;br&gt;投资者在公司股价下跌之后起诉公司的原因，在于他们认为股价下跌带来的损失并不是由于公司正常的经营风险造成，而是公司刻意隐瞒了重要信息，或是作出了误导的、虚假的称述，从而实质影响了他们对股价的判断。投资者通常认为，如果公司如实的披露了这些信息，那么他们就不会继续持有公司的股票，所以也不会在接下来的股价暴跌中受到经济损失。&lt;br&gt;&lt;br&gt;另外，如果是员工是通过退休计划（401K）持有的公司股票，当公司股票价格下跌后，这些员工投资者除了可以依据证券法提起诉讼，还可以通过Employee Retirement Income Security Act(ERISA)的Section 502（a）向这一退休计划的主管者（包括投资建议顾问，公司高管，人力资源主管等）提起诉讼。诉讼的理由上与证券诉讼大体一致。但在ERISA诉讼中原告并不需要证明被告有蓄意误导或隐瞒，而依据上述提到证券法相关规定，证券诉讼中的原告承担非常明确的举证责任。
 </description>
 </item>
 </channel>
