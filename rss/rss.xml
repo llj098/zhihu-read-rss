@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21544284/answer/18637030
+</link>
+<author>
+余弦
+</author>
+<title>
+2013 年中国互联网安全环境面临的主要威胁有哪些？
+</title>
+<description>
+我对下面几点有担忧：&lt;br&gt;1. 用户隐私，各大互联网产品/移动终端APP上的，实在不敢想象，各类隐私库明里暗里都出来了；&lt;br&gt;2. 移动终端尤其是安卓上的混乱：权限混乱、生态混乱；&lt;br&gt;3. 浏览器上的混乱（Web前端）：XSS盲打+XSS钩子满世界，不一定那次就踏进去了；&lt;br&gt;4. 提供互联网服务的团队基本没什么安全意识，这很可怕，互联网步伐加快，可安全意识没赶上，被脱裤，被利用是迟早的事；&lt;br&gt;5. 云端数据，各种Web服务等都开始逐渐托管到云上，各家的云，出问题就是一窝端，业务先行，安全保护、异常监控、弥补措施都还不一定完善；&lt;br&gt;6. Web服务组件持续广泛，漏洞频繁，看看我们团队的应急响应就知道；&lt;br&gt;7. 全民安全意识还是很差；&lt;br&gt;8. 黑产/灰产还是很嚣张啊很嚣张，虽然工信部今年说要严打；&lt;br&gt;9. “棱镜”还是明里暗里的；&lt;br&gt;10. 不过我们还是看到了希望，黑客们在驱动世界，好的影响开始逐渐出来了；
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21559555/answer/18624542
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21532161/answer/18616590
 </title>
 <description>
 我10年在NASA的时候机缘巧合跟这部3D电影的制作团队交流过，而且当时恰好谈到了这个问题。这部电影的科学准确性非常高，所以简单来说，这些镜头全部都是真的。不过，这些镜头也全部都是电脑制作的。&lt;br&gt;&lt;br&gt;深入星云的镜头是由无数张哈勃望远镜拍摄的照片组成的，每一张照片都是望远镜拍摄的原始图像。如果简单的把图像重合在一起，做成的3D影像不仅没有视觉的震撼，而且没有科学上的严谨和真实性。所以影片的制作团队把每一张照片里的每一个星系都和数据库里的具体数据进行了对比，把每一个物体都对应到了天空中正确的位置，计算出了正确的大小，并标示了正确的红移。星系的红移可以告诉我们它们离我们的距离，于是在它们位置坐标（两维数据）的基础上，就有了第三维的数据，从而可以得到正确的纵深。&lt;br&gt;&lt;br&gt;在比对了所有的星系（以及其中的恒星）以后，制作团队把上万张照片以及相对应的坐标、距离信息输入电脑，让电脑合成了深入星云内部的镜头。影片的制作团队是Space Telescope Science Institute（STScI，控制哈勃科学任务的机构），而在STScI有几百台研究者平时使用的电脑，每一台用作科研的电脑的处理水平和一个家用顶级台式机的处理水平相当。制作团队把近300台计算机每天晚上到凌晨空闲的时间利用起来，连续计算和渲染了两个月，才做出了那些深入星云的镜头（其中最耗时间的部分是3D的渲染，而不是计算）。这些镜头最终经过筛选和剪辑，才变成了我们看到的震撼心灵的宇宙星云。&lt;br&gt;&lt;br&gt;所以如果知主能乘坐一艘宇宙飞船真的深入那些星云，看到的景象会和在这部电影里看到的非常相像。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21530672/answer/18609650
-</link>
-<author>
-刘竹溪
-</author>
-<title>
-怪兽大学中的 Fear Co. 和 Scream Ind. 是什么背景？
-</title>
-<description>
-题目里公司名没打对。&lt;br&gt;&lt;br&gt;按官方设定，两个公司应该叫“恐惧公司（Fear Co.）”和“嚎叫工业（Scream Ind）”。它们和苏利文/华斯基效力的怪兽公司一样，是用惊吓为怪兽波利斯（Monstropolis）提供能源的三大企业。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://pixar.wikia.com/Fear_Co.&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Fear Co. - Pixar Wiki&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://pixar.wikia.com/Scream_Industries&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Scream Industries&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;怪兽公司是成立最早的，恐惧公司第二，嚎叫工业最年轻。&lt;br&gt;&lt;br&gt;其中，恐惧公司和恐惧理工大学（Fear Tech）有关，而恐惧理工大学是怪物大学的宿敌。苏利文偷的猪就是恐惧理工大学的吉祥物。&lt;br&gt;&lt;img data-rawheight=&quot;190&quot; data-rawwidth=&quot;170&quot; src=&quot;http://p2.zhimg.com/ad/5a/ad5a157ee8fdf05a0e71b8fdcbcef226_m.jpg&quot; class=&quot;content_image&quot; width=&quot;170&quot;&gt;恐惧理工大学标志&lt;br&gt;&lt;br&gt;在电影中，RΩR兄弟会有两名成员拿到了恐惧工业的工作机会（包括会长）：&lt;br&gt;&lt;img data-rawheight=&quot;275&quot; data-rawwidth=&quot;258&quot; src=&quot;http://p1.zhimg.com/4c/50/4c5019d2bb1274d236ac8fa7da51c81e_m.jpg&quot; class=&quot;content_image&quot; width=&quot;258&quot;&gt;&lt;br&gt;&lt;img data-rawheight=&quot;214&quot; data-rawwidth=&quot;282&quot; src=&quot;http://p1.zhimg.com/de/c9/dec938f61c76301bc7e0b2cadca87856_m.jpg&quot; class=&quot;content_image&quot; width=&quot;282&quot;&gt;教《惊吓学基础》的老师奈特教授也曾是这家公司的雇员。&lt;br&gt;&lt;img data-rawheight=&quot;365&quot; data-rawwidth=&quot;282&quot; src=&quot;http://p3.zhimg.com/2c/a5/2ca548b806124107e434d1a0ce530a55_m.jpg&quot; class=&quot;content_image&quot; width=&quot;282&quot;&gt;&lt;br&gt;而嚎叫工业资料不多。只知道三眼辣妹去了这家公司。&lt;br&gt;&lt;img data-rawheight=&quot;279&quot; data-rawwidth=&quot;282&quot; src=&quot;http://p2.zhimg.com/5a/9c/5a9cfbda5aeca4f0e7a2f1a3e069412d_m.jpg&quot; class=&quot;content_image&quot; width=&quot;282&quot;&gt;&lt;br&gt;从一些设定图来看，惊吓专员也是个流动性颇强的行业：&lt;br&gt;&lt;img data-rawheight=&quot;450&quot; data-rawwidth=&quot;600&quot; src=&quot;http://p2.zhimg.com/9d/dc/9ddc543511c13495f5abbaecc1e1db0f_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/9d/dc/9ddc543511c13495f5abbaecc1e1db0f_r.jpg&quot;&gt;
 </description>
 </item>
 </channel>
