@@ -15,6 +15,50 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19700804/answer/12825622
+</link>
+<author>
+悦涵
+</author>
+<title>
+高铁上的座位都是xxA，xxB，xxC，xxD，xxF，为什么跳过了xxE？
+</title>
+<description>
+CRH高铁动车组没有E座位。&lt;br&gt;&lt;br&gt;p.s. 原因请参考评论：保证 A/F 靠窗, C/D 靠过道&lt;br&gt;&lt;br&gt;一等座车厢采用2+2模式，一排4个座位，分别以ACDF代替，这是国际惯例，A、F代表窗口，C、D代表过道，这跟飞机座椅的排列规则是相通的。由于高铁一等座一排只有4个座椅，因此没有B和E。而二等座车厢采用“3+2”的模式，因此座位的排列是ABCDF。&lt;br&gt;&lt;br&gt;参考文章：&lt;a href=&quot;http://politics.gmw.cn/2011-06/21/content_2120293.htm&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;京沪高铁体验记：排列缘何没有B E？信号时断时续不稳定
+_时政频道
+_光明网&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21567485/answer/18645765
+</link>
+<author>
+Lawrence Li
+</author>
+<title>
+如何看待《未来三年互联网将颠覆电影产业》一文？
+</title>
+<description>
+這樣的文章好多，關於電影、音樂、文學的都有。看來看去，通常都會有一個感覺：文章作者不喜歡電影，不喜歡音樂，不喜歡文學。他看到好的電影也不知道好在哪，他只關心「商業模式」，然後還總是喜歡跟關心內容的人說：電影首先是一門商業——好像只要是不整天把商業模式掛在嘴邊的人都不懂得這個道理似的。&lt;br&gt;&lt;br&gt;這種人有點像會買很多數碼產品，但從來只用預裝的那些軟件的人，買很多高級廚具但做飯一塌糊塗的人，買很多專業寫作軟件但寫不出正常句子的人。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21572913/answer/18658299
+</link>
+<author>
+王音
+</author>
+<title>
+如何抓到入侵网站的黑客？
+</title>
+<description>
+如果你们关注的是如何抓住普通的小骇客(无纪律、无意识)，我可能没那个耐心回答，但如果你们想知道关于职业骇客(高意识、严格纪律、资源丰富)的看法，我还是可以给出一些论点的。&lt;br&gt;&lt;br&gt;一、安全对抗&lt;br&gt;&lt;b&gt;了解你的敌人(Know Your Enemy) &lt;/b&gt;&lt;br&gt;每个职业骇客通过常年的攻击行为、经验，累积了关于各种体系的知识，然后组合出各种攻击模式，而每种攻击模式都少不了&lt;u&gt;流程化、自动化。&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;你都不知道骇客想干嘛，在干嘛，防御你妹呀？&lt;/b&gt;&lt;br&gt;&lt;br&gt;现在大多数公司内部系统管理员与安全人员，他们因为没有来自行业与内部的竞争压力，为企业做的安全防御选择的都是“常规模式”，外加生搬硬套国外的标准做安全管理，日久天长就会变得工作效率低下、不负责任。&lt;br&gt;&lt;br&gt;如果技术人员都不知道什么叫0day，都不知如何处理rootkit，你叫他们怎么会有意识在各种骇客的关键路径设立传感器捕捉日志、保护日志？&lt;br&gt;&lt;br&gt;&lt;b&gt;一名优秀的骇客同时也是一名优秀的网络管理员、系统管理员&lt;/b&gt;&lt;br&gt;骇客知道哪里会留下自己的操作记录、各类日志，他们会去篡改，甚至&lt;u&gt;模拟出和真正管理员一模一样的行为&lt;/u&gt;。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;所以想要抓住骇客，就要时刻知道那些日渐趋变的攻击模式，找到攻击者的攻击路径，再去有目的的防御，Keep It Simple, Stupid，KISS原则。&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;有纪律的骇客，一般都会用最少的操作行为、最少的系统功能，来达成自己的目的；&lt;br&gt;&lt;/li&gt;&lt;li&gt;面对海量的攻击日志，是很难确定攻击者到底在哪里的；&lt;/li&gt;&lt;li&gt;在一个没有录像监控系统的网吧，拨了三层VPN+TOR的职业级宅男骇客(常年不出门)，要抓到他？你们他妈的别做梦了！(&lt;b&gt;这一句是对那些一天到晚不切实际谈论安全的专家们的吐槽&lt;/b&gt;)&lt;/li&gt;&lt;/ol&gt;二、80%的隐患来自内部&lt;br&gt;&lt;br&gt;待补充&lt;br&gt;&lt;br&gt;题外话：&lt;br&gt;&lt;br&gt;to &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Wabbor&quot; href=&quot;http://www.zhihu.com/people/Wabbor&quot; data-tip=&quot;p$b$Wabbor&quot;&gt;@Wabbor&lt;/a&gt; ，对于你的回答内容：现在已经没有骇客会在服务器上留后门、添加账号了，他们直接通过各种手法，窃取到管理员的真实密码，甚至直接入侵系统管理员的工作机(把管理员记录所有服务器信息的密码表、网络拓扑表拿到手)。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21563815/answer/18651009
 </link>
 <author>
@@ -269,48 +313,6 @@ http://www.zhihu.com/question/21567485/answer/18643131
 </title>
 <description>
 扯！这位张志远先生是如何有勇气说出这种话的啊！&lt;br&gt;&lt;br&gt;满是槽点以至于无处吐槽了。&lt;br&gt;&lt;br&gt;随意列举原文中一些生花妙笔：&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;而影视后期成本更是降低，现在一个90后的年轻人就能用PC或笔记本来剪辑电影了。未来几年更不需要上百万的大型影视后期工作站，也能完成一般电影的剪辑。目前MV和微电影已经能在普通电脑上用视频软件剪辑了，下一步90分钟的电影也不太远。&lt;/blockquote&gt;你确定电影行业近百年发展所积累的影视后期制作经验，是一个90后没学过电影的年轻人，在笔记本上用一个所谓的剪辑软件就能完成的么？那电影后期还要细分那么多部门和专人干嘛？&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;那么演员的费用怎么降低呢？能演戏的，或愿意免费演戏的大有人在。 这些新人的演技也因为平时拍摄成本降低，到处都是小剧组，早已经锻炼的成有经验的老演员了。&lt;/blockquote&gt;一个专业演员，真不是在小剧组靠多演几部垃圾戏就能锻炼出来的好么！而且你确定巨星的片酬只是因为他们「能演戏」么？明星魅力、票房号召力、商业价值和巨星气质等等不论幕前幕后都不知道有多少人花了多少资源才打造出来的。而这样的巨星，你确定能够为你免费演戏？他愿意，他的团队也不愿意啊。至于巨星和普通演员对于电影的意义这种话题，真是不说也罢！&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;一般的个人小制作，会降低到10万以内，主流的商业数字电影会在10万到50万之间，50万就属于豪华大制作了。100万？如果拍的好绝对可以上院线了！&lt;/blockquote&gt;对于50万的豪华大制作，真是已经无力吐槽了。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;原来的广告导演会跟广告客户说，给我50万，拍摄一部大电影，并套拍出来一个广告片。广告客户一听，50万也就是拍一条广告片的价格，还能拍一部大电影，还能联合出品&lt;/blockquote&gt;我擦，哪个大广告客户的PR会傻到认为50万元拍出的电影是「大电影」来着。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;电影类型一开始以带点情色花边噱头的青春喜剧题材为多；或反应社会热点的题材，如海天盛筵，例如法官嫖妓，城管打人，这些题材有着天然的吸引眼球优势。网络电影的周期很短，一两个月的周期，可以及时反映这些社会热点，这是比传统电影好的地方，传统电影都是一年多的漫长周期。&lt;br&gt;&lt;/blockquote&gt;嗯，到这里我弄明白了；其实他要拍摄的是新闻视频和青春性视频；这尼玛还是视频啊，这和电影有半毛钱关系？&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;电影的成本回收有了一个良性循环的模式：10万到30万制作成本，90分钟，高清甚至4K画质，直接在各大网络和运营商的付费频道，用户下载一部5块钱，有2万人付费下载就能收到10万。有10万人付费，就赚了&lt;/blockquote&gt;这大概是张志远先生的未来电影商业模式。只可惜，我想告诉张先生一个比较不幸的事情是，大多数烂片，用5块钱的价格，下载人数不只不会到10万人，可能连10个人都没有。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;未来几年之后，网络电影和院线电影导演肯定平起平坐，就像现在区分电影导演和电视导演一样，没高低贵贱之分。&lt;br&gt;&lt;/blockquote&gt;哪个时代，电影导演和电视导演平起平坐了？&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;因为中国是一个电影的城乡区别的二元市场，甚至多远市场。一个是一线、二线城市和三线以及农村市场的区别，而后者人口超过10亿，跟一二线的欣赏口味完全不同，一线城市已经能和国外接上轨，但是这10亿以上的人口完全本土化。&lt;/blockquote&gt;&lt;p&gt;嗯，你现在搞清楚他写这篇文章的原因了吧。他最后还弄了一句「如果能明白这个经济文化特征，研究市场就会明白很多」。这里的关键是他弄明白这里的经济文化特征了没有？&lt;/p&gt;&lt;br&gt;&lt;p&gt;当然文章并不是一无是处，比如他说到众筹模式对于小成本电影的影响；比如他提到的中国电影不应当只以电影票房为主要收入。但靠谱的地方真的太少&lt;/p&gt;&lt;p&gt;综合全篇，他太低估了电影制作的难度，也太高估了普通人制作电影的能力和热情。最重要的是，他真正高估了网络视频市场的规模。如他所言，一年有10万部50万成本的电影出埠；就意味着在视频网站等渠道需要回笼至少过千亿的资金才能够保证绝大多数电影回本。而这个数字可能是目前中国所有互联网视频网站付费电影收入总和的近百倍！而且，当10万个同质化的劣质视频内容同时出现在分销渠道时，最可能的结果是一个都不盈利，进而影响视频网站的经营！&lt;/p&gt;&lt;p&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@张小北&quot; href=&quot;http://www.zhihu.com/people/zhang-xiao-bei&quot; data-tip=&quot;p$b$zhang-xiao-bei&quot;&gt;@张小北&lt;/a&gt; 小北老师的那句「一步娘炮，两步扯蛋」真是再合适不过。&lt;/p&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19553122/answer/18638423
-</link>
-<author>
-大川Wallny
-</author>
-<title>
-0.99 美元和 1 美元的App相比，优势何在？
-</title>
-<description>
-&lt;h1&gt;几十年前有人发明了&lt;a href=&quot;http://en.wikipedia.org/wiki/Psychological_pricing&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Psychological pricing&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，开始有人应用，然后就被滥用。在被滥用了之后，很难说到底还有没有用。消费者已经获得了“足够的教育”，我不信还有人觉得0.99比1便宜。Wiki里Psychological pricing的解释也说到，实际的试验中会发现基本没有效果，连小孩子也能理性购买&lt;/h1&gt;&lt;blockquote&gt;The theory of psychological pricing is controversial. Some studies show that buyers, even young children, have a very sophisticated understanding of true cost and &lt;a href=&quot;http://en.wikipedia.org/wiki/Relative_value&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;relative value&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; and that, to the limits of the accuracy of the test, they behave rationally.&lt;/blockquote&gt;美国大量商品习惯于$2.99, 或者$199, $249这样标价（汽车和奢侈品除外），汽油更是“无耻”到$3.359一加仑这样的价格（美国油价绝大多数按&lt;b&gt;9厘&lt;/b&gt;结尾, 并且结尾以小字写成9/10）。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/40/fc/40fc194f75544c9630741343d2d646a6_m.jpg&quot; data-rawwidth=&quot;290&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;290&quot;&gt;&lt;br&gt;不能再用psychological pricing来解释，而是早已形成惯例。由于消费税的存在，本来也出不来整数：就算卖100，消费者也需要支付108这样的价格。加上9成以上的刷卡交易，不涉及“脑算”和“找零头”，没有任何的不方便之处。&lt;br&gt;&lt;br&gt;而在中国.9结尾这种定价远没有美国流行。Apple MacBook Air 起价为7388, 而在美国是$999. 中国人更习惯于整数0结尾，Apple认为中国人喜欢8，所以大玩起了8结尾这种定价把戏。999定价唯一实际作用就是按价格区间筛选的时候会被归到1000下面一档，增加“受众面” （即使是这点作用，也不绝对。有的按1-999，1000-1999分档，但是还有按1-1000，1001-2000分呢）本题App .99定价与这个没关系。&lt;br&gt;&lt;br&gt;App这个行业就是美国人创造的，确切地说就是Jobs本人搞的。老乔远在iPod时代就把iTunes的歌曲定价为$0.99一首，$9.99一张专辑。那么07年之后有了App Store, 顺其自然就继续$0.99起价。其他后来者也自然跟随这个习惯，于是你能看出在美国一律$0.99起，无论是Android还是iOS, 甚至Amazon. 然而，中国却是6块，而不是5.99。&lt;br&gt;&lt;br&gt;根据评论追加补充：有人说感觉598比600便宜，那么597呢？595，588呢？585，579，558？这样数字游戏玩下来是永远没有底线的。追其根本，我们讨论的无非是商家“如何牺牲最小利益 让你最大地感觉实惠”这个gimmick。有人觉得598是大实惠，但是还有人觉得商家忽悠，自己“脑补”了2块就当成是600。感觉是因人而异的，但是各种大牛的统计数字表明，整体而言消费者是对这种“忽悠”免疫的。或者说，觉得便宜的人和自动“脑补”的人正负抵消了。所以不应该过分关注这种数字把戏。别忘了，商品是否卖得掉、商家是否利润最大化，取决于多个因素。9、8这种定价法对总利润的影响是可以忽略不计的。&lt;b&gt;回归App定价来说，这纯属习惯，没有实际意义。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;别试图用理论来解释牛人的决策。牛人决策多数靠的是习惯和直觉，然后他再试图用理论来说服或者“骗”众人。&lt;/b&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21559301/answer/18620159
-</link>
-<author>
-程白
-</author>
-<title>
-如何评价演员葛优？
-</title>
-<description>
--&lt;br&gt;&lt;br&gt;葛優是一位我非常喜歡的喜劇演員。&lt;br&gt;&lt;br&gt;首先，他出身於藝術家庭，父親葛存壯亦是一個十分優秀的演員，這點，我相信有天賦繼承，以及藝術氛圍的熏陶。&lt;br&gt;&lt;br&gt;其次，他正好趕上了第五代導演集體崛起的日子，一起玩的都是馮小剛，王朔，張藝謀，陳凱歌之流。&lt;br&gt;&lt;br&gt;他的經典角色形象是什麼樣的呢––––––樸實幽默的小平民。&lt;br&gt;&lt;br&gt;這種角色，其實極其難演，我不停地在嘗試，沒一次成功，因為一直都在「演」。&lt;br&gt;&lt;br&gt;記得葛優一次在訪談中說：其實幽默的一直不是我，幽默的是情節，還有裏頭的台詞，我只是按照一個正常人的反應來表現而已。一個慫人，碰著打劫的，不得跪地求饒麽，多正常的事，但是到銀幕上就好笑了。&lt;br&gt;&lt;br&gt;他說的極是。&lt;br&gt;&lt;br&gt;現在很多演員啊，一到鏡頭前就和生活中的自己完全都撇開了，這其實也不好。&lt;br&gt;&lt;br&gt;對了，葛優上中戲那個時候，是該校最踏實的時候。&lt;br&gt;哪像現在，中戲和北電對演員的教育方法都有很大的問題，甚至有些導演，堅持不用這些「學院派」演員。&lt;br&gt;&lt;br&gt;葛優，其實不該放在演技中來討論。&lt;br&gt;好比武功高手，到了一定的級別，不能用武功比高下，而是境界。&lt;br&gt;&lt;br&gt;葛優演的都是生活感悟，將王朔和馮小剛這些年的機靈，表現地很到位，《非誠勿擾》裏邊就很明顯。不信讓其它演員自己讀一讀開篇葛優徵婚的那段詞：....要是還帶點婉約，就更靠譜了。&lt;br&gt;&lt;br&gt;這可是生活真理，老男人才能讀出來「流氓又讓人喜歡」的味道。&lt;br&gt;&lt;br&gt;《讓子彈飛》則是在這個基礎上，換了年代，又加進去了姜文的藝術勁。湯師爺仍然是葛優經典形象的延伸。&lt;br&gt;至於在這部戲中的發揮，葛優是唯一一個沒有被姜文搶去風頭的演員。面對「戲霸」，游刃有餘~&lt;br&gt;&lt;br&gt;總之，好演員！&lt;br&gt;&lt;br&gt;盼他多活兩年，多帶點快樂給觀眾。&lt;br&gt;&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21197892/answer/18305497
-</link>
-<author>
-索思
-</author>
-<title>
-如何评价张学友的演技？
-</title>
-<description>
-野兽派的代表人物之一&lt;br&gt;&lt;br&gt;或者说是最野兽派的人物&lt;br&gt;&lt;br&gt;这个门派的特点就是，反应流。导演今天要我哭我就哭，叫我笑我就笑，叫我阴险就阴险，叫我搞笑就搞笑。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;说回来，作为四大天王里最不帅的那一位，张学友从来也不把自己当一个帅哥来看待，他不需要像华仔那样演谁都像刘德华，不需要像黎明那样演什么角色都像贵公子，和郭天王走的也完全不是一个路数（郭天王也是最近这些年才演技附体的）&lt;br&gt;&lt;br&gt;&lt;br&gt;基本来说&lt;br&gt;早年的歌神基本属于导演要我痞我就痞&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/cc/c4/ccc44c8a6fc9f949b9aa6327c7a0db3d_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;338&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p4.zhimg.com/cc/c4/ccc44c8a6fc9f949b9aa6327c7a0db3d_r.jpg&quot;&gt;&lt;br&gt;要我狠我就狠&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4e/3d/4e3d981f36451a32bf8b3efe78397606_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;324&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p1.zhimg.com/4e/3d/4e3d981f36451a32bf8b3efe78397606_r.jpg&quot;&gt;&lt;br&gt;要我骚我就骚&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/63/8d/638d845768e17f64e2ac31e642d2ecf3_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;404&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p3.zhimg.com/63/8d/638d845768e17f64e2ac31e642d2ecf3_r.jpg&quot;&gt;&lt;br&gt;要我浪我就浪&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/15/ee/15eea61b96126b56355250dd93c0f581_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;337&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/15/ee/15eea61b96126b56355250dd93c0f581_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;根据歌神的自述，早些年拍戏哪有那么多准备工作，还带抠抠摸摸戴TT什么的……错了…还看剧本酝酿感情啥的？晚上九点半直接从录音棚出来去摄影棚，剧本都不看的，导演直接说，你，台词几句，怎么怎么样，来吧……&lt;br&gt;&lt;br&gt;周星星同学在《喜剧之王》中，弄了一大堆斯坦尼斯拉夫斯基的理论，什么从外到内再到外，什么一点狡猾的调皮，折腾半天，被人Fire掉，成龙客串的角色来了，导演问，会死么？来，表演个中枪死，邦邦，大鼻子一哆嗦倒下去了，行，够反应，就你了。&lt;br&gt;&lt;br&gt;&lt;br&gt;客观上来说，以张学友目前的情况，即使这几年整出了些文艺片舞台剧，可还是没有一个拿的出手的做主角的片子，或者说，以他这个流派为代表的人物都很撑起一个好的主角。野兽派的本质就是，够爆发力，反应够大，活也够糙。&lt;br&gt;不过好在，他们演配角是很出色的，对于导演来说，这就够了。有什么关系呢，弄出一个帅哥当主角容易的很，弄几个够反应的配角倒是头痛的很，所以，学友哥早早的拿一个金像的最佳男配算得上实至名归&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/6d/6f/6d6fd990e3641c2044afd09aa355cbfa_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;337&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p3.zhimg.com/6d/6f/6d6fd990e3641c2044afd09aa355cbfa_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;周星星在《喜剧之王》里绞尽脑汁的想，如何在舞台上，在角色的生活环境中，和角色完全一样正确地、合乎逻辑地、有顺序地、像活生生的人那样地去思想、希望、企求和动作。需要如何从内向外去笑，需要如何由外向内去收。对于这一切，成龙只是拍拍他的肩膀，用点心，你用点心做就行了。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/b8/aab89f865cffa23ac791b36b2cec6b28_m.jpg&quot; data-rawwidth=&quot;580&quot; data-rawheight=&quot;321&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;580&quot; data-original=&quot;http://p2.zhimg.com/aa/b8/aab89f865cffa23ac791b36b2cec6b28_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;张学友便是如此，用点心，来点反应，当不当主角有什么关系……&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;（图片来源贴吧）
 </description>
 </item>
 </channel>
