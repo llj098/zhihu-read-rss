@@ -15,20 +15,6 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
-http://www.zhihu.com/question/21584018/answer/18745262
-</link>
-<author>
-pahu
-</author>
-<title>
-百度 Mac 输入法知乎专版有何特别，使用体验如何？
-</title>
-<description>
-有关 百度 Mac 输入法知乎专版，很多朋友体验过后有不同的意见，感谢大家的关注~&lt;br&gt;&lt;br&gt;&lt;b&gt;说起 百度 Mac 输入法知乎专版 的由来，和大家想的有些不一样：&lt;/b&gt;&lt;br&gt;在一年前 百度 Mac 输入法 刚起步时，建立官网，制作 banner，写微博文案时，我们的 UE 同学经常会「教导」我们： 中英文之间插入空格！当时大家感觉，好像平时偶尔也有这样的行为，只是未成定规，于是也就非常愉快地接受了。当然在 Excel，Word 中，中英文间已经有了非常智能的间距调整，但毕竟这不是国家标准，平时也就是排版考究一点的书籍或者 Apple、微软这样的官网会去注意。&lt;br&gt;&lt;br&gt;于是很自然的，我们 team 想到是不是能把这项功能加到自己的输入法里（当然也受到了 OS X Mavericks 默认中英文间自动插入空格的鼓励），在 V3.1 中推出。在推出之时，团队内也有一番争论，更富有情怀的 UE 同学主张把这项功能设定为默认开启，「净化中文输入环境」。而 PM 同学考虑到大多数用户接受这个理念需要一个过程，甚至用户也有不遵循此项规范的权利，因此最终在 V3.1 中，作为一个可选项，由用户去选择开启。当然也赞同，找一个特定人群，出一个专版是比较合适的。&lt;br&gt;&lt;br&gt;如此这般，我们与 知乎团队 取得了联系，由于有关 直角引号 和 中英文间插入空格，在知乎上都有很充分的讨论，大家对于这个理念的接受程度较高，我们认为在这样一个群体中去推广这个功能是合适的。更准确地说，由于受到 知乎 熏陶从而成为这项规范的忠实拥趸，我们也希望能够出把力，参与其中。&lt;br&gt;&lt;br&gt;由此有了知乎专版。&lt;br&gt;&lt;br&gt;但确实目前还是有一些问题，尤其是针对这样一个不成文的功能，比如数字和英文之间的空格如何处理？iOS 7 是有空格，但 T9 这样的词就没有，数字和中文之间如何处理？等等等等，新功能总归预示着新问题，想象接下来我们也会慢慢去改进吧~&lt;br&gt;&lt;br&gt;&lt;b&gt;知乎专版的新功能&lt;/b&gt;&lt;br&gt;知乎专版 把 直角引号 和 中英文间插入空格 默认开启了。但仅仅如此显然诚意欠奉，于是我们在想除了这些，还可以引入哪些「知乎元素」。&lt;br&gt;&lt;br&gt;UI 首当其冲，我们的 UI 同学设计了知乎专版的皮肤 和 中英提示icon。只是想博知友会心一笑。你仍然可以去设置项找回 默认皮肤，或者去&lt;a href=&quot;http://r6.mo.baidu.com/web/ims/index/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mac 皮肤_百度手机输入法&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 去下载很多有趣的皮肤，这些由 UI 圈的朋友们提供的精彩作品，是我们最骄傲的一部分。至于「存在感太强」，我们今后会在视觉设计时更加注意~&lt;br&gt;&lt;br&gt;知乎团队 也对我们已有功能提供了几个有益的建议，这些建议都被采纳并加入到了 知乎专版中：&lt;br&gt;&lt;ol&gt;&lt;li&gt;用 [ ] 输入直角引号&lt;/li&gt;&lt;li&gt;截屏自定义：包括快捷键的自定义 和 可选保存至剪贴板，在 QQ 截屏死机解决之前，这个应该可以顶一阵子。&lt;/li&gt;&lt;li&gt;删除垃圾词，鼠标移到候选词上，按住向外拖或者点一下垃圾桶，都会「噗」地一下消失了。很多强迫症的同学应该会觉得这个功能不错。&lt;/li&gt;&lt;li&gt;原来的 ctrl+. 和 shift+space 快捷键，更多的是参考了 PC 端的习惯沿袭。但也造成和一些软件快捷键冲突而被吐槽，因此可以去设置项将其关闭。&lt;/li&gt;&lt;/ol&gt;希望，我们的输入法能够给用户带来不一样的体验，能让你觉得好用，挺快，蛮准，或者仅仅是「有意思」。如果你还是更习惯原来的版本，那么你可以戳这里下载：&lt;a href=&quot;http://shouji.baidu.com/download/1000e/baiduinput_mac_v3.1_1000e.dmg&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;shouji.baidu.com/downlo&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;ad/1000e/baiduinput_mac_v3.1_1000e.dmg&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;如果有一些见解，也请尽管吐槽，做一款 Mac 上很好用的输入法还很任重道远。&lt;br&gt;&lt;br&gt;&lt;b&gt;ps&lt;/b&gt;：有关 百度 Mac 输入法 和 知乎 的一次营销活动的看法，我想知乎并不需要一款输入法来提升影响力，他已然是「一个更大的世界」。Mac 用户也十分有限，希望以此提升用户量也不现实，能够因此让大家对我们有所关注，有所讨论，已然很高兴！
-</description>
-</item>
-<item>
-<link>
 http://www.zhihu.com/question/21554905/answer/18733665
 </link>
 <author>
@@ -294,6 +280,20 @@ http://www.zhihu.com/question/19598964/answer/12343808
 </title>
 <description>
  我和许知远是十年好友，我来回答这个问题，也许会有情感上的偏颇，因此，各位看官还请注意我答案中的的潜在倾向。&lt;br&gt;&lt;br&gt;我一直很欣赏和敬佩许知远，他是这个时代的年轻人（他已经不好意思再说自己是年轻人了）当中，少数那些仍然对创建一个多元价值并兴、并且只有少数人尊崇的重要价值能得到彰显的社会充满念想的人。他希望自己是这样一个社会的推动者，并且时常为自己仍然无力而感到焦虑。&lt;br&gt;&lt;br&gt;请先不要急着嘲笑这种焦虑。是的，这种情绪在今天看起来是非常的可怜和可悲，更多人的焦虑是在财富、成功、声名的不足，即便是屁民如你我，不会幻想巨大的光环，也会沉溺于房价太高、购车摇号、爱情不可靠等等焦虑之中。请别误会，我并不是在看低这种焦虑，我只是想说，相比之下，许知远的焦虑显得如此无聊和无趣。在大家对维持生活标准感到压力日增时，他却还在一旁大谈其他的追求，让人感觉「我在拼命还按揭，他在叽歪唱风月。」&lt;br&gt;&lt;br&gt;许知远崇尚更富有价值、对未来更有洞见、对社会向上发展更有推动力的讨论，并渴望将这种讨论扩展到整个国民，一个因为无处不在的国民大讨论（National debate）而充满活力的社会。而在今天这个国家，建设一个公民社会的议题被一再地推迟和放逐，更令人不安的是，这个国家成功地压制以及收买了国民在经济利益之外的其他诉求，建设公民社会的议题被进一步边缘化。&lt;br&gt;&lt;br&gt;因此，一个健康社会的自愈能力日益难以出现在这个国家。一个健康的社会，是能够让不同的声音发出来，让不同的价值观有着充分展现的空间，与此同时，它还要能够让一些更重大的议题不被多数人忽视，得到足够的认可和对待。一个健康社会的自愈能力是，当多数人被琐碎淹没、美好社会的构建被偷换概念时，仍然有人能大声喊出「当心呀」，避免出现托克维尔所警惕的「多数人的暴政」。&lt;br&gt;&lt;br&gt;这一点，体现在政治架构上，正是美国参众两院的设置。民众通过众议院提出议题，精英借助参议院塑造议题，最终，两院的议题和声音会逐渐走向共识，有小不同，但大一致。&lt;br&gt;&lt;br&gt;好了，把主题收回来吧。许知远的焦虑，也许是苍白的，但对这个社会，有着巨大的价值，尽管在当前，他无力一己带来变化，但这个时代，令人警醒的声音永远不会嫌多。这样的声音，可能显得无妄和傲娇，甚至显得苍白——茅于轼和天则所、许志永和公盟所做的事情，看起来更务实，也更有力量——但我们幻想的美好社会，不正是如此吗？有人做活，有人说话，彼此之间并不会因为事情的不同而相互轻蔑，因为大家的目标都是一致的。&lt;br&gt;&lt;br&gt;许知远的焦虑，在某些时候，看起来很像是另一种不公平：凭什么你的喜好就优于我的追求？但，在这个价值观混乱、只有价格能得到肯定的时代，矫枉过正并无坏处。&lt;br&gt;&lt;br&gt;更何况，他永远也不可能做到让这个社会矫枉过正。 
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21540008/answer/18642701
+</link>
+<author>
+澜心
+</author>
+<title>
+为什么车展的模特大多高挑，但并不一定漂亮？
+</title>
+<description>
+真所谓隔行如隔山，什么？车模漂亮？漂不漂亮有什么关系，车展上面都会请化妆师的，如果是生活中小清新的妆容，还讲究点底子的话，那么舞台妆(多层粉底+双眼皮贴+夸张的假睫毛+鼻子脸颊额头的阴影)再丑都会有明星效果的(从台下看)&lt;br&gt;&lt;br&gt;（既然上了热门回答就再补充一些内容吧.........）&lt;br&gt;这是模特化妆之前&lt;img src=&quot;http://p2.zhimg.com/eb/8e/eb8e0138351779919a2ac7b145bddea2_m.jpg&quot; data-rawwidth=&quot;555&quot; data-rawheight=&quot;677&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;555&quot; data-original=&quot;http://p2.zhimg.com/eb/8e/eb8e0138351779919a2ac7b145bddea2_r.jpg&quot;&gt;&lt;br&gt;这是化妆之后的，同一个人哦~&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/52/9f/529f79f4907b3fadabcaf2c05eb29e80_m.jpg&quot; data-rawwidth=&quot;497&quot; data-rawheight=&quot;497&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;497&quot; data-original=&quot;http://p2.zhimg.com/52/9f/529f79f4907b3fadabcaf2c05eb29e80_r.jpg&quot;&gt;如果化了妆还不好看的话，说明你看的不是A级车展或者化妆师的水平不行吧&lt;br&gt;&lt;br&gt;每年国内各地都会举行大小各种车展，按照新车数量和展示规模分为A、B、C等级。像北京、上海、广州(11月)的大型车展就是A级别的，对车模的要求也比较高，通常会进行海选，但无论哪种车展，第一个门槛绝对是身高而不是长相！可以从高挑的里面找一个漂亮的，但仅有漂亮而身高不够……这难度很大，当然如果是特别漂亮的，可以放松2~3厘米的要求。&lt;br&gt;&lt;br&gt;所以身高是对车模外表的最基本要求，其次就是胸部。由于着装为礼服所以胸部丰满者最佳(国情决定)。拥有了以上两点，如果你还是个漂亮的车模的话，就会非常引人瞩目啦！(比如曹阳↓↓↓)&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2b/d9/2bd90ff66530b033b219723aeef247d3_m.jpg&quot; data-rawwidth=&quot;554&quot; data-rawheight=&quot;800&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;554&quot; data-original=&quot;http://p3.zhimg.com/2b/d9/2bd90ff66530b033b219723aeef247d3_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;其实模特分好多种，不同的种类有不同的审美标准。对于美丽车模的审美标准就是高瘦+丰满的胸部(或者高瘦+气质特别好)。试想，你在台上面，观众离你只有不到2、3米远，这时候白花花的大腿多么有冲击力啊，身材是多么重要啊，紧身的或者暴露的亦或高贵得等等，在观众面前是被一览无余的，然后数不清的长枪短炮加闪光灯，(他们居然不是来拍车的而是拍你的！)看着那黑压压的人群，站在10cm+的高跟鞋上用你的身高来俯视他们：这群屌丝~！&lt;br&gt;平面模特则相反，要求长相漂亮有表现力。表现力可以学，腿短没关系，这个可以P的，反正真人你也看不见。比例好的，158不用P就能拍成170呢！&lt;br&gt;图为模特李米肥（152cm）&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/79/02/7902c02c421d2851e8b1f94fe53af150_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;782&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;http://p4.zhimg.com/79/02/7902c02c421d2851e8b1f94fe53af150_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;题外话：如果你想看车模的照片和她平时的状态，请在微博上搜索“车模+好累啊”顺势点进去，然后你就什么都看到了，千万不要相信化了大浓妆之后的照片啊哈哈哈哈哈哈！！
 </description>
 </item>
 </channel>
