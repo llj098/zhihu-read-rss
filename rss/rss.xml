@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21584279/answer/18765895
+</link>
+<author>
+刘旭颖
+</author>
+<title>
+网游的战斗数值设计，加减法与乘除法各有什么优劣？
+</title>
+<description>
+&lt;b&gt;其实问题可以重新定位一下，因为抛开设计目的和内容规划，单纯谈论战斗公式的优劣是没有太多意义的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;因为战斗公式的选定，涉及到立项之初就需明确的几个问题：设计者期望的战斗体验，设计者期望的数值成长体验以及游戏内容的支撑。具体来说：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;战斗体验主要涉及&lt;b&gt;玩家理解成本&lt;/b&gt;，&lt;b&gt;战斗平衡，战斗易控性&lt;/b&gt;三个问题。&lt;br&gt;数值成长体验主要涉及&lt;b&gt;数值成长曲线&lt;/b&gt;和&lt;b&gt;消费体验&lt;/b&gt;。&lt;br&gt;游戏内容的支撑主要是指&lt;b&gt;策划规划并且开发团队最后能够实现的游戏内容&lt;/b&gt;。&lt;br&gt;并且以上很多问题之间都是相互影响的。&lt;br&gt;==================================&lt;br&gt;&lt;b&gt;玩家理解成本&lt;/b&gt;&lt;br&gt;先随手贴两组的伤害公式来对比：&lt;br&gt;伤害 = 武器DPS * 武器速度 + (武器速度 * AP/14 )+技能附加伤害*技能伤害参数&lt;br&gt;伤害 = 攻击 - 防御&lt;br&gt;&lt;br&gt;两组公式本身都不存在问题，但公式越复杂，玩家的对属性的理解成本越高，对属性能够作用于战斗效果的影响理解成本就越高。另外，这个理解门槛还和游戏的目标人群定位有关，定位越高端，同样的公式和属性，理解成本相对越低，但人口基数也随之下降。定位越大众，同样的公式和属性，理解成本相对越高，但人口基数随之上升。&lt;br&gt;&lt;br&gt;这就是为什么相对快餐的游戏，相对鼓励PVP的游戏（主要指MMO），数值想卖的狠点的游戏，比如07年的《征途1》，现在市面上很多的网页游戏都采用减法公式的原因。&lt;b&gt;简单粗暴直接。&lt;/b&gt;不用考虑太多，花钱砸数值一定有效。&lt;br&gt;&lt;br&gt;&lt;b&gt;战斗平衡及易控性&lt;/b&gt;&lt;br&gt;（这个问题我之间有回答过，顺便粘贴过来。）&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20123689/answer/16900688&quot; class=&quot;internal&quot;&gt;在游戏策划中怎么保持游戏平衡？&lt;/a&gt;&lt;br&gt;由此可见，&lt;b&gt;战斗平衡不光关联战斗公式，还关联数值投放。&lt;/b&gt;而在这点上，减法公式和乘法公式、除法公式各有优劣。&lt;br&gt;&lt;br&gt;减法公式计算简单，关联系数相对较少，单纯从公式上来看，较乘法和除法更容易达到平衡。但问题在于，在使用减法公式的游戏中，因为攻防不等价，需要对数值的产出，特别是防御属性的产出进行非常严格控制的控制。因为一旦出现不破防的情况，整个服的生命力就非常容易走到尽头。最明显的例子就是《征途》里出现过的一人灭国。这就是为什么大家都说使用减法公式对策划的考验更大。难就难在控制数值投放，在一个道具收费游戏里，既促消费又保平衡。&lt;br&gt;&lt;br&gt;乘法公式和除法公式，公式相对复杂，参数关联相对紧密。可能出现的问题在于游戏进行到中后期，属性成长对伤害影响的边际效应（这里只是公式上的边际效应，实际还会出现消费体验上的边际效应，这个后面说）。但这个相对好解决一些，数值成长曲线部分也会谈到。但最关键的，乘法和除法都不会出现不破防这个问题，对于数值投放控制的要求没有那么严格。上手难度比减法公式低。&lt;br&gt;&lt;br&gt;&lt;b&gt;数值成长曲线&lt;/b&gt;&lt;br&gt;简单拉个了表，在攻防属性线性投放的情况下，各个公式的曲线是这样的：&lt;br&gt;&lt;b&gt;减法公式：伤害 = 攻击 - 防御&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bf/dd/bfdda169704ec6551b4955f887a69f4b_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p3.zhimg.com/bf/dd/bfdda169704ec6551b4955f887a69f4b_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;除法公式：伤害 = 攻击 ÷ 防御&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ed/b6/edb62313ff7811cf9b67255f85a8cb29_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p2.zhimg.com/ed/b6/edb62313ff7811cf9b67255f85a8cb29_r.jpg&quot;&gt;&lt;br&gt;可以看出，在攻防属性线性增长的情况下，减法公式的伤害也是线性增长的，也是合理曲线。但是除法公式的伤害增长此时却几乎趋近水平的，这就不能让人接受了。什么？你要把攻击投放增加10倍？那好，攻击投放增加10倍后，曲线是这样的：&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f6/3b/f63bb9262d1c68ad016e1f6a7ec4dde8_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p3.zhimg.com/f6/3b/f63bb9262d1c68ad016e1f6a7ec4dde8_r.jpg&quot;&gt;= =你看，伤害增长还是水平的。&lt;br&gt;这个时候咋办？于是就有聪明的策划灵光一闪，为这个公式的攻击力平了个方。于是：&lt;br&gt;&lt;b&gt;伤害 = （攻击*攻击）÷ 防御&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/da/57/da57d1f282a66f7fd5f484325f316526_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p1.zhimg.com/da/57/da57d1f282a66f7fd5f484325f316526_r.jpg&quot;&gt;&lt;br&gt;哟西，这条曲线好看很多的吧。但是，等等，问题又来了。你们没有发现伤害反而成为成长最高的那条线了么？这意味着什么？意味着击力搞得越多越划算啊！！攻击性价比太高，于是又有策划灵光一闪，变出了下面的公式：&lt;br&gt;&lt;br&gt;&lt;b&gt;伤害 = （攻击*攻击）÷（攻击 + 防御）&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4f/ea/4fea5fb3600a19101af5f32b8826ac4d_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p1.zhimg.com/4f/ea/4fea5fb3600a19101af5f32b8826ac4d_r.jpg&quot;&gt;&lt;br&gt;看来又合理的一些，不过好像还是有些问题啊。比如不能手动调整神马的……&lt;br&gt;&lt;br&gt;以上就是除法公式发展的历史轨迹了。从此之后，除法公式就有了各种各样的变种，某些类似于：&lt;br&gt;&lt;b&gt;伤害 = （攻击*手动系数 + 手动参数）÷（攻击 + 防御*手动系数 + 手动参数）&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;乘法公式：伤害 = 攻击*（1 - 免伤率）&lt;/b&gt;&lt;br&gt;因为免伤率是一个百分比，所以在免伤率固定情况下，攻击力的成长和伤害的成长是妥妥这样的：&lt;br&gt;（假如免伤是20%）&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/57/9e/579e6a3237c9ab7e508f80ab388218e0_m.jpg&quot; data-rawwidth=&quot;481&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;481&quot; data-original=&quot;http://p2.zhimg.com/57/9e/579e6a3237c9ab7e508f80ab388218e0_r.jpg&quot;&gt;哟西，曲线还不错。但是问题又来了，免伤这个值不太好卖啊…………&lt;br&gt;时间收费游戏、竞技类游戏这个问题都不大，但是作为一个道具收费类游戏，怎么卖好呢？&lt;br&gt;直接卖百分比？行是行，怎么定价呢？这个值，即使是固定的，但是它在游戏前中后期的价值可不一样啊。我见过很多游戏，刚一上的时候就开始直接在卖各种百分比了，真是_(:з」∠)_。&lt;br&gt;卖具体值？行是行，而且数值体验上来说，确实比百分比好。但是还是定价问题。这个值在游戏的前中后期价值还是不一样的。&lt;br&gt;那怎么办？做具体值的等级衰减吧！简单的说，就是一个玩家和自己同等级的怪对砍，在10级时要达到20%的免伤，需要100的护甲，而在50级时要达到20%的免伤，可能就需要1000的护甲了。&lt;br&gt;&lt;br&gt;如果有人还有印象的话，WOW最开始的命中、暴击等值都是直接按百分比的形式附加在装备上的，后面才改成了命中等级、暴击等级、急速等级等等，而且不同的等级，要达到100%的命中，要求的命中等级是不一样滴。&lt;br&gt;&lt;br&gt;但是，乘法公式还是会面临上面我提过的理解门槛问题。特别是等级衰减，控制不好，就很有可能让玩家随着等级的成长，战斗体验反而变得越来越差。&lt;br&gt;&lt;br&gt;&lt;b&gt;消费体验&lt;/b&gt;&lt;br&gt;（这个感觉说不完……而且题主估计也不是要问这个，所以可耻的略过了……）&lt;br&gt;&lt;br&gt;&lt;b&gt;游戏内容的支撑&lt;/b&gt;&lt;br&gt;数值体验本质上是做成长体验，卖数值本质上也是卖成长感。而单纯的数据增长，即使曲线再漂亮，如果没有对应的系统、玩法、乐趣或者其他承载体来支撑，也是毫无意义的。&lt;br&gt;&lt;br&gt;举例来说，如果游戏中加入急速这个属性，那么设计者首先要思考的是：急速这个属性对应的玩法或者技巧是什么，它在哪个系统哪个关卡哪种对抗中能够体现其存在感，开发团队现有的技术能不能够有效的实现，甚至天朝的网速能不能够支持这种玩法等等等等…………&lt;br&gt;==================================&lt;br&gt;&lt;br&gt;收工……不怎么干数值活儿的人……有问题请轻拍 →_→
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21614189/answer/18774339
 </link>
 <author>
@@ -277,20 +291,6 @@ yolfilm
 </title>
 <description>
 -&lt;br&gt;这种东西也能辩白？我 X ，那玩意儿叫「密码」，不叫「公开码」。&lt;br&gt;&lt;br&gt;人家设了这玩意，就是不想随便叫你用。&lt;br&gt;恁凭谁，说再多歪理，也不能掩饰这种「公开密码」行为的恶质。&lt;br&gt;&lt;br&gt;小米的作法，说难听些，就是「盗匪」作派。&lt;br&gt;&lt;br&gt;清末民初，黑社会的贼人，在踩点後，用粉笔在大户人家墙上作的各种记号。&lt;br&gt;「这家有狗，打个圈」，「男人不著家，打个勾」，「偷过了没有货色，打个圈叉」……。&lt;br&gt;把不知情的受害者，私密公诸於世：「来呀，弟兄们，此处有肥羊，大家来共享。」&lt;br&gt;&lt;br&gt;行为，败德至极。&lt;br&gt;&lt;br&gt;密码公开，谁说是小事来著？它至少违法四条：&lt;br&gt;&lt;br&gt;一、泄人私密。&lt;br&gt;二、盗人财物。&lt;br&gt;三、鼓励偷窃。&lt;br&gt;四、破坏社会善良风气。&lt;br&gt;&lt;br&gt;小米这种设计，是手把手地，教全国的消费者，作贼。&lt;br&gt;&lt;br&gt;一个社会的公众道德，要有多崩坏？&lt;br&gt;才会把为这种不可理喻的行为说解？把这种丢脸的事，拿来吹捧标榜？&lt;br&gt;&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21604002/answer/18753691
-</link>
-<author>
-納米黑客
-</author>
-<title>
-如何评价 MIUI 的 Wi-Fi 分享功能？
-</title>
-<description>
-.&lt;br&gt;某些讨论偏离重点。&lt;br&gt;很多这一功能的支持者拿开启难度高低，影响范围大小来说事。&lt;br&gt;&lt;br&gt;就算这个功能默认不开启，若要开启需要打开五重开关，输入三道口令，阅读并同意八个用户协议，系统会先询问你而不会自动上传自动匹配，有 100 个人同时分享才会真正分享，又有 200 种方式可以避免自己的 Wi-Fi 被分享，在服务器端密码进行五十万次加花 MD5，只在开发版中提供此功能……依然不能掩盖其本质。&lt;br&gt;&lt;br&gt;为什么总会有人觉得，有一个东西，其他 5 个人可以用了，于是我作为第 6 个当然就可以用了。&lt;br&gt;究竟是什么样的经历造就了这种想法啊……&lt;br&gt;&lt;br&gt;我都已经在脑海中想象着某用户向女伴炫耀功能不成于是拿着手机冲着服务员大喊：「你这是公共场所已经有其他 5 个人分享了，我怎么就不能用，把你们老板找来！」的画面了……&lt;br&gt;&lt;br&gt;对不起，人家服务员看长相决定给不给密码的。&lt;br&gt;&lt;br&gt;---&lt;br&gt;题外话，如果是 B2C 的分享模式就不存在这种问题了。所以类似的东西大众点评或者 Yelp 来做很合适。原意让公众自由使用 Wi-Fi 的商家在大众点评处登记，大众点评手机 App 可以自动获取相应的密码并连接 Wi-Fi，查找商户的时候还可以加个「有 Wi-Fi」的条件，这种商户的名字旁边还可以加个图标……
 </description>
 </item>
 </channel>
