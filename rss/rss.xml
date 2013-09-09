@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19593313/answer/18795396
+</link>
+<author>
+chenqin
+</author>
+<title>
+OCR 中文识别用哪种软件识别率比较高？
+</title>
+<description>
+由于工作需要大量的数据识别，我接触过世面上可用的几乎所有文字、数字识别软件。有一阵子，因为可用表格扫描得太不清晰，我甚至考虑过自学编写文字识别的程序……还好最后碰到前面已经有很多人提到的ABBYY Finereader（中文叫“泰比”）。&lt;br&gt;&lt;br&gt;1，识别率极高。我使用过现在的答案总结里提到的所有软件，但遇到下面这样的表格，除了ABBYY还能保持95%以上的识别率之外（包括秦皇岛三个字），其他所有的软件全部歇菜，数字认错也就罢了，中文也认不出。血泪的教训。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a1/b8/a1b8009516c105556d2a2df319c72d72_m.jpg&quot; data-rawwidth=&quot;961&quot; data-rawheight=&quot;498&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;961&quot; data-original=&quot;http://p2.zhimg.com/a1/b8/a1b8009516c105556d2a2df319c72d72_r.jpg&quot;&gt;&lt;br&gt;2，自由度高。可以在同一页面手动划分不同的区块，每一个区块也可以分别设置表格或文字；简体繁体英文数字。而此时大部分软件还只能对一个页面设置一种识别方案，要么表格，要么文字。&lt;br&gt;3，批量操作方便。对于版式雷同的年鉴，将一页的版式设计好，便可以应用到其他页，省去大量重复操作。&lt;br&gt;4，可以保持原有表格格式，省去二次编辑。跨页识别表格时，选择“识别为EXCEL”，ABBYY可以将表格连在一起，产出的是一整个excel文件，分析起来就方便多了。&lt;br&gt;5，包括梯形校正，歪斜校正之类的许多图片校正方式，即使扫描得歪了，或者因为书本太厚而导致靠近书脊的部分文字扭曲，都可以校正回来。&lt;br&gt;&lt;br&gt;一开始用了一会儿盗版，后来发现这个软件可能已经帮我省了几百美元的助研费用（最没办法的办法就是叫两个学生人肉输入数据，然后合并在一起，碰到不一样的再自己检查），实在不好意思再用盗版了，就花了150美元买了正版。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21506435/answer/18795002
 </link>
 <author>
@@ -279,20 +293,6 @@ http://www.zhihu.com/question/19600788/answer/12340150
 </title>
 <description>
  我想这个问题不是问网络电台的音乐或内容怎么让人喜欢，就听觉内容来讲的确是各有所爱。但受欢迎的音乐台都有一些共同的策划、编辑、制作的优秀突出之处。&lt;strong&gt;整体如何提供产品是关键。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;我讲几个冒到脑面上的吧。策划者一定要懂得音乐这种产品, &lt;strong&gt;体察本质&lt;/strong&gt;。音乐是情感资产，人们是用心和感觉去体会音乐的。不同的人生阶段，认知高低，审美的精粗都会影响音乐取向。视野宽宏的人可以被深深感动的作品，不一定能打动狭窄视线的主人。一首很流行的歌，可能会被某些人听出俗气而婉拒。&lt;br&gt;&lt;br&gt;那么音乐的消费者可以分类吗？可以。以消费者的年龄背景分，会是个保守保险的做法。另外以策划者本身的喜好来定位也很不错，只要这个策划者对本身的审美及音乐素养有一定的积累和把握。他推荐的东西可能看起来很宽幅，但都会遵循某几个审美品位趋向。我觉得让人喜欢的关键是，它一定是不可能让所有人喜欢的。策划者本身对于offer有什么具体的主张？推荐音乐，等于是一种再创造，所有&lt;strong&gt;好的&lt;/strong&gt;文艺创作都有一个不是秘密的秘密：具体而自我。只有你深信和深爱的，才有机会突出、打动别人。当你把几个自己熟悉和认识的好友当做你的推荐目标时，你更有机会感动许多人。&lt;br&gt;&lt;br&gt;(自我不是任性独我和专横狭隘，而是在坚持提升自己的基础上，与自我人性中本质的层面的连接和对话)&lt;br&gt;&lt;br&gt;我能看到的几个目前中国音乐电台做得不够的领域是：&lt;br&gt;&lt;br&gt;- 音乐类型的胃口太小，选择标准单一。出名的被一推再推，推到这出名的音乐本来是好东西，结果因为推荐泛滥而不知觉地生出老茧。但不知名的音乐里有许多的优秀作品被忽略。国内的、日本的，西班牙的，中南美洲的独立音乐人，可选择的范围很宽泛的。&lt;br&gt;&lt;br&gt;-  电台DJ本身音乐素养不够。听众就是非专业，如果可以听到一些专业的点评会有“胜读”之感，当然提升吸引力。素养不仅在音乐知识，而且更在人文品位等方面。&lt;br&gt;&lt;br&gt;-  能否提过新鲜视角去看待已经成名的音乐人和音乐作品？&lt;br&gt;&lt;br&gt;- 推广的手段上，将音乐的推荐与一种生活平台搭配，比如国外的葡萄酒厂家推出过为每个葡萄酒配一首曲子的推广活动，喝酒的人要先听音乐，然后猜在既定的酒中这曲子最配那一款；旅行去某地听的，一个人用电脑工作时听的，比如google做过的著名音乐人推荐他们私人ipod里的音乐。这些都是很好的介质。&lt;br&gt;&lt;br&gt;稍提一下，不能太执着于让人一听就喜欢。可以以此为目标，也有可能做得到，但习惯转换有个过程，无论做得多么到位，一定有一部分未来的忠实听众会在时间中培养起来。 
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20534528/answer/18693069
-</link>
-<author>
-赵世奇
-</author>
-<title>
-家用榨油机怎么样？价钱是多少呢
-</title>
-<description>
-虽然能理解你得心情，但是，家用榨油机反而可能死的快。下面是大豆毛油精炼过程。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/53/5a/535ad013d25dd1cfd315ae919a3b3e44_m.jpg&quot; data-rawwidth=&quot;694&quot; data-rawheight=&quot;185&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;694&quot; data-original=&quot;http://p2.zhimg.com/53/5a/535ad013d25dd1cfd315ae919a3b3e44_r.jpg&quot;&gt;&lt;br&gt;毛油到精炼油，步骤图也可参照 &lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@yskin&quot; href=&quot;http://www.zhihu.com/people/yskin&quot; data-tip=&quot;p$b$yskin&quot;&gt;@yskin&lt;/a&gt; 答案，下面说一下精炼改进的地方：&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;黄曲霉素：由于原料原因，毛油中往往会存在，精炼过程可以去除，但是自己家的，呵呵呵。&lt;br&gt;&lt;/li&gt;&lt;li&gt;除杂：最主要的是水分之类的都会在毛油里，油的保质期很短，简单的说，那叫一个容易坏。&lt;br&gt;&lt;/li&gt;&lt;li&gt;再比如菜籽油的芥酸、葵花籽油的蜡、豆油中的磷脂，等等等等，这些没一个是好东西，都要依靠精炼去掉。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;所以，毛油除了味道香一点，真心没啥优点……炒菜还呛人。
 </description>
 </item>
 </channel>
