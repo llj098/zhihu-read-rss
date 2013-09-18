@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21664213/answer/18923790
+</link>
+<author>
+匿名用户
+</author>
+<title>
+Google研究总监Peter Norvig说“至少学6种程序语言”，学过c语言之后，想学第二门语言，哪门比较合适？
+</title>
+<description>
+我的建议是学习 Java。Java 语言的主流接受度非常之高，而 JVM 又是业界最成熟的工业级平台。熟悉基本 Java 语法和 Java SE 平台之后，转去做 Web、Android 都很方便。就算不打算去做，也应该熟悉一下。&lt;br&gt;熟悉 JVM 之后，可以看看 Clojure。这是一个基于 JVM 平台的 Lisp 系的语言，开拓眼界不错，而且由于基于 JVM，也可以直接拿来放到项目中使用。&lt;br&gt;然后，可以看看 Scala。Scala 算是并发语言中的当红炸子鸡，在 Twitter 从 Ruby 转向 Scala 之后一时风头无两。Scala 的 actor library，Akka，代表并行编程中非常有趣、也非常有潜力的一个方向。实际上这几年相当多的新语言都是基于 JVM 平台进行开发的，这是很有趣的一个趋势。&lt;br&gt;&lt;br&gt;其它语言，如 Go、Python、JavaScript，甚至 Erlang，都有自己的长处短处。&lt;br&gt;&lt;ul&gt;&lt;li&gt;Python 是打杂语言，服务器、科学计算、文本处理、人工智能，从上到下什么都能做。语言很干净，也没有太出挑的地方，是我个人最喜欢的语言，解决任何问题第一选择都是它。熟悉一下一定没坏处，但因为语言本身特性不突出，排不到上面这个排行榜里去。&lt;br&gt;&lt;/li&gt;&lt;li&gt;Go 是很有潜力的语言，因为它被设计来解决 C++ 程序员面临的许多问题，有 Google 作后盾，现状和发展潜力都很可观。我还没有开始学习它的原因是这个语言还太年轻，还在不断变化。但已经有一些公司项目在使用 Go 了，学学没坏处。某司老总关于 Go 历史沿革的一份 PPT，可以看看 &lt;a href=&quot;http://open.qiniudn.com/golang-and-cloud-storage.pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;open.qiniudn.com/golang&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;-and-cloud-storage.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;JavaScript 因为有 V8 和 Node.js，这两年流行程度相当高。是一门有相当的特色、但设计不算杰出的语言。因为 JavaScript 是所有浏览器通用的唯一事实标准，它也被一些语言当做了编译目标——如 CoffeeScript、ClojureScript 等。有一些语言很有趣，如果有兴趣可以扫一眼。&lt;br&gt;&lt;/li&gt;&lt;li&gt;至于 Erlang……真对并发系统有兴趣的话，迟早会接触到。Functional, message passing, massive concurrent, design for failure. Real world proof.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Disclaimer: 我个人基本是 C -&amp;gt; Java -&amp;gt; [C#] -&amp;gt; C++ -&amp;gt; Python -&amp;gt; PHP -&amp;gt; JavaScript -&amp;gt; Clojure 这么个路径过来，在 Java 和 C++ 上花的时间最多，但现在工作靠 Clojure，业余全靠 Python。下一步应该会开始看 Go 或 Erlang。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21158912/answer/18365306
 </link>
 <author>
@@ -295,20 +309,6 @@ Raymond Wang
 </title>
 <description>
 （1）违反法律法规的禁止性规定。劳动合同涉及多部法律、法规和司法解释（可以参见王博涵的总结&lt;a href=&quot;http://www.zhihu.com/question/19844736&quot; class=&quot;internal&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;zhihu.com/question/1984&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;4736&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;/a&gt;），起草时要特别注意细节，如果违反法律的禁止性规定，在和员工解除劳动关系时会非常被动。值得特别注意的是，某些企业中一直采用的人事制度、管理方法（比如“末位淘汰”），虽然有一定合理性，但因为已被司法实践否定，需要尽快修改。  &lt;br&gt;&lt;br&gt; （2）对员工一方过于严苛。劳动合同说得通俗一点可以理解为企业和员工之间的“婚约”。如果婚约上写的都是“你挑水来你浇园，你织布来你耕田”，只有对员工一方的严苛规定，即便薪酬不错，员工心里一定感到不太舒服。表面上看企业似乎占了上风，但劳动关系并不是“零和游戏”，员工面对不合理的制度也不是完全无法反抗。企业在劳动合同纸面上占的一点小便宜，相比较员工忠诚和工作热情的损失，得不偿失。  &lt;br&gt;&lt;br&gt; （3）不能结合企业自身的特点。余能军律师已经提到了这一点，我比较赞同，大企业和中小企业的劳动合同应该是有很大区别的（可惜《劳动合同法》在这上面考虑不周），就像小孩子和大人的衣服是有较大区别的。中小企业的优点是比较灵活，在起草劳动合同时也没有必要搞得过于繁琐、僵化，因为劳动合同要和人力资源管理相配合，过于复杂的劳动合同也会加重人力资源的负担。  &lt;br&gt;&lt;br&gt; （4）没有建立和劳动合同相应的文件管理制度。有些劳动合同的起草者没有参与过劳动纠纷诉讼或仲裁，对证据的意识比较淡漠。只顾起草合同时加入对员工的处罚条款，却不注意文件的整理、存档。比如说，用人单位规定只要员工违反劳动纪律就可以罚款，严重的话可以解约，但对员工违反劳动纪律的行为并没有相应的文件证明，在劳动仲裁中会非常被动。  &lt;br&gt;&lt;br&gt; （5）科技型公司在劳动合同中要加入对“职务作品”（专利、商标、著作权）的具体规定。一方面要防止员工依靠这些职务作品转身就成为企业的竞争对手，另一方面也要给员工合理的激励（现金奖励或利润分享），使员工在工作中能尽量发挥创造性，达到劳资双赢的效果。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19595398/answer/18914916
-</link>
-<author>
-裘伯纯Benjamin
-</author>
-<title>
-创业公司、团队在融资方面需要注意哪些问题？
-</title>
-<description>
-1. 了解一下谁是潜在投资者。建议使用以下指标确定名单：(a) 行业领域；(b) 投资阶段（即A轮、B轮、C轮等）；(c) 地域相近性；(d) 拟筹资金额；(e) 投资者是否已经投资了业务类似或相竞争的公司；(f) 与潜在投资者是否有联系人。花点时间去搜集目标投资者的投资状况、活跃程度等信息。&lt;br&gt;&lt;br&gt;2. 是否为“首秀”做好准备？记住只有一次留第一印象的机会，因此在没有准备就绪时不要仓促上阵。应当首先考虑向天使投资人或亲友筹资，让你的生意达到一定的发展阶段，这样会使风投基金更感兴趣。&lt;br&gt;&lt;br&gt;3. 文件。准备三份文件：(i) 一份经过深思熟虑的完整的商业计划书；(ii) 商业计划书的内容摘要，一到两页即可；及 (iii) 一份PPT演示稿。完整的商业计划书中应包括商业模式、财务预测和假设。另外，即使完整的商业计划书最终无人赏识，其编纂过程也逼你把相关问题想的更清楚。&lt;br&gt;&lt;br&gt;4. 财务预测。如何向投资者展示通往实现收入和盈利以及占有市场的的路径？详细的财务预测和明确界定的假设十分重要。&lt;br&gt;&lt;br&gt;5. 文笔好很重要。如果你的写作能力不佳，最好请朋友或聘请专业写手帮助编写你的商业计划书。&lt;br&gt;&lt;br&gt;6. 电梯演说。为你的“电梯演说”打好草稿：你必须要在几分钟内言简意赅地阐明你的愿景，用最平实的语言告诉投资者你的生意有何投资价值。&lt;br&gt;&lt;br&gt;7. 反复练习演讲。先找些好友（其中最好至少有一名经验丰富的投资人）当听众，帮助寻找项目建议书中的差距和弱点。当您实际演讲时，要分阶段进行，以便及时对听众的反馈和建议做出反应。&lt;br&gt;&lt;br&gt;8. 参谋团。多咨询身边在募集风投资金方面有经验的人，如公司董事、律师、会计师、专业投资人、行业高管等。&lt;br&gt;&lt;br&gt;9. 资产流动性。了解你的业务如何具备资产流动性。风险投资者对于“生活方式”公司或过于长期的投资通常没兴趣。&lt;br&gt;&lt;br&gt;10. 管理团队。这对于投资者至关重要，你需要明确说明你的背景和经历，团队的现有和预期成员。创始人在公司中是否投入现金或足够的“血汗股”？人家希望听到的是你已经在生意中押上足够的身家。&lt;br&gt;&lt;br&gt;11. 竞争。了解你的竞争对手，并准备好如何在竞争中脱颖而出。简单地告诉投资者“不存在竞争对手”往往是错误的。&lt;br&gt;&lt;br&gt;12. 清晰的资本结构。从一开始就让你的公司有一个良好、清晰的资本结构是十分重要的。&lt;br&gt;&lt;br&gt;13. 理解估值和股权结构。如果你不了解公司股权结构的基本要素，你需要找懂行的人咨询。例如，什么是法定股本与已发行股本；什么是预留期权与已授期权等。编制详细的股权结构表。了解与你类似的公司可能会有何种现实估值预期，从而确定风险投资是否合适。&lt;br&gt;&lt;br&gt;14. 妥善签订期权和股权方面的文件。你可以将10%-20%的股份预留在期权池中（但是风险投资者通常会把预留期权在对公司进行投资前估值时考虑进去）。及时记录期权和股票发行。切勿做出任何不成文的股权安排。切勿签订任何有悖常理的股东协议。别忘了在公司章程中加入优先购买权的规定。&lt;br&gt;&lt;br&gt;15. 了解你的知识产权。约你的律师讨论一下知识产权问题。接触风险投资者前，你需要先了解哪些知识产权是专有且可能受到保护的（专利、商标、著作权、商业秘密）。知识产权可能是行业的进入壁垒，但也可能不是。&lt;br&gt;&lt;br&gt;16. 尽职调查。拿一份尽职调查要求清单的样本看一看。整理尽职调查文件夹。这有助于推进筹资流程，并能给人以有备而来的良好印象。&lt;br&gt;&lt;br&gt;17. 投资条款书。启动相关流程前找律师看一看投资条款书的样本。投资条款书中约80%的条款一般是没有谈判余地的，因此可以把关注重点放在另外20%的条款上。&lt;br&gt;&lt;br&gt;18. 发展周期。确定你的公司处于那个发展阶段，打个比喻，是尚停靠在停机坪、已进入跑道、在起飞阶段、还是已进入巡航高度？在不同阶段需要寻找不同类型的投资者。&lt;br&gt;&lt;br&gt;19. 装点门面。你是否有名片？固定电话？网站？产品模型？推荐人？请记住，有时别人会从这些“小事”上对你的公司所处的阶段与进展做出重大判断。&lt;br&gt;&lt;br&gt;20. 非风险投资者。在引入风投前，可以先考虑吸引一个战略投资者、创业伙伴、或知名天使投资人，以此来增加未来与风险投资者谈判的筹码。
 </description>
 </item>
 </channel>
