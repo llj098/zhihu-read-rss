@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21609131/answer/19035239
+</link>
+<author>
+李楠
+</author>
+<title>
+Android 及其设备还有哪些不好的做法至今 (2013 年) 没有改善？
+</title>
+<description>
+&lt;b&gt;1 Back&lt;/b&gt;&lt;br&gt;Back 和 Menu 是键盘机时代遗留的经典交互问题。今天 Menu 基本淡出，但是 Back 的问题还没有解决。&lt;br&gt;&lt;br&gt;而 Android 的跨 Apps 画面切换加剧了问题的严重性。这是典型的技术狂人决定的反人类的设计。技术上看起来很牛，但是为用户制造了一个迷宫。很少有用户对三次 Back 后出现什么画面有信心。&lt;br&gt;&lt;br&gt;而对于操控的愉悦感？“可控”，“可预测”是非常重要，而且非常基本的东西。&lt;br&gt;&lt;br&gt;&lt;b&gt;2 Push&lt;/b&gt;&lt;br&gt;Google 不强制所有 Apps 使用系统提供的推送机制造成了很多 Apps 自己实现推送。&lt;br&gt;&lt;br&gt;结果是费电，实现的方式各有不同，而且消耗更多运算能力。&lt;br&gt;&lt;br&gt;iPhone 用小的多的电池达成更长的使用时间，统一的推送构架功不可没。&lt;br&gt;&lt;br&gt;&lt;b&gt;3 SDCard 空间&lt;/b&gt;&lt;br&gt;历史遗留的脑残问题。有人说过就不展开了。&lt;br&gt;&lt;br&gt;&lt;b&gt;4 设计&lt;/b&gt;&lt;br&gt;有个段子是说 &lt;a href=&quot;http://Google.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;Google.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 如此简洁，是因为这个技术驱动的公司开始根本就没有靠谱的设计师。&lt;br&gt;&lt;br&gt;Google 一直是一个工程师驱动的企业。而且这个传统悲剧的延续到了 Android 上面。&lt;br&gt;&lt;br&gt;你能相信面向消费者的产品，自己的图标都不能保证大小一致吗？但是， Google 真的发布过这样的 Android 系统（注意图标的大小，还有下面名称之间的间距）：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ed/81/ed812af42dd937ca2506b57c63ac4bdf_m.jpg&quot; data-rawwidth=&quot;497&quot; data-rawheight=&quot;106&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;497&quot; data-original=&quot;http://p2.zhimg.com/ed/81/ed812af42dd937ca2506b57c63ac4bdf_r.jpg&quot;&gt;&lt;br&gt;&lt;b&gt;5 通用 vs 专门&lt;/b&gt;&lt;br&gt;Android 是为了大多数硬件而设计的一个通用 OS ，结果就是对特定硬件的优化不够深入。&lt;br&gt;&lt;br&gt;而 Android 手机的更换周期（四到六个月），又让手机厂家无法吃透硬件特性。&lt;br&gt;&lt;br&gt;这导致了很多问题，比如摄像头的硬件昂贵，但是软件优化垃圾。 CPU／GPU 参数惊人，但是体验仍然不成。屏幕出身名门，但是很少有厂家愿意加一道工序去校准色彩（目前只有苹果和魅族）。&lt;br&gt;&lt;br&gt;总之， Android 标准系统，软件无法充分挖掘硬件能力。&lt;br&gt;&lt;br&gt;&lt;b&gt;最后的话&lt;/b&gt;&lt;br&gt;但是，对于商业成功，深入的优化系统，认真的整合软硬件挖掘硬件能力，甚至设计从来都不是关键。&lt;br&gt;&lt;br&gt;价格，换代速度，参数等等，配合强大的推广资源，品牌代言，才最容易在市场上攻城略地。&lt;br&gt;&lt;br&gt;违反以上几点成功的企业，其实只有苹果。其一，是他们真的把设计和体验做到了位。其二，是真的有能关注体验，而非参数的媒体和消费者群体。苹果高额的推广费用，可以打到他们的痛点。&lt;br&gt;&lt;br&gt;但是，相信随着生活水平的提高，我们也会开始关注“性价比”以外的一些东西：&lt;br&gt;&lt;a href=&quot;http://www.ifanr.com/235086&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;性价比高的都是垃圾&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;利益相关：笔者为魅族员工
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21697203/answer/19028152
 </link>
 <author>
@@ -282,20 +296,6 @@ http://www.zhihu.com/question/21690848/answer/19019914
 </title>
 <description>
 看了一些报道和微博，还有这个问题下的大部分答案，论据也很充实。最初看到这些答案，我的第一反应是：愚昧保守的重男轻女思想，造成了丧尽天良的父母，连自己的孩子都下的了手。&lt;br&gt;&lt;br&gt;但是在进一步利用微博和搜索引擎了解了部分信息之后，这里的大部分的结论我不相信。因为我不相信这个世界上有人能根据现在披露出来的这些信息就判定案情。我不愿听信媒体捕风捉影的一面之词来中伤孩子的父母，在事情出现逆转以前，他们也是受害人。我不想说「如果你是孩子的父母，失去了孩子还被怀疑，你会怎么想？」，但我也不想被说「如果死的是你，你还这么说吗？」，我只是说出我的一些看法和判断。&lt;br&gt;&lt;br&gt;首先是动机和方法问题，即使重男轻女，有了儿子，是不是非要杀死女儿？即使非要杀死女儿，是不是非要两个一起丢进洗衣机绞死或者非要活活打死，打的血肉模糊这么变态的方法？残忍一点说，要杀死那么大的孩子，可以有无数种比这更方便、更天衣无缝的方法。随便用点脑子，就能轻易伪装成意外死。何必要用这么罕见的方式？&lt;br&gt;&lt;br&gt;孩子父母拒绝尸检的行为同样不能推测成心里有鬼。中国人向来讲究入土为安和保留全尸，假如父母心里明白孩子确实是意外死亡，他们觉得孩子的死没有任何可疑的地方，肯定不愿警察将已经下葬的孩子挖出来再补一刀，所以，拒绝尸检的行为符合中国人一贯的伦理常识。&lt;br&gt;&lt;br&gt;不过孩子在家里有大人的情况下被洗衣机绞死，确实有点耸人听闻。警察介绍的案情网友不被相信这是可以理解的，毕竟这是个替外国人办事比替中国人办事效率还要高的政府部门。&lt;br&gt;&lt;br&gt;但是，这件案子里，除了警察说的话之外，剩下的就是些邻居、旁观者的风言风语了。口口相传，添油加醋，这是互联网兴起以前社会上最容易产生谣言的环节。孩子的家人不想再提及这件事，媒体无法获得全面信息，这件事就成了一个遮遮掩掩的悬案。&lt;br&gt;&lt;br&gt;生活中我们时常会听到许多超出我们日常生活经验的事情，这些事情中，确实有一些是隐藏着阴谋的。但不是所有超出常识的事情背后都有一个惊天阴谋。我遇到过嫌疑人在押期间，住的房子睡的床全是牛皮海绵包裹着的，就这样的环境他都能自杀，这种情况是不是该判定为他杀？&lt;br&gt;&lt;br&gt;现在这个阶段，质疑孩子死的蹊跷可以，我也觉得蹊跷，匪夷所思。但不能一口咬定孩子是他杀。因为媒体给的信息实在太少，甚至说只给了一个孩子死亡的结论，再加上一些模棱两可的过程，更为糟糕的是，公权力介入后，出来一解释，就让人觉得有鬼了。可能是鬼鬼祟祟习惯了，光明正大的这张鬼脸，他们早就扮不出来了。就是扮出来，人们也觉得你心怀鬼胎。&lt;br&gt;&lt;br&gt;这件事情，还是要等最后的调查结果，如果中间不出意外，我相信警察最终宣布的结果。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21100397/answer/19014747
-</link>
-<author>
-知乎用户
-</author>
-<title>
-如何才能拍出一张特别好看的自拍照？
-</title>
-<description>
-第一次被超过3人邀，不答个不好意思了~&lt;br&gt;出于对后置摄像头和拍镜子的驾驭无能，&lt;br&gt;亮出姐的自拍利器——前置摄像头+Instagra或者Path，另外，穿衣风格和头发可造就不同感觉，虽然姐是一成不变黑直发，但弄顺和弄乱效果大不同。&lt;br&gt;Path：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8e/10/8e1058c064f73345bf85a8359353cb8c_m.jpg&quot; data-rawheight=&quot;640&quot; data-rawwidth=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;http://p1.zhimg.com/8e/10/8e1058c064f73345bf85a8359353cb8c_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/5e/18/5e18c358a35af57c3a553e153a27167d_m.jpg&quot; data-rawheight=&quot;640&quot; data-rawwidth=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;http://p2.zhimg.com/5e/18/5e18c358a35af57c3a553e153a27167d_r.jpg&quot;&gt;&lt;img src=&quot;http://p1.zhimg.com/0c/e5/0ce51caf5da42a3de04f0f185a0e44eb_m.jpg&quot; data-rawheight=&quot;640&quot; data-rawwidth=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;http://p1.zhimg.com/0c/e5/0ce51caf5da42a3de04f0f185a0e44eb_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Instagram:&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/60/03/6003f1e4a332bb2aa8cb56bf90d1d8ef_m.jpg&quot; data-rawheight=&quot;843&quot; data-rawwidth=&quot;843&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;843&quot; data-original=&quot;http://p3.zhimg.com/60/03/6003f1e4a332bb2aa8cb56bf90d1d8ef_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/bb/a3/bba3d8eca0dccc1c1578fa3812c0490e_m.jpg&quot; data-rawheight=&quot;843&quot; data-rawwidth=&quot;843&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;843&quot; data-original=&quot;http://p3.zhimg.com/bb/a3/bba3d8eca0dccc1c1578fa3812c0490e_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;最后，无论什么美图软件，都敌不过姐的铅笔，想怎么美化就怎么画，哇咔咔咔咔……&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c0/72/c0720fa25a88bcd168d84fea03759221_m.jpg&quot; data-rawheight=&quot;1136&quot; data-rawwidth=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/c0/72/c0720fa25a88bcd168d84fea03759221_r.jpg&quot;&gt;
 </description>
 </item>
 </channel>
