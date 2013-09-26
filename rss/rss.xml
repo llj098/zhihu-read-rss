@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20829638/answer/19025998
+</link>
+<author>
+师纪瑞
+</author>
+<title>
+对冲策略的意义在于哪里？
+</title>
+<description>
+别理百度，咱直奔主题 --- 对冲的“意义”&lt;br&gt;&lt;br&gt;&lt;b&gt;对冲策略的“意义”在于去掉某种我们不想承担的风险！从而只保留我们想要的风险。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;（原则，所有回报都对应着风险。大而化之甚至可以说风险和回报是一回事，本篇中，风险和回报两个词是可以互换的）&lt;br&gt;&lt;br&gt;以一只股票来说，股票回报 = 自身经营回报+整个股市回报(β)。相应的，承担的风险 = 自身经营风险+整个股市风险。（当然简化后的）&lt;br&gt;&lt;br&gt;如果我们对某家公司有强烈的看法（好坏皆可）并且  我们并非股市专家在股市整体走势预测上没有优势，那么我们就可以选择 买入股票（假设看好）+ 做空股指 以获得纯粹的公司自身经营回报。  这时   回报 = 股票回报 - 整个股市回报（股指）= 自身经营回报。 风险也变成了只有自身经营风险。&lt;br&gt;&lt;br&gt;例子1，假设我们是IT业内人士，对google未来几年强烈看好，但是对经济形势没看法，对股市大势没看法。就可以做多google做空股指来&lt;b&gt;对冲掉股市的风险&lt;/b&gt;，假设股市上涨50%，google上涨70%，我们赚20%。股市下跌50%，google下跌30%，我们还是赚20%。只要我们判断正确，&quot;即google未来会很好&quot;，我们就赚到了。&lt;br&gt;&lt;br&gt;例子2，我们看好新浪，买了新浪股票，但新浪股票在nasdaq上市，是用美元计价的，我们又不是经济学家，不知道将来人民币对美元是涨还是跌，如果美元下跌了，那么新浪股票（美元计价）相对于人民币而言就是下跌了，风险也就变成了 = 新浪自身 + nasdaq + 美元/人民币 。这时我们可以通过做空美元/人民币期货来&lt;b&gt;对冲掉美元对人民币下跌的风险&lt;/b&gt;。&lt;br&gt;&lt;br&gt;再来说下，对冲这种做法的由来。&lt;br&gt;&lt;br&gt;最早使用对冲Hedge这个词的人是 阿尔弗雷德·温斯洛·琼斯(Alfred Winslow Jones,1900-1989)，他觉得股市难以预测，但预测一家公司的前景就容易多了，（ps.任何人都可以利用自己的行业知识挑出本行业内最好的公司，准确率比听消息高多了），那么我可以买入一家好公司，再卖出一家坏公司，这样一来，股市的影响就被去掉了，只要对这两家公司的看法没错就可以盈利了。&lt;br&gt;凭借这个理念，琼斯在1949年开创了第一家现代模式的对冲基金，它使用的策略学名叫股票多空（equity long/short)。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/74/a4/74a4e19f41b4941a150606c072c929d2_m.jpg&quot; data-rawwidth=&quot;336&quot; data-rawheight=&quot;421&quot; class=&quot;content_image&quot; width=&quot;336&quot;&gt;阿尔弗雷德·温斯洛·琼斯(Alfred Winslow Jones,1900-1989)&lt;br&gt;（社会学博士、前愤青、前CIA、前socialism粉、前纳粹时期的犹太女德共的老公、前记者、前专栏作家）&lt;br&gt;&lt;br&gt;股票多空策略，比我们刚才举的例子稍微复杂一点点，区别在于做空那端不是股指而是另一只股票，即买入好公司卖出坏公司，假设我们相信未来几年苹果比google好，我们就可以做多苹果做空google，回报 = 苹果好于google的那部分，同样是&lt;b&gt;对冲掉了股市波动的风险&lt;/b&gt;，只剩下了我们对苹果和谷歌两家公司的预期。这样一来，不管纳斯达克怎么动，或者美国经济怎么糟糕都和我们没关系了。&lt;br&gt;&lt;br&gt;类似的，可口可乐/百事可乐，茅台/五粮液，中石化/中石油，sony/pansonic，通用/福特，这个列表可以无限延伸下去，只要我们是某行业里的专家，我们就可以通过做多好的+做空差的来获利，而不管市场波动如何。（实践表明，即便08年那种大跌也无所谓）&lt;br&gt;&lt;br&gt;如今，股票多空策略是对冲基金领域里的重要分支（应该也是资金规模最大的分支，懒得查了），规模庞大，种类繁杂。而对冲的思想也扩展到金融领域的方方面面，我们可以对冲汇率风险，对冲利率风险，对冲某种原材料风险，只要你能想的到就行。但其思路从未变过，就是&lt;b&gt;剥离我们不想要的风险&lt;/b&gt;。&lt;br&gt;&lt;br&gt;ps,对冲策略和对冲基金：&lt;br&gt;琼斯大爷的贡献不止在于对冲策略，还在于他创建了一种以有限合伙制为主的组织架构，他称之为对冲基金，后来有很多基金，其架构模仿了阿尔佛雷德·琼斯基金，也称作”对冲基金“，其业务未必和对冲策略有关。”对冲“只是标明了它的组织架构而已。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21702001/answer/19054965
+</link>
+<author>
+楚云帆
+</author>
+<title>
+夏俊峰为什么被判死刑？
+</title>
+<description>
+首先赞同&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@莱恩&quot; href=&quot;http://www.zhihu.com/people/lionsdawn&quot; data-tip=&quot;p$b$lionsdawn&quot;&gt;@莱恩&lt;/a&gt; 同学的答案，不过想了想单开一个，讲一些其他的。&lt;br&gt;&lt;br&gt;我先来讲个判处正当防卫的成功案例好了。&lt;br&gt;&lt;br&gt;我大学学的法律，每年的暑假都会到徐州中级人民检察院的起诉处实习，坚持了3年，接触过不少案子，跟着出过几次庭，当然没有这种类似的案子，而是带我实习的检察官告诉我的当时接触到的一个律师曾经办理的案子，也是让其名声大噪的案子。由于时间久远，律师的名字完全想不起来了，只记住了大致情节。&lt;br&gt;&lt;br&gt;这个故事发生在苏北或者皖北（反正是在大概的区域，徐州周边）的一个县城，有一个卖瓜的小贩卖西瓜，来了一帮公子哥，是当地的县人大常委会主任的儿子和其一帮狐朋狗友。一众人在摊上吃完西瓜后没给钱准备扬长而去，小贩上前理论，对方大概甩了几句类似电视剧中的鬼子讲的老子吃东瓜都不给钱更何况吃了你几个西瓜之类的话，应该是横行惯了。小贩也不晓得其背景，坚持理论，惹恼了这帮公子哥，于是开始砸摊，过程中甚至操起板凳殴打小贩，把其打得不轻，最后小贩操起西瓜刀将一个人捅死了，无巧不巧的被捅死的就是领头的县人大常委会主任的儿子。&lt;br&gt;&lt;br&gt;后面自然就是警察抓捕、立案、起诉。因为死者的背景，很多律师不愿意接这个案子，前文所说的律师也不知在何种情势下成为了小贩的辩护律师，收集了一些死者之前横行乡里的证据，以及之前打人致伤的证据，加上很多现场证人的证实，让法院认可了小贩在被殴打的过程中面临很大的生命危险，经过两次审理，最终法庭判决防卫过当致人死亡，加上主动认罪等情节，判处有期徒刑3年还是4年，反正是一个不长的刑期。同样因为死者的背景，这起案子让该律师成为当地一时的风云人物，自此事业也青云直上，当然这就是无关的话题了。&lt;br&gt;&lt;br&gt;法庭判决的依据，自然是刑法第20条第2款“正当防卫明显超过必要限度造成重大损害的，应当负刑事责任，但是应当减轻或者免除处罚。”类似防卫过当致人死亡的案件，在司法操作中也并不鲜见，我举这个例子主要因为被杀者的背景比城管来头似乎更大一些。不过要想被法庭认可是防卫过当，首先还是必须得是正当防卫，夏俊峰的律师和一些支持者所努力的方向似乎也正是这一点，但是仔细对比你会发现有很大的不同。&lt;br&gt;&lt;br&gt;案件过程不用我赘述，只讲法庭。法庭最讲的是证据，案件发生的城管勤务室是一个密闭空间，当事人除夏之外都死了，没有第三方目击者，那么夏的一方证词法庭效果就很弱，他当时所受伤害的医学鉴定才能说明他当时受到的侵害程度以及是否存在生命危险，在这方面辩护人所有的是夏俊峰左前臂内侧有两处皮下出血的照片——显然这样的证据无法让法庭认可正当防卫的说法，更不用说防卫过当。至于在外部执法城管过程中城管是否存在殴打行为，辩护律师提交了六份证人证言证实，但是未获准出庭作证，而在判决中，法院对这部分没有认定，实际上在法律逻辑的角度讲即便有也无法构成严密的逻辑关系：城管在外面打人了，城管在屋里一定也会打人，而且打得更狠，所以夏有生命危险，这个逻辑是无法成立的。&lt;br&gt;&lt;br&gt;但是检方所指控的故意杀人却得到了尸体证据的证实。这个案子的证言影响很小，尸体证据才是被法庭主要采信的，而这个指向很明显，被告人只有手臂的瘀伤，两个死者被直刺心脏且背部有伤，间接指向死者是被偷袭。死者其他部位几乎没伤，基本也可以证实没有想象中的被告陷入过危急情势并有过挣扎和反抗的情形，因为那种情势下的反抗很难不给死者带来什么正面伤。&lt;br&gt;&lt;br&gt;所以就单纯的个案来看，故意杀人致人死亡的罪名判定是不存在什么问题的，故意杀人致人死亡，在实践中的量刑上要考虑的因素就如&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@莱恩&quot; href=&quot;http://www.zhihu.com/people/lionsdawn&quot; data-tip=&quot;p$b$lionsdawn&quot;&gt;@莱恩&lt;/a&gt; 同学所言了，最终死刑复核的结果也就没什么可说的了。我也不知道有什么样的判例让一些人产生了舆论能影响司法的错觉。律师是为辩护人的最大利益服务的，在这样一个不算健全的司法体系下，再正确的言论也无法帮到夏，承认司法体系的现状，真正站在法庭的角度出发，作出最有利于被告的辩护和表态，才是夏的辩护律师应该做的，而不是价值与政治是否正确。&lt;br&gt;&lt;br&gt;只能说这起案件是三个家庭的悲剧——舆论普遍关注的是夏，媒体报道里各种成长、家庭、家人的故事层出不穷，但是死亡的两名城管的家人却几乎鲜有人问津，在一些人眼里似乎只要身在体制内，哪怕是最末端，被杀了也不值得同情，而杀人者无论行为与动机如何，都被视作英雄，这种思想也异常可怕。&lt;br&gt;&lt;br&gt;而对于死刑复核的结果，坊间汹汹更多的不是出自案件本身，而是对公权力失去信任的一个表现，这也是司法不能独立的一个必然结果。实际上多数鼓噪者一无法律知识，二甚至没关心过案件本身的细节，只是本着一些很单纯的反体制思维来推动自己的行为。其他一些人所要的只是为了反对而反对，他们要的也不是司法公正和独立，而是有选择的司法公正和独立。但是没办法，有些人就是喜欢站在安全的地方，说着慷慨激昂的话，看血流成河，反正不是自己的血。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21315267/answer/19053247
 </link>
 <author>
@@ -263,39 +291,6 @@ http://www.zhihu.com/question/21690848/answer/19025183
 </title>
 <description>
 知乎曾经有一个问题是&lt;a href=&quot;http://www.zhihu.com/question/21522078&quot; class=&quot;internal&quot;&gt;什么叫「消费他人不幸」？&lt;/a&gt;现在看回来，真是再讽刺不过。&lt;br&gt;&lt;br&gt;失去一对女儿的父母，在接受警方排查的同时，还要接受舆论的口水。&lt;br&gt;&lt;br&gt;是的，在没有正式定论的情况下，我们无法排除一些肮脏的可能。&lt;br&gt;&lt;br&gt;&lt;b&gt;但是这对夫妇不应该为「可能」付出代价，尽管他们在监护上肯定有失职。&lt;/b&gt;就凭现在这点信息，我们根本无法做出靠谱的论断&lt;b&gt;。&lt;/b&gt;如果你从无罪推定出发，就会发现几乎一切事实都是可以被解释的，如果从有罪推定出发，自然也会有重重疑点。&lt;br&gt;&lt;br&gt;没什么能堵住悠悠众口，哪怕是真相——就算警方证据确凿的定为事故，还是会有人嗤之以鼻并斥责这对夫妇谋杀亲女，这完全不奇怪。&lt;br&gt;&lt;br&gt;只是我希望知乎的诸位可以理性一点，至少在司法定论和详细资料出来之前别妄加揣测。&lt;br&gt;&lt;br&gt;无数的猜测都会有一些常用词：「在正常情况下」「用常理可以推断」「有很大可能」「几乎不可能」「概率非常小」「个人认为」「比较合乎逻辑的思路」…………&lt;br&gt;&lt;br&gt;是的，我们都有知识和常识，但是这个世界的范围远远超过常识和一般人的知识，那两个孩子究竟发育如何？（报道中有提到很瘦），那个洗衣机是不是正牌货色？控制系统有没有失常？有没有经过不正当的修理或者替换部件？&lt;br&gt;&lt;br&gt;&lt;b&gt;永远别忘了，这是一个有着七十亿人的地球和一个将近十四亿人的国家，一切小概率事件都可能发生，而且正是那些小概率事件才会被媒体传播开来。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;如果真怀疑此事司法不公正，那就去质疑司法哪里不公正。&lt;/b&gt;哪里的调查取证出错？哪些调查人员和当事人有不正当关系？哪些人在自己的岗位上失职？或者干脆应该换一批外地人来调查？&lt;b&gt;请别想着自己去代替司法部门下任何结论，不专业的我们，只会导致更大的不公正！&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;===============&lt;/b&gt;&lt;br&gt;至于洗衣机能否绞死幼童，按照我的人生阅历来看，这种可能性是比较小的，但是很难说完全没有。比如小时候我家那台洗衣机空间很大马力很强而且会漏电，虽然我没被它绞过=__=||。&lt;br&gt;&lt;br&gt;刚才看到另一个问题下一位知友的亲身经历，或许可以作为参考&lt;a href=&quot;http://www.zhihu.com/question/21691834/answer/19018223&quot; class=&quot;internal&quot;&gt;洗衣机能绞死儿童吗？&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21690848/answer/19030111
-</link>
-<author>
-周蒙
-</author>
-<title>
-洗衣机有可能绞死两个 4 岁以下的小孩子吗？
-</title>
-<description>
-&lt;img src=&quot;http://p2.zhimg.com/56/8f/568fd495e1f9649c17383503640d7bd5_m.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;586&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;440&quot; data-original=&quot;http://p2.zhimg.com/56/8f/568fd495e1f9649c17383503640d7bd5_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;1.&lt;a href=&quot;http://news.xinhuanet.com/yzyd/local/20130924/c_117490297.htm&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;警方成立调查组全面调查两女童被洗衣机绞死原因&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;上图证明洗衣机能放进&lt;b&gt;两个孩子&lt;/b&gt;，而且可以盖上盖。一个&lt;b&gt;2岁&lt;/b&gt;，一个&lt;b&gt;4岁&lt;/b&gt;，不信可以看这个人的微博。而且上条新闻警方证实死亡的孩子年龄其实是2岁（
-涂某萌2011年8月出生） 和3岁（
-涂某琪2010年7月出生）。&lt;br&gt;2.&lt;a href=&quot;http://jx.sina.com.cn/news/s/2013-09-23/190746879_2.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;被绞死女童,家长报案,警方,调查死亡原因,洗衣机绞死女童,南昌被绞死姐妹&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;这条新闻证明，有时候盖上洗衣机盖子，即使&lt;b&gt;不按按钮&lt;/b&gt;，也会&lt;b&gt;自行启动&lt;/b&gt;。&lt;br&gt;3.&lt;a href=&quot;http://news.sina.com.cn/s/p/2013-09-24/180228289233.shtml&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;洗衣机绞死女童亲属回应质疑:怎可能谋杀(组图)|女童&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;  
-孩子大伯在23日与采访的记者一道对洗衣机做了测验，结果是洗衣机可以转动&lt;b&gt;六十斤&lt;/b&gt;重的大米。 &lt;br&gt;4.&lt;a href=&quot;http://politics.caijing.com.cn/2013-09-24/113337747.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;“洗衣机绞死案”：医生称孩子多处淤青而非“血肉模糊”&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;上条为新华社新闻，反映出两点， （1）&lt;b&gt;警方&lt;/b&gt;与樵舍镇&lt;b&gt;工作人员&lt;/b&gt;还在事发现场做了一个洗衣机载重的试验，洗衣机在放入&lt;b&gt;６０斤大米&lt;/b&gt;的情况下仍能运行。 &lt;br&gt;（2）
-身上有多处淤青，但&lt;b&gt;没有&lt;/b&gt;此前传闻的“血肉模糊”那么严重 。&lt;br&gt;5.&lt;a href=&quot;http://jiangxi.jxnews.com.cn/system/2013/09/24/012671214.shtml&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;洗衣机绞死女童亲属回应质疑：怎可能是谋杀？我们问心无愧&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;关于为什么孩子哭闹没人听到，上条新闻有解释。&lt;br&gt;
-不少网友质疑，一家人准备吃饭，为何在家里放那么&lt;b&gt;大声音的音乐&lt;/b&gt;，以致听不到孩子在洗衣机的动静？孩子父亲回应说，他们家里天天都是这么大声音，因为孩子们&lt;b&gt;喜欢听音乐&lt;/b&gt;，跳舞。 &lt;br&gt;6.&lt;a href=&quot;http://news.cntv.cn/2013/09/24/VIDE1380019927083638.shtml&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;[视频]两名女童在自家洗衣机内死亡&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;  上条是刚刚播出的央视新闻。请看新闻的朋友把内容告诉我，我这里打不开。&lt;br&gt;7.&lt;a href=&quot;http://www.zhihu.com/question/21691834/answer/19018223&quot; class=&quot;internal&quot;&gt;洗衣机能绞死儿童吗？&lt;/a&gt;&lt;br&gt;这是一位知友的亲身经验。证明其实洗衣机真能让孩子受伤。&lt;br&gt;其他将会持续更新。&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@逍遥老李&quot; href=&quot;http://www.zhihu.com/people/lazytony&quot; data-tip=&quot;p$b$lazytony&quot;&gt;@逍遥老李&lt;/a&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@Warren&quot; href=&quot;http://www.zhihu.com/people/warren&quot; data-tip=&quot;p$b$warren&quot;&gt;@Warren&lt;/a&gt;&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@田浩&quot; href=&quot;http://www.zhihu.com/people/tian-hao-20-5&quot; data-tip=&quot;p$b$tian-hao-20-5&quot;&gt;@田浩&lt;/a&gt;，&lt;br&gt;---------------------------------------------------------&lt;br&gt;我想加一句题外话，在结果出来之前我保持中立态度，刚有一人说，杀死孩子是为了要儿子，当我告诉他已经有一个孩子时，他又说肯定养不起杀得，当我告诉他，他家人有能力养孩子时，他说洗衣机放不进两个孩子，当我告诉他孩子两个孩子能放进去的时候，他又告诉我洗衣机不会自动传，当我告诉他这台洗衣机是可以自行启动的时候，他又告诉我，那么重孩子转不动，但我告诉他洗衣机可以转动60斤大米的时候，他现在还没回我，
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21516788/answer/19029957
-</link>
-<author>
-知乎用户
-</author>
-<title>
-毛泽东时代的中国国际地位如何？
-</title>
-<description>
-&lt;a class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@凯达&quot; href=&quot;http://www.zhihu.com/people/kai-da&quot; data-tip=&quot;p$b$kai-da&quot;&gt;@凯达&lt;/a&gt;虽没给出出处，但应该大体不差，可能个别细节有出入。以下来源：中国社会科学出版社出版的《剑桥中华人民共和国史（下卷）》，不用翻墙，绝对合法出版物。&lt;br&gt;&lt;br&gt;中国上世纪六十年代开始，尤其是文化大革命期间，内政已经一片混乱了，必定影响外交。不要以为国内乱了，有毛在，在国际上还是硬气，那纯属yy。1967年开始，外交部都被革命了，对外使馆一度失控，到1967年，中国召回了除驻开罗大使黄华之外的所有驻外大使，让他们接受文化大革命的洗礼，如此极端的行为，让中国的国际地位能有多高？&lt;br&gt;&lt;ul&gt;&lt;li&gt;关于印尼排华。1965年印尼共产党政变失败，苏哈托开始大肆报复，对印尼共产党包括其家属发现多少杀多少，随后蔓延到印尼华侨和中国的外交官、其他官方人员和设施。&lt;b&gt;1966年多次发生袭击、抄家、强行搜查、抢劫中国大使馆和一些领事馆，驱逐中国外交人员事件&lt;/b&gt;，使反华事件达到高潮。中国政府除了提出抗议、撤回官方人员和留学生、取消经济援助之外，毫无作为。对了，我们还要求印尼允许我们可以派船去接回希望回国的人，终于在1966年末被允许一艘客轮去接人，接回4000多华侨。&lt;br&gt;&lt;/li&gt;&lt;li&gt;关于我们的老朋友西哈努克。虽然老朋友一直依赖中国的外交支持和经济援助，但是，当1967年中国驻金边使馆散发毛主义宣传品时，他还是认为这介入了柬埔寨内政，给与有效制止，并且严厉抨击中国的文化大革命。&lt;b&gt;1967年8月，周恩来对来访的柬埔寨外交大臣承认，中国已失去对驻柬埔寨使馆的控制。西哈努克9月撤回了柬埔寨驻北京使馆全体人员&lt;/b&gt;，如果不是周恩来的努力，下一步老朋友都要和我们断交了。&lt;br&gt;&lt;/li&gt;&lt;li&gt;关于缅甸。1964年缅甸政府就实施了银行和主要工业企业收归国有的政策，严重影响到缅甸华侨利益，中国没有反对。文化大革命开始后，由于经受洗礼的中国外交官在仰光散发红宝书和其他煽动性宣传品，发生了反华骚乱，并迅速转变为&lt;b&gt;对中国大使馆、新华社、华人学校直至许多缅甸华侨的袭击，并一再扩大，中国驻缅甸大使的助手被杀身亡。&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;关于重返联合国。都知道我们1971年就重返联合国了，是新中国外交史上的一大胜利；但是，&lt;b&gt;“如果没有文化大革命，中国会在1971年前好几年就获得联合国席位。”&lt;/b&gt;在文化大革命的高潮时期，中国因为进不了联合国，还经常指责联合国。我们在1965年前通过各种拉拢，尤其是1963-1965年，我们投入了大量财力物力，投赞成票的兄弟已经逐渐增多了，但是文化大革命改变了这个趋势。1966年，贝宁和中非共和国认为中国外交官在明目张胆的搞颠覆活动，于是和中国断交。卡斯特罗也认为中国干涉古巴内政，和中国决裂。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;以上内容全部有参考文献，不一一列出。关于和美苏两国的瓜葛就不说了，上面这些只为说明，就是在亚非拉兄弟里面，我们也不是想象的那么牛逼。之所以以为毛时代国际地位高，大概是被一些豪言壮语所蛊惑，而现在各种资讯更容易获得，也就不那么容易被一两句话所蒙蔽了。国际地位是综合国力的表现，不是你说几句豪气干云的狠话就真的能如何如何了。弱国无外交，怪国更无外交。
 </description>
 </item>
 </channel>
