@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21725385/answer/19121580
+</link>
+<author>
+Phus Lu
+</author>
+<title>
+写一个goagent难度大吗？难在什么地方？
+</title>
+<description>
+不难。&lt;br&gt;&lt;br&gt;goagent 的原理用一句 python 代码就可以演示&lt;br&gt;&lt;blockquote&gt;urllib2.urlopen(urllib2.Request('&lt;a href=&quot;https://mail.google.com/fetch.py&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;mail.google.com/fetch.p&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;', data='methd=GET&amp;amp;url=&lt;a href=&quot;http://twitter.com/&amp;amp;&amp;amp;body=&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;twitter.com/&amp;amp;&amp;amp;body=&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;', headers={'Host': 'goagent.appspot.com'}))&lt;/blockquote&gt;好了，你现在有了一个托管在国外主机上的 WEB API，剩下的事情就是如何把它包装成一个本地代理了。&lt;br&gt;&lt;br&gt;包装成 HTTP 代理也比较简单，借助 python 标准库的 SimpleHTTPServer/BaseHTTPHanlder 我们大约需要 500 行的 python 代码完成这个代理。&lt;br&gt;&lt;br&gt;接下来的问题是大文件（视频）的支持和 HTTPS 的支持。&lt;br&gt;这个阶段你会遇到各种 HTTP/HTTPS 的细节问题，幸好我们完成了它，这时候代码增加到了 1000 行。&lt;br&gt;&lt;br&gt;好了，现在现在我们可以让它真正开始工作了。需要处理各个平台 windows/macos/linux/android 的问题，还好大多数平台我们可以自己找到，并且修复在这些平台的 bug。代码中会增加 1500 行。&lt;br&gt;&lt;br&gt;另外，我们还需要在各种浏览器下测试程序的行为，这时候程序 LOC 增长不会太大，但是解决这个兼容性问题会耗掉一些精力。&lt;br&gt;&lt;br&gt;为了这个程序能够易用，我们需要在各个平台写个简单的 GUI 外壳，这需要我们懂 pyobjc/gtk/win32 等等支持。不过这个并不算难，折腾一番，我们也把这些外壳捣鼓出来了。此时代码已经大大膨胀了。&lt;br&gt;&lt;br&gt;最后，用户会提出一些很合理的改进要求，比如 PAC/DNS/PHP 等等支持。嗯，加油做完这些，就差不多了。&lt;br&gt;&lt;br&gt;好吧，如上述所示，goagent 的确没有特别的难点，我相信任何一个 python 程序员会在一个星期到一个月的时间内把它做出来。 :)&lt;br&gt;&lt;br&gt;那么最后一个问题，&lt;br&gt;&lt;blockquote&gt;为什么各种软件中 goagent 相对比较受欢饮，它难在什么地方？&lt;/blockquote&gt;答案其实很简单：&lt;br&gt;&lt;blockquote&gt;热情和精力。&lt;br&gt;&lt;/blockquote&gt;&lt;br&gt;是的，有心做这个程序的人不少，尤其是程序员，对于开发一个自用的翻墙软件很多人有相当的兴趣。事实上也有不少这样的实现。&lt;br&gt;但是当用户提起 goagent 的评价是：“好用，快速，稳定，免费”。能够同时满足这些要求，goagent 花了不少心思。&lt;br&gt;&lt;br&gt;好用：为了让 goagent 好用，需要学习不同平台和不同浏览器的特性，琢磨用户的用法，反复推敲功能的实现。&lt;br&gt;快速：为了能让 goagent 跑的更快，作者阅读 python 的标准库代码和 CPython 的实现，看完了 sildeshares 上的绝大部分关于 python 高效代码的方式和技巧。&lt;br&gt;稳定：Google 时常被干扰，如何优化连接方式是个永恒的话题，goagent 的连接方式前后一共改过三次。&lt;br&gt;免费：是的，如同 &lt;a href=&quot;http://www.zhihu.com/question/21173875&quot; class=&quot;internal&quot;&gt;Goagent是怎么赢利的？&lt;/a&gt; 这个问题的最佳回答，我很赞同这个回答 &quot;3、不是所有东西都是为了盈利才出现的&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;关于 goagent 的更多可以参见 &lt;a href=&quot;http://oschina.net/question/947559_117066&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;oschina.net/question/94&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;7559_117066&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21716903/answer/19101839
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21712221/answer/19088256
 </title>
 <description>
 我上一届的一个学生，各科成绩都名列前茅，就是语文特别的差。总分一百五只能拿七十多分。也许知乎上也有过许多语文拿七十多分的人，但你们的汉语水平一定比她高，因为她是少数民族，而且是那种大山里出来的少数民族，刚开始汉话都说不流利。所以每次改到她的作文我都觉得特别痛苦：那种奇特的语法，那种一看就知道是由于缺少阅读而导致的枯燥的文笔，还有颠三倒四逻辑思维……&lt;br&gt;后来我跟她说，别担心，只要跟着我来，我保证你高考语文上95分。&lt;br&gt;这个女生后来在随笔里写：“在那一刻，我觉得分外地安心。”&lt;br&gt;后来我给她讲了很多，不光是作文，各道大题都有，也就是这个问题下以及以前的各个关于语文的问题下有些知友所认为的根本不存在方法不存在门路只存在天赋的东西，我硬生生把这些天赋变成了她能听懂的可操作的攻略。&lt;br&gt;到了高三下学期，我看见她在自己定的各科目标上，语文一科写的是95分。&lt;br&gt;再后来，她考了好几次100+。&lt;br&gt;最后高考，她总分113.&lt;br&gt;&lt;br&gt;写这个的目的不是为了偷偷摸摸委婉曲折地自我表扬，而是为了重点说：&lt;b&gt;我到现在都记得她那一本厚厚的语文笔记。&lt;/b&gt;&lt;br&gt;开会的时候、老师说废话的时候、课间的时候，她一直都在总结笔记，用我教的方法。每隔一段时间她会主动跑来问我：老师，这是我这一段时间总结的学习心得和做题经验，你帮我看看有没有问题？&lt;br&gt;然后我就跟她说，哪些是可操作的，哪些是属于比较模糊的需要进一步去探究的。&lt;br&gt;&lt;br&gt;这个女生在我们班上外号&lt;b&gt;老大&lt;/b&gt;，因为她学风实在太正了。我们班其他同学都是在她的带领下才有勇气战胜一个有一个高三的逆境。而我很感动的是，我告诉她该怎么做的，她居然都做到了！其实我之所以帮她定了95的目标，是因为我觉得对于一个自觉学习的孩子来说，能做到我说的这些，达到95分算很不错了。结果她做的和最后成就的，都远远超出我的预期。&lt;br&gt;&lt;b&gt;而她只是脚踏实地地去做着，从来没想过跪着不跪着这个问题。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;其实我也是上了知乎才知道杨绛先生说的那句话：你所有的问题都来自于想得太多而读书太少。但就算没听过这句话，看看题主这个问题我也知道，题主，你是不是有点浮躁了？&lt;br&gt;&lt;br&gt;我觉得不管是学习也好，生活也好，哪里有那么多必须的选择？必须跪着而苟安，或者站着而就义？&lt;br&gt;NO，NO，NO，现在是和平年代，我们一定有两全其美的办法。&lt;br&gt;甚至再说一句，&lt;b&gt;如果一件事，大多数的事，如果你觉得跪着就可以做成，或者只有跪着才能做成，那一定是你的错觉。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;语文不需要跪着，只是绝大多数同学都没有真正了解过要怎么样能学好；能学好的人吧，又都没有思考过到底是怎样学好的。所以只好觉得政治正确就是最好的正确。&lt;br&gt;&lt;br&gt;说到这里我思绪有点混乱，为了避免后面跑题导致对题主没有帮助，我还是直接说一说可操作的方法吧:&lt;br&gt;&lt;br&gt;1、让你的语文老师给你开个书单，你就说是既能增长见识、也能提高语文水平的那些书，他会懂的。如果他不开，或者说语文是需要博览群书而非一朝一夕的事情，可以私信我帮你开。当然最好不要私信，我这人特别懒，所以打前面一句话的时候犹豫了好久。而且如果我开的话，会有一系列的问题，因为这事儿你要不是我的学生，我也没法跟踪训练，最多也就做到开书单这一步而已，而这只是个开头，远不到终点。&lt;br&gt;&lt;br&gt;2、买点专题训练的书，诗歌鉴赏和现代文阅读的，好好做。一边做一边总结。当有一天你发现自己可以在这两道题上拿到接近满分的分数时，你的作文水平早就蹭蹭蹭上去了。&lt;br&gt;我这里倒是有很多直接总结出来的技巧，但我觉得这些没用，得先自己有了积累和思索，别人告诉你的这些方法才能起到启发的效果。否则也就是让你激动一阵儿然后打入冷宫罢了。&lt;br&gt;&lt;br&gt;3、仿写。遇到你喜欢的文字，尝试着仿写一小段。在仿写的过程中你会短时间真正体会到原文的妙处，尤其是谋篇布局和文字运用的妙处，又能进行一番美的鉴赏。&lt;br&gt;&lt;br&gt;4、多看高考作文题，或者高考作文题的解析。我觉得这个比直接看满分作文有用。由于太懒了这条我就不展开了。&lt;br&gt;&lt;br&gt;题主，你看，我说得这四条没有一条在教你跪着写文章。事实上高考写得好的作文，极少有跪着写的，真的。就你们这个年龄的政治觉悟和见识，如果真的跪着写，阅卷老师看着会觉得很想吐的。声明，我不是在骂人。如果不相信，可以请知乎上参与过高考阅卷的语文老师来谈一谈这个问题。&lt;br&gt;&lt;br&gt;&lt;b&gt;作文写得好，不是因为跪着，而是因为积累、思考和严明的逻辑，甚至连语言的优美度都没有前面这三点重要。&lt;/b&gt;至于篇章结构开头怎样中间怎样结尾怎样……这些也重要，但不是最重要的。一来你的语文老师一定也反反复复强调了；二来，当你的总体水平上来之后，这些是水到渠成的事儿。&lt;br&gt;&lt;br&gt;最后，针对题主问题说明的那句“已经被各种思想启蒙了”评论一句：你不是被启蒙了，而是被洗脑了。&lt;br&gt;没有恶意，希望题主别生气。上一次不小心说了个洗脑，被骂得狗血淋头。时隔半年，第二次说，希望大家温柔点。%&amp;gt;_&amp;lt;%……
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21714074/answer/19087122
-</link>
-<author>
-匿名用户
-</author>
-<title>
-如何看 2013 年 9 月 27 日小米商店再次全线下架360产品？
-</title>
-<description>
-&lt;b&gt;＃钱&lt;/b&gt;&lt;br&gt;手机系统的应用预装，一直是手机系统重要的收入来源。 &lt;br&gt;&lt;br&gt;MIUI上有个“推荐”目录，那里面多是和系统无关的第三方应用。很久没有碰V5了，不记得里面到底多少，记得是9个以上。一个应用的激活费用在2到9块不等（当然，总会有给高价的冤大头）。平均算5块钱，那么一个MIUI用户在这上面为小米创造的最大利润，就是45块钱（实际上还要考虑激活率）。应用商店下载，也是同样用激活费获利。&lt;br&gt;&lt;br&gt;“系统预装”领域，可以预计，随着小米手机硬件销量的攀升，他在应用分发渠道上的优势，会越来越明显（小米在2013年1400万的销量可能不太有水分）。&lt;br&gt;&lt;br&gt;“应用商店”呢？2013年应用商店下载，而非系统预装，还仍然掌握着应用分发的主要渠道。谁？&lt;br&gt;&lt;br&gt;&lt;b&gt;就是360。&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;＃360&lt;/b&gt;&lt;br&gt;DCCI 2013年的数据中，两家的比较大概是13.x% vs 3.x%（360 vs 小米）。&lt;br&gt;&lt;br&gt;“应用商店”的分发渠道是个蓝海，竞争惨烈（还记得百度买了91？对360是个打击）。而MIUI的分发渠道有硬件销量做护城河。此消彼长，你要是360，&lt;b&gt;怎么PO？&lt;br&gt;&lt;/b&gt;&lt;br&gt;很简单，找“系统预装”的弱点。&lt;br&gt;&lt;br&gt;“系统预装”的弱点也很明显，打开MIUI的推荐，你会发现很多“雷军系”的应用，其他的如果有，那么是同类软件中预装费较高的。这意味着系统预装更多的考虑&lt;b&gt;“商业利益”&lt;/b&gt;而非&lt;b&gt;“用户需求”&lt;/b&gt;。&lt;br&gt;&lt;br&gt;这会反映在一个基本数据上，就是激活率。业内常识，“应用商店”下载的激活率，一般高过“系统预装”。&lt;br&gt;&lt;br&gt;360要抢夺“系统预装”的份额，就必须站在&lt;b&gt;“用户需求”&lt;/b&gt;这一边才有机会。于是，就有了今天的“系统预装”应用的一键删除。借用户的手打击对手。&lt;br&gt;&lt;br&gt;为用户清理系统中的无用应用，会赢得用户口碑，同时，打击“系统预装”这个分发渠道。但是，这TNM狠了，直接断了小米和众多渠道的财路。又一次，360要和全行业战斗。&lt;br&gt;&lt;br&gt;嗯，我为什么要说“又”字？&lt;br&gt;&lt;br&gt;&lt;b&gt;＃小米&lt;/b&gt;&lt;br&gt;小米可以用同样的办法反制，但是却不太会出效果。前面说过，他控制的分发份额，只有3.x%。&lt;b&gt;怎么PO？&lt;/b&gt;&lt;br&gt;&lt;br&gt;第一，狠一点。&lt;br&gt;用户一键删除垃圾应用，还是有比例的。很可能没有20%。而小米的渠道全面下架360的应用，则是100%。自己的渠道占比虽少，但是无条件下架这一来，威力乘了五倍。（下载不到360的小米用户？会闹的也没多少吧）&lt;br&gt;&lt;br&gt;第二，舆论。&lt;br&gt;如果360建议用户删除预装应用是“恶意诱导用户”，那小米直接下架应用算啥？&lt;br&gt;一个不利于自己的舆论怎么炒的对小米有利？算个技术活。但是，小米控制舆论的能力在业界是数一数二的。否则他的众多玩法，早被口水淹死了。这事编辑们敢写亲360的报道，以后不好混啊（所以，亲们，原谅我的匿名吧！）。&lt;br&gt;这真的是个很有意思的事情。是否，又一次，小米可以在不利的条件下炮轰360还摆平舆论？我们可以慢慢看。&lt;br&gt;&lt;br&gt;嗯，我为什么又要说&lt;b&gt;“又”&lt;/b&gt;字？
 </description>
 </item>
 </channel>
