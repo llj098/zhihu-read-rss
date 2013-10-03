@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21741795/answer/19172007
+</link>
+<author>
+Lawrence Li
+</author>
+<title>
+为什么 Instapaper 的作者 Marco Arment 最近在鼓吹『预付费模式已死』，是否跟他再无力开发受欢迎应用有关？
+</title>
+<description>
+Marco Arment 有沒有喪失寫好軟件的能力，等到他的下一個作品 Overcast 出來就知道了。他預計最快年底。&lt;br&gt;&lt;br&gt;題主提到的趨勢，具體說是這樣：收費軟件在蘋果 App Store 上漸漸式微，「免費 + 廣告」和「免費 + 程序內購買（In-app Purchase）」成爲更加可行的商業模式。&lt;br&gt;&lt;br&gt;並不是 Arment 在「鼓吹」這種趨勢——既然已經是趨勢就不需要鼓吹。國外不少開發者和科技業觀察者在 2012 年甚至更早就發現了這個趨勢。通常認爲原因有如下幾條：&lt;br&gt;&lt;br&gt;1. 蘋果靠賣硬件賺錢。App Store 裡的 app 對蘋果來說，只是幫助他們多賣手機和平板的工具。如果 App Store 裡有很多優質收費軟件，那很好。但如果 App Store 裡有很多優質免費軟件，在蘋果看來則是更好，因爲那只會讓 iPhone, iPad 和 iPod touch 顯得更有吸引力。蘋果沒有動力爲 App Store 設計一套「讓第三方 App Store 開發者能更好地賺錢」的規則。&lt;br&gt;&lt;br&gt;2. App Store 現有的規則，例如排行榜制度、沒有免費試用、沒有升級優惠機制，以及其它一些因素，造成了 App Store 軟件平均售價自 2008 年以來一路走低。隨之而來的是用戶能接受的心理價位也越來越低。如今一個十八塊錢的軟件可能會被人嫌貴。這使得很多獨立開發者難以爲繼：賣得太貴，用戶不接受，賣得便宜，量不足以抵消降價帶來的收入損失。&lt;br&gt;&lt;br&gt;3. 很多普通用戶其實從來沒有過買軟件的習慣。個人電腦時代，軟件大多是爲商業應用所寫，買家很多都是企業而非個人，而免費的限時試用或「shareware」在當時也是業界規範。進入 App Store 時代，軟件成了消費品和生活方式。同時免費試用沒有了，用戶要在完全不知道這個軟件能幹什麼、我會不會需要的前提下付費購買。App Store 剛誕生時，新奇感足以促使他們這麼幹。但時間久了，回頭想想自己花錢買過的軟件，往往發現沒有哪個是非用不可的。（相反很多免費軟件是非用不可。）我相信這是很多人的感受。&lt;br&gt;&lt;br&gt;程序內購買則不同，它利用的是人性的弱點（這也是 Arment 所謂的「smart use of In-app Purchase」裡的「smart」的含義）。此外，由於在程序內購買的機制下，軟件本身往往是免費的，也等於變相提供了某種「試用」（儘管開發者不一定這麼叫）。&lt;br&gt;&lt;br&gt;事實上，當 iOS 開發的王者 Loren Brichter 在 2012 年選擇以程序內購買作爲他的拼字遊戲 Letterpress 的商業模式時，這個趨勢就已經很明顯了。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21737421/answer/19166293
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21675314/answer/19095407
 </title>
 <description>
 在进入游戏行业之前，我是做室内设计的。&lt;br&gt;&lt;br&gt;08年的时候被评为东莞十大优秀设计师，那年我25岁，出道3年，那时很多同行朋友都觉得我在当时那个年纪，能做到那样，很牛逼。&lt;br&gt;&lt;br&gt;但其实我深深的厌恶着那个行业，因为做一个室内设计师，最大的收入来自于材料商的回扣，为了拿到更多的回扣，你要靠着一张三寸不烂之舌在需要的时候把圆的说成方的，或者把方的说成圆的。&lt;br&gt;&lt;br&gt;离开那个行业之前，曾在中国建筑论坛上发表一个长篇帖子，说了一下我对行业的心得和内幕，结果居然有50多页回复，被置顶，很多人发消息给我有说要跟我一起开公司的，有说要找我拜师的，有说要跟我面谈的，但还是没有一丝留恋的走了。&lt;br&gt;&lt;br&gt;后来在我朋友的邀请下，09年到广州进入游戏行业，进入的原因跟很多入行的朋友们一样，把做游戏和玩游戏想成同一件事情了，觉得每天可以悠闲的玩很多游戏，然后轻轻松松把钱挣了。结果每天的工作情况是早上9点到晚上11点，如果说这份工资比其他行业要高的话，其实都是算在这个加班的时间里了，一个月12K每天工作12小时周末单休和一个月8K每天工作8小时周末双休的工作你选哪个？&lt;br&gt;&lt;br&gt;如今我三十岁了，感觉身体方面跟28都已经完全比不了了，我在微博上关注过熊顿、伯爵在城堡、李开复、鲁若晴，看着他们的遭遇我不断的反思着获得和失去，反复思考着究竟为了现在的工作透支健康划得来吗？&lt;br&gt;&lt;br&gt;前段时间我们也是为了项目上线连续加班，也熬了几个通宵，而项目上线几个月之后每个月收入有350~400W+（手游），老板只是请大家吃了顿饭，分红的事情只字未提，我们项目组的每个程序基本都出去面试了一轮了，但行业是这样的，下个公司如果还是这样，你怎么办？&lt;br&gt;&lt;br&gt;如今我对行业的看法是，太多对这行不了解的愣头青怀着美好的愿景冲了进来，然后又满是遗憾的冲了出去，就广州来说，极大部分公司的人员都流动得非常厉害，从最近面试的一批策划就能看出来。有22~23岁在某也有公司跟了一年运营项目出来要月薪7K的执行策划，有27~28只要4~5K的系统策划，有的对自己的定位不明确，有的全无对自己今后的职业规划。我问一个要5K的策划文档写作能力怎么样，他居然说：“小团队里文档什么的根本就不重要，用口说清楚就行了”，呵呵呵，这就是某一批底层策划的职业素养和心里的想法。&lt;br&gt;&lt;br&gt;这让我想起以前那些做装修的民工兄弟，贱卖自己的体力，他开价200一天，我就只要150，明天有开价100的，我就只开80，劣币驱除良币。公司只需要几个精英能带项目的，其他的全是开价低的，结果烂东西一大堆。几年以后价格已经压缩到了极致，那些靠价格工作的，已经没有了压价的空间，因为再压下去自己就没办法生活了，再加上年纪、体力、精力的问题，这一批人离开了行业，于是工钱又涨上来了。&lt;br&gt;&lt;br&gt;目前游戏行业里的情况其实也是这样，潮起潮落，我们能做的就是尽量在行业里活下去，等待乘风破浪的那一天。在选择公司的时候，尽量选择不用加班有双休的，不要被老板的那些鬼话糊弄，那些通宵加班的基本都是在找寻心理上那种悲壮的成就感，拖垮了身体划不来，你有能力在工作时间内把东西做好，做得漂亮，下班之后就走。&lt;br&gt;&lt;br&gt;让我觉得欣慰的是，最近越来越多的行业内的朋友选择对那些朝九晚九的公司说不。&lt;br&gt;&lt;br&gt;PS：到现在为止，我最后悔的是没有坚持小时候的梦想，当一个漫画家。我们每个人都身患绝症，比癌症更可怕——老。我希望想入行，以及入了行的朋友仔细想想自己究竟喜欢什么，对什么事情感兴趣，尽量去做自己感兴趣的事情，花有重开时，人无再年少，不要浪费自己的光阴。&lt;br&gt;&lt;br&gt;哦，对了，最近我又拿起了笔开始画画，这是我在去天河城购书中心的时候拍的，之前我总是抱怨没有好的手绘板、没有舒适的椅子、没有大的显示器，让我没有灵感——直到我看到这个人，他连手都没有。当时颇有感触买下这张画贴在了家里墙上。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/79/5a/795abf9b7a8d5f22c523266b1c209d7f_m.jpg&quot; data-rawwidth=&quot;2448&quot; data-rawheight=&quot;3264&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2448&quot; data-original=&quot;http://p4.zhimg.com/79/5a/795abf9b7a8d5f22c523266b1c209d7f_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/a8/57/a8571d965e4827d358c808a95db7f802_m.jpg&quot; data-rawwidth=&quot;2448&quot; data-rawheight=&quot;3264&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2448&quot; data-original=&quot;http://p2.zhimg.com/a8/57/a8571d965e4827d358c808a95db7f802_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/11/3f/113fb5ed50c78f352e6ca02646a667ad_m.jpg&quot; data-rawwidth=&quot;858&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;858&quot; data-original=&quot;http://p2.zhimg.com/11/3f/113fb5ed50c78f352e6ca02646a667ad_r.jpg&quot;&gt;望各位迷茫中的朋友们共勉：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/89/a0/89a0d03e0ba402fc8f4540ec8741af9b_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;667&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;http://p1.zhimg.com/89/a0/89a0d03e0ba402fc8f4540ec8741af9b_r.jpg&quot;&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20817718/answer/19142034
-</link>
-<author>
-顾扯淡
-</author>
-<title>
-如果中国开始收取遗产税，会造成怎么样的社会影响？
-</title>
-<description>
-&lt;h1&gt;不明确房产的70年归属问题就要征遗产税，这尼玛寻思什么呢？&lt;/h1&gt;&lt;br&gt;好比我30岁买房，80岁过世，房子还有5-20年产权（二手房三手房可能时间更少）让子女花30%的现金去继承？&lt;br&gt;&lt;h1&gt;我孙子又不傻，而且这五六十年的房龄、价格怎么评估?&lt;br&gt;&lt;/h1&gt;&lt;br&gt;理论上遗产税的目的是调节贫富差距没错。&lt;br&gt;但是实际上从社保医保双规制就能看出，我们伟大祖国的税收再分配是逆向的。&lt;br&gt;&lt;br&gt;&lt;br&gt;在中国越有钱越有权越容易合理的利用法律，官场商场精英避税手段多的是，被搞的永远是中产。&lt;br&gt;脑子正常点的，谁会觉得那些几十套房子几个户口的房姐房爷会按照政策缴纳足够的遗产税？&lt;br&gt;&lt;br&gt;真要这几年就开征遗产税，富人的避税方法很多，他们的最终的实际税率肯定会偏低，而知乎里大部分同学应该都没这个能力，结果就是广大社会中层人民倒贴官老爷。&lt;br&gt;&lt;br&gt;社会影响会很坏，按照现在的趋势来看没多久一线城市500万的房子就不稀奇了，但是收入未必跟得上，可能会发生缴不起税只好卖房子还给国家甚至密不发丧的事情。。。&lt;br&gt;&lt;br&gt;PS:&lt;br&gt;这次我觉得未必搞的起来，我党的一贯作风是要搞什么不得人心的举动前面都会吹一下风，骂的人多就辟一个谣。然后过几个月来个800万起征，于是大家都觉得赚到了。
 </description>
 </item>
 </channel>
