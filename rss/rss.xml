@@ -15,6 +15,21 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21756871/answer/19232143
+</link>
+<author>
+申力立
+</author>
+<title>
+数学上有“从理论上根本无法证明”的东西么？
+</title>
+<description>
+最早的三个回答都不正确。我来解释一下。&lt;br&gt;&lt;br&gt;首先，大家要明白什么叫“既不能证明，又不能证伪”。我们在中学就知道“反证法”：假设有一个命题A，以及它的否命题&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;A。我们假设A成立，如果能导出矛盾，那么就证明了&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;A；反之，如果假设&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;A能导出矛盾，那么就证明了A。然而，如果&lt;b&gt;假设A成立不能导出矛盾，假设&lt;/b&gt;&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg%0A&quot; alt=&quot;\neg
+&quot; eeimg=&quot;1&quot;&gt;&lt;b&gt;A成立也不能导出矛盾&lt;/b&gt;呢？那么A就是一个“既不能证明，又不能证伪”的命题。&lt;br&gt;&lt;br&gt;其次，还需要明确“导出矛盾”是什么意思。对于现代数学而言，除了集合论之外的绝大多数分支，都是建立在ZFC公理体系上的。可参考维基百科的介绍：&lt;br&gt;&lt;a href=&quot;http://zh.wikipedia.org/zh-cn/%E7%AD%96%E6%A2%85%E6%B4%9B-%E5%BC%97%E5%85%B0%E5%85%8B%E5%B0%94%E9%9B%86%E5%90%88%E8%AE%BA&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://zh.wikipedia.org/zh-cn/策梅洛-弗兰克尔集合论&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;英文版的更详细：&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Zermelo–Fraenkel_set_theory&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;所以，我们通常所谓的“有矛盾”，归根结底都是指&lt;b&gt;“与ZFC公理系统有矛盾”&lt;/b&gt;。&lt;br&gt;&lt;br&gt;于是，现在我们就可以用更明确的方式来表述题主的问题了：&lt;b&gt;现代数学里是否存在一个命题，这个命题本身以及它的否命题都和ZFC公理系统不矛盾？&lt;/b&gt;&lt;br&gt;&lt;br&gt;很遗憾，早在上世纪30年代，著名的哥德尔不完全性定理就已经告诉我们，任何一个蕴含了自然数的四则运算（这当然是一个很基本的要求——自然数的加减乘除都不能做的话，还做什么数学呢）的公理系统中，都存在“既不能证明，又不能证伪”的命题。同样可参考维基百科的介绍：&lt;br&gt;&lt;a href=&quot;http://zh.wikipedia.org/zh/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://zh.wikipedia.org/zh/哥德尔不完备定理&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;英文版：&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Gödel's_incompleteness_theorems&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;现代数学普遍采用的ZFC公理系统当然也不可避免地笼罩在了哥德尔不完全性定理的魔爪下，所以，“既不能证明，又不能证伪”的命题有很多。上面的维基百科页面里“不确定命题的例子”里就介绍了一些。其中最著名的一个例子就是“连续统假设”（CH）——用通俗的语言表述，就是说，是否存在一个集合，它的元素数量比有理数多，而比实数少？这是上世纪初很多数学家孜孜以求的问题，但很不幸，ZFC+CH没有矛盾，ZFC+&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg+&quot; alt=&quot;\neg &quot; eeimg=&quot;1&quot;&gt;CH也没有矛盾，这就是一个最典型的独立于ZFC公理系统的命题。&lt;br&gt;&lt;br&gt;最后纠正一下题主以及最早的三个回答者的错误：&lt;br&gt;1、哥德巴赫猜想还没有被证明是“既不能证明，又不能证伪”的。要做到这一点，你必须要证明“ZFC+哥德巴赫猜想”没有矛盾，“ZFC+&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;哥德巴赫猜想”也没有矛盾。并且，现代数论的研究者倾向于相信它是正确的，而不是“既不能证明，又不能证伪”的。&lt;br&gt;2、尺规作图不能问题，早在19世纪就已经解决，是明确的、严格的“不能”。&lt;br&gt;3、两点之间线段最短不是古典欧氏几何的公理，是可以证明的。&lt;br&gt;4、第五公设是古典欧氏几何的公理，在古典欧氏几何的范围内是属于“不言自明的事实”。换句话说，任何数学分支里的“公理”都是被默认为正确的（当然，一个数学分支里的公理确实有可能在另一个数学分支里不正确），不能叫做“既不能证明，又不能证伪”的命题。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20485213/answer/16904819
 </link>
 <author>
@@ -293,20 +308,6 @@ http://www.zhihu.com/question/21750327/answer/19203533
 </title>
 <description>
 1.黄老板出场，来自百合网（不是知乎网咩？）……退股了么？&lt;br&gt;&lt;br&gt;2.MV拍的不错……拍的很像广告呀………………诶？不是广告么？&lt;br&gt;&lt;br&gt;3.MV很淡定，但现场回答有一点落差&lt;br&gt;&lt;br&gt;4.5次……我还以为有50次呢&lt;br&gt;&lt;br&gt;5.黄老板居然没有带一个有知乎标志或者遐想的本本……&lt;br&gt;&lt;br&gt;6.黄老板把1号带走吧，人家那么认真给你宣传了……&lt;br&gt;&lt;br&gt;7.出镜的那个是顾惜朝MM么？&lt;br&gt;&lt;br&gt;8.&lt;b&gt;黄三爷体力非常好！&lt;br&gt;&lt;/b&gt;&lt;br&gt;9.黄老板的品味真不错………………呃……恩&lt;br&gt;&lt;br&gt;10.黄老板的问题………………真不愧是知乎来的老板&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;11.我说了我知道他会被拒绝的……&lt;br&gt;&lt;br&gt;12.来，反对我吧~但我说对了&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;持续更新……&lt;br&gt;&lt;br&gt;另外，我赌黄老板最后不会牵走人&lt;br&gt;&lt;br&gt;&lt;br&gt;————————————————————————————&lt;br&gt;&lt;br&gt;关电视了&lt;br&gt;&lt;br&gt;作为一个小阴谋论爱好者，我的推理是这样的&lt;br&gt;&lt;br&gt;因为2号会灭他……然后他就找2号，然后2号就会拒绝他，然后他就能全身而退了
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21732312/answer/19196189
-</link>
-<author>
-庄表伟
-</author>
-<title>
-怎么对待自视甚高，老在你面前显示优越感的人？
-</title>
-<description>
-我认识的几个远比我聪明的家伙，其实都有类似的毛病：&lt;b&gt;打牌骂队友、平时骂人蠢&lt;/b&gt;之类的。&lt;br&gt;&lt;br&gt;但是，和这种家伙交朋友，其实很容易的呀，只要你能够原谅他们“智商虽高，情商不够”的缺陷就好。&lt;br&gt;&lt;br&gt;他们的思维方式，一般都非常简单、直接，如果你错了，他们一定不会隐瞒自己的看法（以及鄙视）。如果你有困惑，找他们想办法，是他们最开心的事情了。&lt;br&gt;&lt;br&gt;所以，我严重同意顶楼&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/wu-zhen-13&quot; data-tip=&quot;p$b$wu-zhen-13&quot;&gt;@吴震&lt;/a&gt; 的看法。称赞他们，夸奖他们，然后他们会很高兴，甚至因此会帮你做很多很多的事情。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c1/be/c1bef53be97dc3c0cca7e51c8839e456_m.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;258&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://p4.zhimg.com/c1/be/c1bef53be97dc3c0cca7e51c8839e456_r.jpg&quot;&gt;
 </description>
 </item>
 </channel>
