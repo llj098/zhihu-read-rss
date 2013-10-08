@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21733358/answer/19261884
+</link>
+<author>
+佐藤謙一
+</author>
+<title>
+业余和专业最大的区别是什么？
+</title>
+<description>
+-&lt;br&gt;&lt;br&gt;業餘就是，電視劇和電影播什麼，他就懂什麼；暢銷書的話題是什麼，他就懂什麼。&lt;br&gt;&lt;br&gt;譬如電視劇熱播日本戰國，熱播唐朝宮廷，他就變成是日本戰國史的專家、變成了唐史專家；暢銷書熱賣 Steve Jobs 的傳記，熱賣 Dieter Rams 的設計書，他便能關於設計哲學侃侃而談。&lt;br&gt;&lt;br&gt;業餘就是，他自認爲自己最專業的、看起來很頂尖的想法、「衆醉惟我明」的念頭，其實全部都是大衆傳媒告訴他的，都是有時效性的。&lt;br&gt;&lt;br&gt;這就是我所理解的「業餘」。&lt;br&gt;&lt;br&gt;-
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21741569/answer/19171106
 </link>
 <author>
@@ -280,20 +294,6 @@ http://www.zhihu.com/question/21756871/answer/19232143
 <description>
 最早的三个回答都不正确。我来解释一下。&lt;br&gt;&lt;br&gt;首先，大家要明白什么叫“既不能证明，又不能证伪”。我们在中学就知道“反证法”：假设有一个命题A，以及它的否命题&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;A。我们假设A成立，如果能导出矛盾，那么就证明了&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;A；反之，如果假设&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;A能导出矛盾，那么就证明了A。然而，如果&lt;b&gt;假设A成立不能导出矛盾，假设&lt;/b&gt;&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg%0A&quot; alt=&quot;\neg
 &quot; eeimg=&quot;1&quot;&gt;&lt;b&gt;A成立也不能导出矛盾&lt;/b&gt;呢？那么A就是一个“既不能证明，又不能证伪”的命题。&lt;br&gt;&lt;br&gt;其次，还需要明确“导出矛盾”是什么意思。对于现代数学而言，除了集合论之外的绝大多数分支，都是建立在ZFC公理体系上的。可参考维基百科的介绍：&lt;br&gt;&lt;a href=&quot;http://zh.wikipedia.org/zh-cn/%E7%AD%96%E6%A2%85%E6%B4%9B-%E5%BC%97%E5%85%B0%E5%85%8B%E5%B0%94%E9%9B%86%E5%90%88%E8%AE%BA&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://zh.wikipedia.org/zh-cn/策梅洛-弗兰克尔集合论&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;英文版的更详细：&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Zermelo–Fraenkel_set_theory&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;所以，我们通常所谓的“有矛盾”，归根结底都是指&lt;b&gt;“与ZFC公理系统有矛盾”&lt;/b&gt;。&lt;br&gt;&lt;br&gt;于是，现在我们就可以用更明确的方式来表述题主的问题了：&lt;b&gt;现代数学里是否存在一个命题，这个命题本身以及它的否命题都和ZFC公理系统不矛盾？&lt;/b&gt;&lt;br&gt;&lt;br&gt;很遗憾，早在上世纪30年代，著名的哥德尔不完全性定理就已经告诉我们，任何一个蕴含了自然数的四则运算（这当然是一个很基本的要求——自然数的加减乘除都不能做的话，还做什么数学呢）的公理系统中，都存在“既不能证明，又不能证伪”的命题。同样可参考维基百科的介绍：&lt;br&gt;&lt;a href=&quot;http://zh.wikipedia.org/zh/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://zh.wikipedia.org/zh/哥德尔不完备定理&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;英文版：&lt;br&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Gödel's_incompleteness_theorems&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;现代数学普遍采用的ZFC公理系统当然也不可避免地笼罩在了哥德尔不完全性定理的魔爪下，所以，“既不能证明，又不能证伪”的命题有很多。上面的维基百科页面里“不确定命题的例子”里就介绍了一些。其中最著名的一个例子就是“连续统假设”（CH）——用通俗的语言表述，就是说，是否存在一个集合，它的元素数量比有理数多，而比实数少？这是上世纪初很多数学家孜孜以求的问题，但很不幸，ZFC+CH没有矛盾，ZFC+&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg+&quot; alt=&quot;\neg &quot; eeimg=&quot;1&quot;&gt;CH也没有矛盾，这就是一个最典型的独立于ZFC公理系统的命题。&lt;br&gt;&lt;br&gt;最后纠正一下题主以及最早的三个回答者的错误：&lt;br&gt;1、哥德巴赫猜想还没有被证明是“既不能证明，又不能证伪”的。要做到这一点，你必须要证明“ZFC+哥德巴赫猜想”没有矛盾，“ZFC+&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cneg&quot; alt=&quot;\neg&quot; eeimg=&quot;1&quot;&gt;哥德巴赫猜想”也没有矛盾。并且，现代数论的研究者倾向于相信它是正确的，而不是“既不能证明，又不能证伪”的。&lt;br&gt;2、尺规作图不能问题，早在19世纪就已经解决，是明确的、严格的“不能”。&lt;br&gt;3、两点之间线段最短不是古典欧氏几何的公理，是可以证明的。&lt;br&gt;4、第五公设是古典欧氏几何的公理，在古典欧氏几何的范围内是属于“不言自明的事实”。换句话说，任何数学分支里的“公理”都是被默认为正确的（当然，一个数学分支里的公理确实有可能在另一个数学分支里不正确），不能叫做“既不能证明，又不能证伪”的命题。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20485213/answer/16904819
-</link>
-<author>
-刘喻
-</author>
-<title>
-有没有哪个网站是可以下载到完整电影剧本的？
-</title>
-<description>
-受版权保护，绝大部分剧本都要付费购买，但也有作者出于交流和写作教学目的免费提供的，比如这位：&lt;a href=&quot;http://johnaugust.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;A ton of useful information about screenwriting from screenwriter John August&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;br&gt;&lt;br&gt;以下是一些可供下载的站点：&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://thescriptlab.com/download-scripts&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The Script Lab&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（个人最爱。优点是新，但不全。有供下载也有付费购买的。供下载部分全部来自于作者免费提供，所以没有版权隐患，阅读体验也更好）&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.scriptfly.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Scripts FLY&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（收集较全，但全部需要付费购买）&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.simplyscripts.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;SimplyScripts&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（应该是找剧本最常用的Index，收集比较全，有非英语剧本）&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.imsdb.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The Internet Movie Script Database (IMSDb)&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（传说中的IMSDb，txt格式）&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.script-o-rama.com/snazzy/table.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;movie scripts: drew's meat and potatoes&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.scifimoviepage.com/scripts/number.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;SCI-FI&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;（链接了其他站点）&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;基本上以上这些应该可以找到大部分流行的剧本了。一些小众剧本还可以按genre去找专门的站点下载（如&lt;a href=&quot;http://www.scifiscripts.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Science Fiction and Fantasy Movie&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）。再有找不到的Google解决。
 </description>
 </item>
 </channel>
