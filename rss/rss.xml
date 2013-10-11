@@ -15,6 +15,48 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21755592/answer/19233779
+</link>
+<author>
+知乎用户
+</author>
+<title>
+为什么开启了 360 安全卫士，QQ 就不会启动 QQ 浏览器？
+</title>
+<description>
+自问自答。一切都挡不住技术宅强大的好奇心啊。在自己电脑上用虚拟机模拟了一下，果然又打开了360安全浏览器。于是果断搭建实验环境。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4d/4a/4d4ae5de64acfc0bdcd94e3ba41a0f5a_m.jpg&quot; data-rawwidth=&quot;1600&quot; data-rawheight=&quot;900&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1600&quot; data-original=&quot;http://p1.zhimg.com/4d/4a/4d4ae5de64acfc0bdcd94e3ba41a0f5a_r.jpg&quot;&gt;&lt;br&gt;把QQ.exe用NOTEPAD.EXE替换，排除QQ自身逻辑干扰。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ae/3c/ae3cd30314883e8f38a483ee6c81c246_m.jpg&quot; data-rawwidth=&quot;1600&quot; data-rawheight=&quot;900&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1600&quot; data-original=&quot;http://p2.zhimg.com/ae/3c/ae3cd30314883e8f38a483ee6c81c246_r.jpg&quot;&gt;&lt;br&gt;模拟QQ的行为，在记事本程序内用一个快捷方式触发带网址打开QQ浏览器的操作。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f7/ad/f7ad14ae18b827edb7a4f69e385688e0_m.jpg&quot; data-rawwidth=&quot;637&quot; data-rawheight=&quot;287&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;637&quot; data-original=&quot;http://p3.zhimg.com/f7/ad/f7ad14ae18b827edb7a4f69e385688e0_r.jpg&quot;&gt;&lt;br&gt;在nt!NtCreateProcessEx设置断点，触发打开操作之后被断下。&lt;br&gt;&lt;br&gt;先来看CreateProcessInternalW。&lt;br&gt;函数原型：&lt;br&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;&lt;span class=&quot;n&quot;&gt;BOOL&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;WINAPI&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;CreateProcessInternalW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hUserToken&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPCWSTR&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpApplicationName&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPWSTR&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpCommandLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPSECURITY_ATTRIBUTES&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpProcessAttributes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPSECURITY_ATTRIBUTES&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpThreadAttributes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BOOL&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bInheritHandles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DWORD&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dwCreationFlags&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPVOID&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpEnvironment&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPCWSTR&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpCurrentDirectory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPSTARTUPINFOW&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpStartupInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LPPROCESS_INFORMATION&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lpProcessInformation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                       &lt;span class=&quot;n&quot;&gt;OUT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PHANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hNewToken&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;我们看看lpCommandLine里的路径。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c2/b0/c2b0d57bd7f41bbf3f7b95028dfd3f1b_m.jpg&quot; data-rawwidth=&quot;365&quot; data-rawheight=&quot;171&quot; class=&quot;content_image&quot; width=&quot;365&quot;&gt;&lt;br&gt;lpCommandLine确实是QQ浏览器。&lt;br&gt;&lt;br&gt;再往上看nt!NtCreateProcessEx。&lt;br&gt;函数原型：&lt;br&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;&lt;span class=&quot;n&quot;&gt;NTSYSCALLAPI&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;NTSTATUS&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;NTAPI&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;NtCreateProcessEx&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__out&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PHANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ProcessHandle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ACCESS_MASK&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DesiredAccess&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in_opt&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;POBJECT_ATTRIBUTES&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ObjectAttributes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ParentProcess&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ULONG&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Flags&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in_opt&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SectionHandle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in_opt&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DebugPort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in_opt&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HANDLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ExceptionPort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;__in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ULONG&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;JobMemberLevel&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;我们从SectionHandle取出目标文件路径。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ac/04/ac0428175e2bf8fcd81381e0265b337a_m.jpg&quot; data-rawwidth=&quot;604&quot; data-rawheight=&quot;282&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;604&quot; data-original=&quot;http://p2.zhimg.com/ac/04/ac0428175e2bf8fcd81381e0265b337a_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/f5/d7/f5d799965167a641eb347439056855ca_m.jpg&quot; data-rawwidth=&quot;1115&quot; data-rawheight=&quot;580&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1115&quot; data-original=&quot;http://p3.zhimg.com/f5/d7/f5d799965167a641eb347439056855ca_r.jpg&quot;&gt;&lt;br&gt;SectionHandle指向了360安全浏览器。&lt;br&gt;&lt;br&gt;也就是说，QQ通过CreateProcess启动的是QQ浏览器，但在到达NtCreateProcessEx之后，却变成了360安全浏览器。栈上只有一个Hookport，你猜这是谁家的驱动程序呢？&lt;br&gt;&lt;br&gt;不出意外的话，是SectionHandle参数被篡改了。如果大家有兴趣，我可以尝试继续挖掘详细流程。&lt;br&gt;&lt;br&gt;360安全卫士	setup.exe			2013年10月5日 16:20:48&lt;br&gt;QQ浏览器	QQBrowser_Setup_14018.exe	2013年9月5日 11:55:05&lt;br&gt;360安全浏览器	360se6_6.5.1.100.exe		2013年9月17日 19:11:35&lt;br&gt;腾讯QQ		QQ2013SP2.exe			‎2013‎年‎9‎月‎25‎日 10:21:29
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21752678/answer/19319525
 </link>
 <author>
@@ -277,20 +319,6 @@ http://www.zhihu.com/question/20681357/answer/16527345
 </title>
 <description>
 &lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/shenbin&quot; data-tip=&quot;p$b$shenbin&quot;&gt;@谌斌&lt;/a&gt; 的那篇文章是分解注意力的软文，转移视线的，不是根本原因。&lt;br&gt;&lt;br&gt;不方便说太多，飞信是利益链产物，有人发财就有人眼红，然后眼红的人就搞掉了发财的人。关键词李xiang东，马li，叶bing。&lt;br&gt;&lt;br&gt;整个飞信都是外包业务，从机房到设备都是移动采购的，每年大笔运营费用，项目年运营成本数十亿，移动花钱，移动推广，移动自己考核自己的发展指标，就是放在那里不去运营，左边进，右边出都是利润，所谓的成本换收入。&lt;br&gt;&lt;br&gt;有人坐看事情闹大的时候出面，上述的几个人连同移动的若干产业基地同时被搞垮，以致有段时间移动高层人人自危，所有业务全面停滞观望，飞信自然变成烫手山芋，谁敢接？你跟飞信集团有何利益关系敢在这个时候运营它！最终王jian宙也因此被人揪住不放，早早草草退休。&lt;br&gt;&lt;br&gt;对运营商来说，那种束手束脚的所谓严谨制度的结果只有一个，不干活最好，干活就折磨死你；真正能放开手脚干活的人，难免遭人嫉妒，本朝天子支持你，不代表天子后面的势力会一直支持你；另外再说了，真正能放开手脚干活的人，还能干净的，除了自己创业的就是傻子，这年头不是你干净就一直干净，总有人一身污秽的跟你站在一起，别说是你，你家天子都不敢拒绝！&lt;br&gt;&lt;br&gt;更何况一点，在椅子上坐的久了，屁股上难免都会有点屎，谁敢说自己脱了之后也干净？！&lt;br&gt;&lt;br&gt;整个移动集团，都已经开始衰落了，不止飞信自己，移动曾经引以为傲的几大基地，都开始荒废了。飞信之所以没有退市，是因为市场有基数了，撤不起，一方面想发展又不敢，另一方面想退出市场也不敢；移动还不敢撇清自己跟飞信间千丝万缕的关系，认它，不敢，拒之门外再不来往，也不敢。今天下几个任务，明天下几个指标，大家都是得过且过，等着飞信自生自灭。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21074714/answer/17895297
-</link>
-<author>
-番薯
-</author>
-<title>
-女朋友不开心的时候怎么哄？
-</title>
-<description>
-&lt;img src=&quot;http://p4.zhimg.com/3c/75/3c75507cdb4968b89eb40733b0c333de_m.jpg&quot; data-rawwidth=&quot;788&quot; data-rawheight=&quot;269&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;788&quot; data-original=&quot;http://p4.zhimg.com/3c/75/3c75507cdb4968b89eb40733b0c333de_r.jpg&quot;&gt;&lt;br&gt;为了缓解我生气。我做了这个给男盆友。。。(●´ω｀●)φ&lt;br&gt;我知道我很爱森气。嗯... TUT&lt;br&gt;&lt;br&gt;最底下是方正喵呜体，别的都是番薯体，啊哈哈【就是我手写的(￢∀￢)σ】&lt;br&gt;图是用毁图秀秀现成的图！&amp;lt;(￣︶￣)↗就是皮埃斯了一下！&lt;br&gt;&lt;br&gt;其实我还做了MUA券！！！给乃们看！！【其实蛮傻的！！！(つ///д///⊂)】&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/af/cb/afcb92d7cabd1c82214f28420fca6bdc_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;300&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p2.zhimg.com/af/cb/afcb92d7cabd1c82214f28420fca6bdc_r.jpg&quot;&gt;&lt;br&gt;不要笑我哇...咿呀哟！
 </description>
 </item>
 </channel>
