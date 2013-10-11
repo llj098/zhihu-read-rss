@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19705809/answer/19311218
+</link>
+<author>
+动机在杭州
+</author>
+<title>
+陈丹青认为人生没有意义，怎样看待这句话？
+</title>
+<description>
+前段时间《我即我脑》的作者斯瓦伯教授到我们中心来做讲座，关于自杀的脑机制。这老头是一个完全的脑决定论者，认为人就是大脑，思想就是大脑神经元的活动，而大脑活动有它自己的规律。所谓自由意志，你敝帚自珍的思想，都是幻觉。当时也有一个学生站起来问他：“您觉得人生有什么意义？” 老头完全不顾及这学生可能会产生不想活了的念头，斩钉截铁地说了和陈丹青一样的话，人生没有意义，生命没有意义。&lt;br&gt;老头说这话的意思，和陈丹青有点不一样。老头想说的是，我们所谓的人生意义，不就是自我意识的副产品吗？现在连自我意识都是大脑的副产品，是可有可无的幻觉了，“我”都没了，还扯什么人生意义啊。&lt;br&gt;我猜作为文科男，陈丹青可能没想这么深。他想说的是，别太把生命当回事，别太把自己当回事。社会和自然规律的洪流下，傻逼兮兮使劲杵着，不停强调的“自我”，都是自以为是。你不是要珍惜生命吗？干点实事，吃爱吃的东西，做喜欢做的事，恋爱失恋，使劲拥抱生活，哪样不比纠结“人生意义是什么”这样抽象的问题强？活着，不是最自然的事吗？还需要问为什么吗？
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21752678/answer/19325873
 </link>
 <author>
@@ -305,20 +319,6 @@ LBE 安全大师 V5.1 公测版不 root 也能卸载预装软件，是何原理�
 </title>
 <description>
 先回答提问者的问题。&lt;br&gt;&lt;br&gt;众所周知，要卸载系统应用，需要 ROOT 权限。实际上，只是需要 system 文件夹的操作权限而已，ROOT 的第三方应用获取系统目录操作权限的最基本条件。到现在也是。&lt;br&gt;&lt;br&gt;那我们来看一下 LEB 这次更新是通过什么手段来实现的不 ROOT 也可以卸载系统应用的。&lt;br&gt;新版 LEB 如果要解锁应用卸载的话，需要开启主动防御。主动防御有两种方式，&lt;b&gt;&lt;i&gt;免ROOT启动&lt;/i&gt;&lt;/b&gt;和&lt;i&gt;&lt;b&gt;ROOT授权启动&lt;/b&gt;。&lt;/i&gt;&lt;b&gt;&lt;i&gt;ROOT授权启动&lt;/i&gt;&lt;/b&gt;这里就不提了。我们来说一下&lt;i&gt;&lt;b&gt;免ROOT启动&lt;/b&gt;&lt;/i&gt;。&lt;br&gt;如图，点击&lt;b&gt;免ROOT启动，&lt;/b&gt;会提示先修复 MaterKey 漏洞。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d2/24/d2244ab6a68cf10e26a782a065acb854_m.jpg&quot; data-rawwidth=&quot;768&quot; data-rawheight=&quot;1280&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;768&quot; data-original=&quot;http://p1.zhimg.com/d2/24/d2244ab6a68cf10e26a782a065acb854_r.jpg&quot;&gt;&lt;br&gt;我们点击获取系统补丁。会下载一个安装包并且进入安装模式。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f7/f7/f7f7caccfae396e3b06857d17657584e_m.jpg&quot; data-rawwidth=&quot;768&quot; data-rawheight=&quot;1280&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;768&quot; data-original=&quot;http://p3.zhimg.com/f7/f7/f7f7caccfae396e3b06857d17657584e_r.jpg&quot;&gt;&lt;br&gt;使用过 Android 手机的同学这时候应该会注意到什么。没错，这是更新。而不是重新安装。有同学就问了，我之前没有安装过一个叫做 “LBE Master Key漏洞补丁” 的东西啊，怎么会是更新呢？没错，这就是 LBE 利用 Master Key 漏洞 实现的更新系统应用。安装之后就会重启，重启之后就可以开启安全防御了。这时候什么卸载系统应用，权限管理等操作都可以实现。这些我们不关心。我们去看看“LBE Master Key漏洞补丁”这货到底是个什么。为什么安装了它就可以实现 免ROOT 模式。我们去系统设置，应用里面找到它。如图。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b2/aa/b2aa6254d4a26aeac880da1d68b6b942_m.jpg&quot; data-rawwidth=&quot;768&quot; data-rawheight=&quot;1280&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;768&quot; data-original=&quot;http://p3.zhimg.com/b2/aa/b2aa6254d4a26aeac880da1d68b6b942_r.jpg&quot;&gt;&lt;br&gt;事实再一次证明我们是正确的。有一个卸载更新的按钮，这个时候应该一部分同学知道了。只有更新的系统应用才会有卸载更新，否则只有卸载。那我们来卸载更新来看看它到底替换了哪个应用。卸载之后露出了真身。如图&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8b/da/8bdae35f54aef97a64658bde84f71fbe_m.jpg&quot; data-rawwidth=&quot;768&quot; data-rawheight=&quot;1280&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;768&quot; data-original=&quot;http://p1.zhimg.com/8b/da/8bdae35f54aef97a64658bde84f71fbe_r.jpg&quot;&gt;&lt;br&gt;Icon 和 VersionName 都没换，只是加了自己的代码。换了 APP 的名字。&lt;br&gt;&lt;br&gt;&lt;b&gt;所以，LEB 的 免 ROOT 的实现原理就是，通过利用 Master Key 漏洞替换系统本身应用而实现加载自己的代码。这个时候自己的代码拥有最高权限。便可以实现卸载系统应用，权限管理等操作。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;我们再说一下为什么 LBE 要替换 Settings Storage 这个应用。简单的说 Settings Storage 是一个 Android 内部程序，在 Android 开机时就会加载，这也是 LBE 要在开机时把自己的代码 HOOK 到系统上的必要条件。&lt;br&gt;&lt;br&gt;那为什么 LBE 可以替换系统内部应用呢。其实就是利用了 Master Key 漏洞。在不修改 APP 签名的同时可以修改 APP 的代码。LBE 拿到 Settings Storage 这个 APP。反编译，修改代码，重新打包。就可轻易实现了。而关于 Master Key 漏洞，下面的 Android 的源码应该可以说明了。这里就不详解。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/37/26/3726b1d5d541101280af89e83ca48f5d_m.jpg&quot; data-rawwidth=&quot;528&quot; data-rawheight=&quot;559&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;528&quot; data-original=&quot;http://p4.zhimg.com/37/26/3726b1d5d541101280af89e83ca48f5d_r.jpg&quot;&gt;&lt;br&gt;再说一下，这个漏洞真的很危险么？其实只要你做到&lt;b&gt;不允许安装来自 Google Play 以外其他来源的应用&lt;/b&gt;。这个漏洞根本影响不到你的。实际上 Google 在 8 月已经向各大手机厂商提交了该漏洞的补丁，并且对 Google Play 上的应用做了关于该漏洞的扫描。而且 Google Play 不允许提交同系统包名一样的 APP。也就不会存在替换系统应用的现象。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21773746/answer/19275587
-</link>
-<author>
-洛水寒
-</author>
-<title>
-蛋白质酶会水解自己吗？
-</title>
-<description>
-很有意思的问题！&lt;br&gt;&lt;br&gt;我简单的以胃蛋白酶做个解释&lt;br&gt;首先，蛋白酶并不是水解所有的肽键，一般都有一定的专一性，针对某些特定的肽键&lt;br&gt;胃蛋白酶主要水解水解&lt;u&gt;氨基端或羧基端为芳香族氨基酸（苯丙氨酸、色氨酸和酪氨酸）或亮氨酸的肽键&lt;/u&gt;&lt;br&gt;&lt;br&gt;我也看到好多网上的答案说胃蛋白酶不能消化自己是因为胃蛋白酶不含有这些肽键，这个答案是不对的。胃蛋白酶不但有这样的肽键，而且还不少&lt;br&gt;&lt;br&gt;这里就牵涉蛋白质的空间结构了&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/70/d3/70d3ed3153223ec49228194fbe84b07b_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;303&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;蛋白质是通过多肽链的盘绕折叠形成其特定的空间结构之后才具有活性，在这个过程中，有些氨基酸残基露在外面，有的残基就被包裹在蛋白质内部了。上面说的胃蛋白酶针对的氨基酸残基都被包裹在内部，所以胃蛋白酶就没法水解自己了&lt;br&gt;&lt;br&gt;而通常我们消化食物时，食物蛋白质首先会在胃酸的影响下变性，变性会造成蛋白质的空间结构破坏，内部的肽键就会暴露出来，然后被胃蛋白酶识别和水解&lt;br&gt;&lt;br&gt;总而言之，胃蛋白酶不能水解自己是基于它的特定空间结构，如果胃蛋白酶因为某些原因变性，就会被自身水解了
 </description>
 </item>
 </channel>
