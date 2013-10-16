@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21820752/answer/19427199
+</link>
+<author>
+知乎用户
+</author>
+<title>
+为什么说读代码比写代码难？
+</title>
+<description>
+很多人不明白代码意味着什么，代码意味着要随时理清这一坨：&lt;br&gt;&lt;br&gt;&lt;img data-rawheight=&quot;935&quot; data-rawwidth=&quot;1668&quot; src=&quot;http://p1.zhimg.com/49/1c/491c593c68b18fd090ada10b9fb2f62b_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1668&quot; data-original=&quot;http://p1.zhimg.com/49/1c/491c593c68b18fd090ada10b9fb2f62b_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;读代码：&lt;br&gt;找到图中两个节点之间的可能路径&lt;br&gt;&lt;br&gt;改代码：&lt;br&gt;替换一个节点，完整地保证那个节点和每个节点之间的连通性，正确性&lt;br&gt;&lt;br&gt;写代码：&lt;br&gt;新增一个节点，然后（其实不管你怎么）连到原图中&lt;br&gt;&lt;br&gt;产品经理：&lt;br&gt;我其实根本就不关心这些线是怎么连起来的&lt;br&gt;&lt;br&gt;&lt;br&gt;以上，读代码是NP难度，写代码，不好意思，对很多人是P级别的。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20558659/answer/17412674
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/21795339/answer/19401957
 </title>
 <description>
 qual tempered&lt;br&gt;十二平均律，twelve-tone equal temperament。将八度音程均分为 12 个相等音程的律制。八度音程的频率比值为 2，每个平均律半音的频率倍数为 1.05946（也就是 2 开 12 次方），频率比为 89/84，计 100 音分，一个八度总共是 1200 音分。&lt;br&gt;十二平均律只有一种半音和一种全音。它的优点是便于转调，彻底解决了中庸全音律调音中狼音的问题，所以目前国际上所有的键盘乐器都以十二平均律调音。这种律制的缺点是，除八度音程外，其余各级音都不合于“自然音程”——即泛音列中各音之间的距离，是彻彻底底的人工律。因此，在某种程度上说，十二平均律的和弦是不协和的，并且容易混淆协和与不协和音程之间的界限。比方说小三度和增二度其实是两个音程，前者是协和音程，后者则是不协和音程，但在比如钢琴这种十二平均律乐器上，它们是相同的。&lt;br&gt;&lt;br&gt;Pythagorean-C &amp;amp; Pythagorean-A&lt;br&gt;我们先不看那个“-C”和“-A”。&lt;br&gt;毕达哥拉斯律，Pythagorean system，世界上最早的调律法，即“五度相生律”，circle-of-fiftths system。因五度律最先由毕达哥拉斯提出，故以他的名字命名。毕达哥拉斯律源于毕达哥拉斯五度相生法，应用五度音程下方音的 3 倍音音高与上方音的 2 倍音音高相等的原理，由一律出发，产生另一律，如此连续上行或下行相生许多律，最后将所有音律按八度移动，纳入到一个八度之内的方法。&lt;br&gt;比方说，以 c 音为起始律，向上连续构建 5 个纯五度，得到 c-g-d1-a1-e2-b2，再由 c 音向下构建一个纯五度，得到 F- c-g-d1-a1-e2-b2，然后把这些音都按八度移动到一个八度里面去，就得到了 C 大音阶所有的音了。&lt;br&gt;由于这种构建方法的特殊性，我们可以想象到如果从 c 音开始，用纯五度一直连续生律，到十二次之后，所得的律与开始律已经不同了，最后所得的律要比开始高，即产生了“最大音差”，频率比为 524288/531441，也就是 24.460 音分。这样看来，使用不同的音高作为起始律，得到的结果也是不同的。但常见的毕达哥拉斯调律法有两种，一种是以 C 音作为起始律，另一种则是以 A 音作为起始律，这就是问题中“-C”和“-A”的含义。&lt;br&gt;简单说下以 C 音作为起始律和以 A 音作为起始律的区别。C 音作起始律得到的音阶，狼音在 #C-#G，构成较动听三和弦的音调为：E、B、#F 大调和 bB、bE、bA 小调。A 音作为起始律的到的音阶，狼音在 D-A，构成较动听三和弦的音调为：C、F、G 大调和 E、A、B 小调。&lt;br&gt;&lt;br&gt;Meantone &amp;amp; Meantone 1/4&lt;br&gt;我们先不看那个“1/4”。&lt;br&gt;中庸全音律，mean-tone system，是接近纯律的一种律制。早期的键盘乐器基本都在用“毕达哥拉斯”，而到 14 世纪中期后，受欧洲文艺复兴运动的影响，乐器也在不断进步和革新。为了将纯律这种律制实际应用到键盘乐器上，“中庸全音平均律”（mean toone temperament），也就是“中庸全音律”这种律制出现了，它在 16 世纪的欧洲用于管风琴的调音。&lt;br&gt;然后我们来看“1/4”是个什么东西。中庸全音律也有很多种，具体是哪一种要看如何划分“普通音差”。各种中庸全音律中比较出名的有“四分之一音差中庸全音律”，这个“1/4”就是这个意思。&lt;br&gt;五度相生律的全音只有大全音（204 音分），没有小全音；纯律的全音则既有大全音，又有小全音（182 音分）；而中庸全音律顾名思义，它的全音都是 193 音分。“四分之一音差中庸全音律”就是把五度律的大三度音程距离缩短一个“普通音差”，也就是 204-182=22 音分，这样这个大了一点的大三度就变成了纯律大三度，全音没有了大小之分了。简单来说，中庸全音律的生律法就是以 697 音分的纯五度来代替 702 音分的纯五度来生律，由此产生非常接近纯律的音阶。&lt;br&gt;这种律制的特点是构成三和弦时能产生与纯律相同或相近的协和音，且由于将纯律的大小全音平均化，则中庸全音律的大音阶中只有一种全音，结构就变简单了很多。但在这种律制中，#G 和 bA 的音高不等同，如果相互替代则会出现狼音，因此，中庸全音律只能在 C、G、D、A、F、bB、bE 这七个大调以及 a、d、g、c 这四个小调的范围内转调，否则就会有不准的音程。&lt;br&gt;&lt;br&gt;Kirnberger&lt;br&gt;对事物进行改进的动机一般都是源于对现有缺陷强烈弥补的愿望。律制的改进也是一样的。&lt;br&gt;要说这个 Kirnberger 律首先先要回头说说中庸全音律的缺陷。中庸全音律是半人工律半自然律的一种律制，比较不完美，存在的主要问题有两个。一是所有的四度都会比较宽，而所有的五度都会比较窄，这样宽窄 5 音分多的音程，造成听觉上的不和谐，同纯四五差距略大；二是 #G-bE 五度音程不是窄音程而是宽音程，并且宽了有 36 个音分那么多，非常不和谐，为狼音。于是为了解决这个问题，又有人要动脑筋，这个人就是 Kirnberger。&lt;br&gt;这个 Kirnberger 是谁呢？不知道就不知道，知道了要吓一跳。他是伟大的巴赫的学生 Johann Philippe Kirnberger，中文一般译作基恩伯格。当时他对巴赫的“平均律钢琴曲集”中曲目所用的音律进行了考证，提出了一种叫做“适当调律法”（well tempered tuning）的调律方法，所调律制为“基恩伯格律”（Kirnberger Tuning）。这个律制的根本目的在于解决狼音问题，解决方法是使用平均律音程来代替狼音程。&lt;br&gt;由于此律是中庸全音律的改进，则要生此律必须在中庸全音律的基础上再做调整，确定一个起始音再去生成它比较没有意义，这里说一下它在中庸全音律上的改进。首先中庸全音律生律五度向上生，C-G-D-A-E，C 和 E 之间音分值分配为 696.5×4=2786 音分；再由毕达哥拉斯以 F 五度向下生 F-bB-bE-bA-bD，F-bD 之间的音分值为 702×5=3510 音分；再由同样是毕达哥拉斯以 E 向上生五度 E-B-#F，E-#F 之间的音分值是 702×2=1404 音分。现在我们可以数数看跨越了几个八度，现在 C-C 七个八度是 8400 音分，那我们算一个纯五度 #F-bD 就是 8400-(2786+3510+1404)=700 音分，我们看到这个 700 音分相当于我们现在所熟悉的十二平均律中的一个纯五度（十二平均律一个半音是 100 音分纯五度有 7 个半音），所以听起来比较协和。&lt;br&gt;所以说“基恩伯格律”是一种不规则律，它既不是五度相生律又不是中庸平均律，但它为十二平均律的发展提供了基础。&lt;br&gt;&lt;br&gt;&lt;br&gt;PS：以上是本人最熟悉的几个。可是题主的这个问题略凶残，工作量非常大，可否叔来抛砖引玉，大家一起写写如何？&lt;br&gt;&lt;b&gt;这个问题真的蛮好的，超级好！&lt;/b&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21660743/answer/19400366
-</link>
-<author>
-雨前羽街
-</author>
-<title>
-你见过哪些相见恨晚好用到哭泣的厨房用具？
-</title>
-<description>
-&lt;b&gt;JOSEPH 多功能削皮器&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/25/8d/258d7a169029f1768e9c70ec0ed12472_m.jpg&quot; data-rawwidth=&quot;309&quot; data-rawheight=&quot;253&quot; class=&quot;content_image&quot; width=&quot;309&quot;&gt;&lt;br&gt;女朋友前两天送到，超好用，去皮，刨丝，切薄片都很棒。&lt;br&gt;&lt;br&gt;&lt;b&gt;切菜刀（搓板）&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/03/87/038721d83feecc04e075cf86e8da1e07_m.jpg&quot; data-rawwidth=&quot;355&quot; data-rawheight=&quot;296&quot; class=&quot;content_image&quot; width=&quot;355&quot;&gt;麻麻再也不用担心我的刀工不好切不出均等的菜啦╮(╯_╰)╭&lt;br&gt;&lt;br&gt;多功能食品料理机&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/56/ef/56ef8aec48b10d3f16e31241add1881d_m.jpg&quot; data-rawwidth=&quot;300&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;300&quot;&gt;比如这种，几乎这一套你就拥有了厨房中绝大部分的功能，打蛋，切碎，研磨，榨汁，和面，乳化酱汁……&lt;br&gt;&lt;br&gt;奶油枪&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/03/cd/03cd401e147cbf80b57a6e3e8fe31091_m.jpg&quot; data-rawwidth=&quot;294&quot; data-rawheight=&quot;296&quot; class=&quot;content_image&quot; width=&quot;294&quot;&gt;这个东西也许比较陌生，不过常见的使用通常是在cafe或者bar里面用它来做奶油泡沫的。&lt;br&gt;不过这东西远不止这种用法，用它可以做mousse，添加co2的话可以在家自己自制碳酸饮料，比可乐粉大雪碧可健康多了。&lt;br&gt;&lt;br&gt;一块干净的大块纱布，或者是纯棉布&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/83/65/83651ee6345d1593f40f4cde23d6385f_m.jpg&quot; data-rawwidth=&quot;434&quot; data-rawheight=&quot;349&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;434&quot; data-original=&quot;http://p1.zhimg.com/83/65/83651ee6345d1593f40f4cde23d6385f_r.jpg&quot;&gt;相信我一个厨房绝对需要至少2大块，来过滤汤，汁，水等各种液体。&lt;br&gt;&lt;br&gt;厨房纸&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d4/ca/d4cac050411503d977d36f4301254a82_m.jpg&quot; data-rawwidth=&quot;1024&quot; data-rawheight=&quot;768&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1024&quot; data-original=&quot;http://p1.zhimg.com/d4/ca/d4cac050411503d977d36f4301254a82_r.jpg&quot;&gt;用过之后你就再也离不开它，擦桌子，擦餐具，吸水，吸油真是万能法宝啊
 </description>
 </item>
 </channel>
