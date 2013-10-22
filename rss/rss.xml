@@ -15,6 +15,24 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21791071/answer/19550742
+</link>
+<author>
+liuyaping
+</author>
+<title>
+什么是 Design Hackathon？
+</title>
+<description>
+刚好最近在 ixdc 互联网产品大会上做了一个工作坊是关于 design hackathon 的，这个方式原来在 Google 、现在在豌豆荚做产品设计的时候都经常用到，已经是我自己最喜欢也最熟悉的方法之一了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;介绍下什么是 Design Hackathon？&lt;/b&gt;&lt;br&gt;&lt;br&gt;Hackathon，即「黑客马拉松」，是一个流传于技术爱好者中的活动。在该活动当中，很多程序员相聚在一起，以合作的形式去编程，而且整个编程的过程几乎没有任何限制或方向。Design Hackathon 更类似用「黑客马拉松」的思维做产品设计，这种方法论融合了来自 Google，IDEO 等业界顶尖公司的产品设计工具和方法，它将所有的产品设计师、视觉设计师甚至工程师聚在一起，在一定的时间内，以头脑风暴的方式，最大范围地搜集产品的各种可能性，然后抽象地整理出这些想法背后所隐藏的核心概念和产品需求，快速梳理出正确的产品设计方向，之后将想法转化成可视的手稿和线框图，最终变成产品雏形。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;快速发现海量可能性&lt;/b&gt;&lt;br&gt;&lt;br&gt;Design Hackathon 非常适合产品定义阶段。在产品定义阶段，面对确定的需求，设计方向和目标尚模糊，产品形态发展的可能性非常多。如果仅仅采用传统的设计手段（比如单人决策），非常容易走向片面和狭隘的方向，既可能出错，也会丧失许多机会。Design Hackathon 将所有与产品相关的人员聚在一起，利用头脑风暴法，快速产生海量想法和点子，让产品设计从个人经验、老板意愿和竞品预设的桎梏中脱离出来，搜集最大范围的产品可能性。&lt;br&gt;&lt;br&gt;&lt;b&gt;确定方向的同时，拥有可落地的细节&lt;/b&gt;&lt;br&gt;&lt;br&gt;Design Hackathon 遵循了一个「从发散到抽象再到具体」的过程，从最直接的个人经验、想法或者灵机一动的点子出发，抽象地归纳出这些想法背后所隐藏的核心概念或产品需求，最后再回归到具体的产品设计草图表达当中。这个由「发散到抽象再到具体」的过程，既保证了思维发散阶段的丰富性和灵感的多元化，又能达到将想法现实化的目的。&lt;br&gt;&lt;br&gt;&lt;b&gt;激发团队不同角色的创意&lt;/b&gt;&lt;br&gt;&lt;br&gt;Design Hackathon 参与人员并不局限于产品设计师和交互设计师，而是可以拓展到工程师等其他产品相关人员。不同背景和角色的人通过讨论和互动，能够相互激发灵感，获得丰富的创意。在产品的设计过程中，设计师、工程师和高层领导者由于背景和理解问题的角度不同，常常会产生分歧和争议，使产品设计的时间周期变得不可预测。Design Hackathon 的方法论可以让整个产品团队都加入其中，在平等、专注且高效的状态下，通过分类的方法，将所有人思考的亮点条理化，汇聚到最终的产品设计中。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;如何操作？&lt;/b&gt;&lt;br&gt;&lt;br&gt;在欧美等设计业成熟的国家，Design Hackathon 是很多设计机构普遍采用的方法论。然而这种方法论目前尚未被公开引入国内。豌豆荚 2011 年开始就已经比较多的用 Design Hackathon 的方法论做产品设计了，豌豆荚的主要产品，例如 Windows 端和 Android 端，2013 年 8 月发布的 Windows 端新版欢迎页，以及 9 月刚刚发布的视频搜索产品，都是用这个方法来完成产品设计的。积累了一些心得分享给大家吧：&lt;br&gt;&lt;br&gt;&lt;b&gt;发散：解决问题的方式&lt;/b&gt;&lt;br&gt;&lt;p&gt;在开始一切之前，我们首先需要明确自己要解决的问题是什么。我们可能是需要设计一个全新的产品，但我们对这个产品只有模模糊糊的想法，譬如想做一个视频产品，或者想做一个即时聊天产品，我们已经了解到一些用户遇到的困难和问题，但是这个产品具体会以什么样的方式什么样的切入点来解决这些问题，我们并不清楚。&lt;/p&gt;&lt;br&gt;&lt;p&gt;解决任何一个问题的方式都是多种多样的，我们可以使用「How might we……」的句式，从各个不同的角度分解问题，找出所有可能解决问题的方式。在这个阶段，我们需要的注意的是：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;开阔思路，追求的是全面的、打破常规的思维和方向，不需要评价它是不是严谨，是不是可实现，甚至是不是反常识&lt;/li&gt;&lt;li&gt;不需要提出具体的解决方案，解决方案将会在后续阶段补充。&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;p&gt;举个例子吧，如果我们的问题是，到了一家餐厅不知道吃什么？&lt;/p&gt;&lt;p&gt;那么，我们需要使用「How might we……」的句式，从所有可能的角度来分解这个问题：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;如何让点菜的过程变得有趣 （既然点菜的过程很麻烦）？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何不去餐厅（不去餐厅也就不存在点菜的问题了）？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何让大家不吃饭呢？（不吃饭也就不存在点菜的问题了）&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何知道大家最爱吃什么？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何让大家口味都变得一样（这样就解决了众口难调的问题了） ？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何事先知道这个菜大家喜欢不喜欢？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何点主菜、素菜、汤（点一整桌菜可能很麻烦，但是只点一个汤就好多了）？&lt;br&gt;&lt;/li&gt;&lt;li&gt;如何让大家进入餐厅就自然知道点什么菜？&lt;br&gt;&lt;/li&gt;&lt;li&gt;……&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;关于这个方法论，斯坦福大学设计学院有个英文版的例子，请看这里： 
+		
+	
+	
+		&lt;br&gt;&lt;p&gt;&lt;u&gt;&lt;a href=&quot;http://dschool.stanford.edu/wp-content/uploads/2012/05/HMW-METHODCARD.pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;dschool.stanford.edu/wp&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;-content/uploads/2012/05/HMW-METHODCARD.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;头脑风暴&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;通过前一步的预热，我们已经整理出产品开发中可能遇到的问题了。请从这些方向中选择一个自己最喜欢的。进一步要做的，就是在当前这个方向下，让我们自由地、无拘无束地阐述解决方案。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;譬如，在第一步的点菜问题上，针对「如何让进入餐厅就自然知道点什么菜？」，我们可能会有很多的想法：&lt;/p&gt;&lt;p&gt;可以在餐厅门口放上菜单，任顾客翻阅浏览；&lt;/p&gt;&lt;p&gt;可以做招牌菜的海报或易拉宝展示；&lt;/p&gt;&lt;p&gt;可以做食客最多点选的菜肴 list；&lt;/p&gt;&lt;p&gt;甚至可以像风波庄那样，根本无需点菜，只需要食客告诉服务员用餐人数和忌口，服务员马上就能为你上菜……&lt;/p&gt;&lt;br&gt;&lt;br&gt;头脑风暴其实是最难的一部分。&lt;br&gt;&lt;br&gt;常见的头脑风暴都是大家在一起，你一言我一语的讨论。但是发散思维和群体讨论都是两件很容易失控的事情，所以一般的头脑风暴容易存在以下问题：&lt;br&gt;&lt;ol&gt;&lt;li&gt;辩论会：对别人的想法进行判断，觉得『不靠谱』，甚至变成了辩论会&lt;/li&gt;&lt;li&gt;一言堂：强势的参与者，通常是老板，说『这个好』，然后大家都顺着这个思路往下做&lt;/li&gt;&lt;li&gt;假大空：提了一些类似『一定要做好产品』这样的想法&lt;/li&gt;&lt;li&gt;各说各的：大家都有自己的思路，不从别人的想法上展开，失去了群体讨论的意义&lt;/li&gt;&lt;li&gt;自我限制：『这样实现成本太高』『这样可能别的部门不支持』&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;所以在豌豆荚做头脑风暴的时候，我们有个规则是：&lt;b&gt;不要讨论！&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;所有人提出的 idea 需要写在 post 贴上，最好是画出来。采用 N × 5 × 5 的方式。N 表示所有参与头脑风暴的人总数，这个式子表示需要每人在 5 min 的时间内写下 5 个想法，然后将这 5 个想法传给下一个人，同时接收上一个人传来的 post 贴，再写一轮，如此类推，N 轮过后，每个人手中都会有 5N 个想法，所有人共有 5 × N × N 个。所有人都要写，但是相互之间不要交流，这样子其实避免了常见的几个问题：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;没有讨论，辩论会的情况就不会发生。&lt;/li&gt;&lt;li&gt;没有讨论，老板想要完全控制方向是不太可能的。&lt;/li&gt;&lt;li&gt;传递 post 贴，所有人都会看到之前其他人的想法并且一次为基础发散，站在巨人的肩膀上了。&lt;br&gt;&lt;/li&gt;&lt;li&gt;五分钟内五个想法，是个高强度的脑力训练，强迫参与者打破一切限制，寻找任何可能的思路，参与者往往会比较积极的参考别人的想法。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;b&gt;卡片分类和完善&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;p&gt;通过上一步的头脑风暴，我们会搜集到 100 - 200 个 post 贴，甚至更多，这些 idea 都是感性的、灵光一闪的、零散的。这一步，我们需要将这些 idea 组织起来，抽象出其中暗含的逻辑关系，这个会对应之后产品的方向。我们需要对搜集到的所有 post 贴贴在墙上，通过移动 post 贴来做卡片分类，大概分成 5 - 7 类，每个类别都需要有一个概括性的标题。分类没有一定的规则，大家会根据这些 idea 之间的关联或者自然属性来分类。每类下包含 idea 的数量应该差不多。如果有某个类别所包含的 idea 数量明显多于其他组，则需要把大的分类打散，直到所有类别下 idea 的数量大致相等。&lt;/p&gt;&lt;br&gt;&lt;p&gt;譬如，关于上一个点菜的问题，我们可能产生了很多的想法，这其中有一些是关于菜单设计的，有一些是关于服务员服务技巧的，还有一些是关于餐厅制度的，等等。&lt;/p&gt;&lt;br&gt;&lt;b&gt;方案设计&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;经过分类，这些头脑风暴产生的零散想法之间就有了关联，每一个类别下的想法，对应的就是一类个产品方向。截至此阶段，设计师们也会开始产生一些具象化的内容。这一步，我们需要发动所有的设计师参与和贡献：将所有的设计师分组，每一组设计师领走一个类别的卡片；根据这些卡片上的信息，设计师可以做具体的设计了，设计 storyboard、workflow 以及开始绘制大量的草图和线框图。对于每个组，绘图的过程和方式比较灵活，可以是每位组员分工做，根据所拿到的 idea 做不同方面的草图，也可以组员一起讨论出一个草图。对 idea 的取舍由设计师自己确定。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;怎么把产品的想法组织并且表达成具体的产品，关心产品设计的人对此都非常熟悉，我就不展开描述了。&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;总结&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Design Hackathon 遵循了「从发散到抽象再到具体」的思维过程。通过『How might we...』和头脑风暴来发散保证了我们不会错失有关产品设计的各种可能性和细节，通过卡片分组来抽象我们整理出想法中的产品逻辑和需求层次，而具体的 storyboard、workflow 和线框图的过程则保证了我们所有的想法和需求都能落地成为可见的设计。&lt;/p&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20571696/answer/19549343
 </link>
 <author>
@@ -277,20 +295,6 @@ DIY 成本仅 166 元的空气净化器，净化效果如何？
 </title>
 <description>
 我是Thomas，Particle Counting是我的博客。这种DIY净化器有效是因为有HEPA过滤。HEPA的标准是过滤掉99％的.3微米以上的颗粒。可以看现场空气测试仪测试：&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://particlecounting.tumblr.com/post/55491154130/heres-test-1-is-the-air-thats-coming-out-of-the&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;现场测试&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;还有净化房间整体的空气测试数据和实验方法是公开的：&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://particlecounting.tumblr.com/post/55947941919/diy-compared-to-expensive-filters&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;房间测试1&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://particlecounting.tumblr.com/post/55665836265/purifier-tests&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;房间测试2&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;实验数据显示净化器能去除90％以上的PM 2.5。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21259896/answer/19515210
-</link>
-<author>
-陈中小路
-</author>
-<title>
-「炎黄春秋」有什么背景？为什么这么敢说真话，这么能说真话？
-</title>
-<description>
-《炎黄春秋》1991年创办，社长为原国家新闻出版署署长杜导正，杜是1989年被免职的。&lt;br&gt;&lt;br&gt;后来，他协助某老领导秘密完了谈话录（已出版），他本人的日记也在香港出版过，值得一看。&lt;br&gt;&lt;br&gt;杜的部分经历，参见《南方人物周刊》这篇报道：&lt;br&gt;&lt;a href=&quot;http://www.nfpeople.com/story_view.php?id=2096&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;nfpeople.com/story_view&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;.php?id=2096&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;杜导正曾回忆说——《炎黄春秋》是在老将军萧克和张爱萍的支持下，一批党内老人操作创办，由中华炎黄文化研究会主管。它的前身是胡乔木支持的《中华英烈》杂志，办了几年，由于经济困难，人员上有些变动，难以维持。此外，部队一些高层老人创办的《炎黄子孙》停办，《炎黄春秋》用的是《中华英烈》的刊号，而《炎黄子孙》编辑部也留下几个工作人员参与《炎黄春秋》的工作。&lt;br&gt;&lt;br&gt;这两位将军名字，以及杜的身份、经历，不多说了，各种敏感词，有兴趣的自行谷歌。&lt;br&gt;&lt;br&gt;以上这些，基本就是《炎黄春秋》的诞生背景，也是其“敢说真话”的起由吧。&lt;br&gt;&lt;br&gt;对我党而言，这本杂志其实就是给党内右派老同志们一个吐槽的地方。反正，若不让吐，他们分分钟也可以吐到香港媒体去，不如有这么个平台，既体现开明，也能把握。&lt;br&gt;&lt;br&gt;最重要的是，这拨老同志基本都是爱党爱人民的“改革派”，是自己人。这和互联网上一些呼吁民主的民间知识分子，有些思想阐述表面接近，其实分属社会主义和资本主义两个阵营。这个根本差异，意味着杂志问题再大，最多也只是路线争议而非敌我矛盾，这是《炎黄春秋》“能说真话”的基础。
 </description>
 </item>
 </channel>
