@@ -15,6 +15,48 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21236281/answer/18163597
+</link>
+<author>
+王一兵
+</author>
+<title>
+舟舟的指挥到底是什么水平？
+</title>
+<description>
+大家都说的七七八八了，我来讲个段子吧：&lt;br&gt;几年前，某中央大报采访一位牛指（目测国内Top3的水平）,过程清汤寡水。&lt;br&gt;最后一问曰：“&lt;b&gt;您认为国内最优秀的指挥有哪几位？&lt;/b&gt;”&lt;br&gt;牛指略囧，本着不得罪人的原则，&lt;b&gt;把国内诸位都提及了一番&lt;/b&gt;；&lt;br&gt;不放心，&lt;b&gt;还把海外华人也来了一遍&lt;/b&gt;；&lt;br&gt;依旧不放心，&lt;b&gt;又夸了青年指挥若干&lt;/b&gt;；&lt;br&gt;最后&lt;b&gt;寄语未来之星&lt;/b&gt;云云。&lt;br&gt;语毕，常舒一口气，啜茶。&lt;br&gt;将咽未咽之际，记者来了句：&lt;br&gt;“&lt;b&gt;您难道不认为周周是中国最优秀的指挥之一么？&lt;/b&gt;”&lt;br&gt;&lt;br&gt;最后唠叨几句&lt;br&gt;1，  周周的成（chao）功（zuo），是对所有指挥的侮辱，&lt;b&gt;如果我们为了让人更多的&lt;/b&gt;&lt;b&gt;了解某种疾病，而让人更多的误解某种职业；为了减少对患者偏见却增加了对从业者的偏见，那以后被叫弱智的，不会只有周周，也不会只是唐氏综合症患者，而是从事指挥的所有人。&lt;/b&gt;&lt;br&gt;2，  对排名第一的说法，尤其是最后更新的部分，我真心无法赞同，私以为，指挥这个行业还是太小众，不如包装成传世名医啦，气功大师啦更有噱头。我不知道近200票的赞同是为了什么，&lt;b&gt;所有的赞同者，无论你从事什么行业，请把这句&lt;/b&gt;&lt;b&gt;“&lt;/b&gt;&lt;b&gt;您难道不认为周周是中国最优秀的&lt;/b&gt;&lt;b&gt;XX&lt;/b&gt;&lt;b&gt;之一么？&lt;/b&gt;&lt;b&gt;”&lt;/b&gt;&lt;b&gt;自动套入所在领域，除非您有唾面自干的心胸，否则，请把这碗鸡汤，和开头牛指的那口茶一样。吐在地上，或者端出鸡汤的那个人脸上。&lt;/b&gt;&lt;br&gt;&lt;br&gt;以上。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21872136/answer/19594622
+</link>
+<author>
+Sai
+</author>
+<title>
+OS X Mavericks 系统下 Safari 7 的字体渲染有何不同，为什么更虚？
+</title>
+<description>
+这是 Safari WebKit 中的一个 bug，一些 CSS 属性会导致文字的亚像素渲染失效，目前测试出可能导致触发的条件有：&lt;br&gt;· position 为 fixed 时&lt;br&gt;· background 为 fixed 时&lt;br&gt;· box-shadow 与 position fixed 联用时&lt;br&gt;&lt;br&gt;例如知乎顶部，去掉此属性可以看到正常的渲染：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/73/95/73956c0551633aeceafb09bc8578a2ac_m.jpg&quot; data-rawwidth=&quot;1608&quot; data-rawheight=&quot;98&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1608&quot; data-original=&quot;http://p4.zhimg.com/73/95/73956c0551633aeceafb09bc8578a2ac_r.jpg&quot;&gt;(去掉 zu-top 的 box-shadow 或 position:fixed)&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/24/3e/243e0fee3fd00b81bfbef589f70db9dd_m.jpg&quot; data-rawwidth=&quot;1702&quot; data-rawheight=&quot;100&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1702&quot; data-original=&quot;http://p3.zhimg.com/24/3e/243e0fee3fd00b81bfbef589f70db9dd_r.jpg&quot;&gt;(原始渲染)&lt;br&gt;&lt;br&gt;&lt;b&gt;解决方案：&lt;/b&gt;&lt;br&gt;使用 Safari 用户自定义样式表，引入如下 CSS：&lt;br&gt;body {-webkit-font-smoothing: subpixel-antialiased !important; }
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/21821870/answer/19571160
+</link>
+<author>
+丛谚
+</author>
+<title>
+为什么一些国家政策不符合经济学原理？
+</title>
+<description>
+来填坑——T T——&lt;br&gt;&lt;br&gt;&lt;br&gt;楼主的问题很（简）单纯（洁），但要想答好却实在难：可以从很多角度来论证，但正是因为有太多可以说，反倒有点儿无从下笔。知道挂一漏万在所难免，我索性就po几个意识流上来，写哪儿算哪儿，各位凑合看看吧（以后再也不冲动占座了TAT）&lt;br&gt;&lt;br&gt;——其实这个问题也好回答——一句“影响国家政策的因素有很多，经济，军事，民智，社会大环境，国际环境，等等。“也就搪塞过去了，可是我预感到这样的答案并不会让楼主满意，我自己也会心有不干，所以写了以下，微长。（在纽约大学学政治经济学就该有个学术的样子~！）&lt;br&gt;&lt;br&gt;1.先解决楼主在问题描述里提到的几个案例。其实道理很简单，稍微一想就能明白。拿第一个问题——高速公路免费政策——来说：高速公路原本是收费的（养路费/道路建设费）。有人觉得不爽——为什么我每年已经交那么多税了，跑个高速公路政府还要收我钱？ ——那好，现在我免费给你们用一下，你们就知道为什么我要收费了。——好了，堵了，高兴了？不说话了？——哼哼，不说话了依旧用怨怒的小眼神儿看着你。为什么呢？因为事实并没有改变：收费的高速路恢复到畅通无阻，而我也依旧在交着过桥费。——虽然我好像明白了为什么我在交着这份儿钱，但我心里依旧不爽。&lt;br&gt;&lt;br&gt;看，这就是为什么经济学假设人是“理性人”，是错误的——人们在意损失比收益多。&lt;br&gt;&lt;br&gt;推及到政治学里来说，当经济繁荣时，人们没什么感觉；但是一旦经济衰退了一点点（甭管原因是什么），所有人都开始怪政府。（不是在为政府洗白，这一段的重点是“大众心理”）&lt;br&gt;&lt;br&gt;&lt;br&gt;2. 问题说明里也提到了“民”，并且用很真诚的语气表达了他/她的疑问——“什么样的决策才是真正利民的？” 我们先说后者。&lt;br&gt;&lt;br&gt;在说“利民政策”之前，我们首先要牢记，政府/执政党的根本目的永远是“选票”。所以，政府不会冒被选民投下去的风险去颁布“损民政策”——至少不会明着来。&lt;br&gt;举个栗子：&lt;br&gt;在定关税政策的时候，政府有三个工具：关税(tariff), 非关税贸易壁垒 (core NTBs), 其他非关税贸易壁垒(Quality NTBs)。假设选民想要自由贸易（自由竞争带来较低价格），企业/利益集团希望贸易保护（可以理解吧？）政府需要利益集团的资金游说选民，又需要选民的赞同票（哎呦喂，知乎的即视感），两边发生利益冲突。这时候政府怎么办？明智的政府会选择降低明显的关税(tariff)给选民做样子，同时暗暗增加比较隐晦复杂的非关税贸易壁垒（NTBs）。这样，既成功忽悠了选民，利益集团也会给钱。&lt;br&gt;——上面这个例子，利民不利民先放一边（因为三个工具叠加起来使用的最终影响是不确定的），我们首先可以看出，&lt;br&gt;        1. 政府决策的一般过程是经过层层考量、多方博弈的结果。&lt;br&gt;        2. 政府一直在坚持他自己的目标：保住执政党地位。&lt;br&gt;        3. 选民有选票，因而最重要。&lt;br&gt;        4. 太明显的不利于人民的政策 或者 后被证实损害人民利益的政策 会被选民票下去。&lt;br&gt;        5. 所以政府的政策大多数都有利于、起码无害于人民。——它也实在没必要处处和人民对着干。&lt;br&gt;&lt;br&gt;多党制国家理论上是这样。而在 一党制/专制/独裁 国家，执政党并不面临来自社会其余部分的总体威胁，而是面临推选人团（selectorate）这类人群的威胁。所以，本质上来说，政府也不会太胡作非为，何况人民是会造反的（埃及例）。&lt;br&gt;&lt;br&gt;那么，为什么我们所看到的，是很多政策是在损害人民利益、伤害人民感情的呢？&lt;br&gt;&lt;br&gt;&lt;br&gt;——需要看一下“人民”想要的，是什么。&lt;br&gt;&lt;br&gt;人民群众想要的，是高工资，是低房价，是少交税，是健全的社会保障体系；是高端大气上档次的公共设施，是免费医疗，是低通胀，是强势汇率，是经济高速发展，是低失业率，是想生几个生几个，是家家有田户户有车，是条条大路畅通无阻…… 有追求是好的，&lt;b&gt;可是，哪儿那么多好事儿啊？经济学原理要笑死了好嘛？？&lt;/b&gt;就算政府好不容易一一满足了这些要求（其实根本不可能），人民也还会抱怨：你丫早干嘛去了？？！&lt;br&gt;同学们，政府不好做啊。就算把全国的经济学家叫到一起，也商量不出一个“一边经济增长、一边还不通胀”的方案呐。&lt;br&gt;&lt;br&gt;为什么？供需曲线告诉我们，通货膨胀是经济发展的必然趋势（主要是需求拉动、成本推动）。就这条，算是经济学原理里的元老之一了吧？可是，这个规律却不被大众所接受——心理上受不了。这也是为什么“对于同一个社会问题，经济学家给出的意见彼此一致，和大众的意见却常常相反”的原因。在经济学教材里，第一章第一节就讲过经济学的核心思想是“如何用有限的资源做最优配置。”所以，当人民以其 “不切实际的愿望” 和 “便宜都占尽的欲望” 去要求政府，政府做不到啊。&lt;br&gt;&lt;br&gt;另，政府政策的制定，是经过多方考量、多个力量博弈的结果。毕竟财政预算就那么点（你们又不肯多交税←_←），左分分右分分，很快就花光了，说不定都赤字了T T “政府在下一盘很大的棋。”其实这话啊，它没错儿。&lt;br&gt;&lt;br&gt;&lt;br&gt;最后，即使“利民政策”真的实施了，它的“利民性”也不是必然的。就像之前说的那个“关税三工具”的例子，由于净影响是不确定的，所以决策实施起来最终哪一方受益也是说不准的。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;【给耐心看到最后的同学们发福利】&lt;/b&gt;&lt;br&gt;&lt;br&gt;介绍一个有趣的idea, 希望能给楼主一点儿启发。（蠢笨如我，手抄一遍比用电脑软件弄快多了←_←）&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c4/44/c4440117ae154706afb1238d84336fb5_m.jpg&quot; data-rawwidth=&quot;1585&quot; data-rawheight=&quot;933&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1585&quot; data-original=&quot;http://p4.zhimg.com/c4/44/c4440117ae154706afb1238d84336fb5_r.jpg&quot;&gt;&lt;br&gt;以上。-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;P.S. 如此出力不讨好的回答，以后再也不盲目占座了！恨！T T
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21870417/answer/19578248
 </link>
 <author>
@@ -249,48 +291,6 @@ http://www.zhihu.com/question/21867871/answer/19567607
 </title>
 <description>
 iPad air是iPad产品线分化后的成熟产物，Apple不会再过分担心因便携性的差异而导致mini大量蚕食份额，拉低利润率了。&lt;br&gt;&lt;br&gt;&lt;b&gt;从今天开始，用户只需要从屏幕大小上的喜好选择iPad。&lt;/b&gt;&lt;br&gt;&lt;br&gt;iPad air和iPad mini2完全一样的硬件配置，不用跟初代一样纠结屏幕分辨率、处理器、内存、摄像头等参数数据。&lt;br&gt;&lt;br&gt;不知道大家注意到了没，mini2不仅变重还变厚了，从7.2mm到7.5mm，要知道iPad air也是7.5mm。&lt;br&gt;这么一来两者的差距只有重量上130g的差距，全尺寸iPad的便携问题就大大减轻了。&lt;br&gt;&lt;br&gt;而实际使用中你是否会觉得这130g真正影响到你放弃那块儿9.7'的大屏？&lt;br&gt;&lt;b&gt;两者相同的厚度，多130g选择大屏幕值不值得？&lt;/b&gt;&lt;br&gt;这就是Apple留给消费者最简单直接的选择，喜欢大屏和便携兼顾买iPad air，极致便携买iPad mini2。&lt;br&gt;颇有现代MacBook air 13'和air 11'的选择意味。&lt;br&gt;&lt;br&gt;从配置上来看，说iPad没有配置touch ID技术就觉得air贵的100美金不值得，最后放弃air选择mini的…你们想过iPad的使用场景吗？单手操作解锁是现在touch ID最有用的地儿，你们单手操作一下iPad按住home键解锁试试看吃不吃力？那样的反馈感受真怀疑按几天就坏了。&lt;br&gt;当然以上这些都是扯淡说词，相信在iPhone5s这代之后，指纹传感器的产能问题解决了，Apple会大方给iPad也配上的。&lt;br&gt;&lt;br&gt;另外摄像头只是没有升级像素而已，摄像头不是没有升级，支持1080P视频拍摄了，这和iMovie iPhoto免费后预装在iPad里刚好契合软硬件合作思想。&lt;br&gt;而处理器全线64位、均配备M7协作处理器等等这些改进都是可以预见的稳步构建。&lt;br&gt;&lt;br&gt;这些都再一次佐证了那句ive说的话：&lt;b&gt;我们所有的创新绝不仅是为技术而技术的狂热，每一个元件、每一个步骤都经过深思熟虑，并反复权衡以确保其真正实用，从而实实在在地增强了用户的体验。 &lt;/b&gt;（话外音，一下子全把黑科技祭出来给这代了，你们还要不要买明年的新款！？）&lt;br&gt;在经过了iPhone5s和iPad air/mini2的发布会后，再回头再看看HTC One Max的指纹和三星的曲面屏幕、拍照手机，Apple简直是业界良心。&lt;br&gt;&lt;br&gt;iPad比iPhone更早地完成了产品线的分化和稳定的更新周期，这一代新品开始iPad产品线也消失了数字代号，只有iPad air、iPad mini，想来以后就会跟Mac产品线一样每年稳步更新迭代，不会再有什么iPad5,6,7,8,9了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21866359/answer/19564941
-</link>
-<author>
-yolfilm
-</author>
-<title>
-为什么《大逃杀》会受到那么高的评价？
-</title>
-<description>
--&lt;br&gt;一、 &lt;br&gt;即便是最後一場戲，女孩子冒險跑回家去， 珍重拿出來的，竟然也只是一把小刀。 &lt;br&gt;我看到這裏的時候，只覺得又好笑，又可悲。 &lt;br&gt;我們每個人，不也是各自拿著一把可笑的武器在社裏掙扎求生嘛！&lt;br&gt;&lt;br&gt;想想深作欣二的年紀，這麼一個老頭子，不由得他不去作對人生的感嘆。 &lt;br&gt;老人家這樣子告訴著觀眾：「這一切的一切，不過都是荒謬的遊戲罷了。」 &lt;br&gt;&lt;br&gt;二、 &lt;br&gt;片子裏一直在暗示這樣的情事：你愈是不在乎，可能還活得久些。 &lt;br&gt;&lt;br&gt;那個慢跑的女孩子，生死交關，她仍然不忘記慢跑。 &lt;br&gt;活得又健康，又有滋味， &lt;br&gt;等她為了臉被划了一刀，氣急敗壞起來，也就離死不遠了。 &lt;br&gt;&lt;br&gt;還有那個死命跑去找心儀女同學的╳，尤其死相難看， &lt;br&gt;不但被槍打死，還得淹在污水裏斷氣。…… &lt;br&gt;&lt;br&gt;三、 &lt;br&gt;除了不在乎外，片子從頭到尾，還不停地反對人世一切美麗事物的存在， &lt;br&gt;長相最美麗的女同學，是最醜惡的，是援交和殺人高手， &lt;br&gt;而美麗的友情，只會讓彼此死得更快， &lt;br&gt;全片中，一口氣死多人的幾場戲，都跟可笑的少年友誼有關。 &lt;br&gt;最好的例子，就是燈塔裏死掉一大掛的那場戲。 &lt;br&gt;&lt;br&gt;片子裏也嘲諷奮鬥，知識，甚至是理想。 &lt;br&gt;那幾個用肥料作炸藥的，搗弄了半天，什麼也沒完成。 &lt;br&gt;&lt;br&gt;那段戲，有個重點，就在其中一人的叔叔是個赤軍連。 &lt;br&gt;深作欣二還弄出來了那叔叔許多美麗的照片給觀眾看。 &lt;br&gt;&lt;br&gt;但其實，深作欣二是在嘲諷，他用強烈而不屑的口吻告訴觀眾， &lt;br&gt;這個世上，什麼努力都是狗屎，你再能行，也抵抗不了命運的玩弄。 &lt;br&gt;&lt;br&gt;四、 &lt;br&gt;深作欣二也在嘲諷家庭制度，嘲諷家長。&lt;br&gt;&lt;br&gt;片子裏總共出現過三個家長：&lt;br&gt;&lt;br&gt;一個是上吊自殺，在擦屁股的衛生紙卷上寫遺言的男主角之父， &lt;br&gt;一個是和女兒不停吵架的北野武。 &lt;br&gt;一個，是那個第二次參加遊戲的男孩子。&lt;br&gt;&lt;br&gt;他一下子說他父親是醫生，一下子說是漁夫。 &lt;br&gt;事實上，以日本的生活狀態而言， 他可能真的不大知道他忙於工作的父親。 &lt;br&gt;他的父親形象，只是一個又一個的幻影……。 &lt;br&gt;&lt;br&gt;還回到前頭說那個作炸藥的，他那個叔叔， 也是空留照片，一個人生失敗的長輩……。 &lt;br&gt;&lt;br&gt;五、 &lt;br&gt;我覺得看這片子，要從三個方面來看： &lt;br&gt;&lt;br&gt;其一， 整個片子事實上是對「電玩世代」的警語。 &lt;br&gt;&lt;br&gt;人世的生活，並非真如電玩一般， 你隨時可以在路上撿到武器， &lt;br&gt;隨時可以闖進一個房子裏，裏頭有救命的藥品， &lt;br&gt;到處都有吃的東西，死了，可以用save和load救回來， &lt;br&gt;導演更強烈地提醒你，與你同行闖關的角色，事實上可能正是殺你的人， &lt;br&gt;&lt;br&gt;他甚至不厭其煩地用最後一場戲提醒你： &lt;br&gt;&lt;br&gt;即使你破了關，得了史上最高的高分， &lt;br&gt;但關上了電玩，回到真實的世界來，前途仍是一片茫然。 &lt;br&gt;&lt;br&gt;某種程度上，我相信深作欣二創作的誠意。 &lt;br&gt;他是用這一代小朋友的思考邏輯，用他們的語言， 來嚐試教會孩子們生存的可怕真實面目。 &lt;br&gt;&lt;br&gt;其二、 &lt;br&gt;北野武在片子裏也是個重要的象徵。 &lt;br&gt;&lt;br&gt;他親手畫了一張畫，那畫只是一種願望， 他希望最後存活的，是那個不會蹺課的女主角…… &lt;br&gt;但是，他是個溝通的無能者， 在女兒面前，他是個屁都不會吭的父親， &lt;br&gt;他是那樣明顯地喜歡女主角， 但他和女主角單獨在一起的幾場戲，都是個啞巴， &lt;br&gt;&lt;br&gt;班上只有她一人來上課，北野武只是默默地轉身過去擦黑板。 &lt;br&gt;河邊，兩人呆呆地吃冰淇淋， 森林裏，默默地遞給她一把傘， &lt;br&gt;&lt;br&gt;即使被人用刀子割了，他也只是默默地經過女主角身旁， 靜靜地去洗手檯邊洗手罷了。 &lt;br&gt;&lt;br&gt;他卑劣地偷了女主角示情之物，那一袋餅乾， &lt;br&gt;他吃得有滋有味，他甚至卑劣地不願和軍人分享。 &lt;br&gt;&lt;br&gt;但，這更強調了，他是一個寂寞的人。 &lt;br&gt;&lt;br&gt;跟所有成年人一樣地寂寞， 他教的課，沒人來上， &lt;br&gt;人家不聽他說話，他一把刀子射進別人的頭顱裏， &lt;br&gt;&lt;br&gt;眾人唯一專心聽他說話的時候，只在宣佈島上何時何地是危險區， 只在宣佈死了哪幾個人…… &lt;br&gt;連在控制中心，和同輩在一起，和同為成年人的軍人，他都不知該如何溝通。 &lt;br&gt;&lt;br&gt;想想北野武前年才出了場大車禍，撿回一條命， 加上死在臨頭的深作欣二， &lt;br&gt;这兩個人，是在作何種令人感傷的人生喟嘆呢? &lt;br&gt;&lt;br&gt;其三、 &lt;br&gt;看這片子，最後一點，要看日本人的民族性。 &lt;br&gt;&lt;br&gt;那種所謂菊花與劍，可怕而又深沉的性格， &lt;br&gt;&lt;br&gt;日本人是那樣地溫順又服從， 竟可以溫順到、服從到，會去聽從命令， &lt;br&gt;讓自已快速轉變成為殺人不眨眼的凶手。 &lt;br&gt;&lt;br&gt;還記得北野武畫的那張畫嗎? 背景是座富士山。…… &lt;br&gt;&lt;br&gt;總之。 &lt;br&gt;&lt;br&gt;生存遊戲是個很有意思的電影。&lt;br&gt;&lt;br&gt;我很願意這麼嘮叨地寫了這麼一大篇文字。 &lt;br&gt;&lt;br&gt;就像片尾那張全班同學的合照，&lt;br&gt;一個不漏地，每個人都帶著滿意的笑容， 永恒不變地站在照片裏頭……。 &lt;br&gt;&lt;br&gt;寫完了這一大堆字，我看過的這一部電影，&lt;br&gt;也在這一刻，變成另一樣東西， 永恒不變地站在這裏……。&lt;br&gt;&lt;br&gt;（作於2001年，小熊影视文艺论坛）&lt;br&gt;&lt;br&gt;-
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21867813/answer/19566455
-</link>
-<author>
-胡灵焕
-</author>
-<title>
-OS X Mavericks 的免费升级策略，是否会对微软造成重大冲击，微软可以如何应对？
-</title>
-<description>
-我们看到一种策略，一种新策略，那就是：&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;硬件设备销售利润弥补软件开发成本，降低软件售价拉高软件市场占有率，最后又反过来吸引更多的人购买硬件设备。&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;这根以前的软件免费，推送广告获得盈利的模式是不同的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;这种消费模式在很大程度上增加了公司的风险，因为软件的开发成本要硬件带来的利润来弥补。&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;这就绑到一起了。&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;微软也想做，不然就不会去买诺基亚了。但是这个模式中最重要的一环是：“&lt;b&gt;&lt;i&gt;硬件设备销售利润&lt;/i&gt;&lt;/b&gt;”，硬件设备销售利润从哪里来？你生产的设备卖的出去，你的利润才能来。&lt;br&gt;诺基亚的硬件设计水平在业界也算高水准的，但是差苹果还有几个周期。&lt;br&gt;&lt;br&gt;当然，微软现在收购了诺基亚，也在出自己的产品，微软也可以这样做。但简单地讲，微软要是业也这样做，就有两个主要问题要考虑。&lt;br&gt;&lt;br&gt;一、是在自己的设备上采取购买新设备就免费新Office？还是在所有合作厂商上都一视同仁，只要都买了新的Windows8，所有Office都免费？&lt;br&gt;如果微软采用激进的只在自己的设备上采取这种新设备带来新Office的免费策略，OK，可以肯定的是所有的合作厂商全部会投向Google。&lt;br&gt;如果微软一视同仁，所有WIndows阵营都采取购买设备免费Office策略，OK，董事们会通过吗？&lt;br&gt;&lt;br&gt;二、若微软采用一视同仁的新Windows设备免费Office策略，那么你那么有信心消费者会去买你的Nokia产品？如果消费者不买你的Nokia产品，那么你就是免费为你的合作厂商赚钱。&lt;br&gt;&lt;br&gt;国内的用户可能感受不深，Office的蚕食和衰落是从低端用户开始的。&lt;br&gt;在美国，只要涉及到合作协文档编辑，大家都用Google Doc（这次iWork也新添加了合作功能），即便大家都有Office。所以，看到了么，微软就像前段时间&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/rio&quot; data-tip=&quot;p$b$rio&quot;&gt;@Rio&lt;/a&gt; 讲到的，微软变的越来越无关紧要了。换句话说就是，Who Care？&lt;br&gt;对于我自己，Pages我承认离Office有很大的距离，但是做做普通文档编辑也够了，排版？我交个作业，写个报告，真心不一定要用Office。&lt;br&gt;&lt;br&gt;所以&lt;a class=&quot;member_mention&quot; href=&quot;http://www.zhihu.com/people/0518&quot; data-tip=&quot;p$b$0518&quot;&gt;@王琛HD&lt;/a&gt; 说的非常对，会，也不会。&lt;br&gt;会是因为如果微软如果不改变玩儿法，不出几年就会被玩出翔。&lt;br&gt;不会，是因为微软目前还没到被玩出翔而要背水一战的地步。&lt;br&gt;不跟诺基亚非常像么，&lt;br&gt;&lt;b&gt;&lt;i&gt;巨人往往倒在十字路口。&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;PS 个人预测：苹果几年后将真正成为个人设备（PC+Tablet+Phone）领域巨头，微软设备跟苹果拼不过如鲍尔默所说重心转为服务公司，但Windows，WinPhone正常更新也不会消亡，安卓占领大部分苹果剩下的市场份额。&lt;/i&gt;&lt;/b&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21861033/answer/19552497
-</link>
-<author>
-Li Natt
-</author>
-<title>
-为什么苹果公司倾向于在周二召开发布会？
-</title>
-<description>
-&lt;p&gt;首先，如果在周一举行发布会，记者们就需要在非工作日的星期天搭飞机赶往会议地点，恐怕很少有老板会给周日赶路的记者发加班费吧。&lt;/p&gt;&lt;br&gt;&lt;p&gt;其次，大部分周报或周刊截稿日都是周三或周四，周二开完发布会正好可以赶上截稿日期在周末出刊。&lt;/p&gt;&lt;br&gt;&lt;p&gt;第三，是针对分析师的保密要求。一般在新品发布会的前一个工作日，公司会为证券分析师召开一次简报会议公布新品信息。如果周一发布则分析师简报会将在前一个周五举行，无疑会大大提高消息泄露的可能性。&lt;/p&gt;&lt;br&gt;&lt;p&gt;最后，周二发布可以给苹果员工最后一个工作日布置会场，解决各种问题。&lt;/p&gt;&lt;br&gt;&lt;p&gt;via：&lt;a href=&quot;http://blog.sina.com.cn/s/blog_4d9ede450100bv3c.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;苹果喜欢在星期二开发布会？Apple的习惯有道理&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 </channel>
