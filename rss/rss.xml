@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22352794/answer/21108083
+</link>
+<author>
+段旭
+</author>
+<title>
+NBA 联盟是怎么对待记者的？
+</title>
+<description>
+总的来说，NBA在服务媒体方面做得相当好，因为他们服务好了媒体，媒体才会更好地服务他们。&lt;br&gt;1.任何比赛，赛前赛后，更衣室都会有必须向媒体开放的时间，主教练和重要球员也都有配合采访的义务，季后赛、总决赛和全明星赛尤其如此。全明星周末的圆桌采访，球员无故缺席是要被罚款的。&lt;br&gt;2.媒体有免费的座位，特别是长期跟队的当地媒体，还有牛逼的全美媒体，更是有免费的好座位。不过，最近十年左右，NBA的全球影响力越来越大，季后赛、总决赛和全明星赛，从世界各地赶来报道的记者越来越多，所以国际媒体的位置通常较差，大部分在顶层天花板那儿。&lt;br&gt;3.重大比赛期间，赛后会有常规新闻发布会，双方教练、重要球员依次出席，NBA雇了专门的速记公司，会把新闻发布会的全部quotes记录下来，打印出来。这意味着，你不在新闻发布会现场，也能知道他们说了些什么，你可以用这些时间在更衣室采访小牌的角色球员；同时，也意味着，作为国际记者，如果你英文听力不够好，只要阅读没问题，你也可以准确运用新闻发布会的quotes。&lt;br&gt;4.赛前提供媒体餐，有些球队免费，有些球队收费。媒体餐的可口程度，与它的收费不一定成正比，有免费也好吃的，也有收费很贵照样难吃的。&lt;br&gt;5.原则上，记者不能找球员合影，不能要签名，不能在更衣室拍照，屡教不改的可能会被吊销采访资格。不过，不同球队、不同球员以及不同情况，会有通融和容忍。比如夺冠夜赛后，通常会没有限制，因为开心嘛，想拍就拍，球员不介意的话合影也不是不可以。相比之下，对签名的管理更严格，因为签名有商业价值，可以拿出去卖。&lt;br&gt;大致想到以上这些。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22321379/answer/21044552
 </link>
 <author>
@@ -277,20 +291,6 @@ http://www.zhihu.com/question/22347016/answer/21078197
 </title>
 <description>
 @劉嘯宇 说的是对的，但是不够详细，我多补充一下。&lt;br&gt;&lt;br&gt;我们常说的“人口”实际上代表的意思是“可用单位数”。而设定上三个种族的可用单位限制条件并不一样。&lt;br&gt;&lt;br&gt;人类限制条件是补给站，那个不叫房子，不是用来住人的，不是说不够了大家就没地方住。那个建筑是用来为人类单位提供各种资源的。很简单的一个设置，资源越多，就能支持更多单位的活动。&lt;br&gt;&lt;br&gt;神族/星灵不需要补给站，但是它们的限制是幽能的供给。它们的所有单位和建筑物都是从母星或者其他据点传送过来的，需要通过那个水晶来提供幽能让建筑物可以运作，而水晶塔的供能范围是有限的，所以只能在水晶塔的范围内布置建筑物。&lt;br&gt;&lt;br&gt;异虫/虫族没有这些限制，但是，几乎所有的虫族单位都是没有自我意识的，会根据本能行动，主宰/刀锋女王需要用自己的精神力量控制这些没有脑子的生物。但是，即便是主宰，也不可能直接控制那么多生物，所以就创造了领主，作为一个中继站，主宰控制领主，领主控制下面的虫群。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22343037/answer/21075961
-</link>
-<author>
-余天升
-</author>
-<title>
-NSA 在 RSA 加密算法中安置后门是怎么一回事，有何影响？
-</title>
-<description>
-谢@David Chang 邀请，前两天我看到这一篇新闻的时候，觉得这位小编真不容易，面对各种跟天书一样的专业概念，不仅要写新闻还要翻译英文材料，还很多翻译错误，我估计他写完了以后也不知道自己在写什么。&lt;br&gt;&lt;br&gt;今年九月底的时候，在某t打头的微博网站上，看到一个朋友提及一篇题为《&lt;a href=&quot;http://tech.sina.com.cn/i/2013-09-23/09448760548.shtml&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;美国安局曾向国际通用加密技术植入后门&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;》的新闻，文中提到当时斯诺等泄漏的文件显示NSA（美国国家安全局）曾经向某加密算法植入后门。文中并未提及是什么算法，他问我是不是指的是SSL。然后我查询了当时的一些新闻，发现这个算法指的是&lt;a href=&quot;http://en.wikipedia.org/wiki/Dual_EC_DRBG&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dual_EC_DRBG&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;br&gt;&lt;br&gt;Dual_EC_DRBG是一种&lt;b&gt;伪随机数生成算法&lt;/b&gt;，利用的是双椭圆曲线，用于生成随机密钥。该算法中使用了一个常数Q，但是标准中并未提及选择这个常数的原因，因此，Dual_EC_DRBG和DES一样，因为常数来源不明而被怀疑有问题。不过DES尽管几十年来大家都怀疑有后门，但是从来没有人找出来后门是什么。&lt;br&gt;&lt;br&gt;Dual_EC_DRBG就比较不幸了，2007年8月，两名微软的研究人员Dan Shumow和&lt;a href=&quot;http://en.wikipedia.org/wiki/Niels_Ferguson&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Niels Ferguson&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;就发现，Dual_EC_DRBG算法&lt;u&gt;可以被植入后门&lt;/u&gt;[1]。他们提到，如果算法中使用的常数经过特殊选择，并且用来选择这些常数所使用的数据被算法设计者保存下来，那么该算法设计者在知道该算法生成随机序列的前32个字节的情况下，可以预知未来所有生成的“随机”序列。同时这两名研究人员也指出，该算法只是存在植入后门的可能，因为不知道算法的设计者是否知悉该缺陷，也不知道该算法的设计者是如何生成常数Q的，所以也无法确定他们是否能够知道那些后门数据，该结论&lt;b&gt;不能认定&lt;/b&gt;NIST有意在该算法中植入后门。文章中提到解决该问题的方法是自行重新生成常数Q。&lt;br&gt;&lt;br&gt;到了2013年9月，斯诺登曝光出文件之后，似乎基本可以确定NSA设计了一个带有缺陷的随机数生成算法并通过NIST确立为国家标准。12月份，路透社披露，NSA通过买通RSA公司，将Dual_EC_DRBG作为Bsafe中的首选随机数生成算法。&lt;br&gt;&lt;br&gt;按照&lt;a href=&quot;http://www.emc.com/security/rsa-bsafe.htmBsafe&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;RSA公司对BSAFE的介绍&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，BSAFE是RSA公司开发的一个面向开发者的软件工具。开发者可以将BSAFE嵌入到程序中，使得他们开发的程序获得一些安全特性的支持，包括加解密、证书颁发、SSL等。在存储、通信过程中使用加解密算法时，使用有缺陷的伪随机数生成算法所生成的加解密密钥，有可能被攻击者预测到，从而使得保护的秘密泄漏。&lt;br&gt;&lt;br&gt;RSA算法是由麻省理工学院的三位知名的犹太裔密码学专家Ron Rivest、Adi Shamir和Leonard Adleman于1977年首次发表，是一种集密钥交换和数字签名功能于一身的公共密钥密码算法（Public-key cryptography，文中错译为“公众密钥密码算法”）。三人于1982年成立RSA Security公司，开展密码算法、数字签名等业务。2006年，RSA公司被EMC公司以21亿美元的价格收购。&lt;br&gt;&lt;br&gt;RSA算法虽然是RSA公司研制的，但是数学原理简单清晰，并经过长时间的学术界和工业界的研究和考验，是可信赖的公钥加密算法，并且没有植入后门。文中配图所提到的SecurID，也是RSA公司的产品，国内不少银行外观类似的动态口令设备是RSA公司的产品。但是由于不知道这类设备使用的动态口令生成算法是否是Dual_EC_DRBG，所以无法确定是否存在动态口令被预测的情况。另外值得一提的是，大约是2011年RSA出过一次SecurID的种子泄漏的事故，但是不知道那次事故泄漏的数据能够预测多少SecurID的动态口令。&lt;br&gt;&lt;br&gt;新浪的那篇新闻中，小编混淆了RSA公司、RSA算法和RSA公司的密码产品。那位所谓的匿名安全砖家也是混淆视听，&lt;b&gt;RSA算法是安全可靠并且值得信赖的&lt;/b&gt;；而RSA公司的其他安全产品，如果使用了Dual_EC_DRBG算法生成随机密钥，那么将有严重的安全隐患，没有使用该算法的产品安全性不好直接通过此次事件认定，需要对算法细节做更多的评估。&lt;br&gt;&lt;br&gt;Ron Rivest是知名的密码学家，图灵奖得主。除了RSA算法之外，他发明的RC系列（RC2、RC4、RC5、RC6）和MD系列（MD2、MD3、MD4、MD5、MD6），也都是RSA公司的产品，都非常有知名度，并且在业内广泛使用，也都没有怀疑存在后门。&lt;br&gt;&lt;br&gt;结合学术界流传已久的关于DES存在后门的“阴谋论”，有如下结论：除了一些知名的密码学的大牛，普通人和工程人员很难知道和验证一个密码学算法（包括加解密算法、摘要算法、随机数生成算法）是否存在后门和缺陷，我们应当&lt;b&gt;避免使用实现中使用的参数来路不明的算法和最新推出性能和效果尚不明确的算法&lt;/b&gt;，优先使用久经考验、广泛接受并被学术界认可的算法&lt;br&gt;&lt;br&gt;[1] Dan Shumow, Niels Ferguson. On the Possibility of a Back Door in the NIST SP800-90 Dual Ec Prng. &lt;a href=&quot;http://rump2007.cr.yp.to/15-shumow.pdf&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;rump2007.cr.yp.to/15-sh&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;umow.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 </description>
 </item>
 </channel>
