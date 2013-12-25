@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22354504/answer/21108531
+</link>
+<author>
+Bill Cheng
+</author>
+<title>
+使用快用旗下的太极助手 iOS 越狱方案有何风险？
+</title>
+<description>
+谢邀&lt;br&gt;&lt;br&gt;太极助手实际上和Cydia一样的（排除盗版讨论），是一个软件包管理器。类似的软件有Debian上面的apt-get、CentOS上的yum、iOS上的App Store、Android上的Google Play和Widnwos Phone上的Windows Market等等。&lt;br&gt;上述这么多种软件包管理器的出现，都是旨在帮助用户发现、安装和管理软件的。&lt;br&gt;&lt;br&gt;正因为软件包管理器这个基本功能需求，导致此类软件有天生的安全缺陷——需要高系统权限，apt-get和yum在处理某些操作时对于super user权限的需求就是这个安全缺陷的一个体现。&lt;br&gt;&lt;br&gt;相对于apt-get和yum，这个安全缺陷在其他列出来的软件包管理器中表现得更为严重，因为用过诸如App Store、Google Play等的人都知道，这些软件包管理器在安装软件的时候是不需要输入任何系统密码的。&lt;br&gt;（这里需要注意的是，App Store下载软件时提示用户输入密码实际上对应的是软件从App Store购买的流程，而不是软件安装到iOS设备上的流程；整个iOS软件安装实际上不需要任何密码或用户手动权限验证）&lt;br&gt;&lt;br&gt;软件包管理器需要高系统权限才能安装软件，而移动设备上这些软件包管理器基本上都不需要密码，这两个事实就引出了一个结论——App Store、Google Play、Cydia、太极助手等这些软件包管理器实际上在打开时，甚至在安装时就被赋予了很高的系统权限。&lt;br&gt;&lt;br&gt;高的系统权限会导致什么问题呢？被赋予高系统权限，意味着软件可以控制更多的系统内容、系统下属软件内容，同时意味着软件可以访问更多的文件和数据库。&lt;br&gt;&lt;br&gt;具体到Cydia和太极助手这个层级，在这两个软件眼中，你在iOS设备上所有的文件，包括你的&lt;b&gt;通讯录、短信、通话记录、照片、视频&lt;/b&gt;，甚至你的&lt;b&gt;微信历史消息、陌陌历史消息、新浪微博私信&lt;/b&gt;等等内容都是完全可读可写的，越狱之后没有任何东西可以阻碍这两个程序访问、修改你的iOS设备上任何一个角落的文件。（少数特别加密软件的数据库除外）&lt;br&gt;这个还不算是危言耸听，真正可怕的是，越狱之后，你的iOS设备上所有软件实际上都具有了和Cydia还有太极助手这个层级一样的权限，那些曾经通过App Store安装，被锁在沙盒里面的软件，也可以轻易的绕过不存在的沙盒，访问你系统中任何一角落的文件和数据库。&lt;br&gt;&lt;br&gt;我没有在吓唬任何人，上面所说的，就是iOS越狱的事实。&lt;br&gt;&lt;br&gt;你说越狱后安装太极助手有什么风险？排开了盗版和道德因素，越狱后安装太极助手和越狱后安装Cydia的风险是一样的，因为这个风险在越狱的那一刻就达到了最高值。&lt;br&gt;&lt;br&gt;哦，对了，肯定会有很多人想『我手机上的资料哪有那么重要，无所谓啦』，针对你们中的一部分人，我想指出一点，那就是越狱之后你的iOS系统所有系统配置文件也是可以被更改的，也就是说：我可以先把你的手机弄成一个非常耗电的状态，诱使你去安装我的电池管理软件；我还可以在检测到你安装了我的竞争对手软件的时候，强行删除竞争对手的软件、故意使其不可用、或是发出虚假的系统警告；我还可以把你的host文件更改，让那些原本应该发送到银行网站的用户名和密码发送到我的钓鱼网站上……&lt;br&gt;感觉上去，就像是当年网络病毒泛滥，但没有人安装正版防毒软件的xp时代一样，黑客的天堂。&lt;br&gt;&lt;br&gt;是的，你们作为用户有自己各种各样的需求，但是我作为技术人员必须告诉你们——无论你们愿不愿意听——越狱是危险的。&lt;br&gt;如果你希望满足自己各种各样的定制化需求，请使用Android系统，并在不进行Root的情况下尽量进行定制，卖掉iPhone的钱相信是足够去买一台合适的Android设备的（某些贵的离谱的除外，请不要钻牛角尖）。&lt;br&gt;&lt;br&gt;=======体内酒精含量：0.4%=======&lt;br&gt;平安夜写这种写了好多次的东西感觉好无趣……好想和妹子出去过节……&lt;br&gt;顺便给出一个我眼中的移动系统安全排名：&lt;br&gt;iOS（隐私权限可以控制） &amp;gt; WP（隐私权限不能控制） &amp;gt; Android（隐私权限不能控制且开放过多权限） &amp;gt; Root之后的Android（隐私和文件权限开放过多） &amp;gt; 越狱之后的iOS（毫无权限可言）&lt;br&gt;&lt;br&gt;=======体内酒精含量 &amp;gt; 0.4%=======&lt;br&gt;理性讨论，注意喷点，没事请省省键盘，圣诞节找妹子比较重要
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22282257/answer/21043874
 </link>
 <author>
@@ -304,20 +318,6 @@ http://www.zhihu.com/question/22341758/answer/21063710
 </title>
 <description>
 题主，我有话想对你说，又不知道怎么说起。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;总之，这里不是天涯。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;也不是豆瓣。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;这么复杂的剧情，通常我们称这种问题为&lt;u&gt;「过于场景化或个人化」&lt;/u&gt;。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;是有可能被关闭的。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;但我还是希望我的答案能够帮到你。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;哎呀，算了，我说不出口。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;我觉得你还是自己考虑吧。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/85/a5/85a5ed7caaca1e31e6163e64d42e339f_m.jpg&quot; data-rawwidth=&quot;29&quot; data-rawheight=&quot;28&quot; class=&quot;content_image&quot; width=&quot;29&quot;&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/21878315/answer/21059166
-</link>
-<author>
-Chen Yijun
-</author>
-<title>
-香港、台灣用的是哪些中文字典？
-</title>
-<description>
-開頭請容我小小抱怨一下。&lt;br&gt;&lt;br&gt;小時候最害怕任何與國文相關的事物了，那時候的台灣奉行著多音字合并、國字發音向北京話語音靠攏和誇張的國字標準字形（體）政策。而台灣的考試最熱衷於「陷阱題」，老師們抓著這些教育部新審定的教材鑽牛角尖，即便升高中的基本學力測驗只有選擇題，我們還總是為國文苦不堪言。&lt;br&gt;&lt;br&gt;國中那會兒，寫國文作業遇到問題不能問爸媽，幾年前上小學才買的、再版沒多久的厚厚一本《新學友國語辭典》也不敢查，這些資料來源寫出來的答案通通會被打錯。&lt;br&gt;&lt;br&gt;當時的國語朝令夕改，那是個「三隻小豬」是否為成語也引起爭端的年代，就是教育部網站，更新的速度也不及審定委員會——補習班的「寶典」隨時要更新，學校老師多會要我們另外買本「參考書」，只有這些資料保險一些，每天抱着它們看呀背的，昏天暗地之餘，有同學發現，只要選最不可能的選項就是答案。&lt;b&gt;最後，沒有幾個同學會查字典了。&lt;/b&gt;那些後來修訂的讀音什麼的也被我們當成笑話，平時要那麼唸應該㑹被身邊的朋友抗議吧。&lt;br&gt;&lt;br&gt;但是，幾年下來老師有了經驗，教育部也意識到標準的審定不能那麼一意孤行，其《重編國語辭典》總算更新後，「查字典」這件事不再那麼「不確定」，現在的台灣人對語文可以有個依歸了。&lt;b&gt;前些日子這部辭典&lt;/b&gt;&lt;b&gt;的&lt;/b&gt;&lt;b&gt;編撰工作由教育部轉移到「國家教育研究院」，開始推動新詞彙的&lt;/b&gt;&lt;b&gt;標準&lt;/b&gt;&lt;b&gt;收錄程序，也會搭配民間參與的形式來修訂內容&lt;/b&gt;，未來，三年內持續使用的新詞可以在字典裡找到解釋，有爭議的條目修正速度也會加快。&lt;br&gt;&lt;br&gt;可以說《教育部重編國語辭典》在未來會是部官民共有的、活的、內容最豐富的繁體中文辭典，現在已有十六萬筆資料，想瞭解當代中文的使用，必然不能忽略這部辭典。&lt;br&gt;&lt;br&gt;對想要「翻」辭典的讀者說明：&lt;b&gt;這部辭典現在已經不再印刷再版，多年前的光碟版現在應該也沒人想用了吧，&lt;/b&gt;&lt;b&gt;《重編國語辭典》的&lt;/b&gt;&lt;b&gt;資料現在以線上更新為主。&lt;/b&gt;&lt;br&gt;&lt;br&gt;但是這個網站實在爛得可以——找不到資料時來個驚悚的alert、不是Unicode編碼導致連拼音都用難看至極的圖片來顯示（DBase III資料庫）、想找「單字」解釋還得學會用正則表達式、搜尋結果頁還不能「分享」或「加入書籤」（session會過期）、標點符號亂七八糟、只支援繁體搜索……缺點太多了無法一一數盡。儘管資料齊全，如此差勁的介面相信知乎上的朋友也不會想用。&lt;br&gt;&lt;br&gt;&lt;b&gt;台灣電腦鬼才唐鳳開發的「萌典」是最佳解答，這個開源專案包含了台灣教育部的《重編國語辭典》《閩南語常用詞辭典》《客家語常用詞辭典》及台灣中華語文知識庫的&lt;/b&gt;&lt;b&gt;《兩岸詞典》等資料庫&lt;/b&gt;，並提供了完善的使用介面，支援&lt;b&gt;搜簡出繁&lt;/b&gt;，條目解釋中的每個字詞都可以直接點按連至詞條所在條目（類似Mac OS X上的「辭典.app」），對字體排印及Unicode都做了許多改進。&lt;br&gt;&lt;br&gt;「萌典」也在教育部授權的範圍內，整合了詞條真人發音解釋及筆順動畫，皆具教育部官方的「規範性」，內容的嚴謹程度和原版辭典相當，資料庫也會隨教育部辭典網站更新，所以這個專案可以完全取代《重編國語辭典》網站。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b7/b4/b7b447235231f08e78036345a53047a2_m.jpg&quot; data-rawwidth=&quot;1962&quot; data-rawheight=&quot;1568&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1962&quot; data-original=&quot;http://p3.zhimg.com/b7/b4/b7b447235231f08e78036345a53047a2_r.jpg&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;萌典線上版：&lt;a href=&quot;https://moedict.tw/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;萌典&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;iOS app離線版：&lt;a href=&quot;https://itunes.apple.com/cn/app/meng-dian-jiao-yu-bu-guo-yu/id599429224?mt=8&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iTunes 的 App Store 中的“萌典〔教育部国语/台语/客语有声辞典+中英/中法/中德对照〕”&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Android app離線版：&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.audreyt.dict.moe&amp;amp;hl=zh_CN&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;萌典〔教育部国语/台语/客语有声辞典+中英/中法/中德对照〕&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Firefox OS離線版：&lt;a href=&quot;https://marketplace.firefox.com/app/%E8%90%8C%E5%85%B8&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Firefox Marketplace&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </description>
 </item>
 </channel>
