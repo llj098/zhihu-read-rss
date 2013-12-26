@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22372822/answer/21152390
+</link>
+<author>
+裘Benjamin
+</author>
+<title>
+为什么可口可乐以商业秘密而非专利权来保护其配方？
+</title>
+<description>
+谢邀。&lt;br&gt;&lt;br&gt;1. 专利权有保护期限，在主要工业国通常20年，过期之后公众自由使用。专利侵权只涉及民事责任。&lt;br&gt;&lt;br&gt;2. 除了保护期限，专利还有一个问题：如果申请专利，申请人需要充分对发明/配方进行公开，不仅对专利局公开，而且一定时间后（目前最多18个月）向全社会公开。&lt;br&gt;&lt;br&gt;3. 商业秘密的保护没有期限，前提是该信息（包括配方）有商业价值，且权利人采取了合理的保护措施（保密协议、密码、门禁卡等等），其他人如果&lt;b&gt;偷&lt;/b&gt;该信息就违法，甚至可能有刑事责任。&lt;br&gt;&lt;br&gt;4. 但商业秘密的问题是，一旦信息被窃，虽然公司可以起诉偷信息的人，却不能阻止其他第三人使用已经公开的信息，或者任何人通过反向工程破解（反向工程不算 “偷”）。权衡这些之后，权利人要自己来决定最好申请专利把信息还是作为商业秘密藏着。&lt;br&gt;&lt;br&gt;另外，如果工程师把样机忘在酒吧里被人捡到了，也不算偷。这似乎让我想起一个以水果命名的公司。。。。&lt;br&gt;&lt;br&gt;顺便，有些与技术 / 发明 / 配方无关的商业信息，比如客户名单、产品规划、营销计划等等，无可选择，只能通过商业秘密保护。&lt;br&gt;&lt;br&gt;最后，可口可乐这么简单的配方构成，一定可以通过反向工程破解，因此这个配方几乎 100% 已不是商业秘密。但这不妨碍可口可乐宣布有秘方藏在公司总部的保险柜里，这多刺激。提问的朋友恐怕和大众一样，被可口可乐公关出来的故事给营销了。：）
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/22231112/answer/21139437
+</link>
+<author>
+Ada Wang
+</author>
+<title>
+顺丰到底有多厉害？
+</title>
+<description>
+关注顺丰速递有一段时间了，尤其是去年小道消息说他们和SAP签约了（上的应该是CRM，ERP的FICO）之后，就更加关注他们了（能上SAP的公司经济实力不可小觑）。从我个人的角度，&lt;b&gt;如何判断一家公司的综合水平&lt;/b&gt;（管理能力、发展前景、战略规划、行业竞争力等），从这家公司&lt;b&gt;对IT的投入及其IT的水平&lt;/b&gt;就可略见一斑。&lt;br&gt;（都是我个人整理的资料，以下若有不到位的地方，还请相关知情人士指点，谢谢。）&lt;br&gt;&lt;br&gt;一、先看一下&lt;b&gt;SF的发展历程&lt;/b&gt;：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f8/09/f809fe4ee0c5a8ec3b0613b00cf8d10a_m.jpg&quot; data-rawwidth=&quot;780&quot; data-rawheight=&quot;266&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;780&quot; data-original=&quot;http://p3.zhimg.com/f8/09/f809fe4ee0c5a8ec3b0613b00cf8d10a_r.jpg&quot;&gt;目前SF已经发展了近20年，先后经历了&lt;b&gt;创业起步&lt;/b&gt;（在珠三角扎根）、&lt;b&gt;业务整合&lt;/b&gt;（开始投资拓展华北华东市场）、&lt;b&gt;管理优化&lt;/b&gt;（开始租用专机，05年上ERP系统，06年筹建航空公司等）、&lt;b&gt;竞争领先&lt;/b&gt;（自主航空公司开始投入运营，初步确立市场领先地位）四个阶段。&lt;br&gt;&lt;br&gt;二、再看一下&lt;b&gt;SF的信息流程&lt;/b&gt;：&lt;br&gt;通过4万余名收派人员配备手持终端、为4000余台车辆配备GPS系认等各环节的监控手段，能够对快件实施全程的即时信息监控。如下图：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9e/72/9e72126528c81e00b6e30af1a9283eee_m.jpg&quot; data-rawwidth=&quot;808&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;808&quot; data-original=&quot;http://p2.zhimg.com/9e/72/9e72126528c81e00b6e30af1a9283eee_r.jpg&quot;&gt;&lt;b&gt;（一）SF的信息系统种类&lt;/b&gt;：&lt;br&gt;1、&lt;b&gt;运营类业务管理系统&lt;/b&gt;，面向运营本部用户&lt;br&gt;1）资源调度系统（SCH）&lt;br&gt;2）自动分拣系统（ASS）&lt;br&gt;3）第二代手持终端系统（HHT）&lt;br&gt;4）路由系统（EXP）&lt;br&gt;2、&lt;b&gt;客户业务类管理系统&lt;/b&gt;，面向客户&lt;br&gt;1）呼叫中心系统（Call Center）&lt;br&gt;2）客户关系管理系统（CRM）&lt;br&gt;3、&lt;b&gt;管理报表管理系统&lt;/b&gt;，面向本部&lt;br&gt;4、&lt;b&gt;综合类管理系统&lt;/b&gt;，&lt;b&gt;上述三项系统的整合，是一个集中化管理平台&lt;/b&gt;&lt;br&gt;&lt;b&gt;（二）SF的研发投入：&lt;/b&gt;&lt;br&gt;1、SF与IBM合作，做出了全景信息规划，构建集群式服务器组，搭建&lt;b&gt;统一的数据仓库&lt;/b&gt;，建立OLAP，同时支撑多个业务信息系统的运行。&lt;br&gt;2、建立了&lt;b&gt;Asura快递业务综合管理系统&lt;/b&gt;，全面覆盖运营的各个环节，包括客户环节、派收环节、仓储环节、运输环节、报关环节等各个节点的操作&lt;br&gt;3、&lt;b&gt;EMAP电子地图信息系统&lt;/b&gt;。该系统融合了GIS和GPS的新型综合性业务平台，具有可视化、三维坐标定位、直观管控、高效便捷的特性，通过该系统能够看到人员、车辆、每个网点的业务量，根据实时报表，监控运营数据，及时调度资源，制定配置模式，优化运营结构。&lt;br&gt;4、&lt;b&gt;RMS风险管理系统&lt;/b&gt;。主要是针对航空运输，保障航运的安全精密，系统能够提取违禁、违法快件的信息特征，并将RMS与Asura系统对接，通过Asura系统将此规则同步更新至每一中转场每一个扫描员的手持终端内。一旦快件符合预警特征，则手持终端就会显示信息。随后将检测结果返回总部的SAP ERP系统，存档备案后，转送至RMS系统，做增量累积，通过分析结果，进一步优化预警。（&lt;b&gt;此处可以看到目前顺丰SF IS集成度还是很高的，这是体现一家公司对IT应用和规划的重要标准，也可以看到顺丰的战略野心。&lt;/b&gt;）&lt;br&gt;5、顺丰速递也很早地推出了&lt;b&gt;手机客户端&lt;/b&gt;，我用过他们的APP，但说实话，感觉不如想象的好，有很多需要完善的地方，应该是Beta1版本吧，但这个方向是正确的，软件就是要不断地优化升级更新，所以，拭目以待吧。&lt;br&gt;&lt;br&gt;一家公司的信息系统水平，直接影响到该公司的业务流程的成效，&lt;b&gt;好的IS规划和应用，可以对业务流程起到非常大的助力和优化的效果。&lt;/b&gt;&lt;br&gt;&lt;b&gt;虽然顺丰SF公司的IT还有很多问题，比如技术和人才的相对匮乏、IT对业务的支持还是相对被动的等等，但其作为一家物流速递企业，在目前国内该行业内的IT水平应该是相当领先的了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;三、SF的接单派单流程（附录）&lt;/b&gt;&lt;br&gt;&lt;b&gt;（一）收件操作流程&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/61/66/6166d9421f91597cd4fdd7ea3c51d182_m.jpg&quot; data-rawwidth=&quot;836&quot; data-rawheight=&quot;547&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;836&quot; data-original=&quot;http://p3.zhimg.com/61/66/6166d9421f91597cd4fdd7ea3c51d182_r.jpg&quot;&gt;&lt;b&gt;（二）派件操作流程&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f1/07/f107660a116edd794e6f077ec7ba2c29_m.jpg&quot; data-rawwidth=&quot;803&quot; data-rawheight=&quot;527&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;803&quot; data-original=&quot;http://p3.zhimg.com/f1/07/f107660a116edd794e6f077ec7ba2c29_r.jpg&quot;&gt;最后，看一张单子，这是前天我签收的一个顺丰快件，同城。&lt;br&gt;在官网输入订单号就可以追踪订单状态，标黄的是GPS定位，因为我已经签收了，定位已经结束。在途中的订单是可以定位到街道的，页面点开类似google/baidu地图，这就是EMAP集合了GIS和GPS的效果。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/75/f2/75f2bae1a8538e9319add87ecb1b8c1e_m.jpg&quot; data-rawwidth=&quot;837&quot; data-rawheight=&quot;162&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;837&quot; data-original=&quot;http://p4.zhimg.com/75/f2/75f2bae1a8538e9319add87ecb1b8c1e_r.jpg&quot;&gt;还是这张单子，我当时需要修改派送地址，&lt;b&gt;顺丰同城修改派送地址是不收费的&lt;/b&gt;，同时，你可以看一下他们的&lt;b&gt;派件速度&lt;/b&gt;，而且&lt;b&gt;服务态度&lt;/b&gt;非常好：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/cc/ab/ccab9cc1d2883b83a863cbcf0c5894b3_m.jpg&quot; data-rawwidth=&quot;827&quot; data-rawheight=&quot;724&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;827&quot; data-original=&quot;http://p4.zhimg.com/cc/ab/ccab9cc1d2883b83a863cbcf0c5894b3_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;凌晨4点看到这个问题，就先关注了，&lt;br&gt;早上到公司忙完手头的事情就坐下来写这个答案，有些仓促。&lt;br&gt;我一直对顺丰速运的IT投入和水平很敬佩，他们的老板确实很有战略眼光，&lt;br&gt;作为一家速递公司，这真是很了不得了。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22348183/answer/21085884
 </link>
 <author>
@@ -266,40 +294,6 @@ http://www.zhihu.com/question/21427261/answer/21102951
 </title>
 <description>
 简单来说：&lt;br&gt;&lt;b&gt;自己多读paper（或书），少浪费时间去上课。&lt;/b&gt;&lt;br&gt;&lt;br&gt;发现虽然有6个支持，但是竟然排名直接垫底。故怒更新一记（也不知道点没有帮助或者反对的人自己发没发出过paper。。。）本不想吹牛的，但是知乎开放注册之后的坏处就是鱼龙混杂，有牛不吹就没人信，所以我也没法子。。。&lt;br&gt;&lt;br&gt;lz从大二末开始发第一篇paper，大三又发了两篇，大四申请gradschool结束之后又弄了一篇，除去第一篇是亚太地区的区域性会议（proceeding 收录SCI）之外，其余三篇全都是领域内顶级会议。是的，全部都是一作。Computer Science这块儿你也懂的，大家都是发Conference, Journal反倒看得少了。当然，咱也不能说凡是能发在顶会上的都是好paper，毕竟哪里都有水。但要讲论文本身的知名度和影响力，大概国内近10年来CS本科生发表过的paper没有比我高的吧。。。&lt;br&gt;&lt;br&gt;&lt;br&gt;lz从大二冬天起醒悟了，于是开始&lt;b&gt;戒课&lt;/b&gt;。用全部时间来学习，先期是通读各种影印版教科书。这里赞一下机械工业出版社等国内出版社的良心影印版，一本三厘米厚的16开原版教材，只要不到一百块钱！但即便如此我还一度因为买书穷困潦倒（比如每月生活费1000，买掉500块钱的书）。当然，书买完了肯定会第一时间读完——&lt;b&gt;就像期末考试前通宵读崭新的课本一样读完（相信不少人都有感觉，期末考试前通宵的学习效率是最高的）&lt;/b&gt;。如果有些书比较简单，通几宵就看完了（比如印象中，这本&lt;a href=&quot;http://hagan.okstate.edu/nnd.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Neural Network Design&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 写的超级简单而且图多到杀猫，我只用了两天时间就没做习题全部搞定了）当然也不是每本都这么顺利，Simon Haykin的那本&lt;a href=&quot;http://books.google.com/books/about/Neural_Networks.html?id=3-1HPwAACAAJ&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Neural Networks&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 就看了我一个多月好久依然不得要领。甚至还因为内容不懂，试图去中科院专门找过译者史忠植教授，可惜没有预约直接擅闯办公室被轰出来了。。。&lt;br&gt;&lt;br&gt;到了大三的时候，领域内的基础知识就已经算是初窥门径了。虽然离直接开班授课还有很大差距，但是至少能看的懂paper，能自己搭模型，而且&lt;b&gt;遇到了什么问题知道大概可以去查哪些方法来解决了&lt;/b&gt;。从这时候起，阅读的内容就变成了paper和教科书一半一半。最初当然每篇paper都读得很慢，但是到了后来发现，学术圈也没有想象的那么神圣，不少人都是绕着一个点子转圈发paper。于是开始批判性地横向看这些paper，也逐渐萌生了自己写paper的想法。要说速率，最早的时候大概一周也就看两三篇paper。到了大三下学期，基本上看完abstract大概就能猜出50%文章的套路技法了，而且阅读范围也从随便拿个paper就来读，到对于&lt;b&gt;会议、细分领域、作者、发表年份、引用量等属性来细挑出真正重要的paper来读&lt;/b&gt;。&lt;br&gt;至于写paper本身就是玩命想玩命读玩命做实验，而且要经常根据实验结果“pivot”。当然，最重要的其实还有一条，就是&lt;b&gt;运气也很重要&lt;/b&gt;。比如我就曾经有paper被某顶会中的一个审稿人以最低分拒掉后，一字未改被另一顶会以很高分收录的情况。。。&lt;br&gt;&lt;br&gt;&lt;br&gt;可能又有热心网友要问了，那你GPA怎么办，这个就看你怎么看待GPA这个问题了。比如我的本科学校经常有变态老师，出勤占总成绩的40%。于是遇到这种课就直接挂了再补考。我的逻辑是，&lt;b&gt;宁可补考也不会选择浪费时间&lt;/b&gt;。&lt;br&gt;&lt;br&gt;不过最近清华的吴佳俊同学在各大媒体火了一把。他有顶会论文，而且据说GPA也是系里No.1，一方面觉得此君multitasking能力超强，实在难能可贵，另一方面纳闷他怎么能做到用去MSRA实习的时间冲抵课堂考勤的。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;=====12月25补充=====&lt;br&gt;楼下有同学问我怎么做到的，想到很久前答过的另一个帖子。反正都是匿名，就一并给出来吧。不过通宵有风险，仅供参考。。。&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/19555355#answer-142781&quot; class=&quot;internal&quot;&gt;前一晚没睡好，第二天如何保持旺盛精力？&lt;/a&gt;&lt;br&gt;&lt;i&gt;感谢@破天的巧妙算法，我终于证明了我同时是这两贴的贴主~&lt;/i&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22362796/answer/21128669
-</link>
-<author>
-史飞
-</author>
-<title>
-为什么互联网公司产品人员自称产品狗或产品汪？
-</title>
-<description>
-&lt;p&gt;好吧这个问题必须由我来终结了。&lt;/p&gt;&lt;p&gt;产品狗这个词的词源是这样的：&lt;br&gt;
-最初这个词只是行业里一个叫做@伊卡洛斯之翼 的PM的自称。为什么她会这么自称呢，因为早几年她是做运营，整天加班没日没夜的，所以她经常说自己加班累得像条狗，简称“加班狗”。&lt;/p&gt;&lt;p&gt;后来她转做产品，但公司业务却是运营驱动的，运营说干啥就得干啥，还要每天巴结程序员，所以虽然仍然是无穷无尽地加班，但逐渐加班狗这个自称就被她变更为产品狗。&lt;/p&gt;&lt;p&gt;我是认识她之后才第一次听到这个词的，那时这个词完全没有普及，至少在2011年之前我在百度上搜不到任何结果。&lt;/p&gt;&lt;p&gt;这个词开始为少数人所知...其实也是因为@伊卡洛斯之翼在微博上很活跃，经常编各种行业冷段子(感兴趣的请自行去微博查找)，虽然粉丝只有数千，但多数都是行业人员，转发往往很多。加上她的好基友@纯银V (他俩整天的言行都不似正常人...)加工为“产品汪”并不断扩散，直到现在变成了这个样子。&lt;br&gt;&lt;/p&gt;&lt;p&gt;我觉得这个词之所以能被部分人所采用有两个原因：&lt;br&gt;
-1是国内的产品人员确实普遍很苦逼，大多数人无法主导自己的产品，反而夹在老板和工程师设计师之间处处碰壁，只能不断妥协和逢迎，想要自尊而不得，产品狗这个词很好地描述了这种状态。(不过@伊卡洛斯之翼 现在已经不苦逼了，她还这么自称纯粹是图一好玩)&lt;/p&gt;&lt;p&gt;2是因为很多人把程序员打成程序猿，用的多了心底总会有种“只有一种动物好寂寞啊”的赶脚，再加上程序员、设计师、CEO 什么的都是三个字，念起来太不工整了，于是就把产品经理敲为产品狗了。&lt;br&gt;&lt;/p&gt;&lt;p&gt;所以这个词纯粹是一个整天讲冷笑话人开的玩笑，那些说什么自我贬低看了不舒服的同学你们实在想多了。&lt;/p&gt;&lt;p&gt;手机码字真费劲..&lt;br&gt;
-好吧这个问题必须由我来终结了。&lt;/p&gt;&lt;p&gt;产品狗这个词的词源是这样的：&lt;br&gt;
-最初这个词只是行业里一个叫做@伊卡洛斯之翼 的PM的自称。为什么她会这么自称呢，因为早几年她是做运营，整天加班没日没夜的，所以她经常说自己加班累得像条狗，简称“加班狗”。&lt;/p&gt;&lt;p&gt;后来她转做产品，但公司业务却是运营驱动的，运营说干啥就得干啥，还要每天巴结程序员，所以虽然仍然是无穷无尽地加班，但逐渐加班狗这个自称就被她变更为产品狗。&lt;/p&gt;&lt;p&gt;我是认识她之后才第一次听到这个词的，那时这个词完全没有普及，至少在2011年之前我在百度上搜不到任何结果。&lt;/p&gt;&lt;p&gt;这个词开始为少数人所知...其实也是因为@伊卡洛斯之翼在微博上很活跃，虽然粉丝只有数千，但多数都是行业人员，加上她的好基友@纯银V (他俩整天的言行都不似正常人...)加工为“产品汪”并不断扩散，直到现在变成了这个样子。&lt;br&gt;&lt;/p&gt;&lt;p&gt;我觉得这个词之所以能被部分人所采用有几个原因：&lt;br&gt;
-1是国内的产品人员确实普遍很苦逼，大多数人无法主导自己的产品，反而夹在老板和工程师设计师之间处处碰壁，只能不断妥协和逢迎，想要自尊而不得，产品狗这个词很好地描述了这种状态。(不过@伊卡洛斯之翼 现在已经不苦逼了，她还这么自称纯粹是图一好玩)&lt;/p&gt;&lt;p&gt;2是因为很多人把程序员打成程序猿，用的多了心底总会有种“只有一种动物好寂寞啊”的赶脚，再加上程序员、设计师、CEO 什么的都是三个字，念起来太不工整了，于是就把&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;什么你说为什么我这么清楚？&lt;br&gt;
-因为@伊卡洛斯之翼 是我媳妇...在下不幸也是产品狗一条。&lt;/p&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22354961/answer/21103543
-</link>
-<author>
-谌斌
-</author>
-<title>
-都说女性不能太主动，那如何积累恋爱经验？
-</title>
-<description>
-马上投入恋爱是个好方法，但可操作不强！&lt;br&gt;主动追男神你又先天排斥！&lt;br&gt;大众长相又害怕见光死！&lt;br&gt;没办法，我只能出绝招了：&lt;br&gt;&lt;br&gt;可以给@Oulove™@苍斯基@三皮@李淼@王博涵@唐僧同志@田浩@李奇@汪惟@带三个表@黄继新@杜抚@桂武磊@韩冰Bill@陈章鱼@涛吴@贺天骏@如是我闻@王赫@张亮-Leo♂@张佳玮@张鼎@笑道人@黄海均@梁边妖@暴走@朱炫@徐湘楠@侯业@程瀚@刘念@JoVi@大果@浏菁@Sea@iScott 等男神私信讨论啊。（这些人我关注很久了，都是些靠谱又有故事的男神。很热心回复私信！他们会分享干货给你）&lt;br&gt;&lt;br&gt;也可以给 @樱大力™@maggie@朱倩™@插门胡的小背心@马小弱@孙小砖@刘小斯@刘路@汪静姝@柳如婳@悦涵@珵cici@葛巾@李有无@朱怡婧@腐生@刘欣@徐筑秋@万桃桃@nonolyli@阿妮@ddaisyy@Laura@柳言语@跳跳@夏小琰Shar 等女神私信讨教啊。（这些人我关注很久了，都是些靠谱又有故事的女神，很热心回复私信！对知乎充满了爱！他们都是分享湿货给你）&lt;br&gt;&lt;br&gt;我主动地跟他们私信，发了一次又一次。他们也热心的解决了我很多问题。大到第一次怎么办，小到梦遗是不是病，他们给了我很多帮助。&lt;br&gt;自从认识他们之后，恋爱经验值飞涨啊！&lt;br&gt;-----------&lt;br&gt;穷举有风险，请勿模仿！&lt;br&gt;评论区的知友们纷纷鼓掌表示：&lt;b&gt;这个回答更新了我对知乎很多大牛的性别判断。。&lt;/b&gt;
 </description>
 </item>
 </channel>
