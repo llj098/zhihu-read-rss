@@ -15,6 +15,30 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22376176/answer/21179548
+</link>
+<author>
+知乎用户
+</author>
+<title>
+发布邮件地址时用「#」「at」等替代「@」对于防垃圾邮件真的有作用吗？
+</title>
+<description>
+看得出来题主很有想法也很聪明，但 too simple。&lt;b&gt;我来贡献点干货，回答楼主问题之后介绍几种常见的邮件隐藏方法。&lt;/b&gt;&lt;br&gt;&lt;br&gt;在见到真实世界数据之前，你臆想一个依靠“gmail”关键字就可以准确抓取一个邮件地址，在面对真实世界各种noise文本的时候，相信你会像曾经的我一样流下绝望的眼泪。&lt;br&gt;&lt;br&gt;小时候上课的时候，曾经上一门NLP机器学习课程，本来重点是机器学习算法分析，可以选择学术界很多现成的数据集上做实验。不过当时还天真无邪的我毅然选择自己爬数据，结果见到爬下来的真实文本让我欲哭无泪，我花了整个项目将近一半的时间精力去把noise的数据洗干净。&lt;br&gt;&lt;br&gt;==============&lt;br&gt;回到正题&lt;br&gt;&lt;br&gt;【1】&lt;br&gt;这样替代方法总是可以防止一部分爬虫的，再简单的防护方法也比没有好。要记住，爬虫的目的不是爬你这个网址，它的目标是尽可能多的捕获到email address。一般是靠正则表达式。[dot]容易被抓出来，那就&amp;lt;dot&amp;gt;总可以吧？&amp;lt;dot&amp;gt;不行我&amp;lt;&amp;lt;DOT!!!&amp;gt;&amp;gt;总行吧？你来抓我呀~&lt;br&gt;&lt;br&gt;爬虫作者永远无法提出一个完美的解决方案去预想捕获所有的情况，行话叫做recall太低。你想要一个十全十美的系统不是不可以，这样成倍的成本投入是否能够换来相应的回报呢？&lt;br&gt;&lt;br&gt;&lt;br&gt;【2】&lt;br&gt;顺便按照惯例，分析过问题之后贡献一点干货：&lt;b&gt;如何隐藏自己的电子邮件地址？&lt;/b&gt;&lt;br&gt;&lt;br&gt;a) FirstName.LastName@XXX.com 这种方式一般常见于bio简历页面&lt;br&gt;&lt;br&gt;b) 把email做成图片&lt;br&gt;&lt;br&gt;c) HTML源代码迷惑方法，比如&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;yourname&amp;lt;!-- &amp;gt;@. --&amp;gt;@&amp;lt;!-- &amp;gt;@. --&amp;gt;yourdomain&amp;lt;!-- &amp;gt;@. --&amp;gt;.&amp;lt;!-- &amp;gt;@. --&amp;gt;com 
+yourname&amp;amp;#64;yourdomain&amp;amp;#46;com.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;d) 用javascript&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;language&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;javascript&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!--&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;contact&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Contact us&quot;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;yourname&quot;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;emailHost&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;yourdomain.com&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;a href=&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;mail&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;to:&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;@&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;emailHost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&amp;gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;contact&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;/a&amp;gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;.&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/script&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;参见：&lt;a href=&quot;http://www.thedeviantco.com/protect_your_email_address_from_spam.php&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;5 ways to hide your email from those accursed spammers&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;【3】&lt;br&gt;以及，有一个研究（&lt;a href=&quot;http://techblog.tilllate.com/2008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;techblog.tilllate.com/2&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）对比了9种隐藏邮件的方法(&lt;a href=&quot;http://ch.tilllate.com/061101_emailtest.php&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;ch.tilllate.com/061101_&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;emailtest.php&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)，包括上面提到的几种方法，以及一些CSS的tricks。可以看到用ATs和DOTs的效果惊人的好。&lt;img src=&quot;http://p1.zhimg.com/02/d6/02d69496d8d91b9351f18bb89f695378_m.jpg&quot; data-rawwidth=&quot;430&quot; data-rawheight=&quot;317&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;430&quot; data-original=&quot;http://p1.zhimg.com/02/d6/02d69496d8d91b9351f18bb89f695378_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22357847/answer/21196965
 </link>
 <author>
@@ -280,20 +304,6 @@ Erroll Garner
 </title>
 <description>
 当然是很危险的。&lt;br&gt;&lt;br&gt;       文章里列出的几种所谓“失当”在大陆民航，轻则叫严重差错，重则叫事故征候，这是仅次于事故的等级。而事故就意味着飞机有较大损毁或有人员伤亡。&lt;br&gt;&lt;br&gt;       在空中有时候两架相近的飞机的高度差只有300米，或是横向间隔只有不到十公里，这个间隔对于高速飞行的飞机来说也就是几秒之差。所以，如果飞错管制员指挥的高度，或是飞错预定的航路，就会存在空中撞机的风险，如相撞，那几乎肯定是无人生还。（当然若是出现危险接近，飞机还有一个叫做TCAS的系统来提示飞行员做出避让，让相撞风险减到最小）&lt;br&gt;&lt;br&gt;       文中还有一个案例是误入跑道，这是指飞行员未收到管制员的许可就擅自进入跑道。试想这时候如果正有一架飞机准备落地，而能见度不是很好，等落地飞机看清跑道上有另一架飞机的时候可能复飞已经来不及了。&lt;br&gt;&lt;br&gt;       这些事件大陆的航空公司也曾发生过，但都没有造成大的后果，只是当事的飞行员会受到严厉的处罚。正因如此，飞行员都会很严格的按照管制员的指令来执行，而各公司的SOP(标准操作程序)能把出差错的可能性降到最低。所以，通常，在航班运行中这种事情发生的几率很小，香港航空这个数量是有点太频繁了。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22371043/answer/21157551
-</link>
-<author>
-尹词
-</author>
-<title>
-强奸对女性的伤害有多大？
-</title>
-<description>
-1.&lt;br&gt;四年前，我认识了一个女孩，她有过一段非常惨痛的被强暴的经历——你们没看错，是一段，不是一次，因为是熟人。还曾经因此打过胎。&lt;br&gt;后来她终于逃离到了一个新的城市，本以为可以开始新的生活，但实际上，没有她想的那么简单。&lt;br&gt;这些年她一直在做噩梦，几乎大部分的晚上睡觉时都会做噩梦，常常半夜惊醒，然后发现是做梦，心有余悸。&lt;br&gt;她觉得自己不干净，虽然理智上知道她自己才是受害者，但就是忍不住认为自己很脏。&lt;br&gt;有过自残甚至自杀的经历，虽然没有“成功”，但会很消极，对人生很悲观。&lt;br&gt;她有一个男朋友——我觉得她在这点上非常非常幸运，因为男朋友知道了她的过去，仍然坚定地站在她身边，只是她自己觉得自己完全配不上又高又帅名校毕业工作优秀的男朋友，男朋友越是对她好，她越是自责，想把他推开。然后不无忧虑地跟我说，她很害怕自己这样时间长了，会让男朋友失去耐心，真的离她而去，可是又控制不了自己的情绪，整个人非常痛苦。&lt;br&gt;她只是一个普通的女孩子，但是在她身上，我看到的是，这种悲惨遭遇，毁掉的是人的一生。&lt;br&gt;如果有人居然能猜测这“很爽”，我只想说，他们是傻逼+禽兽。（不好意思我也不想骂人，恕我词穷实在不知道怎样表达更为贴切。）&lt;br&gt;&lt;br&gt;2.&lt;br&gt;大学三年级的某一天，回宿舍时，我们突然发现门口贴了一张告示，提醒女同学晚上注意安全等等。&lt;br&gt;后来，听说是某系的一个女生被几个民工强暴了。&lt;br&gt;我们当时的反应是，害怕得要死，甚至晚上不敢出门。&lt;br&gt;再后来，那个女生离开了学校。&lt;br&gt;什么？你说保研？&lt;br&gt;我不知道那个女生后来有没有继续读书，或者去了哪里读书。&lt;br&gt;我只知道，能把一个年轻女孩的悲惨遭遇和“为了保研”联系起来的人，根本不知道什么叫人的尊严。&lt;br&gt;&lt;br&gt;3.&lt;br&gt;两年前，要离开一个城市，临走前和四个女生一起去唱歌。&lt;br&gt;因为大家兴致很高，所以出了KTV已经凌晨1点多了。&lt;br&gt;那天很冷，也不好打车，终于等来一辆车，我让她们四个人上了车，决定自己走回去。KTV距离我家只有10分钟的步行路程。&lt;br&gt;没想到，半路上我被一个中年男人拦住了，他拉着我的胳膊要往旁边的小胡同里走。&lt;br&gt;当时头皮一阵发麻，真的觉得灵魂从头顶飞出去了一样。&lt;br&gt;我一边向他说好话，主动把自己的包包给他，一边挣扎着不跟他走。&lt;br&gt;这样僵持了大概1分钟还是2分钟？我事后回想起来应该时间不长，但当时的感觉就有半个世纪那么长。那个男人大概不耐烦了，骂了我一句，狠狠地推开我，我一个趔趄差点摔倒在地上。&lt;br&gt;不过转身撒腿就跑，甚至顾不上自己还穿着高跟鞋——看电影时女人为了跑得快常常停下来把鞋脱掉，经过那次我才知道，其实根本没有时间停下来脱鞋，穿高跟鞋都能跑得飞快，因为完全是拼了命在跑。&lt;br&gt;我那时候住6楼，没有停歇，一口气跑上6楼，途中摸出钥匙，迅速开门、关门，然后马上瘫倒在地上。心跳快得真的好像心脏要从口中蹦出来，腿脚完全是软的，过了半天才爬起来，然后还担心对方有没有尾随我，不敢睡觉。&lt;br&gt;此后很长一段时间，我白天在路上碰到单独一个男人走对面或者身后，都会特别紧张，其实人家就在好好地走路，但我会不由自主地害怕。&lt;br&gt;&lt;br&gt;曾经在果壳上有一次讨论关于强奸判刑重不重的问题，有懂法律的男生冷静地分析之后说，我国目前针对强奸的刑罚是合理的，因为受害者到底受到了多大的伤害是很主观的事情，所以只能更多以“客观标准”来衡量。&lt;br&gt;不过，我猜可能很多女生会和我一样——承认国家法律制定的那个标准，但是，如果真的发生在自己身上，只要有机会，就去杀了那个罪犯。
 </description>
 </item>
 </channel>
