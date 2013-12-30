@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22395159/answer/21214557
+</link>
+<author>
+丁泽宇
+</author>
+<title>
+公交车上帮投币，对方却坚持还钱怎么办？
+</title>
+<description>
+我又要讲故事了。&lt;br&gt;&lt;br&gt;前天晚上我挡出租车回家，晚上十点多，街边站着一对情侣要招手和我拼车。司机把车停下来后，问他们到哪里去。不巧的是，刚好不顺路，他们要去的地方和我们要去的地方方向相反。&lt;br&gt;&lt;br&gt;这时司机准备把车开走，情侣里的那个女生却大喊说让我们好心拉一下她，因为她实在是急着回家。本来司机准备和她说实在是不顺路不好意思，但是我却和司机说，不如让她上来吧，其实也没多远的。&lt;br&gt;&lt;br&gt;&lt;br&gt;其实真的没多远，也就一公里吧。我们的车调了头，转向反方向开去。她上车后，一直对司机说感谢。司机师傅告诉她，其实她应该说谢谢的是我。然后司机师傅又告诉她，不如让她帮忙把我的车费出了。她连连点头说好。我一开始以为他们只是在开玩笑的对话。没想到下车的时候，她拿出一张100，给司机说把我的那份也收掉吧。&lt;br&gt;&lt;br&gt;这时我怎么好意思，虽然我是麻烦了一些，但我其实也没什么事做。而且晚上十点多的光景，坐在出租车上看看这个城市，其实还是很美丽的。（那会儿萌生了去开出租夜班的想法啊哈哈）&lt;br&gt;&lt;br&gt;但是，我硬是执拗不过。我一个人说不要帮我付，他们三个之间的交易却早已经完成。&lt;br&gt;&lt;br&gt;情侣下了车之后，我们又调了头重新走刚刚那条早已经走过的路。我和司机聊天。司机说无论怎么说，她是应该这么做的。对这个观点我无法赞同。毕竟当事人是我，我也并不是为了多花点时间蹭个免费车的心态去的。但是我和司机一致的观点就是：&lt;br&gt;&lt;br&gt;&lt;br&gt;在这个社会里，好人是应当得到好报的。当我们做了好事之后，我们的内心会变得舒坦。然而这些派生的物质奖励，是我们在做好事时不曾寻求过的。无论怎样，不要把这些东西当做自己的绊脚石。更无需愧疚。&lt;br&gt;&lt;br&gt;其实那天晚上回去之后，我对这个事情想了很久，我去问了好几个朋友，问他们倘若是换成他们，他们会这么做吗？倘若是换成我自己，我又会这么做吗？后来得到的答案自然是肯定的。这让我恍然大悟，也许这个女生的这种行为，它并不是必须做的。然而，它却是一个良序社会中，人人都应该肯定的积极的东西。想到这里，我便释然了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;所以，题主你做的很漂亮，阿姨做的也很棒。也请下次倘若是有人帮助你，记得给他一定的回报。只是随手的一些东西而已，让这个习惯流传起来。因为我们的社会，已经缺失了太久这样的温暖。我们不但要把这些温暖传递出去，还要让更多的人看到他。这就是你我今日在这里讲故事的意义所在。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22390810/answer/21227903
 </link>
 <author>
@@ -287,20 +301,6 @@ iOS 越狱之后，沙盒安全保护机制就被完全移除了吗？
 </title>
 <description>
 很多人有误解，所以我问了这个问题，写了这个回答：&lt;br&gt;&lt;br&gt;iOS 越狱不代表沙盒（sandbox）的移除，至少现在的越狱方案都不会做这样的傻事（不同的越狱方案对沙盒会有所不同的影响）。但可以肯定：通过 App Store 渠道下载安装（在路径 /var/mobile/Applications/ 下面）的应用依然会被困在自己的沙盒内，即便是越狱环境，那么它们也不能非法未授权访问沙盒以外的文件，譬如说短信（/var/mobile/Library/SMS/sms.db）。&lt;br&gt;&lt;br&gt;既然沙盒未被移除，那越狱的风险是什么？是安装的应用并不需要经过 App Store 的证书校验。就是说安装的应用可以自己选择安装路径，譬如说跟 Apple 的预装应用一样安装在 /var/stash/Applications/ 下面，那么它便不受沙盒控制。它可以访问的文件就太多了，不限于你的短信、你的联系人、你的邮件、你的设置等等...&lt;br&gt;&lt;br&gt;看到这里，你或许已经知道，为什么我们不推荐，甚至极力反对大家在越狱之后于 App Store 以外的渠道安装 iOS 普通应用（指那些 IPA 后缀的常规应用），即便你说这些应用不是盗版，它们是免费应用，并且是获得开发者授权才于这些『商店』上架云云...... Hey，你知道我不是跟你说什么盗版（这还需要再费口舌吗）。而是，我们无法清楚了解它们是否跟 App Store 上面分发的那个版本一模一样，还是说『加过料』的。譬如说，会安装在它们不应该在的路径下面，跳出沙盒的控制，又或者说带了其它数据收集的组件。（同时，据我所知，很多应用会在『PP 助手』和『91 助手』这些第三方『应用商店』推出所谓的『越狱版』，号称 『功能更强大』...）&lt;br&gt;&lt;br&gt;所以，越狱之后，请还继续在 App Store 安装应用。在 Cydia 上面只安装你信任的 tweaks，通常我不会建议安装国内公司开发的任意软件，也不要添加他们提供的任何 Cydia 源。你知道，有时候 App Store 的条款和限制都绑不住这些流氓，放出来怎么得了？再进一步，如果一个国内公司开发的应用取得跟 Cydia 一样的地位，譬如说『太极助手』... 后果我不敢想象。当我们选择越狱，一定程度上，是因为我们信任解决方案背后的越狱社群，信任 Cydia，信任 saurik，也相信这个社群的人会相互监督。但如果你把这种信任放在错误的人身上，那么... 我只能说你要对自己负责，别人对你说『活该』的时候也认了罢。&lt;br&gt;&lt;br&gt;那是否 iOS 越狱之后，从 App Store 安装的应用就一定安全？也并非如此，上面说了不同的越狱方案对 sandbox 的影响会有不同。但通常都会使其变得更『虛弱』，譬如说越狱之后这些应用可以 ‘fork’ 沙盒外的文件。当然，危害就没有那么大，也无需太过紧张。App Store 上面的应用并没有坏到假设你的设备已经越狱，然后针对开发出坏坏的功能，隐蔽躲过 App Store Review 然后上架，看能不能对已经越狱的设备作点坏事。&lt;br&gt;&lt;br&gt;__&lt;br&gt;延伸阅读：&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/16026920/why-sandbox-in-ios-6-1-1-still-exists-for-app-even-after-i-have-jailbreak&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Why SandBox in iOS 6.1.1 still exists for App even after I have jailbreak?&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/15968845/once-jailbroken-will-ios-apps-run-with-root-privilege/15970080#15970080&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Once jailbroken, will iOS apps run with root privilege?&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; (no)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=4127801&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Did you forget about the Cydia marketplace &amp;amp;#38; jailbroken iPhones?&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/15893849/will-fork-in-ios-app-likely-be-rejected-by-apples-vetting-process/15897505#15897505&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Will fork() in iOS app likely be rejected by Apple's vetting process?&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22374817/answer/21159043
-</link>
-<author>
-Lenka wong
-</author>
-<title>
-有哪些不常被关注的人群，其实人数非常多？
-</title>
-<description>
-同妻，维基百科上说中国有1600万&lt;br&gt;————————————————————&lt;br&gt;想起一些事情，和大家分享一下。&lt;br&gt;&lt;br&gt;大学时就这个课题做过小小的研究，还混进过一个同妻的QQ群，当时有一个例子给我留下了非常深刻的印象，她说结婚后，丈夫总是不愿意和她亲近，并以各种理由嫌弃她（这位男主相当残忍），为此她一直感觉自己很糟糕，同时也为自己无法成为一个讨人喜欢的妻子而陷入自卑中，一直到很多年以后，她得知了丈夫是同性恋才明白过来，原来所有问题都不在自己，但那又如何呢？所有美好及青春的岁月都已经错过了，那些本该享受溺爱的年纪里，她却独自承受了这么多的苦涩。。。&lt;br&gt;&lt;br&gt;这样的情况太多了，有些一起生活了十几二十年才知道真相的，真是哭都没眼泪了！&lt;br&gt;&lt;br&gt;为此我旗帜鲜明地&lt;b&gt;支持&lt;/b&gt;&lt;b&gt;同性恋婚姻立法&lt;/b&gt;！只有更多人接受了同性恋，这种惨剧才会少一些！
 </description>
 </item>
 </channel>
