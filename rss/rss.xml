@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22420900/answer/21742265
+</link>
+<author>
+李楠
+</author>
+<title>
+怎样成为全栈工程师（Full Stack Developer）？
+</title>
+<description>
+Full Stack Developer 在国内不被接受的一个主要原因是公司缺乏稳定的 T 线（技术职位晋升路线）。&lt;br&gt;&lt;br&gt;太多有才华的人写了几年代码最后都去做了管理。而今天的网络相关技术，聪明又能持续学习的人，在三年之内可以在一个领域做到很高的水准。&lt;b&gt;那么如果你做五年，十年甚至十五年呢？&lt;/b&gt;&lt;br&gt;我以为你成为 Full Stack Developer  是很自然的选择，而且可以跟随最顶尖的技术。这种人并不罕见，我认识的人中  @徐 乐乐 就是个例子。&lt;br&gt;&lt;br&gt;相信 Full Stack Developer 的核心并非否定团队和协作，而是更多的体现在架构设计，快速原型和 TroubleShooting 方面。&lt;br&gt;&lt;br&gt;随着今天的分层越来越清晰，平台和语言越来越有特点，更加全面的技术人员可以根据不同的语言搭建整个架构。&lt;br&gt;数据一致性要求高？那么使用事务管理久经考验的 Spring？还要考虑 scale ？那么放在 Oracle 里面做还是放在 Application Server 的 Transaction 管理里面做？简单请求的高并发？那么 Node.js 也许不错。 Web App 快速原型，那么 Rails 也许不错。邮件模板和自动发送？ PHP 有现成的东西为什么不用？前端数据和交互复杂？ 为什么不试试 emberjs （ PS ：选前端框架对于架构人员来说简直像女人逛银座一样令人兴奋。甚至有人用几乎所有的框架写了同样的 Web App 来供他们试用： &lt;a href=&quot;http://todomvc.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;TodoMVC&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）？想绕过苹果的 App Store 的审查机制频繁发布？可以考虑在 iOS Apps 里面嵌入 HTML5 。&lt;br&gt;&lt;br&gt;Full Stack Developer 在快速原型上也很有优势，因为省去了大量的管理和沟通成本。而且，这并非就意味着一定在代码质量或者测试上有缩水。 &lt;br&gt;MVC 前后都可以用。一个写过 test_helper.rb 的人做前端，一定会搜索 javascript TTD 。同样，用过 javascipt lint 的人一定可以找到 stylecheck 。语言和平台会变化，聪明的方法和工具都是共通的。懂得基本的字体知识和排版审美难道和 CSS 不是天生一对？&lt;br&gt;&lt;br&gt;TroubleShooting 方面 Full Stack Developer 同样优势巨大。&lt;br&gt;服务器压力太大未必需要通过后端解决，优化个 SQL 写个 Hint 是选择，而拿一部分数据和运算到前端也许是更加合理和低成本的选择。一个系统运行多年，最后遗留的问题很可能需要对业务和技术都有深入理解的人才能解决。&lt;br&gt;&lt;br&gt;从以上内容可以看出， Full Stack Developer 并非杂而全 - Facebook 也不会雇庸手。他要求的是一种更加全面的深入。 一方面，他是技术人员不断学习的结果。另一方面，他也是对自己事业的一种责任：&lt;br&gt;&lt;br&gt;技术人员的价值不是指派做了一半的 issue 给队友，而是更快更好的&lt;b&gt;搞定事情&lt;/b&gt;。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21996618/answer/20458371
 </link>
 <author>
@@ -286,20 +300,6 @@ Monsters》和国外风靡多年的网页游戏《Travian》，成功之后又�
 DojoMojo，Gameloft的Total Conquest、Space Ape的Samurai Siege、GREE的Call to 
 Arms等等，当然也包括IGG的Castle 
 Clash。说到Gameloft，这家育碧旗下的手游公司在手机上对国外各大主机游戏大作的山寨之多绝对也让人叹为观止。&lt;/p&gt;&lt;/blockquote&gt;法律上讲，游戏类型玩法是不受保护的；实际操作上讲，在目前类型玩法已经十分丰富的情况下，想要做真正意义上的创新是很困难的了。借鉴也好、致敬也好，在模仿基础上进而有锁创新确实是世界通行的做法，所以国内很多玩家对仅仅是模式相同游戏的口诛笔伐确实有些“慷他人之慨”了，或者说是双重标准——其实每个人可能都会经历这样的阶段，我们很难在网络上让别人改变自己根深蒂固的观念，只要自己觉得无愧于心就好。&lt;br&gt;&lt;br&gt;国内目前最大的问题是很多产品上你很难看到开发者自身的思考，完全是对成功游戏的像素级复刻或大杂烩式的拼凑，自己甚至都不知道为什么要有某些功能就盲目地加上很多“为了有而有”“别人有我也要有”的功能，最终出来的东西画虎不成反类犬，徒为众人笑柄。成功游戏人人会钻研，成功学分享人人可看，甚至偶然的成功也不意味着今后都能成功，无论个人还是团队，只有对产品和用户有敬畏之心，真正把技能和方法论变成自己的，才有可能持续成功吧。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22533127/answer/21688230
-</link>
-<author>
-徐腾飞
-</author>
-<title>
-武汉1.7万吨大桥是怎样实现“空中转体”的？过程中存在的风险有哪些？什么情况下会采取这样的施工方式？
-</title>
-<description>
-谢 @赵世奇 邀请&lt;br&gt;&lt;br&gt;从图片上大家注意到，这个桥是要横跨铁路线，这就是我国会采用这种施工方法的最常见的情况。&lt;br&gt;&lt;br&gt;我目前正在昆明的一个工地，也是要跨越铁路线，也要采用特殊的施工方式。&lt;br&gt;&lt;br&gt;根据铁路部门要求，跨越既有线路，在桥下搭架施工，那是想都别想的事情。&lt;br&gt;&lt;br&gt;在铁路线上方的施工，也是基本不允许的。所以，跨越既有铁路线路的桥梁施工必须采用特殊的施工工艺。(可能有采用挂篮施工的，但估计要做大量的工作，才能搞定铁路部门）&lt;br&gt;&lt;br&gt;常见的有几种：顶推与转体，我今年下半年已经做了3个顶推施工的施工监测控制了（我的头像就是在某个正在顶推的梁上）。&lt;br&gt;&lt;br&gt;顶推施工就是将铁路上方的梁体在铁路外侧修建好，然后逐渐的从铁路外一点一点的推出去，跨越铁路，到达对岸，这样尽可能的避免干扰铁路线的允许。&lt;br&gt;&lt;br&gt;&lt;br&gt;在这个过程中，铁路绝对是铁老大，按照规定，这个顶推作业必须在天窗点施工。所谓天窗点，就是每天铁路根据运行图，给出1-2个小时的时间，这个时间段内，铁路上没有火车运行。&lt;br&gt;这样子，每天工作时间都非常有限。当然，施工单位要想办法搞定铁路部门，让他们睁一只眼闭一只眼的，不在天窗点施工。顶推的过程，持续时间少则3-5天，长的话，持续将近一个月。&lt;br&gt;&lt;br&gt;&lt;br&gt;而转体施工，则是将桥墩设置在铁路外，桥墩上设置转轴，在铁路外将梁体和桥墩都修好，然后转动一定角度，跨越铁路，在现浇一小段完成合拢，类似新闻中报道的这个桥。&lt;br&gt;&lt;br&gt;转体施工的优点是，占用铁路时间短，所有准备工作做好后，开始转体到结束转体，1个小时左右就可以搞定，只要一个天窗点就搞好了。&lt;br&gt;&lt;br&gt;而缺点就是那个转轴非常重要而且很贵，同时桥梁的结构形式有特殊要求，必须是连续刚构（即桥墩与梁体是浇筑成一个整体的，谢谢  @常江  补充，连续梁桥也可以转体，但是要做临时固结，此时相当于连续刚构）。&lt;br&gt;&lt;br&gt;同时，在转体前，必须严格称重，计算与监控，保证梁体的重量是平衡的，这个非常要紧。&lt;br&gt;&lt;br&gt;当然，无论是顶推还是转体，都必须要做施工监控的。
 </description>
 </item>
 </channel>
