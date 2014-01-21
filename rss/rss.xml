@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22572025/answer/21822396
+</link>
+<author>
+黄祺
+</author>
+<title>
+2014 年 1 月 21 日国内互联网根域名服务器 (DNS) 故障是什么原因？
+</title>
+<description>
+网上各种谣言纷飞啊，目睹整个过程必需来说说。&lt;br&gt;&lt;br&gt;15:20 接到一个CDN用户询问，只有一句话：节点挂了？我第一反应是curl测一下节点，咦连不上？再进行dig +trace，吓尿了……看图&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d2/c0/d2c0c26c8b00a17a01806b3f0c7b163b_m.jpg&quot; data-rawwidth=&quot;677&quot; data-rawheight=&quot;442&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;677&quot; data-original=&quot;http://p1.zhimg.com/d2/c0/d2c0c26c8b00a17a01806b3f0c7b163b_r.jpg&quot;&gt;w(ﾟДﾟ)w这是典型的*啊……我就回了句卧槽你被*照顾了？仔细一想，他就一个动漫论坛，不可能有这照顾啊，顺便下面放一张被*照顾的域名的DNS跟踪图，像这样就肯定是*干的好事了：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/ba/e8/bae8fae46b839a86d1cb3ff990d3d9a4_m.jpg&quot; data-rawwidth=&quot;677&quot; data-rawheight=&quot;442&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;677&quot; data-original=&quot;http://p3.zhimg.com/ba/e8/bae8fae46b839a86d1cb3ff990d3d9a4_r.jpg&quot;&gt;&lt;br&gt;于是我联系了运维帮助协查，运维这一查艾玛吓尿了好吗，托管在我们DNS上的域名全部解析出来都是这鸟样……这不科学(╯‵□′)╯︵┻━┻难道我们被*照顾了？小心脏心跳速度骤增，这时候Q群消息变的多起来，咦百度打不开，QQ空间又挂了blablabla...&lt;br&gt;&lt;br&gt;我再继续跟一下几个域名，我大概这辈子只能见到一次这样的trace图了：&lt;br&gt;百度和我自己的博客&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2b/e3/2be3bf7c3740169ae357583181ce3ffd_m.jpg&quot; data-rawwidth=&quot;677&quot; data-rawheight=&quot;506&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;677&quot; data-original=&quot;http://p3.zhimg.com/2b/e3/2be3bf7c3740169ae357583181ce3ffd_r.jpg&quot;&gt;我居然能和度娘在同机房！爽不爽！【群众：滚(╯—﹏—)╯（ ┷━━━┷ &lt;br&gt;&lt;br&gt;ovear君的截图，他使用的是TCP查询，TCP也被污染的话，你猜除了*还有谁能干？然后发现google家dns貌似是正常的~_~&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/3c/b4/3cb40e61cfc48a0eda4cbcfd73caf173_m.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;306&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://p4.zhimg.com/3c/b4/3cb40e61cfc48a0eda4cbcfd73caf173_r.jpg&quot;&gt;&lt;br&gt;与此同时运维也在各地的服务器上开始了跟踪查询，发现全国各地解析时间均为25ms左右。这时候结论就出来了。但是也许有人会说我的证据不够充分，那么我们再继续查查这个65.49.2.178是什么来头。&lt;br&gt;&lt;br&gt;于是呢，我们在同C段的65.49.2.0/24查到了下面的网站：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/19/26/19260f35b182a7bfa6626a2d5d66adb4_m.jpg&quot; data-rawwidth=&quot;902&quot; data-rawheight=&quot;556&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;902&quot; data-original=&quot;http://p2.zhimg.com/19/26/19260f35b182a7bfa6626a2d5d66adb4_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;关键词自己图里找&lt;br&gt;&lt;br&gt;整理一下：&lt;br&gt;&lt;ol&gt;&lt;li&gt;低延迟说明全国各地（至少在省内或者附近，不会南方跨到北方）直接返回被劫持的IP；&lt;/li&gt;&lt;li&gt;TCP查询同样中枪，排除黑阔采用全国发UDP包方式进行劫持；&lt;/li&gt;&lt;li&gt;同网段有那啥网站。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;结论不写了。&lt;br&gt;&lt;br&gt;================================================================&lt;br&gt;更新一下，有人问啥时候会恢复什么的。&lt;br&gt;&lt;br&gt;劫持的影响大约只有15分钟。当时我查到的TTL是几万，也就是说，在电信运营商没对递归DNS手工刷新缓存的情况下，可能还需要间断受影响几个小时。不正常的可以试试更换DNS为8.8.8.8，或者等几小时再看看，后继影响略严重的样子=_=
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20566666/answer/15503013
 </link>
 <author>
@@ -277,20 +291,6 @@ Apple.com.cn 的翻译是什么机构做的？
 </title>
 <description>
 Moravia IT 做的。捷克的一家跨国翻译公司，在美国和南京都有分部。 App Store、iTunes 大多也都是他们在做。不过，苹果还有其他本地化服务供应商，比如 Welocalize。&lt;br&gt;&lt;br&gt;话说我在 2012 年初到 2013 年初给 iTunes 和 App Store 团队翻译了很多东西，包括 2012 年 App Store 排行榜。现在也是不时翻译一些。排行榜内容实际上在 2012 年 10 月就已经确定，我记得 10 月17 日左右就已翻译好。&lt;br&gt;&lt;br&gt;苹果内部只有一个 Chinese Reviewer，一个胖子，水平挺差的，经常自以为是把译文改得面目全非翻译腔十足。这也是苹果官网上翻译腔严重的主要原因。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/19724159/answer/21765410
-</link>
-<author>
-cOMMANDO
-</author>
-<title>
-去土耳其旅行，有什么建议和提醒么？
-</title>
-<description>
-1、提前订好城际间大巴的车票——虽然夜间巴士非常痛苦，但是大概他们那儿只有这个。当地大巴公司众多，请事先查阅相关论坛，预订比较好的大巴公司车票，Pamukkale 和 Metro 都还算不错。总之我建议是到一个地方就先订好大巴票；&lt;br&gt;&lt;br&gt;2、北京到伊斯坦布尔，阿联酋航空的飞机不错，常年打折，多出一点儿钱还能做A380；&lt;br&gt;&lt;br&gt;2.1、用韩国签证申请土耳其签证的办法就不说了吧？当年我们是第一批用土耳其电子签出行的，还在知乎上请教了两位边检人员，得到的答复都是无法出境，好在我们预订出发前3天出入境管理局得到通知承认土耳其电子签，否则就要硬说从土耳其去免签的格鲁吉亚了……&lt;br&gt;&lt;br&gt;2.2、阿联酋航空会在迪拜经停，可以免费申请当地96小时过境签证，如果有闲心可以顺便玩玩；&lt;br&gt;&lt;br&gt;3、伊斯坦布尔固然很棒，但以佛所的古城实在是棒呆了，如果只能去一个地儿，那就以佛所古城吧，可以租一辆车，古城、玛利亚的小屋什么的都去一趟——我当年误租一辆1.0排量的手动档polo，在盘山路上不停熄火……&lt;br&gt;&lt;br&gt;说起来塞尔丘克山上有宗教圣地，传闻是圣母玛利亚晚间隐居的小屋（保罗六世来朝圣过一次，算是半官方坐实了这个传闻），成群的洋大人从游轮上下来到此地来瞻仰，当地还卖圣水，考虑到防备吸血鬼，我和童彤就买了一瓶。&lt;br&gt;&lt;br&gt;我们在此地还有奇遇，旅游手册上说这里有 “带给游客健康、智慧和财富的泉水” ，身为游客，就要有游客的觉悟，必须入乡随俗去讨口彩。按图索骥，看到墙壁上有三个水龙头正在淌水，但90%的游客，大概得有三五十人，都在一个水龙头前耐心排队接水，还有一个水龙头前只有三四个人，更有一个水龙头是空的。我们觉得洋人大概又是排队排傻了，就直接走到没人的水龙头前接水一饮而尽。然后就发现两边的游客像见了鬼一样看我们。退下来翻看旅游手册，才发现是 “分别带给游客健康、智慧和财富的三股泉水（且只能选择其中一股）”。估计我们选择了财富……哼，这些心口不一的洋人大概被我们这种舍命不舍财的气魄震惊了。&lt;br&gt;&lt;br&gt;4、当地当然有骗子，比如蓝色清真寺和索菲亚教堂中间的广场，但完全未够班……我连谈笑风生都懒得和他们谈；&lt;br&gt;&lt;br&gt;5、土耳其为了防止走私移动电话，凡是没登记IMEI号的手机都会在使用5-10天的随机时间后锁机……当地倒是有纯数据卡，也不贵，只是锁手机这事儿很烦人，我去的时候是硬拼运气使的。&lt;br&gt;&lt;br&gt;6、如果可能的话，试试在清真寺里看一下他们的礼拜。&lt;br&gt;&lt;br&gt;我去年去土耳其的时候，一直就很想看一下穆斯林礼拜，但蓝色清真寺在礼拜的时候是禁止非穆斯林进入大殿的（我后来查了一下，没有发现《古兰经》里支持这种做法的字句）后来跑到埃于普苏丹清真寺（Eyup Sultan Camii）里，终于看到了一次穆斯林礼拜。&lt;br&gt;&lt;br&gt;身为尊重宗教信仰的死游客，我事先查阅了教法规定，德高望重的阿訇说，身为异教徒，是可以进入清真寺的（他们还举了个例子，说某某某穆斯林把一个异教徒绑起来带进清真寺审讯，所以可证异教徒可以进入清真寺）。穆斯林是可以邀请异教徒一起礼拜的。至于礼拜时是否允许照相摄影，没有明示，但我看到过国家地理电视台在麦加拍摄的穆斯林礼拜记录，因此可见应该是允许的。&lt;br&gt;&lt;br&gt;我和童彤一起参加了礼拜，我在一层，童彤在二层（妇女必须上二层），我没有跟随他们的礼拜动作，不过我身边的土耳其兄弟非常友善，我向他点头致意，他也右手抚胸向我点头致意。&lt;br&gt;&lt;br&gt;我还录像了……如果你觉得前面很无聊，请跳到第3分钟看。&lt;br&gt;&lt;br&gt;&lt;div class=&quot;video-box&quot; data-swfurl=&quot;http://www.tudou.com/v/171007283/v.swf&quot;&gt;&lt;div class=&quot;video-box-inner&quot;&gt;              &lt;div class=&quot;video-thumb&quot;&gt;                &lt;img class=&quot;video-thumbnail&quot; src=&quot;http://i4.tdimg.com/171/007/283/p.jpg&quot;&gt;&lt;i class=&quot;video-play-icon&quot;&gt;&lt;/i&gt;              &lt;/div&gt;              &lt;div class=&quot;video-box-body&quot;&gt;                &lt;div class=&quot;video-title&quot;&gt;P6130624&lt;/div&gt;                &lt;div class=&quot;video-url&quot;&gt;http://www.tudou.com/programs/view/rsWpYk8tBnY/&lt;/div&gt;              &lt;/div&gt;            &lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5c/15/5c154695b7978c062ec4ee7419488f4a_m.jpg&quot; data-rawwidth=&quot;690&quot; data-rawheight=&quot;517&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;690&quot; data-original=&quot;http://p2.zhimg.com/5c/15/5c154695b7978c062ec4ee7419488f4a_r.jpg&quot;&gt;清晨在蓝色清真寺拱门内，对面是索菲亚教堂&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5b/6c/5b6c70ea2cb57eaf759b32e6eea601d6_m.jpg&quot; data-rawwidth=&quot;690&quot; data-rawheight=&quot;517&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;690&quot; data-original=&quot;http://p2.zhimg.com/5b/6c/5b6c70ea2cb57eaf759b32e6eea601d6_r.jpg&quot;&gt;排摄于某个清真寺内
 </description>
 </item>
 </channel>
