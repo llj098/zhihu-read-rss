@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22570683/answer/21833675
+</link>
+<author>
+知乎用户
+</author>
+<title>
+为什么箭头向左是后退，向右不行么？
+</title>
+<description>
+&lt;img src=&quot;http://p4.zhimg.com/76/2f/762ffebf939f4b7a65022c350ba701ad_m.jpg&quot; data-rawwidth=&quot;437&quot; data-rawheight=&quot;328&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;437&quot; data-original=&quot;http://p4.zhimg.com/76/2f/762ffebf939f4b7a65022c350ba701ad_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;你只要见过阿拉伯语版windows什么样就不会问这个问题了. 书写方向相反, 界面布局相反, 箭头方向自然也是反的. 要快速体验&quot;现场版&quot;, 你可以去维基百科随便点进个阿拉伯语版页面, 网页左右布局也是相反的. &lt;br&gt;&lt;a href=&quot;http://www-01.ibm.com/software/globalization/guidelines/h3.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;图片来源: IBM  Globalization&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;扩展: 关于从右向左书写文字系统的界面设计的讨论:&lt;br&gt;&lt;a href=&quot;http://ux.stackexchange.com/questions/35780/why-would-users-of-an-arabic-interface-show-an-f-pattern-in-eye-tracking-tests&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Why would users of an Arabic interface show an F pattern in eye tracking tests?&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.i18nguy.com/MiddleEastUI.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;i18nguy.com/MiddleEastU&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;I.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22544594/answer/21811329
 </link>
 <author>
@@ -278,20 +292,6 @@ Hou Jilei
 </title>
 <description>
 LTE的部署一定要有一个循序渐进的过程。初期肯定是在北京CBD、上海陆家嘴这样的热点城市地区，3G的标准还是覆盖郊区这样的地方。在非常地广人稀的地方，比如海岛、草原只有2G语音。不过覆盖范围肯定是会越来越大的。但是人是有移动性的，比如我用了一个4G的手机，既要求在热点地区有4G的服务，在非热点区域自动有3G的服务。如果我去草原或者海岛上旅游，也需要打电话用手机，所以需要多模的。因此可以预见未来LTE手机一定是多模的，多种制式它都可以支持。&lt;br&gt;&lt;br&gt;另一方面，LTE最令人头疼的事情就是频段的碎片化。无线通信和PC最大的不同是不仅要处理数据，还要在无线频段传输这些数据，但无线频段非常稀缺，好一点的频段都被2G、3G在过去的20年划分光了，剩下的都是一些比较窄、或者比较离散的频段。但是物理上有一个要求，如果要以比较高的速率传输数据的时候，无线带宽必须要足够宽，可是现在连续、很宽的无线带宽已经很稀缺了，因此只能把不连续的几个频段拼在一块，然后让数据在这个拼出来的频段上传输，这是一个很重要的技术，叫载波聚合。现在频段碎化到什么程度呢？现在大约有40多个频段。&lt;br&gt;&lt;br&gt;LTE的覆盖是有限的，有一个循序渐进的过程，在不同的国家有不同的制式，各种制式还有不同的频段，而Qualcomm的调制解调器支持“全制式”，2G、3G、4G的全部七种制式都支持，此外这些制式共有40多种不同的频段，还有各种不同的共计17种语音模式，Qualcomm能做到都支持。LTE现在主要是处理数据任务的，而手机肯定需要有电话的功能，这就要回落到2G或3G，所以要求调制解调器是多模、多频、多语音的，目的是支持所有的网络制式，这样用户就能有无缝的体验。&lt;br&gt;&lt;br&gt;还有一点，你知道你的手机里有多少天线吗？大概有七到九个。因为除了2G、3G、4G的制式，还有WiFi、GPS、蓝牙、FM等等，全都是无线通讯，每一种都需要天线发射信号，彼此之间每个都有自己的频段，每个都互相产生干扰，所以这也是一个挑战。我们讲多模讲高度集成，还包括把这些模块也集成在一起。&lt;br&gt;&lt;br&gt;有一个多模多频、高度集成的调制解调器，把这些挑战和困难都解决了，终端厂商和手机用户将最后从中受益。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20432697/answer/21782678
-</link>
-<author>
-苏簌
-</author>
-<title>
-中国中小学为何要求学生统一着装及发型？这是否构成对个人基本权利的侵害？
-</title>
-<description>
-&lt;p&gt;&lt;b&gt;－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　本回答已经被举报勒令修改，但我看不出哪句不符合“知乎社区规范”了&lt;/strong&gt;（你真当自己是牛逼的中国电影审查制度吗）&lt;strong&gt;，劳烦举报者受累在评论中详加指出。&lt;/strong&gt;&lt;br&gt;－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;　　排名第一的yol先生真是太不了解中国国情了，什么都能扯到平等自由（其实这正是我想说的）。日本学校什么情况我不知道，但中国学生要求着装和发型的初衷决不是为了追求平等，一个分快慢班重点班复读班享受不同教育资源的学校会推崇平等？一个为了比分而存在的教育制度可以培养学生恬淡的心态杜绝攀比？公然推行双重标准吗？校长和老师不平等，老师和学生不平等，班干部和普通学生不平等，父母职业高低贵贱不平等，中国的学校敢跟自己的学生说平等就像朝鲜政府要解放全人类一样是个笑话。&lt;/p&gt;&lt;p&gt;　　中国教科书提倡尊师重道，渲染领袖关怀，强调政治正确，劝诫刻苦学习，还有爱国情操乐于助人舍己救人拾金不昧友情万岁尊老爱幼甚至国际友好等一应俱全，就是不会提平等。说美国不限制衣着发型是“着眼于自由”是说对了，中国限制衣着发型在意识形态上就是推崇不自由，或有限制的自由，警惕资产阶级自由化，古往今来通过强制发式来践踏独立思考自由精神的实例大家都清楚就不赘言了。&lt;b&gt;具体到实施上其原因有二：教育者认为对美的追求会使学生分心不利于提高学习成绩，&lt;/b&gt;而应试教育成败的标准就是分&lt;b&gt;；从形式上灌输集体主义观念，形成纪律服从，便于日常管理。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;　　在此并不是说穿校服不好，我在知乎回答通常是针对题主的问题本身，就是“发型与穿戴自由为何被剥夺”，至于到底应不应该剥夺，学生有没有基本的公民权，不表态也不作探讨。其实题主没说错，封建社会的中央集权家长制至今仍残留下“控制型”的特色国情，我们还说过“把地球管起来”。&lt;/p&gt;&lt;p&gt;　　台湾情况我也不清楚，不过下面有人贴了龙应台的文章，我想龙部长是更有发言权的。&lt;/p&gt;
 </description>
 </item>
 </channel>
