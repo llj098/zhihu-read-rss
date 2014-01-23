@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22570835/answer/21844004
+</link>
+<author>
+知乎用户
+</author>
+<title>
+如何通俗地解释「帕累托最优」（Pareto optimum）？
+</title>
+<description>
+很多人混淆了“帕累托最优”和“最优”。&lt;br&gt;&lt;br&gt;简而言之，无法再进行改进了，就是最优。无法再进行帕累托改进了，就是帕累托最优。&lt;br&gt;&lt;br&gt;举个例子，假设你现在正在玩一个模拟经营类游戏，你的国家里有一个富人和一个穷人，富人每得到一个面包时幸福感增加1，穷人每得到一个面包时幸福感增加10。失去面包则反之。&lt;br&gt;&lt;b&gt;你的目标是所有人的幸福感之和越大越好。&lt;/b&gt;&lt;br&gt;&lt;br&gt;讨论下面几种行为：&lt;br&gt;&lt;br&gt;1. 你给富人一个面包。&lt;br&gt;你的总目标函数增加了1，同时没有任何人幸福感下降。这既是改进，也是帕累托改进。&lt;br&gt;&lt;br&gt;2. 你给穷人一个面包。&lt;br&gt;你的总目标函数增加了10，同时没有任何人幸福感下降。这既是改进，也是帕累托改进。&lt;br&gt;&lt;br&gt;3. 你从富人那里拿走一个面包给穷人。&lt;br&gt;你的总目标函数增加了9。此时，你的做法是改进，但不是帕累托改进，因为总幸福感的上升是以富人的幸福感下降为代价的。&lt;br&gt;&lt;br&gt;4. 整个国家&lt;b&gt;只有&lt;/b&gt;N个面包，你把它们&lt;b&gt;全部&lt;/b&gt;给了穷人。&lt;br&gt;你的总目标函数达到最优，并且也达到了帕累托最优。&lt;br&gt;&lt;br&gt;5. 整个国家只有N个面包，你给了富人k个，给了穷人N-k个。&lt;br&gt;显然你的总目标函数没有达到最优，但是你已经达到了帕累托最优。之后再对你的方案做任何的调整，都会有人幸福感受损。&lt;br&gt;&lt;br&gt;从4、5可以看到，&lt;b&gt;在这个问题下&lt;/b&gt;，你的“最优”方案只有一个：把所有的面包给穷人。而“帕累托最优”的方案则可以有很多个，只要你把手上的面包全部分配出去了，都是帕累托最优。&lt;br&gt;&lt;br&gt;帕累托最优并不是最理想的状况，甚至有时候跟最优解差得很远。为什么我们平时一般更关注帕累托最优？因为现实生活中，实施帕累托改进比实施改进要容易得多。帕累托改进不会触犯一些群体或者一些部门的利益，遇到的阻挠就小。久而久之，经过一系列的帕累托改进，也就只能达到帕累托最优，而不能达到最优了。所以一般在实际项目中，只要达到帕累托最优，我们就认为已经达到理想的状况。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20589595/answer/21862022
 </link>
 <author>
@@ -286,20 +300,6 @@ redrain root
 <description>
 &lt;p&gt;我给大家讲过故事～有一户人家他在自己院落修了一堵高墙，就怕自家的小孩儿出门被邻居们带坏了，所以限制了小孩儿出门访问邻居的对象，有个邻居叫做DIT,这个大哥哥想让小孩儿悄悄翻出高墙，所以做了ZY门，小孩儿也悄悄咪咪的跑出去和邻居玩儿了，有一天，这户人家发现了，增大了对限定的力度，想要把这个叫做DIT的邻居的路也给堵死了，但是在修墙的时候，一不小心自己修墙没修好被邻居把所有的路都堵死了，小孩儿连自己家的房子都进不去了～&lt;br&gt;
 哟呵呵呵，这个故事告诉了我们，打脸好疼&lt;/p&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22572025/answer/21822396
-</link>
-<author>
-黄祺
-</author>
-<title>
-2014 年 1 月 21 日国内互联网根域名服务器 (DNS) 故障是什么原因？
-</title>
-<description>
-网上各种谣言纷飞啊，目睹整个过程必需来说说。&lt;br&gt;&lt;br&gt;15:20 接到一个CDN用户询问，只有一句话：节点挂了？我第一反应是curl测一下节点，咦连不上？再进行dig +trace，吓尿了……看图&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d2/c0/d2c0c26c8b00a17a01806b3f0c7b163b_m.jpg&quot; data-rawwidth=&quot;677&quot; data-rawheight=&quot;442&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;677&quot; data-original=&quot;http://p1.zhimg.com/d2/c0/d2c0c26c8b00a17a01806b3f0c7b163b_r.jpg&quot;&gt;w(ﾟДﾟ)w这是典型的*啊……我就回了句卧槽你被*照顾了？仔细一想，他就一个动漫论坛，不可能有这照顾啊，顺便下面放一张被*照顾的域名的DNS跟踪图，像这样就肯定是*干的好事了：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/ba/e8/bae8fae46b839a86d1cb3ff990d3d9a4_m.jpg&quot; data-rawwidth=&quot;677&quot; data-rawheight=&quot;442&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;677&quot; data-original=&quot;http://p3.zhimg.com/ba/e8/bae8fae46b839a86d1cb3ff990d3d9a4_r.jpg&quot;&gt;&lt;br&gt;于是我联系了运维帮助协查，运维这一查艾玛吓尿了好吗，托管在我们DNS上的域名全部解析出来都是这鸟样……这不科学(╯‵□′)╯︵┻━┻难道我们被*照顾了？小心脏心跳速度骤增，这时候Q群消息变的多起来，咦百度打不开，QQ空间又挂了blablabla...&lt;br&gt;&lt;br&gt;我再继续跟一下几个域名，我大概这辈子只能见到一次这样的trace图了：&lt;br&gt;百度和我自己的博客&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2b/e3/2be3bf7c3740169ae357583181ce3ffd_m.jpg&quot; data-rawwidth=&quot;677&quot; data-rawheight=&quot;506&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;677&quot; data-original=&quot;http://p3.zhimg.com/2b/e3/2be3bf7c3740169ae357583181ce3ffd_r.jpg&quot;&gt;我居然能和度娘在同机房！爽不爽！【群众：滚(╯—﹏—)╯（ ┷━━━┷ &lt;br&gt;&lt;br&gt;ovear君的截图，他使用的是TCP查询，TCP也被污染的话，你猜除了*还有谁能干？然后发现google家dns貌似是正常的~_~&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/3c/b4/3cb40e61cfc48a0eda4cbcfd73caf173_m.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;306&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://p4.zhimg.com/3c/b4/3cb40e61cfc48a0eda4cbcfd73caf173_r.jpg&quot;&gt;&lt;br&gt;与此同时运维也在各地的服务器上开始了跟踪查询，发现全国各地解析时间均为25ms左右。这时候结论就出来了。但是也许有人会说我的证据不够充分，那么我们再继续查查这个65.49.2.178是什么来头。&lt;br&gt;&lt;br&gt;于是呢，我们在同C段的65.49.2.0/24查到了下面的网站：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/19/26/19260f35b182a7bfa6626a2d5d66adb4_m.jpg&quot; data-rawwidth=&quot;902&quot; data-rawheight=&quot;556&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;902&quot; data-original=&quot;http://p2.zhimg.com/19/26/19260f35b182a7bfa6626a2d5d66adb4_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;关键词自己图里找&lt;br&gt;&lt;br&gt;整理一下：&lt;br&gt;&lt;ol&gt;&lt;li&gt;低延迟说明全国各地（至少在省内或者附近，不会南方跨到北方）直接返回被劫持的IP；&lt;/li&gt;&lt;li&gt;TCP查询同样中枪，排除黑阔采用全国发UDP包方式进行劫持；&lt;/li&gt;&lt;li&gt;同网段有那啥网站。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;结论不写了。&lt;br&gt;&lt;br&gt;================================================================&lt;br&gt;更新一下，有人问啥时候会恢复什么的。&lt;br&gt;&lt;br&gt;劫持的影响大约只有15分钟。当时我查到的TTL是几万，也就是说，在电信运营商没对递归DNS手工刷新缓存的情况下，可能还需要间断受影响几个小时。不正常的可以试试更换DNS为8.8.8.8，或者等几小时再看看，后继影响略严重的样子=_=
 </description>
 </item>
 </channel>
