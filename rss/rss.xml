@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20843119/answer/21939631
+</link>
+<author>
+小兽Michiyo
+</author>
+<title>
+拍照的时候怎么让表情自然？
+</title>
+<description>
+以下是我和我家主人的合影，就让我们家主人灰叔来告诉你拍到自然好表情最大的秘诀。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/42/be/42be6bf9bda4e69dadfd69d243e4c7d8_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;878&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p1.zhimg.com/42/be/42be6bf9bda4e69dadfd69d243e4c7d8_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;得到这张好表情的照片过程如下：&lt;br&gt;先是不屑&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c8/63/c863fc9bf700cf745443e22f6b1d24e6_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p4.zhimg.com/c8/63/c863fc9bf700cf745443e22f6b1d24e6_r.jpg&quot;&gt;&lt;br&gt;然后开始挣扎&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/23/f5/23f579751df649bec095581db31e2a9f_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p3.zhimg.com/23/f5/23f579751df649bec095581db31e2a9f_r.jpg&quot;&gt;&lt;br&gt;接着恐慌&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/af/58/af583bf43808b5a9716bf6d4908bba76_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/af/58/af583bf43808b5a9716bf6d4908bba76_r.jpg&quot;&gt;&lt;br&gt;心有余悸...&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0f/04/0f04e42aea6117ca121a802fea2bcd1b_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p1.zhimg.com/0f/04/0f04e42aea6117ca121a802fea2bcd1b_r.jpg&quot;&gt;&lt;br&gt;灰叔不懂配合，很难上相，&lt;b&gt;能不能拍到自然的照片的关键是抓拍的数量是不是足够多，能不能由量变产生质变，找到好照片&lt;/b&gt;。本条除了适合喵星人也适合平凡的地球人。&lt;br&gt;&lt;br&gt;拍照不上相，不自然的原因只有两个：&lt;br&gt;&lt;b&gt;1）你没有360°无死角的美&lt;/b&gt;&lt;br&gt;&lt;b&gt;2）摄影师没抓到你的好表情和好角度&lt;/b&gt;&lt;br&gt;&lt;br&gt;为什么大部分人手机自拍能拍出好照片？就是因为自己能找到自己的好表情好角度。&lt;br&gt;而大多数人不是专业模特出生，没那么多时间和空闲对镜练表情和动作；也不是每个人都有摄影师好友常伴身边，能抓到你的好表情好角度。以上两点很难改变，那就从多角度、多抓拍入手，让量变带动质变，找到最终好的片子。&lt;br&gt;&lt;br&gt;本人常年研习自拍，好点的时候二三十张中能找到一张像样的片，不好的时候要拍上百张。&lt;br&gt;感兴趣的可以挪步我的lofter：&lt;a href=&quot;http://sthtodo.lofter.com/tag/%E8%87%AA%E6%8B%8D&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;自拍 - 小兽Michiyo&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 或关注公众号：Monster Times&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/04/d2/04d24f88cb1bd31312c9cb8a59a4ba45_m.jpg&quot; data-rawwidth=&quot;550&quot; data-rawheight=&quot;800&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;550&quot; data-original=&quot;http://p1.zhimg.com/04/d2/04d24f88cb1bd31312c9cb8a59a4ba45_r.jpg&quot;&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22592405/answer/21912230
 </link>
 <author>
@@ -340,20 +354,6 @@ http://www.zhihu.com/question/22594254/answer/21919919
 </title>
 <description>
 感谢邀请。这个问题是这样子的，&lt;b&gt;32位的大限就是4G，这个是一个无法改变的事实，通过什么技术手段都无法改变&lt;/b&gt;。每一个32位进程都独享4G的虚拟地址空间，其中低2G是给用户的，高2G是给系统预留的。也就是每一个32位进程中，实际能够使用的内存不到2G。&lt;br&gt;&lt;br&gt;但是应用程序对于内存的需求总是无止境的，恨不得所有东西都存在内存里面，完全没有磁盘IO。微软对于32位系统有两种使用更大内存的方法。一种是4GT，就是为了让应用程序能够使用更多的内存，压榨一下操作系统保留的地址空间，也就是低3G留给用户，高1G给系统保留，也就是能够利用的内存空间仅仅多了1G而已。但是这种情况，操作系统支持的总物理内存大小没有改变。&lt;br&gt;&lt;br&gt;另外一种是上面有人提到的PAE，PAE这种支持大内存的方法，也并不能真正解决对于大内存的需求。首先PAE需要硬件支持，也就是CPU具有支持PAE的相关指令。其次，也是最重要的，&lt;b&gt;PAE不能改变每一个进程的虚拟地址空间4G的上限&lt;/b&gt;，而是使得操作系统能够分配的物理内存更多一些而已。也就是说，虽然操作系统支持的物理内存总量可以达到32G，但是每一个进程能够使用的最大内存空间也还是2G，开启4GT之后能够达到3G，然后就上不去了。这种利用大内存的方法对于普通用户并不是非常有意义。毕竟服务器上还可以这样，6G内存中，2G给数据库（进程），2G给缓存（进程），2G留给操作系统的其他服务，通过多个进程瓜分大内存。普通家用系统，玩游戏是单独的游戏进程需要大量的内存，而这种情况即使使用PAE也是解决不了的。&lt;br&gt;&lt;br&gt;所以，如果我们对于内存的需求，是单个进程需要使用大量的内存，那么32位根本不能满足我们的需求，什么样的技术手段都不能够改善。只有升级到64位系统才能够解决这个问题。如果要想在32位系统上充分利用大内存，只能够使用多进程，但是对于大部分需要使用大内存的应用，这种方式也很不靠谱，不同进程之间通信的效率并不高，开发起来还很麻烦，也就是像Chrome这样多进程的程序才能够利用了。&lt;br&gt;&lt;br&gt;如果微软在非服务器版本中启用PAE支持4G以上的内存，按照现在舆论的风气，一定会被骂出翔。&lt;br&gt;&lt;blockquote&gt;为什么明明我配了16G的内存也还是玩不了这个内存需求只有4G的游戏啊！！微软你这个大垃圾！！！&lt;/blockquote&gt;像这样的抱怨一定到处都是，微软费力不讨好，何必呢？&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/windows/desktop/aa366778(v=vs.85).aspx&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Memory Limits for Windows Releases (Windows)&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22597288/answer/21922846
-</link>
-<author>
-马力
-</author>
-<title>
-如何评价“COS被确定是安卓4.1”？
-</title>
-<description>
-在这里，你能读懂，是谁搞砸了中国的科研。&lt;br&gt;在这里，你能读懂，脸皮厚起来可以去城墙拐弯又去黄河泛滥一发不可收拾。&lt;br&gt;在这里，你能知道，骗子和冤大头的默契。&lt;br&gt;在这里，你能读懂，GP.&lt;br&gt;&lt;br&gt;前些天和一位在大学任教的青年教师朋友聊天，他感慨且愤青的说，我觉得这个国家的很多科研经费，真应该用在你们这些人身上，而不是我们现在的体制中，各种阴暗面。&lt;br&gt;&lt;br&gt;今天不得不愤怒青年一下。&lt;br&gt;&lt;br&gt;你们够了！制造垃圾论文，骗取科研经费，顶着大帽子不干正事，把好端端的科研变成金融游戏。&lt;br&gt;&lt;br&gt;你们够了！就像贪官污吏除了拿钱还有可能祸害人一样，你们祸害人才。&lt;br&gt;&lt;br&gt;你们够了！一个操作系统做出来，是真是假，评审时真看不出来么？真看不出来？那就换份工作吧。&lt;br&gt;&lt;br&gt;你们够了！别整天折腾出这些光怪陆离的事，什么雇民工打磨汉芯、COSPLAY 操作系统之类。至少，别恶心「中国」这样的词语好不好。&lt;br&gt;&lt;br&gt;至少在我看到的科技类的科研和学术机构中，包工头化严重，能弄钱的人并不是真正能做出成果的人。每年的科研投入，被大量的消耗在了无效的体制中。&lt;br&gt;&lt;br&gt;有位好朋友是博导，能力很强，理想主义者，平时温文尔雅，有一天早晨七点钟和我通电话，聊聊想法，顺便感慨想认认真真实实在在做事多不容易，中间夹杂各种 TMD。我非常能体会这种心情。TMD，不做事可以，能不要阻挡真正做事的人么？&lt;br&gt;&lt;br&gt;别闹了！
 </description>
 </item>
 </channel>
