@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22146897/answer/20464995
+</link>
+<author>
+吴铭诗
+</author>
+<title>
+睾丸为什么要长在肚子外边？为什么不藏在肚子里？
+</title>
+<description>
+都说生物门槛低，不过看了这道题我感觉体现我专业性的时刻到了&lt;br&gt;-------------&lt;br&gt;不是所有的哺乳动物睾丸都是长在体外的。长在体外是为了利于降温，不过有些物种会由于种种原因长在体内。比如海豚，长在体外会增加阻力，所以是长在体内的。&lt;br&gt;还有一些动物睾丸只在发情期的时候移到体外，比如大象和老鼠。下次去动物园如果赶上发情期的话可以观察一下雄象那令人印象深刻的阴部，睾丸有篮球那么大，阴茎长度更是货真价实的三条后腿，注意不是人腿是象腿。睾丸移到体外的原因一部分是因为降温，另一部分原因是个因为睾丸工作时体积会变大。&lt;br&gt;另外其实人的睾丸也是在体内发育后“掉进”阴囊里的。有时候睾丸也会调皮的跑回去，或者意外的没掉下来。虽然治疗很简单不过疼痛程度可以想象。
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/22628367/answer/22417399
+</link>
+<author>
+Yang Jiao
+</author>
+<title>
+微信 5.2 为什么不兼容魅族 Smartbar？
+</title>
+<description>
+知乎处女答，还望包涵。&lt;br&gt;这个问题其实可以分两个部分来答：&lt;br&gt;&lt;b&gt;一、为什么微信 5.2 不兼容 Smart Bar ？&lt;/b&gt;&lt;br&gt;&lt;b&gt;二、为什么腾讯要这么做？&lt;/b&gt;&lt;br&gt;让我们开始吧。&lt;br&gt;=======&lt;br&gt;&lt;b&gt;一、为什么微信 5.2 不兼容 Smart Bar ？&lt;/b&gt;&lt;br&gt;题主所说的 “不兼容 Smart Bar&quot; ，应该就是指位于Action Bar 右上角的 Overflow 键没有被吸收到 Smart Bar 中的现象。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e6/2d/e62dc9bd658ee8d65b7f29133ddc1bea_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;640&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;究其原因，就是&lt;b&gt;微信 5.2 并没有使用标准的 Action Bar Overflow 控件&lt;/b&gt;。&lt;br&gt;在下面的截图中就很容易看出区别：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/36/b0/36b0e818b0c6ddf102628ef79813a6a1_m.jpg&quot; data-rawwidth=&quot;398&quot; data-rawheight=&quot;112&quot; class=&quot;content_image&quot; width=&quot;398&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e3/ac/e3ac3cd9a28ad93917493eb8baa06cd0_m.jpg&quot; data-rawwidth=&quot;399&quot; data-rawheight=&quot;109&quot; class=&quot;content_image&quot; width=&quot;399&quot;&gt;可以很明显地看出，虽然视觉效果相近，但是微信 5.2 上的 Action Bar Overflow 和左边的两个图标有本质上的区别。&lt;br&gt;非标准 Android 控件不能被 Smart Bar 吸收，自然就是所谓的”不兼容“ 了。&lt;br&gt;=======&lt;br&gt;二、为什么腾讯要这么做？&lt;br&gt;这部分开始为本人的推测。&lt;br&gt;要说明这个问题，有些复杂，恐怕得从 Action Bar Overflow 的源头说起……&lt;br&gt;我们知道，在 Android 2.x 时代，Android 的自带按键有四个。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/49/63/49635fc33a3964a7453c783fef696f01_m.jpg&quot; data-rawwidth=&quot;160&quot; data-rawheight=&quot;20&quot; class=&quot;content_image&quot; width=&quot;160&quot;&gt;而第二个是本次的主角，&lt;b&gt;菜单 (menu)&lt;/b&gt; 键。&lt;br&gt;而从 Android 4.0 (Icecream Sandwich) 开始，众所周知地，实体键被Navigation Bar (导航条，也就是虚拟键) 取代，原来的菜单键不复存在。&lt;br&gt;而与菜单键相似的功能就被 Action Bar Overflow 取代，如下图。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5a/29/5a2987bb190b28e1b78503441c8f850f_m.jpg&quot; data-rawwidth=&quot;550&quot; data-rawheight=&quot;88&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;550&quot; data-original=&quot;http://p2.zhimg.com/5a/29/5a2987bb190b28e1b78503441c8f850f_r.jpg&quot;&gt;图中的 (3) 是 Action Bar Button，放置最常用的功能，而剩下的就被塞入(4) Action Bar Overflow。&lt;br&gt;这样的设计带来了一个&lt;b&gt;可见性的问题&lt;/b&gt;：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0d/11/0d11950595410ae7a6379f914526f817_m.jpg&quot; data-rawwidth=&quot;430&quot; data-rawheight=&quot;360&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;430&quot; data-original=&quot;http://p1.zhimg.com/0d/11/0d11950595410ae7a6379f914526f817_r.jpg&quot;&gt;在原来就带有实体键的设备（如三星、小米的大部分机型）上，Action Bar Overflow 默认不显示，而只在具有 Navigation Bar 的设备上才会显示。&lt;br&gt;这样一来，在带实体键的设备上，用户很难知道哪一页有”菜单“（其实是Action Bar Overflow中的功能），而哪些没有。我就曾经面对着一个应用好几个月才知道它原来是有菜单的……&lt;br&gt;当然，Google 在 Android 4.4 中终于解决了这个问题，无论设备是否带有实体键，Action Bar Overflow 都会强制显示。可 Android 4.4 的份额现在几乎可以忽略不计，不是么？&lt;br&gt;大概是因为这次腾讯在Action Bar Overflow中放了很多重要功能，所以为了防止这三个点的Action Bar Overflow 被系统吞掉，腾讯在这次的微信里想了个办法，就是把它设计成非标准Android控件，增强可见性。&lt;br&gt;=======&lt;br&gt;至此，可以看出，腾讯的这个想法出发点是好的，就是让这个“菜单”在任何情况下都清晰可见。&lt;br&gt;然而 Smart Bar 的不灵活最终导致其不被兼容。&lt;br&gt;毕竟&lt;b&gt;不使用 Android 标准控件 ≠ 不符合 Android Design&lt;/b&gt;，但只有使用了 Android 标准控件才能被 Smart Bar兼容。&lt;b&gt;这与 Smart Bar 的初衷可谓相差甚远&lt;/b&gt;。&lt;br&gt;结论：Smart Bar 从来就没有 smart 过，随着 Android Design 的发展，它只会变得原来越 stupid 。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/20240840/answer/21049084
 </link>
 <author>
@@ -537,34 +565,6 @@ Forever.&lt;/p&gt;&lt;br&gt;&lt;p&gt;（罗译）&lt;br&gt;&lt;/p&gt;&lt;p&gt;  
 独四海同昆仑兮 &lt;br&gt; 
 不舍昼夜
 &lt;/p&gt;&lt;br&gt;  这才是真正的最炫文言文。尤其是最后两句，纪伯伦以the sea和the shore比喻空间的恒久，罗译则替换成了”四海'与&quot;昆仑&quot;两个古典中国意象，末句forever用孔子典，信息量丝毫未损，反而更有古风韵致。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22692468/answer/22351018
-</link>
-<author>
-索思
-</author>
-<title>
-作为一名柜员，如何以一个良好的心态来接待换破币或零钱的客户？
-</title>
-<description>
-四年半以前，我还是一个小桂圆的时候，接待了一个存一万块钱的客户…………&lt;br&gt;那一万块钱十分的生涩，发潮，透出一股霉味，根据经验判断，这是一把积压时间较长的钱币，于是我决定，手点……&lt;br&gt;&lt;br&gt;作为一个入选过总行鉴别真假币比赛候补（别笑-_,-）的家伙来说，这并不算太难，我很快点完了，时间不到一分钟……抬头，敲键盘，代码，录入系统&lt;br&gt;我随口嘟囔了一句&lt;br&gt;“不好意思让您久等了，这钱有点涩，不好过机子……”&lt;br&gt;&lt;br&gt;“是啊！”客户在玻璃那头大声的应和到“前天我上厕所的时候这一万块掉到粪坑里去了，捞了好久才捞上来，我洗了好久呢……你看，都没什么味道了吧……”&lt;br&gt;&lt;br&gt;“恩…………”我面不改色的录入着系统……要知道，鉴别真假币的标准手势应该是用拇指做底，食指拈起，一看二摸三听……&lt;br&gt;&lt;br&gt;我不知道我的手上沾上了什么，但是我依旧面不改色的录入，敲键盘，核对，打印，确认……耳边同事们同情，安慰之声交错，但是更多的是看热闹不怕事大的声音……&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;如果这是一个鸡汤文的话，你知道，应该是这个客户变成我的客户并且存了几千万当我的存款之流…………但是那是不可能的…&lt;br&gt;&lt;br&gt;事实上，在同事的关切的嘲笑声中，我冷静的没有立马跑去呕吐或者跑去洗手……而是默默的上完班，盘库，清点，交接…………仿佛这一切都没有发生过……&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;于是，麻烦解决者之名盛传…………此后…一些熟悉，并且难缠的客户，一来网点，一摁号码，大家便能估算出他的单号，到了那个号码，纷纷高挂免战牌，单等我叫号——同样是一笔业务，存信用卡只要一分钟，对付他们可能要十几分钟……&lt;br&gt;冷静而热情的接待，办理，耐心回答，送别……也谈不上多热情，只是，也不会露怯……&lt;br&gt;&lt;br&gt;&lt;br&gt;以至于我其实已经换了两任东家，偶尔回到前前东家——当初坐柜台的地方，面对当初的同事，闲聊之时他们难免会抱怨：“前几天又因为xxx事情被客户投诉了……要是你在就介绍给你去办理了……”&lt;br&gt;&lt;br&gt;微微一笑……&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;半年前我跳了槽……现在的老总，亦来自老东家，据他亲口描述，面试之时还不觉得十分满意，听得同时出自一个单位，便回头打听，三转两转，竟听说这个小年轻是个麻烦终结者……这个部门多的是麻烦，便收了我……&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;有时候，有些事情，算不得太真着……
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22630687/answer/22231725
-</link>
-<author>
-本拉拉
-</author>
-<title>
-怎样对收集的塑料袋进行分类整理？
-</title>
-<description>
-首先，如果你嫌成堆的塑料袋占空间，又比较勤于动手的话，可以先事先把塑料袋叠成这样小小的一个:&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7c/ef/7cef8b9494d4e519e00be5b6313e8815_m.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;308&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;http://p4.zhimg.com/7c/ef/7cef8b9494d4e519e00be5b6313e8815_r.jpg&quot;&gt;&lt;br&gt;成品如下：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e0/53/e0532de0ae16269caf005c086600794e_m.jpg&quot; data-rawwidth=&quot;375&quot; data-rawheight=&quot;375&quot; class=&quot;content_image&quot; width=&quot;375&quot;&gt;&lt;br&gt;然后，再来说说自己平时对塑料袋的分类方式：&lt;br&gt;&lt;br&gt;1.去超市购物带回来的大塑料购物袋归一类，这种袋子一般质量都不差，可以下次去超市购物时带上，循环使用，节约又环保。&lt;br&gt;&lt;br&gt;2.去KFC或者85度C这样的店打包东西的小塑料袋归一类，外出旅游时用来装几双袜子或者装双鞋以免把箱子里其他物品弄脏。&lt;br&gt;&lt;br&gt;3.去菜市场或者水果市场购物得到的这种质量不怎么好，只是容量比较大的袋子归一类，用作垃圾袋。&lt;br&gt;&lt;br&gt;4.买衣服，化妆品这样的东西带回来的纸袋归一类，平时要带很多衣服出门时可以用。&lt;br&gt;&lt;br&gt;当然啦，作为一个热爱环保的人，平时都会提醒自己带购物袋出门尽量避免商家提供塑料袋，这样的话也免去很多整理的麻烦呢！
 </description>
 </item>
 </channel>
