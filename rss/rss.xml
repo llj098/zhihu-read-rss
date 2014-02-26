@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22845785/answer/22853606
+</link>
+<author>
+饭饭
+</author>
+<title>
+哪些行为是浪费时间？
+</title>
+<description>
+看到一篇文章说最浪费时间的三件事：&lt;br&gt;Worry&lt;br&gt;Regret&lt;br&gt;Judgemt（评判他人）&lt;br&gt;-----------------------------------------------------------&lt;br&gt;游叔的中文注释：&lt;br&gt;&lt;blockquote&gt;憂慮。&lt;br&gt;悔恨。&lt;br&gt;指責。&lt;/blockquote&gt;----------------------------------------------------------&lt;br&gt;文章是在人人的分享上看到的，暂且贴一个地址：&lt;a href=&quot;http://www.xinli001.com/info/2491/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;世界上最浪费时间的三件事&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;（不是广告啊&amp;gt; &amp;lt;）&lt;br&gt;如有知友找到原文地址，欢迎告知。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22421187/answer/22548772
 </link>
 <author>
@@ -278,20 +292,6 @@ http://www.zhihu.com/question/22726171/answer/22412468
 </title>
 <description>
 要想让屏幕上的中文字更好看，有几个方面：&lt;br&gt;&lt;ul&gt;&lt;li&gt;更精细的屏幕&lt;/li&gt;&lt;li&gt;更先进的文字渲染技术和更科学的渲染策略&lt;/li&gt;&lt;li&gt;更考究的中文字体选择&lt;/li&gt;&lt;/ul&gt;第一点，目前的高端移动设备都能毫无压力，连最新的三星 Pentile 排列的 AMOLED 屏幕也做得不错了。&lt;br&gt;&lt;br&gt;第二点，苹果做的最好，Android 次之（4.4 版本已经很好了），Windows 较差。&lt;br&gt;&lt;br&gt;第三点，苹果的华文黑体是一个中规中矩的选择，Android 的 Droid Sans (Fallback) 在高像素密度的屏幕上效果不好，Windows Phone 的方正等线与 Metro UI 以及 Segeo 字体并不和谐，微软雅黑略显宽扁，很多人不喜欢。&lt;br&gt;&lt;br&gt;在 Android 的基础上做修改，最简单的就是换一套中文字体，最好再加上独立的粗体——这些都是很简单实现的修改。比如 MIUI 改用了方正兰亭黑（另外 MIUI 还带有一个定制的数字字体，用于时钟等显示，很具有识别性；小米的发布会幻灯片也使用兰亭黑系列字体。所以我觉得小米在字体方面做得不错），而 Flyme 则没有修改，这一点比较令人失望。&lt;br&gt;&lt;br&gt;另一个对 Android 的中文字体显示有贡献的是三星。TouchWiz 可以实现多种中文字体的共存和热切换，但是深谙国人使用习惯的三星把这种技术用于将界面字体在 Droid Sans、楷体、少女体之间切换之上了。&lt;br&gt;&lt;br&gt;之前的发布会中，罗永浩已经表示他将会购买华文黑体、信黑体等中文黑体中的一种用于 SOS 的中文字体。（我个人不喜欢华文黑体，信黑体似乎有一些字形不符合大陆的规范或习惯，建议锤子考虑冬青黑体。）&lt;br&gt;&lt;br&gt;iOS（以及 OS X）还有一点比较先进，就是支持不同风格的中文字体（宋、黑、仿、楷）并存，可以与相应的西文字体风格搭配，而 Android 目前还不支持这一特性。如果锤子真的想向苹果那样「解决中文字体丑陋的问题」，把这个解决了（并贡献给 AOSP？）吧。&lt;br&gt;&lt;br&gt;* * *&lt;br&gt;这几天用了一个国产品牌艾诺的平板，是 10 英寸 1280x800 的屏幕，艾诺自作聪明地把系统字体换成了微软雅黑，在这个 PPI 不高的屏幕上效果惨不忍睹，我换回 Droid Sans 之后好了很多。这个故事告诉我们，不补齐屏幕品质和字体渲染的短板，盲目地更换字体只会弄巧成拙。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22841835/answer/22827100
-</link>
-<author>
-Arikid
-</author>
-<title>
-为什么业界已有规范，但 Windows 却一直使用错误的容量标注单位？
-</title>
-<description>
-题主你好，既然你这么纠结这个容量单位的标注方法，我们不妨先换个角度，看看你所推崇的 IEEE 1541 的具体情况：&lt;br&gt;&lt;br&gt;第一，根据 Wikipedia，IEEE 1541 的成形时间是 2005 年，并且在 2008 年 3 月时重新核定了这一标准。&lt;br&gt;&lt;blockquote&gt;&lt;p&gt;After a trial period of two years, in 2005, IEEE 1541-2002 was elevated to a full-use standard by the IEEE Standards Association, and was reaffirmed on 27 March 2008.&lt;/p&gt;&lt;/blockquote&gt;在此期间，微软发行的操作系统 Windows XP 已如日中天，更改容量单位先不说有没有必要，引起 user confusion 几乎是一定的。&lt;br&gt;&lt;br&gt;第二，IEEE 1541 的属性只是一个 recommendation（鼓励政策），而不是金科玉律，也不是题主认为的非得执行不可的“规范”（另见下文“又及”部分）。有的国家或地区愿意将 IEEE 1541 采纳为产品及服务标准（比如欧盟，但各个厂商仍然基于自愿决定是否采用），有的国家或地区则可以 discard after noticing.&lt;br&gt;&lt;br&gt;第三，根据 Wikipedia，IEEE 1541 在开源软件以及科技文献中逐渐被接受，但在其他领域内被接受的苗头依然不旺，尤其是在商业操作系统领域。微软的确是由于商业营销考虑所以才继续沿用原先的容量标注单位。&lt;br&gt;&lt;blockquote&gt;The IEC binary prefixes (kibi, mebi ...) are gaining acceptance in open source software and in scientific literature. However, elsewhere adoption has been slow, with some operating systems, &lt;u&gt;most notably &lt;b&gt;Windows&lt;/b&gt;, continuing to &lt;b&gt;use SI prefixes (kilo, mega ...) for binary multiples&lt;/b&gt;, especially for &lt;b&gt;marketing purposes&lt;/b&gt;, &lt;b&gt;where they are used almost exclusively&lt;/b&gt;&lt;/u&gt;.&lt;/blockquote&gt;&lt;br&gt;结论：IEEE 很高兴你与他们站在一边，认同他们为了消除这种容量标注的 confusion 而做出的努力。虽然你一口一个“规范”，但是 IEEE 与你一样，只是这个“鼓励政策”的提出者，无法强制所有商业公司做出相应的改变。而事实上，一旦改变，在相当长的时间内，confusion 可能只会更严重，甚至你自己也会受到影响。&lt;br&gt;&lt;br&gt;又及：即使是业界“规范”，也并非是每条都有强制约束力的，如同我们生活中遇见的“规章条例”那样，有相当一部分是松弛执行的，而且很多还是在关键领域里。希望题主可以活化思维，以更加柔润的眼光看待这个世界上的各种现象。
 </description>
 </item>
 </channel>
