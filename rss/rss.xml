@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22870425/answer/23087427
+</link>
+<author>
+rlei
+</author>
+<title>
+玩哪些单机游戏可以被称得上高端?
+</title>
+<description>
+这次，我又要低声说一句：&lt;br&gt;&lt;br&gt;&lt;b&gt;“你们，全都弱爆了。”&lt;/b&gt;&lt;br&gt;&lt;br&gt;下面为您介绍，被称为&lt;a href=&quot;http://www.slate.com/articles/technology/bitwise/2014/01/robot_odyssey_the_hardest_computer_game_of_all_time.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;“史上最难电脑游戏”&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;的——&lt;br&gt;&lt;br&gt;&lt;b&gt;Robot Odyssey&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/75/b9/75b9e0a8739860e0dfcd200da2f0ef2c_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;421&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;590&quot; data-original=&quot;http://p4.zhimg.com/75/b9/75b9e0a8739860e0dfcd200da2f0ef2c_r.jpg&quot;&gt;&lt;br&gt;这是一款三十年前在Apple II上诞生的游戏，没错，那时候你们中的大多数人还不知道在哪里玩DNA呢。&lt;br&gt;&lt;br&gt;游戏情节很简单：你，主角，在一个奇怪的梦里掉进了一个机器人大都市，要操纵三个机器人帮你逃出五道关卡，回到人间。要不游戏怎么叫奥德赛呢。&lt;br&gt;&lt;br&gt;比如第一关：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1f/bb/1fbb40b7bcf78f26e30f8b75d1d91478_m.jpg&quot; data-rawwidth=&quot;354&quot; data-rawheight=&quot;430&quot; class=&quot;content_image&quot; width=&quot;354&quot;&gt;&lt;br&gt;哦哦，走迷宫嘛，解谜语嘛，能难过仙剑去？&lt;br&gt;&lt;br&gt;对不起，这次你得写程序控制你的三个机器人。&lt;br&gt;&lt;br&gt;原来是打着游戏的幌子教LOGO语言啊，你心里想。不要说LOGO，人家小学时候还学过BASIC呢，这有何难？&lt;br&gt;&lt;br&gt;那么，先来认识一下你的机器人小基友：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/81/0c/810c6e8fc3a5dc94db5188640856262c_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;801&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;590&quot; data-original=&quot;http://p1.zhimg.com/81/0c/810c6e8fc3a5dc94db5188640856262c_r.jpg&quot;&gt;&lt;br&gt;嗯，这·&lt;b&gt;真的&lt;/b&gt;·是一个还原度很高的机器人。拥有各种传感器和动作开关什么的。&lt;br&gt;&lt;br&gt;“那又如何？快闪开，让专业的来。”你心里想。&lt;br&gt;&lt;br&gt;“那么，在哪里写程序？”&lt;br&gt;&lt;br&gt;非常简单的一小段机器人程序是这样的：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/79/84/7984a9b75181215dc3b00f8d9dc53d9a_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;421&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;590&quot; data-original=&quot;http://p4.zhimg.com/79/84/7984a9b75181215dc3b00f8d9dc53d9a_r.jpg&quot;&gt;（在机器人的天线上输出100110的信号）&lt;br&gt;&lt;br&gt;或者这样的：&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1e/13/1e13021ffbd4580db603c22c8b509749_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;421&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;590&quot; data-original=&quot;http://p2.zhimg.com/1e/13/1e13021ffbd4580db603c22c8b509749_r.jpg&quot;&gt;（恭喜你会做集成电路了）&lt;br&gt;&lt;br&gt;崩溃了吗？这个游戏是让你用逻辑电路的最基本的各种非门啦与门啦异或门啦拉链门摸奶门啦等等来真的设计出机器人的控制逻辑。如果地方放不下，你还可以把电路提取出来放在如上图的独立芯片里。你设计的逻辑电路要根据机器人的各种传感器输入来决定机器人的行动。另外，因为是三个机器人，你还需要让他们互相通讯（注意到机器人的天线了吗？），协同完成任务。&lt;br&gt;&lt;br&gt;而这一切，可不是要你写几行BASIC来解决的。不不不，也不是要你写编译器和操作系统。这里面完全没有软件，你要做的是设计专用的逻辑电路，也就是搞硬件的基友们所说的ASIC（Application-Specific Integrated Circuit）。你看，牛得只差一B是不是。&lt;br&gt;&lt;br&gt;这是三十年前给10岁以上的小朋友设计的益智游戏哟。现在有没有对你那玩泥巴的童年感到悔恨呢？&lt;br&gt;&lt;br&gt;上面链接的原文作者说他花了十三年，还要借助别人的帮助，才玩穿了这个游戏。&lt;br&gt;&lt;br&gt;这个游戏的制作者还丧心病狂的给真能玩穿的小朋友&lt;b&gt;(?)&lt;/b&gt;发带编号的证书：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/b3/bd/b3bd4d834421deab1a8dbd57c6c4ae89_m.jpg&quot; data-rawwidth=&quot;590&quot; data-rawheight=&quot;421&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;590&quot; data-original=&quot;http://p3.zhimg.com/b3/bd/b3bd4d834421deab1a8dbd57c6c4ae89_r.jpg&quot;&gt;(第34号幸存者)&lt;br&gt;&lt;br&gt;为了满足你们体验高端的心态，附上Robot Odyssey的一个非官方Java重制版：&lt;a href=&quot;http://www.droidquest.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DroidQuest&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; (可能需要翻墙) 另外这个网站也提供原版Robot Odyssey游戏和Apple II模拟器的下载。&lt;br&gt;&lt;br&gt;版权声明：本文大部分内容及所有图片均来源于 &lt;a href=&quot;http://www.slate.com/articles/technology/bitwise/2014/01/robot_odyssey_the_hardest_computer_game_of_all_time.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Robot Odyssey: The hardest computer game of all time.&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22614212/answer/23096173
 </link>
 <author>
@@ -286,20 +300,6 @@ Joy Neop
 </title>
 <description>
 版权属于编辑者本人。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e7/e6/e7e60f2673679759f5d00db724617aa2_m.jpg&quot; data-rawwidth=&quot;240&quot; data-rawheight=&quot;180&quot; class=&quot;content_image&quot; width=&quot;240&quot;&gt;&lt;br&gt;&lt;br&gt;小明写了 [[Tower of Babel]] 的第一个版本并发表在 Wikipedia，就成了这个条目的 version 1。这一行为叫做“&lt;u&gt;小明将一篇标题为 Tower of Babel 的文章同时以 CC BY-SA 3.0 许可证和 GNU 自由文档许可证发表在 Wikipedia 并且 Wikipedia 接受了这篇文章，Wikimedia Foundation 在小明的许可下将其公开展示于 Wikipedia&lt;/u&gt;”（如果没有被删除）。&lt;br&gt;小亮进行编辑（可能是添加章节也可能是修改语病，这不重要）后，条目版本到了 version 2。这一行为叫做“小亮对这篇文章的 version 1 进行了修改（命名为 version 2）并同时以&lt;u&gt; CC BY-SA 3.0 许可证和 GNU 自由文档许可证发表在 Wikipedia 并且 Wikipedia 接受了这次修改，因为这个修改版 version 2 的原始版本 version 1 以 &lt;/u&gt;&lt;u&gt;CC BY-SA 3.0 许可证和 GNU 自由文档许可证释出，且小亮在向 Wikipedia 提交内容时同意，所以新版本自动同时适用于 &lt;/u&gt;&lt;u&gt;CC BY-SA 3.0 许可证和 GNU 自由文档许可证，Wikimedia Foundation 依此在 Wikipedia 公开展示 version 2。&lt;/u&gt;”&lt;br&gt;小刚进行编辑后，条目版本到了 version 3。同理。&lt;br&gt;&lt;blockquote&gt;P.S. 为什么我说 version 而不说版本？因为中文里 edition 和 version 都叫版本，在这个语境里不是一回事。&lt;/blockquote&gt;&lt;br&gt;现在 [[Tower of Babel]] 有 3 个 version。&lt;br&gt;其中 version 1 版权属于小明。&lt;br&gt;Version 2 版权属于小明和小亮。&lt;br&gt;Version 3 版权属于小明、小亮和小刚。&lt;br&gt;&lt;br&gt;小明将 version 1 发表在 Wikipedia 后，即无法完全控制这篇文章。根据 CC BY-SA 3.0 许可证和 GNU 自由文档许可证的要求，这篇文章将会被自由地修改、分发、公映、展示。并且对其修改后产生的新版本如果被传播，则自动适用 CC BY-SA 3.0 许可证和/或 GNU 自由文档许可证（修改者可以选择其中一个来使用）（根据 Wikipedia 条款与条件，如果把新版本发在 Wikipedia 则是同时使用两者）。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;但是，如果小红想要将这篇文章的某个版本以其他许可证使用（如 CC BY-ND 许可证），或者想要用在自己的作品里（如商品包装）使用但不愿意接受 CC BY-SA 3.0 许可证，也有曲线救国的方法。只要联系该版本的所有贡献者并得到他们共同的许可，就能够避免 CC BY-SA 3.0 和 GFDL。如果某一贡献者不愿意授予许可，也可以选用该贡献者第一次编辑文章之前的那个版本（假设小刚不愿意，但是小明和小亮都愿意，小红就可以用 version 2）。&lt;br&gt;&lt;/blockquote&gt;&lt;br&gt;跑题甚远…… 文章某版本的权利人是原始版本的作者和从原始版本到该版本参与的编辑者。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22630790/answer/22054074
-</link>
-<author>
-匿名用户
-</author>
-<title>
-中国上市公司编造过的最奇葩的故事是什么？
-</title>
-<description>
-当年阿里巴巴B2B上市时，马云造势说：“你错过了Google，不能再错过阿里巴巴。”&lt;br&gt;上市当天，B2B以13港元发行，当天就被炒作涨到40多，五年之后，阿里巴巴B2B以当初的发行价退市（这5年之间，港币兑人民币从106跌到80左右，无形中缩水20%，这5年时间，分红极少，B2B的利润几乎全部上交阿里集团用于淘宝和支付宝的发展。最终退市股东投票时，小股东没有任何反对权，因为阿里集团仍然占了B2B将近80%的股份），“马不群”原形毕露。&lt;br&gt;&lt;br&gt;最后退市时，股价已经跌到8，9块，退市时阿里巴巴还写了一封冠冕堂皇的公开信，说B2B退市是对股民的最好结果，这已经是无耻至极了。
 </description>
 </item>
 </channel>
