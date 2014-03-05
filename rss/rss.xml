@@ -15,6 +15,78 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22582296/answer/21866443
+</link>
+<author>
+周诺
+</author>
+<title>
+有什么能和女朋友两个人在网上玩的简单游戏？
+</title>
+<description>
+我和女朋友玩过一个好玩的也非常刺激的也很考验大脑思维能力和想象力的游戏。甚至都不用上网也能让你俩打发一天的时间甚至接下来的好几天都要回味这个游戏！ &lt;br&gt;这个游戏的名字叫做 &lt;br&gt;&lt;br&gt;《挨个介绍你电话本里的人》 &lt;br&gt;&lt;br&gt; 如果这个游戏不过瘾还可以玩升级心跳版 &lt;br&gt;&lt;br&gt; 《挨个介绍你QQ里的人》 &lt;br&gt;&lt;br&gt; ======================= &lt;br&gt;&lt;br&gt; 经评论提醒。。还有高级恐怖版。。 &lt;br&gt;&lt;br&gt; 《挨个介绍你微信你的人》 &lt;br&gt;&lt;br&gt; 还有终极作死版 
+
+ 《挨个介绍你陌陌里的人》&lt;br&gt;&lt;br&gt; 祝大家游戏愉快！早日通关！
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/22874569/answer/22954668
+</link>
+<author>
+温暖时光
+</author>
+<title>
+傲游浏览器发布“视频快进”功能后，优酷似乎跟傲游展开了攻防战，具体情况是怎样的？
+</title>
+<description>
+这两天抽空看了下，大体上就是给优酷、搜狐等视频网站flash开发找活干的节奏啊...&lt;br&gt;&lt;br&gt;&lt;b&gt;第一阶段&lt;/b&gt;（傲游“马上看视频”功能上线之初）——傲游利用flash中的时序机制，自以为很聪明的通过hack浏览器中flash的时钟时间，达到加速的目的，原理就是这样，并不复杂。&lt;br&gt;&lt;br&gt;优酷、搜狐、腾讯视频等（以下简称：反盗版联盟）没过两天就有了对策——发布版本通过判断flash时序与本地时间做比较，就很方便的知道自己被加速了，于是使傲游的加速点击之后无效，“让你点了没效果”。&lt;br&gt;&lt;br&gt;&lt;b&gt;第二阶段&lt;/b&gt;——傲游更改了加速机制（傲游全部都是静默升级），浏览器因为权限较大，直接加速flash时序和本地计算机的时间，这样优酷们就又不知道了。于是，又得逞了。&lt;br&gt;&lt;br&gt;反盗版联盟——靠，不让我比对本地时间，那我和我后方服务器比对，你又傻逼了。&lt;br&gt;&lt;br&gt;&lt;b&gt;第三阶段&lt;/b&gt;——傲游又更改了加速机制，不再利用加速flash的时间，本地时间也没有加速（具体怎么做的我还没有想到），造成的一个问题是只加速了视频，没有加速倒计时，所以用户还是跳不过广告的，必须等到倒计时结束。&lt;br&gt;&lt;br&gt;反盗版联盟——靠，这傻逼跳不了广告反而来恶心视频网站的体验，于是截止目前为止优酷和搜狐都直接禁止傲游浏览器观看视频。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/70/1f/701f1544c469c05af2d8f08ea55288fb_m.jpg&quot; data-rawwidth=&quot;572&quot; data-rawheight=&quot;129&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;572&quot; data-original=&quot;http://p4.zhimg.com/70/1f/701f1544c469c05af2d8f08ea55288fb_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;第四阶段&lt;/b&gt;——靠，不让我看，我改浏览器UA，我改成IE你就不知道我是谁了.....&lt;br&gt;&lt;br&gt;反盗版联盟——尼玛.....&lt;br&gt;&lt;br&gt;以上就是最近一周的经过，目前事情还在持续，笔者的观点是：&lt;br&gt;&lt;b&gt;视频广告是视频网站几乎唯一的收入，视频网站花了巨大的成本购买带宽和内容，理所应当用户需要付出观看广告的成本，傲游这种想基于损害他人利益获取用户的手段我认为就是耍流氓！&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/22807738/answer/23106814
+</link>
+<author>
+chenqin
+</author>
+<title>
+打车软件大战，年轻人受益，车都被年轻人打了，老年人怎么办？
+</title>
+<description>
+从乘客的角度，上面的答案已经够丰富了，我从另外几个角度说点自己的看法。&lt;br&gt;&lt;u&gt;&lt;b&gt;一，被误解的空驶里程&lt;br&gt;&lt;/b&gt;&lt;/u&gt;先考虑没有打车软件的情况。一般情况下，如果没有电调系统，司机需要在在街道上空车驾驶以找到想打车的乘客。在前一个乘客下车之后，后一个乘客上车之前的路程，被称之为空驶里程。&lt;a href=&quot;http://dfdaily.eastday.com/d/20110216/u1a856631.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;上海出租车平均每天行驶380到400公里，空驶率在40%左右&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。也就是说，每辆出租车每天都有150公里在道路上空驶。&lt;br&gt;&lt;br&gt;目前对空驶里程主要有这样两种理解：&lt;br&gt;1，空驶里程越高，说明出租车效率越低，需要降低空驶里程。&lt;br&gt;2，空驶率高，说明出租车还有提高效率的空间，一些人认为此时增加出租车供给无效，只是进一步增加空驶率而已。&lt;br&gt;&lt;br&gt;空驶率和打车到底有什么关系呢？让我们重新考虑一下出租车最基本的作用——人们走到道路旁边扬招，不用等多久就有车可以坐。而保证马路边随时都有空车的基本条件是什么？&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;足够的空驶里程&lt;/u&gt;&lt;/b&gt;。&lt;br&gt;&lt;br&gt;事实上，&lt;a href=&quot;http://www.schallerconsult.com/taxi/taxifb.pdf&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;在这篇关于纽约出租车的文章里&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，空驶里程被直接称为taxi service availability的一种度量。一个简单的模型可以告诉你为什么空驶里程如此重要。&lt;br&gt;截至2012年底，&lt;a href=&quot;http://www.shanghai.gov.cn/shanghai/node2314/node25307/node25455/node25459/u21ai642296.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;上海市道路总长度达16688公里&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;a href=&quot;http://sh.sina.com.cn/news/b/2014-02-19/142882437.html5&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;5万辆出租车&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;每天行驶400公里，其中约150公里空驶里程。假设每辆车每天开&lt;img src=&quot;http://zhihu.com/equation?tex=t&quot; alt=&quot;t&quot; eeimg=&quot;1&quot;&gt;小时，那么平均车速约为&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cfrac%7B400%7D%7Bt%7D&quot; alt=&quot;\frac{400}{t}&quot; eeimg=&quot;1&quot;&gt;公里/小时。&lt;br&gt;此时你若是在任意一个时间出门扬招，每辆车正在马路上运行的概率为&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cfrac%7Bt%7D%7B24%7D&quot; alt=&quot;\frac{t}{24}&quot; eeimg=&quot;1&quot;&gt;，5万辆车大约有&lt;img src=&quot;http://zhihu.com/equation?tex=50000%5Ctimes%5Cfrac%7Bt%7D%7B24%7D&quot; alt=&quot;50000\times\frac{t}{24}&quot; eeimg=&quot;1&quot;&gt;辆此时正在马路上运行，平均间隔的距离为&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cfrac%7B16688%7D%7B50000%5Ctimes%5Cfrac%7Bt%7D%7B24%7D%7D&quot; alt=&quot;\frac{16688}{50000\times\frac{t}{24}}&quot; eeimg=&quot;1&quot;&gt;公里，再除以车速，这5万辆车扫过所有路面的时间为&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cfrac%7B16688%7D%7B50000%5Ctimes%5Cfrac%7Bt%7D%7B24%7D%5Ctimes%5Cfrac%7B400%7D%7Bt%7D%7D&quot; alt=&quot;\frac{16688}{50000\times\frac{t}{24}\times\frac{400}{t}}&quot; eeimg=&quot;1&quot;&gt;小时。&lt;br&gt;由于你可能站在道路的任何一个位置，为了得到在路边扬招到碰到第一辆出租车的平均时间，还必须把上面的计算除以2。&lt;br&gt;然而，并不是每一辆出租车都可以乘坐，每辆车为空车的概率等于空驶里程除以总里程，即&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cfrac%7B150%7D%7B400%7D&quot; alt=&quot;\frac{150}{400}&quot; eeimg=&quot;1&quot;&gt;。再用平均时间除以车辆为空车的概率，得到遇到第一辆空车的时间，为&lt;img src=&quot;http://zhihu.com/equation?tex=%5Cfrac%7B16688%7D%7B50000%5Ctimes%5Cfrac%7Bt%7D%7B24%7D%5Ctimes%5Cfrac%7B400%7D%7Bt%7D%7D%5Ctimes%5Cfrac%7B1%7D%7B2%7D%5Ctimes%5Cfrac%7B400%7D%7B150%7D%3D%5Cfrac%7B16688%5Ctimes24%7D%7B50000%5Ctimes150%5Ctimes2%7D&quot; alt=&quot;\frac{16688}{50000\times\frac{t}{24}\times\frac{400}{t}}\times\frac{1}{2}\times\frac{400}{150}=\frac{16688\times24}{50000\times150\times2}&quot; eeimg=&quot;1&quot;&gt;小时，约为&lt;b&gt;100秒&lt;/b&gt;左右，（注：该数字为粗略估计的平均时间，受到实际出车数量以及早高峰晚高峰时段的影响，不能与个人感受简单比较。）即道路总长度乘以12之后再除以出租车总数和空驶里程数。&lt;br&gt;以上式子得出的结论是：在道路总长度和出租车数量不变时，&lt;b&gt;扬招等候时间与出租车空驶里程数成严格反比，且不受其他任何参数的影响&lt;/b&gt;。&lt;br&gt;&lt;br&gt;二，&lt;u&gt;&lt;b&gt;叫车难的根本原因——空驶里程减少&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;再从司机的角度看。打车软件的意义在于极大地减少了司机方面信息不对称的现象，让司机知道可以去哪里接到生意，而不是像无头苍蝇一样在马路上乱转，这极大地减少了空驶里程。根据我本人询问的情况以及一些新闻，司机普遍认为在使用打车软件之后，他们平均的空驶里程数减少了50至100公里左右。&lt;br&gt;&lt;br&gt;空驶里程的减少至之前的1/2甚至1/3，直接结果就是乘客扬招时间上升至2到3倍。如果再算上车辆赶往乘客所在地点的距离以及高峰时期使用打车软件的人数增加，能够为扬招乘客所用的有效空驶里程还会进一步减少，&lt;b&gt;扬招乘客需要用之前4、5倍的时间打车也就不奇怪了&lt;/b&gt;。&lt;br&gt;&lt;br&gt;所以在我看来，打车软件引起争议，其根源不是补贴，也不是加价，这些因素虽然对打车难有推波助澜的作用，却不是最主要的。根本矛盾在于：&lt;br&gt;&lt;b&gt;扬招乘客希望能尽快打到车，因此希望司机像无头苍蝇一样到处开车，增加空驶里程来接到站在路边的自己；&lt;/b&gt;&lt;b&gt;而司机希望减少油耗，增加收入，因此要用尽可能短的空驶里程来找到下一位乘客。当司机因为打车软件而不再是随处乱开的无头苍蝇时，&lt;/b&gt;&lt;b&gt;大幅度减少的空驶里程，成为了乘客「扬招难」的罪魁祸首。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;三，司机的声音就那么不重要吗？环境保护和资源节约呢？&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;看到政府在打车软件的问题上翻烙饼，一会儿整改了，一会儿叫停了，一会儿又要纳入电调平台了，我常常想：要是上海出租车司机有自己的工会，能联合起来发出自己的声音，难道会听凭他们摆布？&lt;br&gt;&lt;br&gt;根据现有的一些新闻，使用了软件的司机每个月可增加收入&lt;a href=&quot;http://shanghai.kankanews.com/shnews/2014-02-27/4009332.shtml&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;二至三成&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。政府在打算对打车软件实行一刀切时，是不是也&lt;b&gt;应该问一问因软件而受益的出租车司机的意见&lt;/b&gt;？&lt;br&gt;&lt;br&gt;另外两个重要的因素是环境保护和资源节约。如果5万辆出租车每天都减少100公里的空驶里程，那么在接送同样数量的乘客时便可节省油料25%，按百公里10升计算，约为&lt;b&gt;50万升燃油&lt;/b&gt;。另外，上海市每天的机动车日均周转量为14865万当量小轿车&lt;img src=&quot;http://zhihu.com/equation?tex=%5Ccdot+&quot; alt=&quot;\cdot &quot; eeimg=&quot;1&quot;&gt;公里，那么5万辆出租车每天减少100公里的空驶里程，&lt;b&gt;相当于机动车尾气总排放量降低3.3%&lt;/b&gt;。要知道当前pm2.5中尾气排放的贡献要占四分之一呢。&lt;br&gt;弱势群体，资源节约和环境保护，这些都是公共知识分子最喜欢的话题，打车软件刚好在这三个问题上都有正面的作用。为什么我们此时不多考虑一些这类话题，偏偏将视野全部聚焦于所谓「扬招难」？难道只有拦不到车的老人的声音才属于民生吗？&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;四，我对打车软件的看法？&lt;/u&gt;&lt;/b&gt;&lt;br&gt;网络时代的一个趋势是所有的信息不对称现象都有可能被消除，打车软件的作用正是如此。&lt;b&gt;这种信息不对称的改善，本质在降低交易费用，实为当今已经为数不多存在帕累托改进可能的地方。&lt;/b&gt;虽然我同意我们必须增加对使用打车软件司机的安全驾驶的监督，同时也赞成对于加价行为需要有所限制，但我想这并不是政府一刀切禁止打车软件的理由。&lt;br&gt;&lt;br&gt;根据我之前的论述，在没有打车软件时，想要打车容易，唯一的方式就是更多的司机在马路上四处乱开更长的距离。但更长的空驶距离显然并不是什么好事。与其叫停打车软件，损害司机、资源和环境三方的利益，我们是不是更应该找到更好的方式，让所有人都能在空驶距离降低的情况下也能使用上出租车？&lt;br&gt;&lt;br&gt;对于习惯扬招，苦于扬招难，且希望取缔打车软件，大家一起回到扬招时代的乘客，我想用一个比喻来结束：&lt;br&gt;&lt;br&gt;你在马路上站着，一群盲人在四周走来走去。你希望与盲人们进行一个小交易，盲人们也这么想。但你始终保持沉默，等着盲人们四处乱撞。终于，一个运气比较好的盲人走来，碰到你。那些四处乱走距离最远的盲人，也获得了最多的交易。&lt;br&gt;突然有一天，一些人不再保持沉默，开始轻声呼唤周围的盲人。而盲人也复明了，他们走向最近的发出呼唤声的人，没有人愿意理仍然保持沉默的你。&lt;br&gt;此时，你是想学会如何发出呼唤声，还是想把那些复明的人再次弄瞎？
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/22925478/answer/23095465
+</link>
+<author>
+李楠
+</author>
+<title>
+小米微博称 1299 元小米手机 2S 16G 版开放购买，为什么官网依旧显示供货不足？
+</title>
+<description>
+MI2S 为什么会断货？简单说，&lt;b&gt;就是他必须断。否则，线下渠道就全死掉。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;线下 vs 线上&lt;/b&gt;&lt;br&gt;今天所有厂家都要回答一个问题：同一个商品，线上和线下怎么定价？中兴的回答是线上贵过线下。魅族是线上等于线下。 而小米？则没那么简单。&lt;br&gt;&lt;br&gt;小米线下渠道已经很强大。市郊汇集着麻辣烫自由市场的小手机店里面，都会摆着苹果，三星和小米。这种线下渠道出货，远不是宣称的三成那么简单。&lt;br&gt;&lt;br&gt;你可以找楼下小店的老板问问小米的进货价，若混熟了你会知道：他非常接近小米的网上零售价。但是售价？一定高过不少 － 否则他们没发活，小米的线下渠道也不可能铺的好。&lt;br&gt;&lt;br&gt;上周末我找人去问了下，线下小店里 MI2S 开 1699 。还会说一句：别找了，整条街都这个价。这应不是他个人的经历吧？从线下渠道买到过原价的请举个手？&lt;br&gt;&lt;br&gt;所以，小米的渠道玩法就很清晰了：&lt;b&gt;线上原价。线下提货成本接近原价，但是，赚取溢价养活渠道。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;线上销售 &amp;lt;&amp;gt; 零售销售&lt;/b&gt;&lt;br&gt;若观察双 11 小米天猫秒杀的评论数量，会发现和出货不匹配。怎么回事？&lt;br&gt;&lt;br&gt;不排除有用户大手笔一次拿很多。另一个可能性是：我是一个手机店老板。既然渠道提货价和零售价差不多，我为什么不从线上抢购进货？反正，我赚的也是溢价。&lt;br&gt;&lt;br&gt;这也是小米线上难抢的原因：线下渠道和零售用户同时在抢。&lt;br&gt;&lt;br&gt;&lt;b&gt;饥饿营销&lt;/b&gt;&lt;br&gt;线上的饥饿营销，正是小米线下渠道可以溢价销售养活自己的前提。&lt;br&gt;&lt;br&gt;小米不限量在线上供应 MI2S 的结果是什么？线下卖不出溢价，养不活自己。那么，就不再卖小米 － 反正有毛利更高的三星可以推。&lt;br&gt;&lt;br&gt;&lt;b&gt;所以小米必须坚持饥饿营销&lt;/b&gt;&lt;b&gt;。否则，线下渠道就全死掉。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;最后的话&lt;/b&gt;&lt;br&gt;虽然我是魅族员工，但是这个回答真不是黑。&lt;br&gt;&lt;br&gt;线上 vs 线下渠道到底如何平衡，是每个厂家都要回答的问题。小米的线上饥饿营销 ＋ 线下溢价的方式？&lt;b&gt;虽然让用户怨声载道，但是，就出货而言？的确是创新而且有效的模式。&lt;/b&gt;&lt;br&gt;&lt;br&gt;这个答案里面，更多的是对这种设计的讚赏，而非批评。&lt;br&gt;&lt;br&gt;真心的。&lt;br&gt;&lt;br&gt;&lt;i&gt;利益相关：魅族员工&lt;/i&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/22925575/answer/23093186
+</link>
+<author>
+知乎用户
+</author>
+<title>
+是不是我们缺乏一个更高级的理论体系或者认知，才使得我们不能更客观地评价中医等事物？
+</title>
+<description>
+利益相关声明：西医执业，家传中医。&lt;br&gt;自己能肯定短期疗效的中医方剂：一、麦冬大芸等滋阴生津方剂对产后顽固性便秘的效果。二、承山穴对腰痛辅助治疗的作用。&lt;br&gt;能肯定效果不佳的中药方剂：我就不列了，答案有字数限制&lt;br&gt;&lt;br&gt;---------------------------------------------------&lt;br&gt;1、以英文的语法来衡量中文，并不会得出中文不合理的结论，只能体现出两种语言的差异。注意，是差异，不是对错。所以这个例子不恰当。&lt;br&gt;&lt;br&gt;2、中医缺乏的并非是理论认同，而是结果认同。所谓天人合一、阴阳五行、辩证施治、药食同源等等，这些理论极好。比如天人合一和阴阳五行，探讨的是环境对人体的影响，这就是环境医学的内容。辩证施治是诊断学的内容，考虑到了个体化差异。上工治未病说的是三级预防体系。所以整个中医理论与现代医学思想并没有根本性的矛盾。&lt;br&gt;&lt;br&gt;3、真正灭亡中医的不是外部势力打压，不是西方文化入侵，不是打着中医旗号的骗子。而是真正从事中医研究的这些人。&lt;br&gt;&lt;br&gt;想要证明中医有效，方法很简单，就是你说的那个“以英文语法衡量中文”的方法，每一种方剂都做临床试验，每一种症候都设立对照组，做双盲、三盲试验。真金不怕火炼，有效的方剂怎么检验都会有效的。当然有人说中医辩证施治，找不出完全一致的实验对象，但西医也不是一概而论的，也是精确划分患者类型，一个房室传导阻滞都能分成一二三级，二级还能分成I型II型。在大样本下，任何症状都能找到相似群体，以中国人口而言，做任何以人为样本的研究都不困难。&lt;br&gt;&lt;br&gt;&lt;b&gt;但没有人做研究。这是中医最大的问题。&lt;/b&gt;&lt;br&gt;&lt;br&gt;建国后这么多年，中国在各个基础研究领域全面落后。这不是中医一家的问题，材料、冶金、金融各种领域的基础研究几乎都以拷贝国外内容为主。可中医还能偷谁的？&lt;br&gt;&lt;br&gt;2011年欧盟禁止进口中药材，原因是欧盟2004年出台的 《传统植物药注册程序指令》规定，所有国家的植物药生产企业必须在 2011年 4月 30日前完成注册，否则不允许在欧盟境内销售。注册的环节之一是提供药材的临床效果报告。&lt;br&gt;&lt;br&gt;从04年到11年，整整七年，没有一家中药企业做这个报告。大家都在等，企业等高校，高校等国家，国家等企业。当11年四月临近的时候，所有人都把希望寄托在国家干预上，但国家最终没干预。欧盟的要求合情合理，不做作业的小孩就该挨罚。&lt;br&gt;&lt;br&gt;我们每年都有大量的中医类医学论文，毫不客气的说，最近十年里所有中医临床方面的论文都毫无价值，数据真实性，研究的科学性值得商榷。有价值的中医类论文集中在药理方面，已经与西医无异。&lt;br&gt;&lt;br&gt;-------------------------------&lt;br&gt;&lt;br&gt;其实没有西医，西医是指现代医学，他吸收各种有效的药物方法、逐渐革除无效的治疗方案，一步步的发展。这是任何一门学科都必须有的态度。&lt;br&gt;&lt;br&gt;中医也是一样，我们的老祖宗条件很艰苦，但他们在做研究，不断给中医加入新鲜血液。阴阳五行是西汉才逐渐加入中医的，辩证施治自唐朝孙思邈开始，温病学从《难经》发端，金元开拓，一直到明清才逐渐形成明确的体系。各代医书都在用新的研究资料对前人典籍重新注释，标明对错。&lt;br&gt;老祖宗们都知道，前人说的不一定都是对的，需要批判继承，并发扬光大，《本草纲目》勘校了前代本草的错误。反而是到了这个年代，一群与中医无关的人拘泥于“国粹”二字，看了一鳞半爪的典籍，把“传统”当做了不思进取的挡箭牌。&lt;br&gt;&lt;br&gt;所以，清理“爱国贼”“民粹贼”，是中医复兴的必经之路。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22870425/answer/23087427
 </link>
 <author>
@@ -230,76 +302,6 @@ http://www.zhihu.com/question/20838282/answer/21605530
 正式答————————————————————————————&lt;br&gt;
 题主应该是没有养过鱼，养鱼先要考虑放苗的问题。要各种鱼搭配，南方一般是草鱼主养。草鱼（主养鱼），鲤鱼和鲫鱼（底层鱼），白鲢（以小型浮游植物为食），鳙鱼（就是大头鱼，以浮游动物和大型浮游植物为食）。各种鱼搭配可以避免浪费，空间合理利用。200平大概是0.3亩。应该是不打算投饲料的吧……接下来就是放养密度了。&lt;br&gt;
 那么生态养殖的话，草鱼每亩400尾，规格1—3两每尾。成活率大概是70％。鲫鱼和鲤鱼每亩100尾，也是1到3两。白鲢每亩80尾，规格半斤每尾。鳙鱼每亩20尾，规格半斤每尾。&lt;br&gt;&lt;/p&gt;&lt;p&gt;手机打字太累，有时间电脑上补充。&lt;/p&gt;&lt;p&gt;新人求鼓励！求赞！&lt;br&gt;&lt;/p&gt;&lt;p&gt;-----------------------------------------------------&lt;/p&gt;&lt;p&gt;电脑来了-------------------------------------&lt;/p&gt;&lt;p&gt;怎么只感谢不赞啊！------------------&lt;/p&gt;&lt;p&gt;养鱼当然除了放苗还有很多的问题。总结有6点。如下：&lt;/p&gt;&lt;p&gt;&lt;b&gt;1、清好塘。2、放好苗。3、调好水。4、投好料。5、防好病。6、养好鱼。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;从这六点是根据养鱼的每个时间段进行的。&lt;/p&gt;&lt;p&gt;&lt;b&gt;1、清好塘。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;如果两年以上没有干塘的池塘，建议先干塘，然后晒塘半个月。晒塘一般在3月份。晒到池底的泥巴开裂，但是没有晒到发白的程度。&lt;b&gt;然后加水30cm，用石灰80-120斤/亩，全池消毒。&lt;/b&gt;（用强氯精也行，但是效果没有石灰好。）消毒后5-7天加水，最好加河水，没有条件的可以加井水，水深到1.2米。&lt;/p&gt;&lt;p&gt;&lt;b&gt;2、放好苗。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;选择优质的苗种，特别是针对草鱼。&lt;b&gt;放苗前需要对苗种进行消毒，用硫酸铜或者高锰酸钾。&lt;/b&gt;这样既能消毒也能预防草鱼后期的虫病，特别是锚头蚤。放苗到池塘中后，开始会有一批鱼苗因为运输导致死亡，这是正常情况。&lt;/p&gt;&lt;p&gt;&lt;b&gt;3、调好水。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;高密度养殖的时候，鱼苗在水里是需要充足的食物。这段时间需要进行肥水，&lt;b&gt;用芽孢杆菌和光合菌进行肥水，让微生物和可食性的虫繁殖。&lt;/b&gt;这样一来鱼就有食物，并且由于微生物和可食性的虫大量繁殖，同时也会抑制有害菌和有害虫进行繁殖（不同菌、虫的空间竞争，互相抑制）。&lt;/p&gt;&lt;p&gt;&lt;b&gt;4、投好料。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;选择优质的饲料投喂。这里不多讲。&lt;/p&gt;&lt;p&gt;题主这么小的面积应该是生态养殖。生态养殖，在投喂的时候应该是从三月开始。这段时间可以投喂黑麦草。但是要注意不能割老的黑麦草，因为&lt;b&gt;鱼苗经过越冬之后，肠壁很薄，容易引起肠炎。不投隔夜草，就是草没有吃完，晚上要捞起来。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;5、防好病。&lt;/p&gt;&lt;p&gt;&lt;b&gt;鱼病的主要原因是和水质有关系，这里是说防好病，不是治病。&lt;/b&gt;因为鱼病又是一个很大的学问。&lt;/p&gt;&lt;p&gt;前期养鱼主要是调水，杀虫、消毒。以调水为主。&lt;b&gt;三月和四月，分别杀虫两次，消毒一次。两虫一菌。&lt;/b&gt;杀虫用敌百虫+硫酸铜。消毒用粉剂二氧化氯。防病不是一两句话能讲明白的，这里不赘述。&lt;/p&gt;&lt;p&gt;&lt;b&gt;6、养好鱼。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;这就是最后养殖的期望了。这里包括一些养鱼的经验。如：春天白天不加水。加水一次不超过10cm。这是很大的一个学术问题。&lt;/p&gt;&lt;p&gt;&lt;b&gt;（整个养殖期间水深在1.8到2米，不是排名第一的说的3米。）&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;好吧就先说这么多了。养鱼是门大学问，赞多再来补充更详细的！&lt;/p&gt;&lt;p&gt;&lt;b&gt;新人求关注，求赞。求赞！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22912545/answer/23047605
-</link>
-<author>
-朱子夜
-</author>
-<title>
-如何评价第 86 届奥斯卡颁奖礼，有哪些亮点和槽点？
-</title>
-<description>
-好高兴，赶紧拿着赞助商三星的galaxy note 3在舞台上自拍一张！&lt;img src=&quot;http://p2.zhimg.com/58/3d/583dd69ba55b897924276df12de732ea_m.jpg&quot; data-rawwidth=&quot;1270&quot; data-rawheight=&quot;706&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1270&quot; data-original=&quot;http://p2.zhimg.com/58/3d/583dd69ba55b897924276df12de732ea_r.jpg&quot;&gt;&lt;br&gt;然后上传到推特上...&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/47/da/47da5a2dc974bd76ae5f34fc4d7d1eb3_m.jpg&quot; data-rawwidth=&quot;1160&quot; data-rawheight=&quot;1532&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1160&quot; data-original=&quot;http://p1.zhimg.com/47/da/47da5a2dc974bd76ae5f34fc4d7d1eb3_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;高级黑无疑.....&lt;br&gt;&lt;br&gt;P.S. “From 2009-2013 Samsung spent $24 million in #Oscars, according to Kantar Media.”&lt;br&gt;&lt;br&gt;      心疼三星。&lt;br&gt;&lt;br&gt;__________________________________________________________________________&lt;br&gt;&lt;br&gt;更正：Ellen手里的是三爽上个星期发布的最新旗舰Galaxy S5&lt;br&gt;&lt;a href=&quot;http://cn.engadget.com/2014/03/03/samsung-galaxy-s5-oscars-selfies/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Samsung Galaxy S5 广告现身奥斯卡现场，赞助费给了多少？&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22353505/answer/22959043
-</link>
-<author>
-匿名用户
-</author>
-<title>
-bobo bakery 为什么在武汉这么火？
-</title>
-<description>
-钓鱼广告帖无疑以外，不过因为算是同行（看完就觉得道不同不相为谋了），我耐着性子看完 @刘念 的回复，就知道他不会做蛋糕甜点，更不懂什么叫高端甜点，完全就是在玩营销做生意而已，所说的都是修饰得不错的商业宣传，根本不是扎扎实实想做好的蛋糕甜点。 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;真正高端的蛋糕甜点，是没有办法轻易复制的&lt;/b&gt;。好的原材料和特别的材料你以为是购买就能有的吗？坚果类等需要预制作的复杂料我就不说了，你不会连黄油能自己做都不知道吧？而且配方都一样？呵呵呵呵呵呵呵呵呵呵，工厂规模生产见怪不怪的节奏么&lt;br&gt;&lt;br&gt;&lt;b&gt;高端甜点店只能是单店或本地的少数几家店，但凡开连锁的100%都是流水线货，特别是所谓中央厨房模式！！&lt;/b&gt;不服就把你们家中央厨房操作现场的照片贴出来看看，再把你家请了多少位有&lt;b&gt;蓝带级别大师&lt;/b&gt;介绍下，大概率就是一群学徒在那边做流水线，搞不好中工都没请几个。&lt;br&gt;&lt;br&gt;你那富二代哥哥，这么爱蛋糕和甜点还从事这个行业，怎么连个连蓝带证书都没有，半路出家能撑起连锁店的供应，&lt;b&gt;这根本就是会做生意而不是蛋糕甜点，充其量就是个甜点蛋糕爱好者发现这个行业也不错来做买卖而已，&lt;/b&gt;还想装高端蛋糕甜点，呵呵&lt;br&gt;&lt;br&gt;（本人利益相关，独立烘焙工作室，就因为回国女儿吃不到真正的好甜点和蛋糕，外加看不惯那群玩营销的装高端的货）&lt;br&gt;======================================================================&lt;br&gt;&lt;br&gt;“真正的高手，宣传的从来就不是产品，而是生活方式和理念，然后顺手带出产品。”  我又很无耻的琢磨了下这句话，这位老兄眼里的高手是这样的，我给各位翻译翻译： &lt;b&gt;“我就是大忽悠，先和你们聊人生聊哲学，等你们晕了就把拐卖给你。。。”   &lt;/b&gt;好吧我承认我真的很腹黑&lt;br&gt;&lt;br&gt;另外回复的各位别求了，咱不在一个城市，知乎也不是做广告的地方&lt;br&gt;&lt;br&gt;======================================================================&lt;br&gt;补充：&lt;br&gt;&lt;br&gt;1. 既然@刘念已经承认了他开的蛋糕店不是高端店，那么我的观点就是正确的，&lt;b&gt;就事实本身而言，bobo bakery并非是一家把产品放在首位的，真正用心的甜点铺。&lt;/b&gt;所以，麻烦请你收回“&lt;b&gt;我们提供给顾客的不是物美价廉的商品，而是追求完美的高品质商品。。&lt;/b&gt;”这句明明在卖8分产品却非要吹成12分产品的话，这种营销不是&lt;b&gt;虚假广告&lt;/b&gt;是什么？&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 我再进一步说句：按你们家产品的定价，以及武汉的地理位置，你们家的用原材料未必能好到哪里去。&lt;/b&gt;&lt;br&gt;不服请贴出来你所用的动物油脂品牌，黄油品牌，牛奶品牌等你所认为是好材料的，我可以给各位一一点评；以及各类鲜果，尤其请发下你榴莲的产地和其出口商（可隐去关键词若干），我知道国内水果什么产地标贴都能做出来。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/ea/ef/eaefa463d0a411139ea5557d44c01670_m.jpg&quot; data-rawwidth=&quot;540&quot; data-rawheight=&quot;71&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;540&quot; data-original=&quot;http://p2.zhimg.com/ea/ef/eaefa463d0a411139ea5557d44c01670_r.jpg&quot;&gt;&lt;b&gt;好吧，您真是无处不营销，拒绝证实也要自卖自夸一下才行，呵呵呵呵呵&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3. 以&lt;b&gt;“我骄傲，我自信”&lt;/b&gt;就可以做广告的话，知乎以后是不是可以变成互联网广告发布站了？我仍然坚持我的做法和观点，&lt;b&gt;你可以分享你的经验，但不要实名化。知乎上有这类的事件，并不能证明你就可以这么做。难道有人犯罪没被抓，你就可以复制他的做法？&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;4. 上海的蔡嘉是蛮不错的，但他有货真价实的烘焙高手，&lt;b&gt;他们家的品控就是法国蓝带&lt;/b&gt;，你家有什么？麻烦你不要装二试图往他家产品上靠，&lt;b&gt;这种低劣营销手段和山寨品牌的内核是一样的。&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/fe/fb/fefb23997022fa829c2aa63336d70ceb_m.jpg&quot; data-rawwidth=&quot;583&quot; data-rawheight=&quot;169&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;583&quot; data-original=&quot;http://p3.zhimg.com/fe/fb/fefb23997022fa829c2aa63336d70ceb_r.jpg&quot;&gt;曾经有家叫PORTS的时装店，开店专门开在香奈儿和LV等品牌旁边，这家店就被认为也是一家很有名的奢侈品牌，其实只是香港人搞的出口转内销而已。这个经典案例，@刘念 看来很有心得。&lt;br&gt;被你攀比上，蔡嘉的日本师傅要吐血身亡了。蔡嘉的东西人均68以上，你家20出头，就价格制约材料而言，我认为蔡嘉也只敢说自己是进口好材料的标准，根本不敢说自己是顶级食材，不知道你张嘴就说“顶级原料” 这个底气是哪里冒出来的？&lt;br&gt;&lt;br&gt;5. &lt;b&gt;“如果一定要讲究蛋糕师的资质。那我可否认为，XXXX bakery的成功，是每一个有资质的蛋糕师的耻辱。&quot;&lt;/b&gt;确实是耻辱，因为你连蓝带大师有多成功都不知道就敢大言不惭，直接暴露了你有多么坐井观天，这话完全没有反驳必要了。&lt;b&gt;我也明白，你为什么表现出不在乎烘焙师和资质甚至不惜扭曲它的重要性，因为你没有，缺少这个关键，这是你家店铺的硬伤。&lt;/b&gt;再次提醒你不要小看烘焙，不要小看站在桌前兢兢业业每天每天都在研究配方的甜点师，蓝带是靠实实在在的实力拿到的，更是对烘焙和对更好甜点执著的证明。半路出家不可耻，但你要顺着杆子上把蓝带说的一文不值那真是三观不正的可以。&lt;b&gt;你要多赚钱用流水线是你的选择，但这一切都和追求做出更好甜点是没有任何关系的！&lt;/b&gt;&lt;br&gt;&lt;br&gt;@刘念 的第七点。。&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/22/9e/229ee88fc693c72b4a1340d4cb1d918c_m.jpg&quot; data-rawwidth=&quot;376&quot; data-rawheight=&quot;75&quot; class=&quot;content_image&quot; width=&quot;376&quot;&gt;你一个不懂烘焙根本不会做蛋糕的老板，批评我对待自己产品的态度有问题，我打字的手都在颤抖了，&lt;b&gt;我做给我女儿吃的东西，态度能比你那流水线上的学徒差？&lt;/b&gt;而谈到事业，你认识我么，我开独立烘焙工作室的发出点和目标，与你要赚钱的商业目的根本不同，“道不同不相为谋&quot;我再次说一遍。&lt;br&gt;&lt;br&gt;&lt;b&gt;我反对的就是你回复中拼命想塑造的点是做更好的产品，可实际上你不在乎产品是否真的越来越好，你在乎的是每天的盈利是否越来越好而已，说起生意经头头是道，但对产品却一窍不通，呵呵。你要开的是麦当劳，就别说你家的汉堡是真正好吃的汉堡。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;6. 最后，感谢你对中国烘焙这行业做出的贡献，没有你这样的人去吹嘘吸引不明真相的广大群众来扩大需求，就不会有培养出对味觉更在乎，更懂得好甜点的客户群。只有这群人壮大了，优秀的独立烘焙工作室才会闪耀出它应有的光芒。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;谢谢&lt;/b&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22145371/answer/23047622
-</link>
-<author>
-徐筑秋
-</author>
-<title>
-自拍神器和美图手机哪个更值得买？
-</title>
-<description>
-好久没答题…作为一个自恋狂加伪摄影非常业余爱好者来答一下，多图慎点！！！&lt;br&gt;&lt;br&gt;以下是iphone5S前置摄像头+美颜相机、自拍神器、蓝盆友单反拍摄的对比图&lt;br&gt;（感觉可以收录进《你们看我美吗》，请不要客气！）&lt;br&gt;没有最高票的姑娘美 但是我图多啊！我懒得化妆啊！&lt;br&gt;并且除了调光调颜色以外无其他ps（毕竟神器本身就自带ps了嘛）&lt;br&gt;&lt;br&gt;ip5s+美颜相机&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/94/c2/94c2fcd97112f5ff6a398cf4799c8fe8_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;540&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p2.zhimg.com/94/c2/94c2fcd97112f5ff6a398cf4799c8fe8_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/aa/ed/aaed82b264296ef72599f30dcb1ce6f5_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p2.zhimg.com/aa/ed/aaed82b264296ef72599f30dcb1ce6f5_r.jpg&quot;&gt;同样的衣服之后有单反对比&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;自拍神器 图一是Tr200 图二是Tr150&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f3/51/f35188b1b599e363eb68e478d12bc334_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;960&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p3.zhimg.com/f3/51/f35188b1b599e363eb68e478d12bc334_r.jpg&quot;&gt;&lt;img src=&quot;http://p4.zhimg.com/76/2c/762c2100ab8dd7d1d8caaae836a196bd_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;853&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/76/2c/762c2100ab8dd7d1d8caaae836a196bd_r.jpg&quot;&gt;（自拍神器照出来好像ET啊= = 一定是我自拍方式不对）&lt;br&gt;&lt;br&gt;作为自拍小能手，我还曾经丧心病狂的用单反自拍！&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/a5/29/a529ff2d9bc7b9242578b4a36450bf75_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;479&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p2.zhimg.com/a5/29/a529ff2d9bc7b9242578b4a36450bf75_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;下面是经过我恩威并施后技术日益进步的蓝盆友单反拍摄 5D3+适马50mm、70-200mm、24-105mm @Eric Li&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/69/05/69058b831e1fba9cab772f6afb1f3d8c_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;1080&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p3.zhimg.com/69/05/69058b831e1fba9cab772f6afb1f3d8c_r.jpg&quot;&gt;&lt;img src=&quot;http://p1.zhimg.com/01/51/0151ce32bafa109752ffc5827957e42b_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p1.zhimg.com/01/51/0151ce32bafa109752ffc5827957e42b_r.jpg&quot;&gt;&lt;img src=&quot;http://p4.zhimg.com/70/3c/703c140be7402b98df19c934d8b9a4e3_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p4.zhimg.com/70/3c/703c140be7402b98df19c934d8b9a4e3_r.jpg&quot;&gt;&lt;img src=&quot;http://p1.zhimg.com/d8/0e/d80ef3a5db62352440258131b2834a98_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/d8/0e/d80ef3a5db62352440258131b2834a98_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/63/94/6394dce8b87dc7c83bd230e806e1d2fa_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/63/94/6394dce8b87dc7c83bd230e806e1d2fa_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/92/d3/92d3c8e7fa2a9d233ec732ae1ab52251_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/92/d3/92d3c8e7fa2a9d233ec732ae1ab52251_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/50/a4/50a465ef8282c0073699da4b5a2b9a99_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;425&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/50/a4/50a465ef8282c0073699da4b5a2b9a99_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/93/ff/93ff46c039a125579a8059f6b3c211f9_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/93/ff/93ff46c039a125579a8059f6b3c211f9_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/f8/05/f8052753facc5e608ccd2796748c9fc3_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/f8/05/f8052753facc5e608ccd2796748c9fc3_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/be/ac/beac4b0787a40abf47e5e2ef558f555b_m.jpg&quot; data-rawwidth=&quot;610&quot; data-rawheight=&quot;836&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;610&quot; data-original=&quot;http://p3.zhimg.com/be/ac/beac4b0787a40abf47e5e2ef558f555b_r.jpg&quot;&gt;&lt;img src=&quot;http://p1.zhimg.com/0a/da/0adabde070393585784d599d7e78326b_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/0a/da/0adabde070393585784d599d7e78326b_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;以及无论用哪种神器哪种软件都拍不出来的&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/9c/2a/9c2a04b3d0cf482d25616eae488df060_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/9c/2a/9c2a04b3d0cf482d25616eae488df060_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/bd/67/bd67e1ac869fdd2594468a735bbbe6fd_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/bd/67/bd67e1ac869fdd2594468a735bbbe6fd_r.jpg&quot;&gt;&lt;img src=&quot;http://p2.zhimg.com/12/03/1203606048fc2901572cbdb931d680a0_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p2.zhimg.com/12/03/1203606048fc2901572cbdb931d680a0_r.jpg&quot;&gt;&lt;img src=&quot;http://p4.zhimg.com/72/81/72818bb1d71db6d37e41ccf3c6d25c19_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/72/81/72818bb1d71db6d37e41ccf3c6d25c19_r.jpg&quot;&gt;&lt;img src=&quot;http://p3.zhimg.com/ff/45/ff45c30186320529b688d21d5b54eb99_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/ff/45/ff45c30186320529b688d21d5b54eb99_r.jpg&quot;&gt;&lt;img src=&quot;http://p4.zhimg.com/79/7c/797c1115985a804a700fb4aa85232d1e_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;961&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/79/7c/797c1115985a804a700fb4aa85232d1e_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;所以你告诉我是买个神器还是找一个会摄影的男朋友？&lt;br&gt;&lt;br&gt;当然除了男朋友 你还需要好的相机好的镜头好的衣服好的背景好的光线角度pose…&lt;br&gt;哦 对了还有最重要的&lt;br&gt;好好减肥。只要瘦 拍照就能好看 这是颠簸不破的真理
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20416619/answer/23023795
-</link>
-<author>
-匿名用户
-</author>
-<title>
-转基因食品安全否？有哪些优点和缺点？
-</title>
-<description>
-看了转基因争论后我的观点：&lt;br&gt;我发现了一个惊天大秘密，众所周知微电子行业的理论基础有一个量子力学，这跟基因一样是大自然完美的杰作，其中的秘密根本不是现在的科学教信徒所能理解的，现有的科学体系根本不能完全预知，其中有许多未知的神秘射线都在不停的从你手机里发射出来腐蚀大脑，国外好多电子博士公开反对微电子都已经被封杀了，我有一个中科院的亲戚从来就不用手机，只写信与人交流！这都是苹果三星等跨过利益集团联合世界上各大财团收买了各国垃圾官员的结果，让我们老百姓有知情权好吗！我们只想用上用木头敲出来的电话！别告诉我那些权威机构的狗屁检测，科学解释不了的问题多了盲目相信科学只会后悔的，时间会告诉你们一切的！是个中国人的转起来吧！我只想用木头敲出来的手机！为我们子孙后代着想！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22904270/answer/23019953
-</link>
-<author>
-Joy Neop
-</author>
-<title>
-维基百科的内容，有没有版权，权利人是谁？
-</title>
-<description>
-版权属于编辑者本人。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e7/e6/e7e60f2673679759f5d00db724617aa2_m.jpg&quot; data-rawwidth=&quot;240&quot; data-rawheight=&quot;180&quot; class=&quot;content_image&quot; width=&quot;240&quot;&gt;&lt;br&gt;&lt;br&gt;小明写了 [[Tower of Babel]] 的第一个版本并发表在 Wikipedia，就成了这个条目的 version 1。这一行为叫做“&lt;u&gt;小明将一篇标题为 Tower of Babel 的文章同时以 CC BY-SA 3.0 许可证和 GNU 自由文档许可证发表在 Wikipedia 并且 Wikipedia 接受了这篇文章，Wikimedia Foundation 在小明的许可下将其公开展示于 Wikipedia&lt;/u&gt;”（如果没有被删除）。&lt;br&gt;小亮进行编辑（可能是添加章节也可能是修改语病，这不重要）后，条目版本到了 version 2。这一行为叫做“小亮对这篇文章的 version 1 进行了修改（命名为 version 2）并同时以&lt;u&gt; CC BY-SA 3.0 许可证和 GNU 自由文档许可证发表在 Wikipedia 并且 Wikipedia 接受了这次修改，因为这个修改版 version 2 的原始版本 version 1 以 &lt;/u&gt;&lt;u&gt;CC BY-SA 3.0 许可证和 GNU 自由文档许可证释出，且小亮在向 Wikipedia 提交内容时同意，所以新版本自动同时适用于 &lt;/u&gt;&lt;u&gt;CC BY-SA 3.0 许可证和 GNU 自由文档许可证，Wikimedia Foundation 依此在 Wikipedia 公开展示 version 2。&lt;/u&gt;”&lt;br&gt;小刚进行编辑后，条目版本到了 version 3。同理。&lt;br&gt;&lt;blockquote&gt;P.S. 为什么我说 version 而不说版本？因为中文里 edition 和 version 都叫版本，在这个语境里不是一回事。&lt;/blockquote&gt;&lt;br&gt;现在 [[Tower of Babel]] 有 3 个 version。&lt;br&gt;其中 version 1 版权属于小明。&lt;br&gt;Version 2 版权属于小明和小亮。&lt;br&gt;Version 3 版权属于小明、小亮和小刚。&lt;br&gt;&lt;br&gt;小明将 version 1 发表在 Wikipedia 后，即无法完全控制这篇文章。根据 CC BY-SA 3.0 许可证和 GNU 自由文档许可证的要求，这篇文章将会被自由地修改、分发、公映、展示。并且对其修改后产生的新版本如果被传播，则自动适用 CC BY-SA 3.0 许可证和/或 GNU 自由文档许可证（修改者可以选择其中一个来使用）（根据 Wikipedia 条款与条件，如果把新版本发在 Wikipedia 则是同时使用两者）。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;但是，如果小红想要将这篇文章的某个版本以其他许可证使用（如 CC BY-ND 许可证），或者想要用在自己的作品里（如商品包装）使用但不愿意接受 CC BY-SA 3.0 许可证，也有曲线救国的方法。只要联系该版本的所有贡献者并得到他们共同的许可，就能够避免 CC BY-SA 3.0 和 GFDL。如果某一贡献者不愿意授予许可，也可以选用该贡献者第一次编辑文章之前的那个版本（假设小刚不愿意，但是小明和小亮都愿意，小红就可以用 version 2）。&lt;br&gt;&lt;/blockquote&gt;&lt;br&gt;跑题甚远…… 文章某版本的权利人是原始版本的作者和从原始版本到该版本参与的编辑者。
 </description>
 </item>
 </channel>
