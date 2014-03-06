@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22916844/answer/23113930
+</link>
+<author>
+Rio
+</author>
+<title>
+如何评价苹果公司和汽车厂商联合发布的 CarPlay？
+</title>
+<description>
+外界之前对于 iOS in the Car 到底是个什么东西众说纷纭，昨天【2014年3月3日】正式发布为 CarPlay 后终见分晓。总体感觉是「意料之内、毫无惊喜」；具体实现上比我预期的更糟糕——应了那句老话：期望越高，失望越大。&lt;br&gt;&lt;br&gt;CarPlay 现在这种形式其实并不陌生，本质上它和之前不少车配备的 30 针 dock 接口的方式差别不大。你可以把 CarPlay 看作 MFi 项目 (Made For iPhond/iPad/iPod) 的延伸——车不过是 iPhone 的另一个外设 (accessory) 而已，就像 MFi 音箱一样。只不过这个音箱是你车载的，并且有个触屏用以展示额外的信息，然后你还可以通过中控或者方向盘上的媒体键操作它。&lt;br&gt;&lt;br&gt;换句话说，CarPlay 是为了把车融入 iOS 生态圈从而卖出更多 iPhone，而不是把 iPhone 植入车里卖出更多的车。苹果的界线划得很清楚。战略布局已定，剩下的就是战术上的考量了。&lt;br&gt;&lt;br&gt;功能和体验上看，CarPlay 比 Tesla 的中控自然是差了好大一截。CarPlay 应用局限于车的通讯信息娱乐系统 (communinfotainment system，嗯没错，这个词是我生造的，融合了 communication, information 和 entertainment 于一体，相比起来 infotainment 算啥，你们怕了吧哈哈哈 :)。你可以打电话、用导航、听音乐，但是跟车辆行驶过程相关的东西却是无能为力，比如你不能通过 CarPlay 控制车的天窗、或者用手机启动车辆。而在这方面 Tesla 才是软硬一体、垂直整合的先驱，人称「车厂中的战斗机」，啊不对，是「车厂中的苹果」 (Apple of the car makers)。&lt;br&gt;&lt;br&gt;今天【3月4日】苹果在瑞士日内瓦车展演示 CarPlay (&lt;a href=&quot;http://www.engadget.com/2014/03/04/apple-carplay-ferrari-ff-hands-on/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Hands-on with Apple's CarPlay: when Siri met Ferrari (video)&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; )，万万没想到时间已经是 2014 年了，即将发布的新款法拉利 FF 轿跑的中控触屏竟！然！无！法！滑！动！滚！屏！，翻页要靠点击虚拟按钮……所以说再牛逼的车厂也不懂 IT 【Tesla 除外】。 &lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/8d/9f/8d9fc86ae9db0b90f2789a15ebcd0e7d_m.jpg&quot; data-rawwidth=&quot;1310&quot; data-rawheight=&quot;898&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1310&quot; data-original=&quot;http://p1.zhimg.com/8d/9f/8d9fc86ae9db0b90f2789a15ebcd0e7d_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt; 更加万万没想到的是苹果 CarPlay 官方网站 (&lt;a href=&quot;https://www.apple.com/ios/carplay/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Apple - CarPlay&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;) 上展示的 2014 年新款本田竟然还为了迁就行将就木的 CD 机牺牲了中控触屏的面积：目前见到的支持 CarPlay 的车中控触屏似乎都没超过 10 寸，作为对比 Tesla 的中控触屏高达 17 寸之巨。CarPlay 连  CD 机都没法取代这种事儿你以为苹果会告诉你么？它一口气儿在 CarPlay 展示页面列了四个音乐 app 两个播客 app 试图扳回一城！&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/de/bf/debf3337cab5cc4cc10feb1598a5abe4_m.jpg&quot; data-rawwidth=&quot;1522&quot; data-rawheight=&quot;1166&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1522&quot; data-original=&quot;http://p1.zhimg.com/de/bf/debf3337cab5cc4cc10feb1598a5abe4_r.jpg&quot;&gt;&lt;br&gt;然后还有奔驰……&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/5a/29/5a29cf30e54e85e4a691f3fd6cc0e5ef_m.jpg&quot; data-rawwidth=&quot;1514&quot; data-rawheight=&quot;1138&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1514&quot; data-original=&quot;http://p2.zhimg.com/5a/29/5a29cf30e54e85e4a691f3fd6cc0e5ef_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;教训自然是不控制硬件就没法提供最佳的用户体验，并且永远不要高估猪一样的合作伙伴的智商。嗯……这个情况似乎有点似曾相识……诶，那不是说的微软么？！其实 CarPlay 和微软为福特开发的 Ford Sync 本质上是一回事，只是把微软和福特这两个没有什么品味的巨头加在一起自然是做不出什么好东西的——Ford Sync 非常屎。相比起 Tesla 来 CarPlay 就算是屎，好歹也是一坨颇有品味的屎。&lt;br&gt;&lt;br&gt;问题是在这种级别的合作中，苹果还不足以强势到能够决定车厂的硬件选择。车厂毕竟不是移动运营商，车也不是同质化的 commodity 而是高度个性化的典型，买保时捷的人不会因为法拉利支持 CarPlay 就改主意了。既然你苹果不能给我带来显著的新增市场份额，我为何要唯你马首是瞻？我还盘算着同时支持 OAA + MirrorLink，并且接着开发自家的车载系统呢！有本事你自己造啊！&lt;br&gt;&lt;br&gt;看来苹果收购 Tesla 似乎是个不错的选择？最近 Tesla CEO、业界人称最接近「钢铁侠」的男人、Elon Musk 确认二月份与苹果高层有过会晤，不过被问及商讨事宜是否涉及并购时，他犹豫了一下最后的答复是「非常不可能」(very unlikely)，瞬间断了多少果粉和 Musk 粉的念想。外界的猜测是会晤有可能是关于 CarPlay 的合作。但现在我们看到的结果是，支持 CarPlay 的车厂里面恰恰没有 Tesla。(&lt;a href=&quot;http://www.bloomberg.com/video/musk-a-sale-of-tesla-very-unlikely-Hfh13_sMQCC~x~HzbPKZ4w.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;bloomberg.com/video/mus&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;k-a-sale-of-tesla-very-unlikely-Hfh13_sMQCC~x~HzbPKZ4w.html&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;) &lt;br&gt;&lt;br&gt;话又说回来，苹果和 Tesla 两家在可充电锂电池这个核心零部件的供应上倒是有着共同的利益诉求：Tesla 一年约需 2.1 万吨锂电池，苹果据粗略估算大概一年需要 2.4 万吨，在同一个量级上 (&lt;a href=&quot;http://www.mondaynote.com/2014/03/02/the-apple-tesla-connection-fun-and-reason-with-numbers/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The Apple Tesla Connection: Fun and Reason With Numbers&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)。所以苹果和 Tesla 合资新建电池工厂 Gigafactory 也不是没有可能。&lt;br&gt;&lt;br&gt;&lt;br&gt;出于驾驶安全考虑，为了避免分散司机注意力，iMessage 甚至都不会显示消息文字而只会通过语音播报。第三方 app 估计需要苹果认证无碍驾驶安全才能用于 CarPlay，尚不知具体过程到底如何，个人开发者估计一时半会是玩不动了。&lt;br&gt;&lt;br&gt;剩下一个有趣的问题：苹果会不会允许第三方地图/导航支持 CarPlay？苹果自家地图发布之初即遭痛骂，CEO Cook 不得不亲自道歉，还因为这事儿和 Forstall 彻底翻脸，后者被扫地出门。时隔一年半，苹果地图虽然也在持续改进，但数据依然不如谷歌【在中国则是不如百度？】，搜索照旧浆糊【苹果不懂搜索，不管是官网、App Store、iTunes 商店、还是地图】。如果 CarPlay 只允许使用苹果自家的地图，那真的会有不少人被带进坑里去 (literally)。此刻压力山大的非 Eddy Cue 莫属。云服务这块短板，苹果什么时候补得齐？我们还是拭目以待吧。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22498479/answer/22932230
 </link>
 <author>
@@ -283,20 +297,6 @@ http://www.zhihu.com/question/22582296/answer/21866443
 我和女朋友玩过一个好玩的也非常刺激的也很考验大脑思维能力和想象力的游戏。甚至都不用上网也能让你俩打发一天的时间甚至接下来的好几天都要回味这个游戏！ &lt;br&gt;这个游戏的名字叫做 &lt;br&gt;&lt;br&gt;《挨个介绍你电话本里的人》 &lt;br&gt;&lt;br&gt; 如果这个游戏不过瘾还可以玩升级心跳版 &lt;br&gt;&lt;br&gt; 《挨个介绍你QQ里的人》 &lt;br&gt;&lt;br&gt; ======================= &lt;br&gt;&lt;br&gt; 经评论提醒。。还有高级恐怖版。。 &lt;br&gt;&lt;br&gt; 《挨个介绍你微信你的人》 &lt;br&gt;&lt;br&gt; 还有终极作死版 
 
  《挨个介绍你陌陌里的人》&lt;br&gt;&lt;br&gt; 祝大家游戏愉快！早日通关！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22874569/answer/22954668
-</link>
-<author>
-温暖时光
-</author>
-<title>
-傲游浏览器发布“视频快进”功能后，优酷似乎跟傲游展开了攻防战，具体情况是怎样的？
-</title>
-<description>
-这两天抽空看了下，大体上就是给优酷、搜狐等视频网站flash开发找活干的节奏啊...&lt;br&gt;&lt;br&gt;&lt;b&gt;第一阶段&lt;/b&gt;（傲游“马上看视频”功能上线之初）——傲游利用flash中的时序机制，自以为很聪明的通过hack浏览器中flash的时钟时间，达到加速的目的，原理就是这样，并不复杂。&lt;br&gt;&lt;br&gt;优酷、搜狐、腾讯视频等（以下简称：反盗版联盟）没过两天就有了对策——发布版本通过判断flash时序与本地时间做比较，就很方便的知道自己被加速了，于是使傲游的加速点击之后无效，“让你点了没效果”。&lt;br&gt;&lt;br&gt;&lt;b&gt;第二阶段&lt;/b&gt;——傲游更改了加速机制（傲游全部都是静默升级），浏览器因为权限较大，直接加速flash时序和本地计算机的时间，这样优酷们就又不知道了。于是，又得逞了。&lt;br&gt;&lt;br&gt;反盗版联盟——靠，不让我比对本地时间，那我和我后方服务器比对，你又傻逼了。&lt;br&gt;&lt;br&gt;&lt;b&gt;第三阶段&lt;/b&gt;——傲游又更改了加速机制，不再利用加速flash的时间，本地时间也没有加速（具体怎么做的我还没有想到），造成的一个问题是只加速了视频，没有加速倒计时，所以用户还是跳不过广告的，必须等到倒计时结束。&lt;br&gt;&lt;br&gt;反盗版联盟——靠，这傻逼跳不了广告反而来恶心视频网站的体验，于是截止目前为止优酷和搜狐都直接禁止傲游浏览器观看视频。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/70/1f/701f1544c469c05af2d8f08ea55288fb_m.jpg&quot; data-rawwidth=&quot;572&quot; data-rawheight=&quot;129&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;572&quot; data-original=&quot;http://p4.zhimg.com/70/1f/701f1544c469c05af2d8f08ea55288fb_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;第四阶段&lt;/b&gt;——靠，不让我看，我改浏览器UA，我改成IE你就不知道我是谁了.....&lt;br&gt;&lt;br&gt;反盗版联盟——尼玛.....&lt;br&gt;&lt;br&gt;以上就是最近一周的经过，目前事情还在持续，笔者的观点是：&lt;br&gt;&lt;b&gt;视频广告是视频网站几乎唯一的收入，视频网站花了巨大的成本购买带宽和内容，理所应当用户需要付出观看广告的成本，傲游这种想基于损害他人利益获取用户的手段我认为就是耍流氓！&lt;/b&gt;
 </description>
 </item>
 </channel>
