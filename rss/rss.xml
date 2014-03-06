@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/19656857/answer/23122792
+</link>
+<author>
+祝博韬
+</author>
+<title>
+Google 真的「不作恶」吗？
+</title>
+<description>
+谢邀。&lt;br&gt;&lt;br&gt;我很喜欢 Google 的产品，但 Google 并不是很多人心中那个金光闪闪的圣人形象，它只不过是一家公司。&lt;br&gt;&lt;br&gt;Google 把自己塑造成开源、开放的公司，忽悠了很多技术爱好者，其实它非常封闭。它的核心产品：搜索、地图、YouTube、Gmail、Drive 全部是闭源的。它最重要的基础组件 GWS、GFS、BigTable、MapReduce 等也不开源（Yahoo 开源的被大家广泛使用的 Hadoop 性能比 Google 的差了好几倍）。Google 在安卓里加了个中间层来允许硬件厂商绕过 GPL 提交闭源驱动，为此和 Kernel 社区吵了一架。Google 参与开源的项目大多数是中途开始参与的，如早期主要由苹果主导的 WebKit（&lt;a href=&quot;https://github.com/WebKit/webkit/commits/master?page=1&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Commits · WebKit/webkit · GitHub&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;） 和 LLVM。Android 和 Chromium 其中基本系统、编译器、内核、WebKit 很多来自 GNU 和苹果，Google 的贡献在虚拟机、API、UI 等方面。Google 牢牢把控自己的开源项目如 Android，第三方实际上是无法参与的，也不欢迎第三方自创不兼容的分支（见 &lt;a href=&quot;http://en.wikipedia.org/wiki/Criticism_of_Google#The_Aliyun_OS_affair&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;阿里云 OS&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 。CM 等只是小幅度完善的不算）。但 Google 因为无法控制 WebKit，便分支出 blink 和苹果分道扬镳。（苹果当年也对 KDE 做过一模一样的事。）&lt;br&gt;&lt;br&gt;Google 和电信联盟关于电信收费模式（流量发出方是否应该根据流量类型交费）发生冲突之后，Google 做了一个宣传页面挂在 Google 首页上（你们看看有多幼稚，就像 360 弹窗说腾讯欺负我们一样：&lt;a href=&quot;https://www.google.com/intl/en/takeaction/whats-at-stake/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Take Action&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），称电信联盟的提案会破坏互联网自由，号召大家抵制电信联盟，获得了很多不明就里的小白的支持。电信联盟的提案不了了之。如果提案通过，Google 等互联网公司会付更多流量费给电信运营商用于宽带建设，用户支付的宽带使用费会降低，而发展中国家更会从中获得补偿。（&lt;a href=&quot;http://www.bbc.co.uk/news/technology-20429625&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;BBC News - Google attacks UN's internet treaty conference&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）（&lt;a href=&quot;http://www.theguardian.com/technology/2012/dec/03/telecoms-unitednations&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ITU and Google face off at Dubai conference over future of the internet&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;Google 和台湾政府关于退款时间政策起冲突后，不顾开发者的利益，下架台湾区所有付费 App 长达 20 个月，威胁台湾政府取消罚款。（&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E6%89%8B%E6%A9%9F%E4%BB%98%E8%B2%BBAPP%E8%BB%9F%E9%AB%94%E7%8C%B6%E8%B1%AB%E6%9C%9F%E4%BA%8B%E4%BB%B6&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;手機付費APP軟體猶豫期事件&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;AppEngine 先免费把你骗上船，等有很多开发者、相关书籍、部署的应用后再宣布收费（超配额后相比同类产品很贵）。过了一段时间后又再次宣布提价。大家纷纷撤离，浪费了很多开发时间和学习成本用来学一个不值得学的东西。&lt;br&gt;&lt;br&gt;Google 不顾用户呼声，砍掉了不赚钱的 Google Reader，并且不提供便于查看结果的数据导出功能，只提供 JSON 数据让用户自己写程序读取。&lt;br&gt;&lt;br&gt;Google 为了自己的名声&lt;b&gt;主动&lt;/b&gt;离开中国。虽然 Google 也是受害者，但我还是想指责它。它的离开在国外一片叫好声，但对中国用户没有任何好处，增加了中国用户获取信息的难度。Play 至今仍不支持中国用户付费购买 App，要正常用 Google Play 只能谎报国籍。逃避是简单和懦弱的，用智慧和对话和对方周旋才是值得倾佩的。Google 离开中国从长远上看它丢掉了中国市场，提升了自己的 image，中国互联网丢掉了变得开放的唯一一丝缝隙的希望，是一件非常遗憾的事情。如果 Google 当时多一些耐心，现在的中国互联网会比现在好的多。&lt;br&gt;&lt;br&gt;Google 时常放出新闻说它在做一些有趣和公益的项目：气球无线网（Loon）、帮有关国家的网民绕过防火墙（uproxy），都没有后续。特别是 uproxy，明明以 Google 的资源一个月就能上线了，为什么迟迟不出来？&lt;br&gt;&lt;br&gt;Google 收购了 iOS 和 Mac 上曾经最好用的邮件客户端 Sparrow，让它不再开发新版本。&lt;br&gt;&lt;br&gt;还有些 Google 中国当年的内幕不说为好，你们也不会把中国部门当成 Google 的一部分吧。&lt;br&gt;&lt;br&gt;Google 的这些行径也许不属于它自己定义的「恶」，但是，那些受到伤害的人不会这样认为。&lt;br&gt;&lt;br&gt;Google 是一家上市公司，不是慈善组织。我不是要说 Google 多 evil，我只是想把它比它自己标榜的高度拉低一点而已。&lt;br&gt;&lt;br&gt;=====================================================&lt;br&gt;评论很精彩，有很多不同的意见，推荐全部读一遍。感谢所有评论的同学。&lt;br&gt;等有空了我把微软和苹果的黑历史也整理出来供大家观赏。&lt;br&gt;&lt;br&gt;也许 Google 的所作所为可以用一首歌来概括：&lt;br&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Fj5wnWpECLs&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;My Way&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;blockquote&gt;Regrets, I've had a few&lt;br&gt;But then again, too few to mention&lt;br&gt;I did what I had to do and saw it through without exemption&lt;br&gt;I planned each charted course, each careful step along the byway&lt;br&gt;And more, much more than this, I did it my way&lt;/blockquote&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22932798/answer/23128197
 </link>
 <author>
@@ -281,20 +295,6 @@ http://www.zhihu.com/question/21912303/answer/19710489
 </title>
 <description>
 你看到的是新浪微博官方的数据分析对吧，优酷自己也有数据分析，我截几个图：&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/03/19/03194957ad4e6ec267f40499989be977_m.jpg&quot; data-rawwidth=&quot;1004&quot; data-rawheight=&quot;394&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1004&quot; data-original=&quot;http://p1.zhimg.com/03/19/03194957ad4e6ec267f40499989be977_r.jpg&quot;&gt;这张图可以看到，来自新浪微博的播放量只占整体播放量的0.4%&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/87/96/87962f7f4daa03c0ab7ad996386e505e_m.jpg&quot; data-rawwidth=&quot;1038&quot; data-rawheight=&quot;776&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1038&quot; data-original=&quot;http://p1.zhimg.com/87/96/87962f7f4daa03c0ab7ad996386e505e_r.jpg&quot;&gt;第二张图可以看到北上广是播放量的主要来源，至于为啥在新浪微博的分析里是垫底。。。我觉得应该是取样问题导致的错误吧。&lt;br&gt;万万没想到的所有优酷官方统计数据都可以在最下方的链接里找到，这是公开的。&lt;br&gt;这算不算大数据啊，反正我是边分析数据边调整剧本的。&lt;br&gt;&lt;a href=&quot;http://index.youku.com/vr_show/showid_zd1d065eafb1411e2a705.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;中国网络视频指数&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22923117/answer/23106053
-</link>
-<author>
-章科
-</author>
-<title>
-如何拯救踏入器材党的中老年初学者？
-</title>
-<description>
-千万别阻止你爹，阻止他就是坑爹。&lt;br&gt;中老年人玩摄影的特殊年龄经历，使得他们对于审美的认识主要局限于黄昏晨雾，亭台楼榭，花朵落叶，颜色构图，还有浅景深。&lt;br&gt;中老年人摄影圈子很多是男性，男性永远是大男孩，看见精密机械走不动路。&lt;br&gt;但是，这不是问题的关键。&lt;br&gt;社交才是问题所在。&lt;br&gt;前面说了，审美有限，这方面很难深入交流下去，通常止于“你看这灯笼颜色多红，意境多好，我这50 1.4没有紫边哈哈哈哈”，“嗯，这荷花上的水滴拍得真清楚，晶莹剔透，尼康就是比佳能锐”等等等——各大景区都能看到穿着摄影背心的一群中老年人对一片树叶拍一个下午。&lt;br&gt;要在这个圈子混下去，让自己开心也让别人开心，你爹就必须随着大流。大家的日常交流就是这个，你和他们谈摄影思想，谈照片体现世界观那比扭转日系车愤青的思想还要难。&lt;br&gt;同时，永远不能忽视这个圈子的攀比心理。“你有328？哼，劳资有218”。“哼，你们日系的和我大徕卡较什么劲？”“哼哼，我有林哈夫，你们都去死吧”……&lt;br&gt;这还不会当面说，大家心里都憋着劲呢。&lt;br&gt;&lt;br&gt;人老了有爱好，有帮一起玩的朋友不容易，你爸爱整这个，就让他去玩吧，开心就好。作为孩子，你唯一要做的就是时不时给他整个高级货。&lt;br&gt;“你看，这是我儿子给我买的七枚玉，不让他买非买，这一万多块的东西……”&lt;br&gt;不会在你面前表现出来，在外面那能得瑟小半年呢。
 </description>
 </item>
 </channel>
