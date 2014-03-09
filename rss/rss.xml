@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/22971158/answer/23244596
+</link>
+<author>
+Zhang Rocky
+</author>
+<title>
+为什么相机录制视频时的外接话筒，底噪那么大？
+</title>
+<description>
+恰好是做录音这行的，提出一些分析希望能有帮助。&lt;br&gt;大家说的底噪大，专业上是指信噪比（S/N）不好，意即可用信号和噪声的比例没有拉开，想听清对白就不得不提高音频文件的增益，噪音也随之就提高了，听起来底噪非常大。既然是信-噪比，我们就可以知道题主问题的答案，也就知道怎样改进了：&lt;br&gt;&lt;br&gt;1.提高“信”（signal）。不论是随机话筒还是插在热靴上的rode之类的话筒，对于最佳拾音位置来讲，都太远！大家都看过影视剧拍摄花絮，最佳拾音位置基本是在演员头顶斜上方，距离演员头顶30cm左右。在机身位置的任何话筒，都是没法到这个位置的。所以首要的是把话筒装上减震架，话筒杆，举到演员的头顶上去。随机mic和rode话筒的区别在于指向性和话筒品质，在话筒位置正确的前提下，再改善话筒品质，选择合适的指向性。比如都吊到演员头顶的位置上时，选择sennheiser MKH416（这是个经典型号，几十年不衰）就比RODE NTG-2话筒要好。但首先要记住，话筒位置！位置！&lt;br&gt;&lt;br&gt;2.控制“噪”（noise）。在马路边当然要比在室内拍摄噪音高。这是选景，甚至写剧本时就应考虑进去的。因此大片会封路，小片会选择车流少的时段拍（剧本专门设计交通嘈杂除外）。就算是在室内，也是有很多需要控制的噪音。比如在拍摄之前关掉冰箱，饮水机，这些定期启动很是麻烦。关掉呜呜作响的电脑，咔咔的挂钟，中央空调，背景音乐等等。这些不起眼的工作会大大地改善信噪比。千万不要说我这场戏本身就需要背景音乐，所以不关，后期想怎么加就怎么加，录进去可就拿不掉了。&lt;br&gt;另外，选择指向性更强的话筒，也是规避噪音的重要手段。思路都是尽可能地减少不需要的噪音。&lt;br&gt;&lt;br&gt;3.降低电路底噪，改善记录设备的品质。从mic收录进来的电信号非常微弱，首先需要放大，这就是常说的话放。话放是声音进来的第一道处理，因此话放的品质格外重要。下一步是把模拟信号采样量化为数字信号（A-D)，这样才能记录在数字媒体上。这两个步骤的品质决定了声音记录的质量。相机，摄像机的产品设计都是偏重画面的品质，它们的话放和模数转换电路品质都不会太高，因此不可避免地带入大量的电路底噪。&lt;br&gt;此外，像5D2这样的相机，录音电平都是自动的，信号大的时候自动降低增益，信号小时提升增益，因此录制人声的时候，有台词时录音电平就小一些，环境底噪就随之压下来；没有台词的时候就会自动提升增益，环境底噪就会增大。这样的录音文件中的噪声就会像”喘息“一下起伏不定，后期很难解决。针对这一点，我们可以采用独立录音机连接话筒录音（如ZOOM系列，便宜，品质又有大改善），手动录音电平控制。&lt;br&gt;&lt;br&gt;从以上三点着手，大家就会发现声音文件的质量大有改观了。&lt;br&gt;欢迎继续讨论：）
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/22905959/answer/23147336
 </link>
 <author>
@@ -329,34 +343,6 @@ http://www.zhihu.com/question/22816766/answer/22757800
 </title>
 <description>
 &lt;b&gt;更新：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;震惊了，竟然收到七百多个赞，我主页上的赞同数全靠这几个表了啊！&lt;br&gt;感谢大家捧场，特前来更新一组更简洁的图片，去掉了模糊的图片。&lt;/b&gt;&lt;br&gt;——————————————————————————————————————————&lt;br&gt;有一些朋友想要一份文件，我随意挑了几个样式，做成空白表格了，感兴趣的可以前去。&lt;br&gt;其实这些表格十分好做，每个人想要的版式都是不一样的，色彩，字体，行列，不用非得按照我这个来做。&lt;br&gt;&lt;a href=&quot;http://tailsheng.lofter.com/post/41fbf_e3b638&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;热爱生活是什么样子的？（附举例文件）&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;这几份文档躺在我的电脑里好多年了，这些玩意儿可能做梦都没想到会以这种方式出来做个秀。&lt;br&gt;收到很多朋友的赞同和感谢，能给大家带去启发，发现更好的生活方式，我也挺高兴的。&lt;br&gt;&lt;br&gt;——————————————————————————————————————————&lt;br&gt;&lt;br&gt;我从几年以前开始，喜欢用excel当作日历本，每一天都要坚持记下一些东西，&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/1c/f6/1cf65ddd391e624ed259286407ed5262_m.jpg&quot; data-rawwidth=&quot;131&quot; data-rawheight=&quot;98&quot; class=&quot;content_image&quot; width=&quot;131&quot;&gt;&lt;br&gt;一开始是记录发生的事情，自身的感悟&lt;br&gt;之后发展到记录看过的书，听过的音乐，电影，当天热衷了什么事？等等&lt;br&gt;然后又发展到改善一些自身的习惯和毛病，每一天都记录下来为这个习惯做了什么&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/2c/18/2c1812796846eaf8878c7892804d0674_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;154&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p3.zhimg.com/2c/18/2c1812796846eaf8878c7892804d0674_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;每一年都还要列出一个“大事表”，列出这一年发生了什么对我而言最重要的事&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c7/f0/c7f00baacf243af1b7b8ec5eb857e05b_m.jpg&quot; data-rawwidth=&quot;551&quot; data-rawheight=&quot;509&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;551&quot; data-original=&quot;http://p4.zhimg.com/c7/f0/c7f00baacf243af1b7b8ec5eb857e05b_r.jpg&quot;&gt;&lt;br&gt;你也可以这样记录“大事”，因为大事也会分出 轻重大小，用渐进的色块表示事情对你的重要性。渐进的色块会显得和谐舒适，而太多色块则会分不清层次，而且杂乱。&lt;br&gt;注，左侧为日期。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/45/8d/458d45e4ca768cdbff03d15dd532fc28_m.jpg&quot; data-rawwidth=&quot;583&quot; data-rawheight=&quot;380&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;583&quot; data-original=&quot;http://p1.zhimg.com/45/8d/458d45e4ca768cdbff03d15dd532fc28_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;“美好记”，列出这一年让我感到美好的事。&lt;br&gt;而这个表格让我突然发现，&lt;b&gt;很多美好的事都是和别人在一起时发生的。&lt;/b&gt;&lt;br&gt;从而让我十分珍惜和朋友家人在一起的时光。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/cd/a1/cda11a37699c8ae4d0c1a03c4476f8fb_m.jpg&quot; data-rawwidth=&quot;553&quot; data-rawheight=&quot;463&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;553&quot; data-original=&quot;http://p4.zhimg.com/cd/a1/cda11a37699c8ae4d0c1a03c4476f8fb_r.jpg&quot;&gt;&lt;br&gt;这张是我去年考驾照时的样式，内容字涉及隐私，我已经删除。&lt;br&gt;黄色是标注为你认为很重要的日期，或者当日发生了什么很重要的事。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/48/83/488340e84352334b446e64735cf7f5b9_m.jpg&quot; data-rawwidth=&quot;607&quot; data-rawheight=&quot;364&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;607&quot; data-original=&quot;http://p1.zhimg.com/48/83/488340e84352334b446e64735cf7f5b9_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;以下是各种样式&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/06/b0/06b08765950ee3e18641910e2fdaa4a0_m.jpg&quot; data-rawwidth=&quot;835&quot; data-rawheight=&quot;454&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;835&quot; data-original=&quot;http://p1.zhimg.com/06/b0/06b08765950ee3e18641910e2fdaa4a0_r.jpg&quot;&gt;&lt;br&gt;这张表是模仿日历的样子，以周为一行，看上去显得比较清晰。&lt;br&gt;周末双休的话，每天晚上记这个表时，应该会很兴奋看到日子临近周末吧￣□￣｜｜&lt;br&gt;淡黄色一栏我经常填写当日看过的电影，书什么的。&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/ce/54/ce54b24273c04b792a3e6cb5c59243ef_m.jpg&quot; data-rawwidth=&quot;624&quot; data-rawheight=&quot;474&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;624&quot; data-original=&quot;http://p4.zhimg.com/ce/54/ce54b24273c04b792a3e6cb5c59243ef_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/44/49/44498e1cebc90a597fadec7c075d5397_m.jpg&quot; data-rawwidth=&quot;613&quot; data-rawheight=&quot;527&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;613&quot; data-original=&quot;http://p1.zhimg.com/44/49/44498e1cebc90a597fadec7c075d5397_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;记录满一年以后，就变成了这样的一个彩色的条带。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/92/1b/921bb8c9bb5e4fc8d768e9129e33c8d7_m.jpg&quot; data-rawwidth=&quot;568&quot; data-rawheight=&quot;65&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;568&quot; data-original=&quot;http://p2.zhimg.com/92/1b/921bb8c9bb5e4fc8d768e9129e33c8d7_r.jpg&quot;&gt;&lt;br&gt;这是今年1,2 3月份的，我每年都会改变版面，看腻了就会改变一下，&lt;br&gt;而且每一个月份的色彩不一样。&lt;br&gt;&lt;br&gt;一月，是进入隆冬的月份，我比较喜欢用蓝色、&lt;br&gt;左侧的长格记事情和感想，右侧的小格记录电影名 书名 是否运动？ 是否早睡？ 是否改掉某个习惯？&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/97/a1/97a1c6c6257a0410b6c3680435f4279a_m.jpg&quot; data-rawwidth=&quot;915&quot; data-rawheight=&quot;248&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;915&quot; data-original=&quot;http://p2.zhimg.com/97/a1/97a1c6c6257a0410b6c3680435f4279a_r.jpg&quot;&gt;&lt;br&gt;二月由于有春节，我喜欢用朱红色&lt;br&gt;这个版我全都变成小格了。每一个事都记在一个格里，而不是都写在一个长条格里了。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d3/1e/d31e0ccfcdabd54e8f66f857a1137dda_m.jpg&quot; data-rawwidth=&quot;852&quot; data-rawheight=&quot;303&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;852&quot; data-original=&quot;http://p1.zhimg.com/d3/1e/d31e0ccfcdabd54e8f66f857a1137dda_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;三月是阳春，我喜欢用桃红。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/d7/fd/d7fd238f82a93435537d0979faf923f4_m.jpg&quot; data-rawwidth=&quot;992&quot; data-rawheight=&quot;228&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;992&quot; data-original=&quot;http://p1.zhimg.com/d7/fd/d7fd238f82a93435537d0979faf923f4_r.jpg&quot;&gt;&lt;br&gt;四五六七....每个月都挑一个最符合当时的季节色。&lt;br&gt;&lt;br&gt;现在已经成为随手就做的习惯。&lt;br&gt;一份excel表格，可以任意添加格式，色彩，加粗，改变字体。&lt;br&gt;总之，每一种表现方式都可以缤纷多彩地表达你的心情。&lt;br&gt;翻看过去的记录，我总会发现一些&lt;b&gt;意外的东西&lt;/b&gt;。&lt;br&gt;我曾经很讨厌谁，但是现在他却成了我的朋友。&lt;b&gt;这让我不再鲁莽判断别人。&lt;/b&gt;&lt;br&gt;曾经记下一部想看的电影，结果拖到现在还没看，&lt;b&gt;让我想起错过什么。&lt;/b&gt;&lt;br&gt;原来我曾经为这种蠢事烦恼啊，&lt;b&gt;感受到自己在成长。&lt;/b&gt;&lt;br&gt;原来那时谁谁借了我钱，竟然一直都没还，太可恶了，&lt;b&gt;别以为我忘了！&lt;/b&gt;&lt;br&gt;我这个月好像太少跑步，&lt;b&gt;对自己过去的日子大概了解。&lt;/b&gt;&lt;br&gt;遇到新的烦恼，我会回头翻看烦恼一些事情的记录，&lt;b&gt;看看它们是怎样度过的，从而让我对当前的烦恼释怀。&lt;/b&gt;&lt;br&gt;&lt;br&gt;太多类似的事。&lt;br&gt;这样做，会让我觉得，我每一天都不是转瞬即逝的，&lt;b&gt;因为我把它们都留下了。&lt;/b&gt;&lt;br&gt;现在，就请打开躺在你电脑里的excel，&lt;br&gt;不要总拿它做枯燥的工作文档了，&lt;br&gt;请为了自己，做一份属于自己的记录吧！
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/22939910/answer/23152846
-</link>
-<author>
-孟德尔
-</author>
-<title>
-PS3 等家用机上没有 18 禁游戏的原因是什么？
-</title>
-<description>
-楼主其实没说错，&lt;b&gt;现代家用机上是没有18X游戏的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;我们所说的游戏分级，其实有3套标准：日本H GAME分级，日本游戏机分级，美国通用分级。（欧洲袋鼠国之类的就不讨论了，反正一般也不接触）&lt;br&gt;&lt;br&gt;
-目前最通用的是美国的ESRB标准，一般所谓的美版18X游戏，其实指的是17禁（M级），真的美版18X游戏（AO级）极为罕见，你们看了会大吃一惊的。按照美国标准，你想单单靠血腥暴力进AO级那是相当困难的，一定要往H方向走几步才可以。&lt;br&gt;
-当然也不能说完全没有，GTA SA就是AO级的，但那更大程度上是一种惩罚措施，并不是真的原本就是AO。&lt;br&gt;&lt;br&gt;
-而日本游戏机上采用的CERO分级完全不同，比ESRB要严格许多，血腥暴力到达一定程度就可以18X（Z级），这也导致很多人误会游戏机上有18X游戏。举个例子，日本版《重铁骑》就是18X，很荒唐对吧。&lt;br&gt;
-CERO最初是没有17这档的，15禁直接就18X了。后来CERO也采用字母分级，出现了D级，对应美国M级。&lt;br&gt;
-至于在游戏机上做H内容，那是做梦，学校里欺负同学的情节都能导致游戏17禁。&lt;br&gt;&lt;br&gt;
-老玩家所说的18X，通常指的是软伦分级（计算机软件伦理审查）。&lt;/p&gt;顾名思义，参加厂商都是日本PC游戏公司，由于日本PC市场的特殊性，这个分级基本就是是H GAME的专用分级了。当然日本PC市场不光只有一个软伦，还有媒伦分级（媒体伦理审查），虚哥他们就跟着媒伦走。&lt;br&gt;
-软伦一开始非常极端，只有两档：一般和成年。后来改为3级：全年龄，R指定，R18。现在增加了R17。所谓的15禁，18X就是从这里来的。&lt;br&gt;
-而日本PC GAME最顶级的分级其实不是18X，而是——没有分级。&lt;br&gt;
-没有分级就意味着游戏已经游离于法律框架之外了，再推出就是厂家个人行为，和管理机构无关了。要闹到没有分级也简单，把“本游戏登场女性角色全员18岁以上”这句警告去掉就可以。&lt;br&gt;&lt;br&gt;
-CERO标准出现前，游戏机的分级是主机厂商自己负责的，情况就异常奇葩了。比如《毕业2》被分成18X，虽然是个GAL GAME，但是决无H，更没有暴力，18X的理由是里面有女高中生抽烟。同理，SS上那堆X级游戏，基本都是露X造成的。&lt;br&gt;
-著名的美少女主机PCE和PC FX，基本可以视为日式电脑，分级也是跟着软伦走的。&lt;br&gt;&lt;br&gt;
-有朋友提到港台版的问题，香港是没有分级的，中国的游戏分级只在台湾有，分5级，参考对象是CERO（无17档，其他档降一级）。有些港版上确实有分级
-签，那是代理商自己标的，台版和港版是否分级，怎么分都决定于代理商，因为两者都算是亚版，统一代理。早期台版上的辅、普字样，都是厂家自己标的，比如光
-荣。&lt;br&gt;&lt;br&gt;&lt;br&gt;各地分级的图标，分别是北美通用，日本游戏机，日本PC，台湾通用。北美的18X标志，是不是没见过？没见过就对了。&lt;br&gt;&lt;img data-rawheight=&quot;796&quot; data-rawwidth=&quot;300&quot; src=&quot;http://p1.zhimg.com/d0/78/d078629f078df4509ccc1fed3954781e_m.jpg&quot; class=&quot;content_image&quot; width=&quot;300&quot;&gt;&lt;br&gt;&lt;br&gt;CERO出现前主机上的游戏分级，所谓“全年龄”“18X”这些词汇实际是出自这里。由于中国第一批玩家都是这时候开始接触分级概念的，所以就成了中国的通用说法。&lt;br&gt;&lt;img data-rawheight=&quot;1075&quot; data-rawwidth=&quot;300&quot; src=&quot;http://p1.zhimg.com/83/37/8337bc6c8b665a445ed84ad34051996a_m.jpg&quot; class=&quot;content_image&quot; width=&quot;300&quot;&gt;
 </description>
 </item>
 </channel>
