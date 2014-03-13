@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20509435/answer/23380760
+</link>
+<author>
+鲍仁君
+</author>
+<title>
+NBA 的赛程是如何制定的？
+</title>
+<description>
+我的博士论文&amp;lt;Time Relexed Round Robin Tournament and NBA Scheduling problem&amp;gt; 就是专门研究NBA赛程的，目前NBA是让位于Denver的一家公司在帮助赛程编制，从时间上说，NBA在每年4月份让每个球队把下个赛季自己球馆可用于主场比赛的可能日期，都报上来，一个球队有41个主场比赛，一般球馆只有60天可以用，然后NBA赛程要考虑的问题因素包括“&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;赛制要求&lt;/b&gt;：就是东西部的球队，分别和对方分部的打两场，主客各一次，譬如克里夫兰和波特兰；同一个赛区的，譬如克里夫兰位于Middlewest，和底特律、芝加哥和印第安娜分在一个区，各打四场比赛，主客各两次。同一个部但是不同区的，譬如克里夫兰和篮网，有可能3场，也有可能4场，这个是循环的。两个队之间的比赛尽量分开，就是尽可能上半个赛季和下半个赛季，打的场数一样&lt;/li&gt;&lt;li&gt;&lt;b&gt;连续要求：&lt;/b&gt;不能连续打三场，8天内不能超过5场，这个每个赛季可能有些变动&lt;/li&gt;&lt;li&gt;&lt;b&gt;飞行距离：&lt;/b&gt;飞行距离尽可能短，东海岸不能背靠背去西海岸打比赛，东海岸去西海岸尽量多打几场比赛，减少整个赛季飞行距离&lt;/li&gt;&lt;li&gt;&lt;b&gt;场馆要求: &lt;/b&gt; NBA球馆大多是租用的政府球馆，球馆经常用作冰球、演唱会、杂技团等使用，譬如圣安东尼奥二月有赛牛节，比较突出的是洛杉矶staple center两个NBA球队，这个球官还有冰球队，女子wnba，等&lt;/li&gt;&lt;li&gt;&lt;b&gt;电视转播：&lt;/b&gt;电视转播分成全国电视台和地方电视台，全国电视台有TNT，ABC, 以及NBA TV 等，TNT每周四是固定播出，一般要求当晚只安排3场左右的比赛，而且要全国关注的，ABC是在非橄榄球时间，在周日下午播出比赛，也要全国关注的，其次地方电视台也要安排本区的节目在黄金时间播出&lt;/li&gt;&lt;li&gt;&lt;b&gt;特殊要求：&lt;/b&gt;譬如盐湖城不能在周日安排比赛，因为摩门教。很多球队在橄榄球季节，如果本城市有主场，往往希望不能在同一天举行NBA主场，因为会严重影响票房和收视率。还有就是一个联盟层面的，譬如全明星周末，在周末之前各队的比赛数目要尽量一致，以及在圣诞节，感恩节等要尽量安排精彩比赛，在NCAA总决赛，超级碗等全美关注的时候，要尽量少安排比赛。&lt;/li&gt;&lt;li&gt;&lt;b&gt;精彩程度：&lt;/b&gt;赛季前要根据球队的强弱，把比赛尽可能分散在整个赛季，最后一场比赛全联盟同时，但是要注意有可能进季后赛的球队比赛，强弱队的分布等都要均匀&lt;/li&gt;&lt;li&gt;&lt;b&gt;其他不可抗拒因素：&lt;/b&gt;如果碰到突发事件，譬如katrina之类，联赛赛程要有伸缩性，有可应急的空间。&lt;/li&gt;&lt;/ol&gt;鉴于整个因素很复杂，目前Denver的公司是使用自动和经验结合的方式，我和导师Michael Trick制作了算法，我们的算法被美国棒球大联盟所用MLB，NBA目前还没有。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23020042/answer/23380349
 </link>
 <author>
@@ -290,20 +304,6 @@ http://www.zhihu.com/question/22992785/answer/23325878
 </title>
 <description>
 &lt;img data-rawheight=&quot;369&quot; data-rawwidth=&quot;553&quot; src=&quot;http://p3.zhimg.com/bc/dd/bcddc9370fecf53f3c849fbc6fc7c4bb_m.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;553&quot; data-original=&quot;http://p3.zhimg.com/bc/dd/bcddc9370fecf53f3c849fbc6fc7c4bb_r.jpg&quot;&gt;（图是在中环的 Magnum 夜店的镶钻马桶）&lt;br&gt;&lt;br&gt;2014年初香港夜总会 Magnum 的招股书（英文版下载：&lt;a class=&quot; external&quot; href=&quot;http://www.magnumentertainment.com.hk/documents/Global%20Offering%20-%20Prospectus%20-%20English%20Version.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;magnumentertainment.com.hk&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/documents/Global%20Offering%20-%20Prospectus%20-%20English%20Version.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;&lt;br&gt;公司IPO发行的股份被超额认购超过3,000倍&lt;br&gt;&lt;br&gt;招股书揭示了夜店行业的一些事实：&lt;br&gt;&lt;br&gt;- 现代夜店的概念来自70年代的迪厅，到现在没大的变化，喝酒和 DJ 是永远的要素；&lt;br&gt;- 很多高质量顾客都不会一晚呆在同一家夜店，而是根据心情串场子（club-hopping）；&lt;br&gt;- 收入主要来自高价卖酒（比如在Magnum 5,000港币一瓶的 Belvedere 伏特加，在免税店只有大约500港币）；&lt;br&gt;- 顾客的喜好变化很快，目前他们最喜欢，也是最让夜店赚钱的酒是香槟，尤其是Moët &amp;amp; Chandon Magnum Champagne&lt;br&gt;- 过去三年最受欢迎的调酒是 Jagerbomb，一种有大料味的德国烈酒Jägermeister（&lt;a href=&quot;http://en.wikipedia.org/wiki/J%C3%A4germeister&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;J채germeister&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;），通常兑上红牛之类能量饮料（。。。。。话说这是听上去多么让人作呕的怪饮料），销量超过过去最受欢迎的Smirnoff 伏特加。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20977762/answer/23308159
-</link>
-<author>
-Wilson Lee
-</author>
-<title>
-约翰·拉斯金的名句「Sunshine is delicious」怎样才能用中文翻译得准确且优美？
-</title>
-<description>
-诸位先生的翻译，很有意境，但却实在不是「好的翻译」。Ruskin 原本的英文字句，是非常清爽的结构和语句，倘若被译成了「罡风」、「霜寒」、「身外无物」、「倾城而笑」等等，是极不恰当的。钱鍾书谈到林纾的翻译法，便是这同等的问题。&lt;br&gt;&lt;br&gt;这段话的筋骨，便在于用的都是生活中常见的词语和通感，所以惟独用中文里常见的词文语汇来翻译，才是将此段翻译到中文诗的真正意境。&lt;br&gt;&lt;br&gt;诗歌翻译中的「雅译」，千万不可狭隘地理解为唯一的&lt;b&gt;古典雅&lt;/b&gt;，不可理解为旧体诗的「雅」，否则，大半的西文诗便没有法子翻译到中文来，即便翻译来了，也失却了原味 —— 而这些是可以避免的。&lt;br&gt;&lt;br&gt;诸位先生的翻译，便是落入了这样的一个误区，以旧体诗的方式为翻译的「雅」，而忽略了此段本身的雅致所在，恰恰在于口语的使用。这段话，英文国家的孩童读来也毫无问题，可若诸位先生按照旧体诗的法子去译，则没有读过几年传统文学书的人，必定是无法理解的，何论孩童。&lt;br&gt;&lt;br&gt;所以先生们若採用这样的翻译法子，便全然地相反了原文的意境。虽译出了中国古典雅，却失掉了英文「清顺之雅」。&lt;br&gt;&lt;br&gt;废名先生在讨论到中国诗的传统时，也常提到唐后的诗人总是难以避免套用特定的词汇、意境、和手法，因此中国诗逐渐失却了新鲜的表达，也失却了诗歌的口语特徵。&lt;br&gt;&lt;br&gt;Ruskin 先生的这段话，delicious 是味觉的通感，refreshing 是嗅觉的通感，而关于风和雪，则是心情，此外便没有多余赘的形容词，以达到此种清顺舒畅的雅致。&lt;br&gt;&lt;br&gt;以下一段粗鄙的译文，不能称之为此段话的翻译，但希望给诸位先生提供一种思路。若我们能锤炼出道地的中文口语，去表达我们的真实情感，去翻译出域外诗人的真实情感，这才是白话文的意义，才是鲜活的中文。不避古贤，亦不囿旧循，该清顺的时刻清顺，该古雅时古雅，才能令我们的翻译产生积极的作用，传播的作用。&lt;br&gt;&lt;br&gt;「&lt;br&gt;阳光甜美&lt;br&gt;雨味清爽&lt;br&gt;&lt;br&gt;风吹出勇气&lt;br&gt;雪如此惊喜&lt;br&gt;&lt;br&gt;所谓坏天气&lt;br&gt;恰是别样的好天气&lt;br&gt;」
 </description>
 </item>
 </channel>
