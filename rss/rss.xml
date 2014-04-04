@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/21619864/answer/24032748
+</link>
+<author>
+李亦可
+</author>
+<title>
+红色电影里一吹冲锋号就不要命的往前冲，真是这么打仗的么？
+</title>
+<description>
+我爸以前中苏关系最恶劣的时候在内蒙当过兵，所以接受过一些初级的训练，他说冲锋是肯定的，但不是一次冲到底，那前面的人肯定死绝了，都不会冲前面，退一万步说就算都不怕死体力和气势也都跟不上，实际中的冲锋是分梯次的。&lt;br&gt;&lt;br&gt;在冲锋之前，会分成若干波，并且分配好任务，比如一连你们先冲前面到达某某位置就自行寻找掩体位置就地掩护；二连跟在后面冲，一连卧倒掩护你们接着往前冲，到指定位置就同样停下掩护，后面的三连又到前面了…&lt;br&gt;&lt;br&gt;大概就是这种意思，交替冲锋，比较顺利一轮过去就你接着第二轮继续，这样一般说前面几波冲的其实风险相对较小，越往后风险越高伤亡越大，所以心理上排前面冲的人都气势旺不会有抵触心理，而后面的人跟着前面的冲出去，群体效应下也顺势就出去了，冲一阵心理的恐惧也稳定下来了……&lt;br&gt;这样一来，冲锋当然是所有人都冲上去，但是冲最前面的总是不同的人，他们当然会玩命向前到达指定位置，越快到达存活几率越高，心中只有一个信念就是：哥冲到指定地点就任务完成了，下一轮之前可以松口气了，哪帮人冲到瓶颈位置就算谁倒霉，一般那个位置有一两波冲不过去，后面的人就会停止继续冲锋，这样不算违抗军纪。（当然，如果后面冲锋号又在吹就只能硬着脖子上了，但是这种情况极少，一般指挥员不会干这种失心的蠢事。）&lt;br&gt;&lt;br&gt;然后稳住这一线，重新计划，或者重新分配冲锋任务，比如之前每波任务大致分配是冲一百米，这次每波缩减为二十米。&lt;br&gt;&lt;br&gt;总之，就是让冲的人一直抱有生存的希望和侥幸的心理才成。&lt;br&gt;如果不冲呢，你掉在后面，如果没受伤后面的队伍都是之前在前头玩命冲过来的，此时当然最看不起你这种怂包了，你根本没可能装死或者自己干伤自己，等着去接受军法处置吧，尊严全无。比较关键的时候还有督战队在后头呢，可以直接毙了你，冲不一定死，不冲肯定死…&lt;br&gt;&lt;br&gt;这种梯次冲锋不是红色军队独有，一般军队都有，日军最典型。只不过红色电影最喜欢拍冲锋时这种镜头，要的就是个气势。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23246914/answer/24057752
 </link>
 <author>
@@ -277,20 +291,6 @@ Heinrich
 </title>
 <description>
 说的简单一点吧，后面附上更详细的链接，感兴趣的朋友可以去看看：&lt;br&gt;&lt;br&gt;这个系统利用的基本原理就是将声音调制到超声波上，然后利用超声波的频率特性将发射方向性提高。&lt;br&gt;&lt;br&gt;所谓的定向，实际上是声音的方向性，声音是机械波，也是波的一种，所以也满足衍射定律，所以这里用水波的图片来表达一下声音的方向性是如何产生的：&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/7e/75/7e75e82f2586ab27e7de25af3f80e0ee_m.jpg&quot; data-rawwidth=&quot;191&quot; data-rawheight=&quot;169&quot; class=&quot;content_image&quot; width=&quot;191&quot;&gt;&lt;br&gt;这是水波通过一个窄缝时的情景&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/66/bb/66bb3b03982a1aef2a0b64a091b92eb1_m.jpg&quot; data-rawwidth=&quot;193&quot; data-rawheight=&quot;169&quot; class=&quot;content_image&quot; width=&quot;193&quot;&gt;这是水波通过一个宽缝的情景&lt;br&gt;&lt;br&gt;可以明显的看到，水波在通过宽缝的时候有更好的方向性。&lt;br&gt;&lt;br&gt;反过来，看看通过同样大小缝隙的不同波长的水波:&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0a/a4/0aa47131b3e547d329bab289cccb9fba_m.jpg&quot; data-rawwidth=&quot;357&quot; data-rawheight=&quot;113&quot; class=&quot;content_image&quot; width=&quot;357&quot;&gt;途中A的频率最低，C的频率最高。&lt;br&gt;&lt;br&gt;这样我们就得到结论：想要机械波的方向性更好，就需要频率更高。&lt;br&gt;&lt;br&gt;&lt;br&gt;而人耳能听到的声音范围是：20Hz到20KHz，这个频率是很难调制方向的。但是超声波可以，所以只要将声波调制到超声波频带就可以进行定向发射&lt;img src=&quot;http://p2.zhimg.com/9f/87/9f87ddb9babb935c8e11dd8e34578fca_m.jpg&quot; data-rawwidth=&quot;1581&quot; data-rawheight=&quot;841&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1581&quot; data-original=&quot;http://p2.zhimg.com/9f/87/9f87ddb9babb935c8e11dd8e34578fca_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;图中左上绿色波就是发射的音乐波形，下面蓝色波维频率较高的超声波形，将两信号相乘进行发送就得到了调制信号。&lt;br&gt;&lt;br&gt;但是人耳又是如何听到被调制的超声波的呢？&lt;br&gt;因为声音在空气介质中的传播可以看作是通过一个非线性系统，在通过非线性系统后会产生新的频率。&lt;br&gt;人耳则相当于只能接收20Hz到20KHz频率的滤波器，只接受了音乐的频率部分，这样就重新听到了声音。&lt;br&gt;&lt;br&gt;补一个系统图吧：（不好意思图太丑了）&lt;img src=&quot;http://p3.zhimg.com/bf/14/bf147b03ee7a88c0a4b4922b2f9dcd35_m.jpg&quot; data-rawwidth=&quot;977&quot; data-rawheight=&quot;606&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;977&quot; data-original=&quot;http://p3.zhimg.com/bf/14/bf147b03ee7a88c0a4b4922b2f9dcd35_r.jpg&quot;&gt;&lt;br&gt;另外，之所以我们看到这个东西样子是这样的：&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/bf/eb/bfebe2d6e2171bb2f2015556b6a50f63_m.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;267&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://p3.zhimg.com/bf/eb/bfebe2d6e2171bb2f2015556b6a50f63_r.jpg&quot;&gt;&lt;br&gt;这里每一个方块都是一个单独的音响，排列在一起就组成了音响阵。或者确切的说是一组天线阵。利用天线阵各单元发射信号时的相位差，就可以构造更好的方向性。（发射方向更集中）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;英文介绍：&lt;a href=&quot;http://www.silentsound.co.za/technology.htm&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Silent Sound&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;视频介绍（需要翻墙）：&lt;a href=&quot;http://www.youtube.com/watch?v=8wJ5Eff7hx0&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;youtube.com/watch?&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;v=8wJ5Eff7hx0&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;中文介绍：&lt;a href=&quot;http://blog.yam.com/tjc6030/article/9595521&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;blog.yam.com/tjc6030/ar&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;ticle/9595521&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/23025532/answer/23972222
-</link>
-<author>
-腐生
-</author>
-<title>
-如何看待「年轻时就释怀与淡泊，是没有希望的」这句话？
-</title>
-<description>
-真巧，世界上我最熟悉的人里，就有一个这样的年轻人。&lt;br&gt;我们前几天就工作问题狠狠争论了一番，但其实是我一直攻击她一直MISS。。。&lt;br&gt;我的这位朋友，似乎是个不需要交流的人。几乎不用QQ、微信，不玩微博等社交平台，现实中的社交更是基本为零。她选择留在十线县城，毕业后在家宅了半年终于考到一个事业编制，每月估计一千多块工资。与我同龄，从未有过感情经历，最近已经开始被安排无聊的相亲。接下来大概会找个“合适的人”结婚生子。&lt;br&gt;说到这里大概能看出她是一个非常庸常无为的人，价值观放到知乎估计能被挂出来示众然后喷死……&lt;br&gt;但其实哇，怎么说来着，这货心里有整个宇宙，这个宇宙似乎太浩瀚了，让她对我们沉溺的尘世的一切……毫不在意。不要说什么历尽繁华后返璞归真才是真释然真淡泊了，就跟一群暴发户、明星、社会名流开始学佛修心泡茶搞文化一样假。真的必须承认，&lt;b&gt;有些东西有些人就是不需要经历的&lt;/b&gt;。她不需要经历感情，就写出“&lt;b&gt;千里无姻缘，憔悴同谁老，何付红尘皆自扰&lt;/b&gt;”；她不需要涉足庸扰，就写出“&lt;b&gt;数度浅倦归荒垅，到老不作寻仙梦&lt;/b&gt;”；她不需要酒醉空奢意，就可以写“&lt;b&gt;茅柴黄封同杯饮，反调长歌难自赎&lt;/b&gt;”……简直是我认知中最有才情的人了耶。&lt;br&gt;对了我认识她的时候大概是12岁，她当时邮箱前缀就叫hebuweixin，“曷不委心”，而我到21岁才开始把“自以心为形役”挂签名……以及我至今认为她12岁时写的诗，我到120岁也写不出来。&lt;br&gt;&lt;br&gt;这个人的生活是没有希望的吗？以俗世的眼光来看，是的吧。她一直在一个省钱的穷逼模式，买到8元一件的衬衣非常得意，总是穿姑姑姨妈淘汰的衣服，会斤斤计较异地银行手续费而不取钱（取的话会抱怨半天= =），写小说总写成自娱自乐的小段子，写诗词总要少半阕，读到好玩的就改成耽美同人，还喜欢没事涂鸦出一些山山水水奇怪的东西，也许沉默是自嗨最好的掩饰吧。&lt;br&gt;在这里想贴一下 @石苏 的这篇 &lt;a href=&quot;http://zhuanlan.zhihu.com/xiliutang/19678621&quot; class=&quot;internal&quot;&gt;人生第一大谎言：人需要工作 - 西流堂 - 知乎专栏&lt;/a&gt; ，摘一下：&lt;br&gt;&lt;blockquote&gt; 马太福音 说：“所以我告诉你们，不要为生命忧虑吃什么，喝什么；为身体忧虑穿什么。生命不胜于饮食吗？身体不胜于衣裳吗？你们看那天上的飞鸟，也不种，也不收，也不积蓄在仓里，你们的天父尚且养活他。你们不比飞鸟贵重得多吗？你们哪一个能用思虑使寿数多加一刻呢？何必为衣裳忧虑呢？你想野地里的百合花怎么长起来；它也不劳苦，也不纺线。然而我告诉你们，就是所罗门极荣华的时候，他所穿戴的，还不如这花一朵呢！ ”&lt;br&gt;《庄子》达生篇也有类似的叙述：“夫醉者之坠车，虽疾不死。骨节与人同而犯害与人异，其神全也，乘亦不知也，坠亦不知也，死生惊惧不入乎其胸中，是故迕物而不慴。彼得全于酒而犹若是，而况得全于天乎？”&lt;/blockquote&gt;她那样自幼读庄老的人，大概真的是这么活着吧，不追求，不选择，不反抗。我会骂她懦弱，骂她不思进取，骂她极度懒散，但并非是怒其不争，纯属是出于私心：“你既然在哪儿都一样不思进取，为什么不过来陪我，这样你没什么损失，又对我有好处”。&lt;br&gt;比如我本身是一个不赞同这个&lt;a href=&quot;http://www.zhihu.com/question/22913650&quot; class=&quot;internal&quot;&gt;人这一生为什么要努力？&lt;/a&gt; 问句的人，但我的私心还是让我用这个帖子去攻击她了，请脑补我张牙舞爪喋喋不休借刀杀人但全部MISS的画面。。。&lt;br&gt;我那天甚至说出了：在一个微信附近的人都叫“随缘”“为爱而生”、签名“猪是的念来过倒”、放眼整个市找不到人说普通话、洗剪吹遍街的城乡结合部，不出五年，我们俩就没有话讲可以绝交了！！！&lt;br&gt;她回答：三年就差不多吧。&lt;br&gt;&lt;br&gt;…………………………………………………………………………………………………………&lt;br&gt;这事本来不了了之。刚才去她Q空间（没错这货是QQ空间忠实用户）翻前文诸散句时，看到了五年前一篇：&lt;br&gt;&lt;b&gt;大杀天方竟，归途亦别图。&lt;/b&gt;&lt;br&gt;&lt;b&gt;雪似昔日胜，天地无江湖。&lt;/b&gt;&lt;br&gt;&lt;b&gt;聚散能有期？渠言俱忘俗。&lt;/b&gt;&lt;br&gt;&lt;b&gt;不过同舟客，相逢醉当涂。&lt;/b&gt;&lt;br&gt;题目叫《赠同舟诸君》。&lt;br&gt;于是就突然明白，并不会没有话讲，她的世界太过天衣无缝，不会被外界左右——任何环境都不会让她变好，也不会让她变差，除非她自己决定走出来……但我们所追求的尘世种种万千繁荣，在她心里，实在是没什么分量——你鄙视别人没有希望，对方却不care啊。&lt;br&gt;最后简单贴一首，以一个奇怪的人做结论吧。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;平地苍凉四顾生，&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;兜天罗致半幕星。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;兴味起时觉味浅，&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一醉侵喉一卮冰。&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;评论里很多人觉得这种是理想主义坚守内心非常酷……去你妹的好嘛。&lt;/b&gt;&lt;/p&gt;整体回复下，请看清楚，不要再把人理想主义化了：&lt;br&gt;她一直是对世界“妥协”的，不是吗？她不在乎身边环境的恶劣，不在乎是不是要随便找一个人结婚，和三姑六婆一起抱孩子。你们觉得这样很可怜，但对她来说是无所谓的，因为她对锦衣玉食完美爱情也同样没有兴趣——无论好的坏的，它们同样影响不到她。&lt;br&gt;这人绝对绝对不是一个文艺青年，请停止脑补好不好。她不仅不是所谓的理想主义，反而始终按照别人安排的路走，从来不努力，不爱学习，不求上进，没有野心，也没什么理想。&lt;br&gt;简单两个字就是“无为”。&lt;br&gt;&lt;b&gt;无为是住在桶里的第欧根尼，不是什么高高在上的妙玉。&lt;/b&gt;
 </description>
 </item>
 </channel>
