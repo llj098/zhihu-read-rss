@@ -15,6 +15,35 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/23609812/answer/25114845
+</link>
+<author>
+罗晟
+</author>
+<title>
+Facebook 推出 App Link 开发者工具意在解决什么问题？
+</title>
+<description>
+App Links 并不是用来取代 URL Scheme 的，所以也谈不上「有何本质不同」。它并不是某一种技术，而是一项协议（或者像他们说的，一种「解决方案」）。&lt;br&gt;&lt;br&gt;我们想像一下这样一个常见的场景：A 在大众点评上看到了一家餐厅并想通过微信把这家餐厅分享给 B——此时问题出现了——B 会如何处理这个链接是未知的。如果 A 和 B 都是同一平台的用户还好，当时直接传一个类似于 dianping://shop/12345 的 URL 对方在微信中点了就能在 app 里打开了（先不考虑微信是否接受这样的 URL）。可是如果大众点评某天升级了把 URL scheme 改成 dianping_v2://shop/12345 呢？如果 A 和 B 是两个不同平台的用户呢？如果 B 的手机上根本就没有装大众点评呢？&lt;br&gt;&lt;br&gt;这个事情，大众点评即使想做也是有心无力——链接一旦分享出去控制权就不在自己手里了。好吧，我们还是可以做一个网页版的嘛，弄一个 &lt;a href=&quot;http://m.dianping.com/shop/4551072&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;m.dianping.com/shop/455&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;1072&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 这样的链接，不管对方是什么环境，至少可以在微信的 in-app 浏览器里打开嘛。牺牲部分体验来换取最大的可用性——而且还是有活路的，可以在网页加载好后用 JavaScript 做一点 window.location.href = 'dianping://shop/12345' 这样的小动作嘛——直到有一天微信关掉了 URL Scheme 跳转……&lt;br&gt;&lt;br&gt;于是这个事情就变得很荒唐。明明对方的手机里有装大众点评的 app，大众点评也支持 URL Scheme，可在微信上点开大众点评的链接就是只能看到 web 版。理论上来说作为平台的微信应该出来挑大梁，不过可能微信忙着征服全世界顾不上这点小事——于是另一个闲得没事干的平台 Facebook（好吧，准确地说是 Facebook 去年买进来的 Parse 团队）跳出来解决了问题。&lt;br&gt;&lt;br&gt;怎么解决？说难也不难，无外乎就是把自己在几个平台下的跳转规则一并告诉对方。对方是什么平台就按什么平台的规则去处理。如果对方没装我们的 app，那我就告诉他一个安装地址。如果他的平台确实没有我们的 app（并没有想黑 WP 的意思……），那么就给他看一个网页版好了。但是这些规则写在哪呢？用 &amp;lt;meta&amp;gt; 标签放在网页里就好了嘛！于是一个实现了 App Links 的网页大致长成这样：&lt;br&gt;&lt;br&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:ios:url&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;applinks://docs&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:ios:app_store_id&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;12345&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:ios:app_name&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;App Links&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:android:url&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;applinks://docs&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:android:app_name&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;App Links&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:android:package&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;org.applinks&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;al:web:url&quot;&lt;/span&gt;
+          &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://applinks.org/documentation&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+Hello, world!
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;大众点评网的程序员们看到之后如获至宝，嗨嗨皮皮（不要质疑我的成语能力！）地把这些 meta tags 都塞进了 &lt;a href=&quot;http://m.dianping.com/shop/4551072&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;m.dianping.com/shop/455&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;1072&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;。Parse 说我都给你们写好各个平台下的 SDK 了，解析跳转一条龙哦你们赶紧用。腾讯（过了一年后）说，App Links 是什么？&lt;br&gt;&lt;br&gt;App Links 还制定了一些别的标准，比如可以多次指定同一项值来完成 fallback（用于新老版本 URL Scheme 不兼容的情况），比如实现了跳转时的数据传输标准（用 JSON 描述，放在 al_applink_data 参数中），比如提供了跳转后 app 的 UX 建议（导航栏用一层蓝色的可点按区域覆盖，点按后返回原 app）。App Links 不是唯一解，也不一定是最优解，但它确实是解决当下 app 间跳转混乱局面的一个可行解（而且标准本身具有可扩展性，即使 iOS 8 里加入类似 Android 中的 Intent，App Links 也可以通过增加几个 meta tags 来支持）。回到最初的问题上，它解决的问题，其实就是 Ilya Sukhar (Parse CEO) 在 F8 上说的这句话：「There is no unified way to navigate to links across all the platforms.」在技术层面上，App Links 统一了流程、跨了平台，这就很好了。&lt;br&gt;&lt;br&gt;而剩下的问题其实才是最大的问题——有人用的标准才是好标准。这个用也分两种角色：类似大众点评这样的第三方开发者，他们只需要发布自己的 App Links 就可以了，这个事情很简单，如上面所说无非就是在现成的网页里加几个 meta tags 的事情。而类似微信这样的平台则需要实现这样的协议，理论上也不难，但也许除了优化用户体验之外好处有限，可能还会面临到如何去兼容老版本啦、跳转出去会不会降低用户黏性啦、怎么满足平台的统计需求啦之类的问题（随口一说，也许没那么多问题。）老外比较单纯，想想这对用户来说是件好事我们就做吧，于是至少 Parse 有他的亲爹 Facebook 给他撑腰。至于国内，需要有第一个吃螃蟹的人。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23474904/answer/25103540
 </link>
 <author>
@@ -278,20 +307,6 @@ http://www.zhihu.com/question/23585527/answer/25047390
 </title>
 <description>
 其实早在很久以前就有人发现了这个问题。。。&lt;br&gt;&lt;strong&gt;&lt;u&gt;转载于段宇宏 腾讯大家&lt;/u&gt;&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;微信朋友圈自产生以来，逐渐形成了两大神秘江湖帮派——养生党、鸡汤党。&lt;br&gt;&lt;p&gt;“哥嫂、姑舅、叔婶、父母、爷奶”等“五大恶人组”通常是两大帮派的核心组织成员，构成“护教法王”阶层，从年龄来分析，多在40至70岁之间；有时候“发小”、“同学”、“同事”也会执掌各党分舵，任舵主之职。&lt;/p&gt;&lt;br&gt;“法王”们尤其对党忠诚，其中的积极份子每天尽职尽责刷屏，不厌其烦把每条信息转发到多个“亲友群”，甚至逐条发到“受害者”微信里，更变态地还会打电话问你：“今天我转发的《长寿十大秘诀》《最全的男人保健秘方》你看了吗？对了，《把充电器请出卧室》《手机防辐射五招》一定要细看！”&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/c0/78/c0785508de08d553515905d33b23fbf0_m.jpg&quot; data-rawheight=&quot;375&quot; data-rawwidth=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p4.zhimg.com/c0/78/c0785508de08d553515905d33b23fbf0_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;这两大帮派主要有三大工作任务：一、折腾人类的日常食物；二、折腾人类的日常生活；三、折腾人类的精神世界。&lt;/p&gt;&lt;p&gt;虽然他们对物品的化学成份一窍不通，也没做过任何实验；虽然他们通常不能认全26个英文字母，也没看过一篇论文，但来自国内外某媒体、某机构、某砖家的惊耸资讯总是那么“快捷和准确”。&lt;/p&gt;&lt;p&gt;突然间，你发现平时爱吃的东东原来是有毒的；突然间，你发现平时不爱吃或没吃撑的西西原来能让你得道成仙；突然间，你发现自己虽锦衣玉食但浑身是病，三观已毁，地球原来如此危险；也在突然间，你发现自己钱包里虽然只有一块钱，但是比马云还幸福。&lt;/p&gt;&lt;p&gt;两大党之下其实还分很多宗派，如养生党主要有“食疗宗”、“神医宗”、“生科宗”（生活百科宗的简称），三大宗之间有时候派别面目并不是特别清楚，而是互有交集，党内气氛相当团结和民主。当然，“食疗宗”有时候会告诉你，如果能用该宗的方式虔诚修炼，就用不着找“神医宗”了，这也不是什么太严重的派系斗争。&lt;/p&gt;&lt;p&gt;“食疗宗”把常见食物研制成了各种神奇保健品和药品，如《白醋让你年轻10岁，你知道吗》，这个，我真不知道，平时用那么多白醋洗水壶，悔死了，应该拿来泡澡，或者在饮水机上插一桶；《生姜堪比还魂药，可惜99%的人只当作料》，MD，这是让医疗产业和殡葬产业都倒毙的节奏啊，全改成“生姜还魂馆”得了。&lt;/p&gt;&lt;p&gt;《两头大蒜让你活一百岁》就算了，他们连“水”都不放过，居然《一杯白开水治好这些病》。猪肝是明目的，吃梨是清肺的；吃穿山甲是通奶的，人家连山都能穿，还能穿不透你的乳腺；当然了，吃大型动物的生殖器肯定是壮阳的。&lt;/p&gt;&lt;p&gt;不接触“神医宗”不知道，原来吾国民间如此藏龙卧虎，各种人类“疑难杂症”不仅用他们的“祖传秘方”立马药到病除，连癌症、艾滋病都早已被他们攻克了，《十分钟教你治好糖尿病》《一个月轻松根除乙肝》又怎在话下呢。负责诺贝尔医学奖评选的斯德哥尔摩医科大学卡罗琳学院，你说你失职不失职？全世界那些顶级医学研究机构的科学家，你说你们成天泡在实验室浪费生命干嘛呢，赶紧学好中文，开通微信吧！&lt;/p&gt;&lt;p&gt;“生科宗”那可不得了，上懂天文，下通地理，通古晓今，文理兼修，其知识体系几乎涵盖了你的衣食住行、生老病死各个方面：可乐是杀精的，WIFI是绝你种的，快餐店的冰块是比冲厕水还脏的，电脑辐射总是被仙人球吸收了的，头发少一定是缺锌的，脑袋大是聪明的（喝三鹿的除外），从指头就可以判断寿命的。&lt;/p&gt;&lt;p&gt;“鸡汤党”也分为“励志宗”和“和谐宗”两大主要流派，他们都是世上最善良的人，每天传授你《如何当一个好老板》的知识，教你《好老公十大准则》和《人生幸福的25条秘诀》，连《一万元如何变成一百万元》都免费告诉你了呢。像《夫妻同心，黄土变金》这种神功，不修炼是不是可惜了。&lt;/p&gt;&lt;img src=&quot;http://p1.zhimg.com/d4/5e/d45eb7e6bf324b923e94525c312ac3e0_m.jpg&quot; data-rawheight=&quot;375&quot; data-rawwidth=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p1.zhimg.com/d4/5e/d45eb7e6bf324b923e94525c312ac3e0_r.jpg&quot;&gt;&lt;p&gt;两大党通常兜售的多是似是而非的信息，多少都有传播谣言和伪知识嫌疑，例如有很多“秘方”本身比疾病还可怕，含有未经检验的成分，有的甚至是真的含毒，致人生病。一些无聊信息虽错漏百出也无甚大碍，但两大暗黑成员中的极端势力有时构成了“造谣党”，真是逢谣必捧，遇谣必转，严重背离养生主义和鸡汤主义的指导原则。譬如《紧急通知：是中国人就互相转告》《十万火急：每个人中国人必须知道》之类，连中央媒体都没播，不对，连各门户网站，也不对，连世界主流新闻媒体都还没播发，紧急个毛线啊！&lt;/p&gt;&lt;p&gt;比两大暗黑势力肆虐更悲摧的是，你逐渐发现，身边的“五大恶人组”的某些成员几乎参加了前述所有宗派，并且是资深党员，积极分子，还古道热肠，执迷不悟。当然，这不能怪罪于微信，打开吾国很多报纸、杂志、电台、电视台即知，“养生党”和“鸡汤党”党员早在微信诞生前就已通过这个庞大的宣传网络入党，只不过智能手机的普及让他们能在移动互联网上迅猛扩充组织。&lt;/p&gt;&lt;p&gt;试图劝导两大暗黑势力的资深成员退出组织，那是徒劳无功的。某天，一位朋友在微信朋友圈炫耀他用万元买来泡酒的硕大“野牛鞭”，并诚挚地邀请前去饮用，我说：“你割两斤牛肉泡酒喝，效果也不差多，还省钱”，然后把化学成份与人体所需六大营养之类的信息向对方阐释一番，对方鄙夷地发来信息：“有文化真可怕，等着让你羡慕我的能力去吧。”“吃什么补什么”的确够邪乎的，每天多吃“鱼肺”，太平洋搜救的任务就靠你了，一头扎到海里几个月，根本不用戴氧气瓶。&lt;/p&gt;&lt;p&gt;微信不同于微博，它是强关系社交工具，所以“拉黑还是不拉黑，这是一个问题”。如果你编造一条消息《多吃马兜玲，让你成为肝之神肾之王》，必定能得到两党资深党员的赞转，还可能夸你：“亲，关心大家健康，真有人情味儿”，作为名门正派，暗黑祸害江湖，自己则要身直影正，此阴损招数切不可取。&lt;/p&gt;&lt;br&gt;两大暗黑势力的专制统治下，导致“文艺党”、“科普党”等新兴力量黯然失色，组织发展缓慢，渐有淡出微信朋友圈险恶江湖之意，唯有“自拍党”中的“恐龙宗”和“青蛙宗”还与他们进行艰苦抗战。&lt;/blockquote&gt;&lt;br&gt;&lt;br&gt;-----------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;这篇文章是转载的。。。虽然开篇就说了，但好像大家还是误会了？&lt;br&gt;没有得到作者授权，虽然发邮件问了，但估计不会鸟我的。。。&lt;br&gt;所以大家看看就好，要转发的话还是点原文链接吧，谢谢大家的点赞，其实我只是搬运工。。。&lt;br&gt;&lt;a href=&quot;http://dajia.qq.com/blog/392685107420468&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;段宇宏 ： 微信朋友圈的两大势力&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/23593204/answer/25062243
-</link>
-<author>
-马力
-</author>
-<title>
-如何破除对创新的处女情结？
-</title>
-<description>
-乔布斯的设计风格「偷」自博朗，但是没人会说他抄袭，我猜他也绝不会有哪怕一点所谓「处女」情结，包括「偷」了施乐的图形用户界面想法。&lt;br&gt;&lt;br&gt;为什么？&lt;br&gt;&lt;br&gt;因为人家是站在巨人肩膀上啊，而不是复制！不是复制！&lt;br&gt;&lt;br&gt;中国互联网界目前的问题，真不是所谓「偷」或者「抄」美国的想法。为什么不能偷？为什么不能抄？现实世界里，看到人家开家麦当劳开的好，咱们为什么不能开家肯德基？他们做了一个满足用户这样需求的产品，咱们也可以。人家最早做个天气应用，难道以后所有做天气应用的都不能做了么？任何一个一份领域，都会有后续不断的参与者，这很正常。&lt;br&gt;&lt;br&gt;这种情况下的所谓「处女」情结，并不正常。能否识别这一点，是判断产品经理是否成熟的标志之一。&lt;br&gt;&lt;br&gt;但是，国内常常出现的问题是什么？不是参考想法，进入领域，而是复制产品。&lt;br&gt;&lt;br&gt;现实世界中，你看到 iPhone 卖的好，也去做智能手机，这是多光明正大的事，有什么情结都神经病。但是你去开个模，造出高仿的 iPhone，再高仿界面，弄出个爱疯来，这就是做坏事。前些天还真见识了这样的山寨机。&lt;br&gt;&lt;br&gt;在互联网产品中就是这个意思。
 </description>
 </item>
 </channel>
