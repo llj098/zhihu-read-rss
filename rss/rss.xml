@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/23703795/answer/25432000
+</link>
+<author>
+Lawrence Li
+</author>
+<title>
+Apple 应该收购 Beats 公司吗？
+</title>
+<description>
+此事尚未敲定，以下均爲猜想。&lt;br&gt;&lt;br&gt;根據目前的新聞，若收購成功，Beats 的創始人之一 Jimmy Iovine 會直接向 Tim Cook 彙報。他會是蘋果高管裏的異數。&lt;br&gt;&lt;br&gt;看看蘋果目前的十位高管：&lt;a href=&quot;http://www.apple.com/pr/bios/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;apple.com/pr/bios/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;除了 Jonathan Ive 以外，其他人要麼是工程背景，要麼是商業 / 財務 / 法務背景。這裏面沒有「懂內容」的人。&lt;br&gt;&lt;br&gt;據說 Eddy Cue 是早年 iTunes Store 和內容方談判的功臣，但風格強勢，爲內容方——唱片公司、電影公司——所不喜。Iovine 就是來解決這個問題的。&lt;br&gt;&lt;br&gt;內容方對技術公司，從情感上說，永遠不會太親近。有時爲了利益會結盟，但總體來說，內容方眼中的的技術公司都是一幫搞不懂爲什麼 Miles Davis 比 Wynton Marsalis 好的傢伙。跟他們談好壞，他們只會說「well, it's all subjective」。Hell yeah it's subjective, show me your subjectivity!&lt;br&gt;&lt;br&gt;蘋果之所以特別，正因爲它是技術公司裏少數在乎內容的。更準確地說，蘋果的高管裏曾經有一個人很在乎內容，那就是喬布斯。&lt;br&gt;&lt;br&gt;喬布斯死後，人人都在說「Cook 是一個做財務的，不懂產品」。沒錯，Cook 的確對產品沒有感覺，但他的厲害之處在於他自己知道這一點，並且正視這一點。所以他重組架構，讓喬布斯的嫡傳弟子 Ive 掌管整個公司的設計，讓喜歡解決 generic 問題的工程師們——Craig Federighi, Dan Riccio 和 Eddy Cue——去掌管工程。和內容方的談判原本也是 Cue 在負責，現在看來要換 Iovine 了。對於唱片公司、電影公司來說，Iovine 是自己人。（身爲工程師，你見到 John Carmack 是不是要敬三分？內容方見到 Iovine 想必是一樣的。）&lt;br&gt;&lt;br&gt;Beats Music 上線時，非常強調我們的 curation 都是由真正的活人專家在做。算法很好，但活人也不能少。幾家音樂流媒體公司都是算法 + 活人的路子，但 Beats Music 顯然比別家更重視活人。這是創始人的從業經歷決定的。這種方向是對是錯，可以討論，但內容方顯然更愛這樣的角度。&lt;br&gt;&lt;br&gt;在第五十七期 IT 公論 [1] 裏我們討論 Objective-C 時提到了 generic 問題和「一次性」問題的區別。工程師更喜歡研究 generic 問題，他們希望寫出的代碼不僅僅能應用在手頭的這個產品上，而是可以在未來的其它場景復用。要做到這點，這個「問題」就必須是抽象出來的 generic 問題，而不是在特定環境下才成立的特定一次性問題。套用 web 開發中 scalability  的概念，我們可以說 generic 問題是 scalable 的。&lt;br&gt;&lt;br&gt;但內容是 unscalable 的。內容甚至是反 scalability 的。Scalability 的前提是能夠抽象出共性，而內容——文藝創作——的的本質是打破套路。[2]&lt;br&gt;&lt;br&gt;文藝青年喬布斯懂這個道理，深刻地懂這個道理。所以在必要的時候，他掌管下的蘋果會毫不猶豫地犧牲工程上的優雅來換取產品上的優雅。最典型的例子是 iBooks 電子書。那些富媒體 iBooks 電子書用了無數私有屬性，只爲了最終做出來的書精美好看。他們才不管什麼「這本書在其它平臺能否正常閱讀」這樣的事情。&lt;br&gt;&lt;br&gt;另一個文藝青年 Iovine 當然也懂。這種對內容的 unscalability 的深刻理解決定了他和內容方說的是同一套語言。這是蘋果對唱片公司、電影公司、出版社放出的信號：We care。&lt;br&gt;&lt;br&gt;如 Ben Thompson 所說，Tim Cook 是個了不起的 CEO。[3]&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;1. &lt;a href=&quot;http://www.itgonglun.com/episodes/57&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;#57: iPhone app 背后那个叫 Objective-C 的东西&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;2. 類型作品（例如偵探小說，穿越小說）是例外，但它們就只是類型作品。而且世界上也不只一個類型。&lt;br&gt;&lt;br&gt;3. &lt;a href=&quot;http://stratechery.com/2013/tim-cook-is-a-great-ceo/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Tim Cook is a Great CEO&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23675685/answer/25376144
 </link>
 <author>
@@ -281,20 +295,6 @@ http://www.zhihu.com/question/21101845/answer/25360763
 </title>
 <description>
 中国有这样的剧呀。&lt;br&gt;&lt;br&gt;一开始就是信仰新神的教民反抗王庭，战乱席卷全国。&lt;br&gt;&lt;br&gt;然后黄沙之郡的侯爵进王城大开杀戒，却因为乱搞女人被第一御林铁卫砍死了。&lt;br&gt;&lt;br&gt;兵多将广，夺取天下呼声最高的两兄弟因为分裂，被崛起的北境之王钻了空子，双双陨落。&lt;br&gt;&lt;br&gt;拥有帝王之血的没落王族与两位游侠结交，并立下血魔法的誓言，踏上了争夺天下的旅程。直到这时都没有人知道，他们将获得帝国第一学士的帮助，召唤来巨风，并于天堑河畔火焚北境之王的庞大舰队。&lt;br&gt;&lt;br&gt;帝国南境的少年英雄以百战百胜的态势，结束中土之行，返回故乡，却意外的死于刺杀。他瘦弱的弟弟继任了他的大军，开始专注于内政的发展。&lt;br&gt;&lt;br&gt;总的来说故事情节尚可，遗憾的是作者为了写起来省事。喜欢莫名其妙的让主人公领便当。&lt;br&gt;&lt;br&gt;第一御林铁卫因为喝多了被抓砍头。&lt;br&gt;全帝国排名第三的骑士为保护北境之王被人乱枪戳死。&lt;br&gt;北境之王拒绝了草药之神的建议，最终死于头疼病。&lt;br&gt;南境第一智帅被活活气死。&lt;br&gt;帝国第二学士出场没有两章就被射成了刺猬。&lt;br&gt;作为第一主角的没落王族好不容易建立起自己的西境王庭，却因为血魔法应验一章之内就和两个游侠兄弟一起葛儿屁了，对了他唯一的儿子还是个傻—哔—&lt;br&gt;帝国第一学士最终因工作太累加招魂术失败吐血而亡。&lt;br&gt;&lt;br&gt;前期的故事很精彩，后期作者笔力不够想匆匆结束，安排了一个内廷叛徒篡夺了北境之王的王座，然后没费多大力气就重新统一了中土世界。作者真是太混了啊！&lt;br&gt;&lt;br&gt;虽说存在种种缺陷，不过低魔世界的设定倒算是略有新意，另外蛮族之王和学士之间的七次大战妙趣横生，倒是值得点赞。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/23675685/answer/25331597
-</link>
-<author>
-车木向
-</author>
-<title>
-当孩子大声指出公交车上有人行窃时，作为父母应该怎么办？
-</title>
-<description>
-在特警队的时候，一次休息，跟战友坐公交车出门，战友坐在靠窗的那边，我坐在外侧，碰到一小偷割一位女士的挎包，我在车上吆喝了一声，旁边站起一个壮汉，手里拿着一个手术刀一下就顶到我下颚上了，我跟我战友都没动，一车人，比我壮的也有，根本没人制止，到了下一站，那俩贼下车钻进了一辆桑塔纳，走了，至于那位女士，则一句“谢谢”也没说。&lt;br&gt;&lt;br&gt;&lt;br&gt;回到正题，我能给的建议如下：&lt;br&gt;&lt;br&gt;一、出门前，对孩子说，类似这样的事情，不要管，有警察叔叔。&lt;br&gt;&lt;br&gt;二、在保护好孩子的前提下，尽量记住对方的体貌特征。&lt;br&gt;&lt;br&gt;三、不要试图寻求帮助，这个社会比你想象中的更冷漠。&lt;br&gt;&lt;br&gt;四、别依赖公交车司机大哥，他们跟小偷很熟悉。&lt;br&gt;&lt;br&gt;五、不要臆想自己能制服对方，因为你面对的不是一个人，而一旦发生任何情况，大多数时候，你就只是一个人在战斗。&lt;br&gt;&lt;br&gt;————————————————&lt;br&gt;我是不请自来的，回答的不好，请题主见谅！！&lt;br&gt;&lt;br&gt;&lt;br&gt;———————————————————&lt;br&gt;评论区的圣人们，贵国的“中国梦”全仰赖你们了！&lt;br&gt;———————————————————&lt;br&gt;&lt;br&gt;连老人都不敢扶的你们居然敢抓贼？俺真的万分佩服！&lt;br&gt;&lt;br&gt;———————————————————&lt;br&gt;最后啰嗦一次，诸位的评论，不再一一回复。想骂我的请私信，别侮辱了大家的眼睛，谢。
 </description>
 </item>
 </channel>
