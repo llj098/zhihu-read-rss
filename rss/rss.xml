@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/23844552/answer/25880226
+</link>
+<author>
+涛吴
+</author>
+<title>
+学会了 C 语言真的可以开发出很多东西吗？
+</title>
+<description>
+马里奥碰到花朵就变身。&lt;br&gt;&lt;br&gt;什么是马里奥？一个装着 16 × 32 个小色块的长方形，其中一些色块填着颜色，另一些没有。什么是花？一个 16 × 16 的方型。什么是「变身」？把马里奥这个方块里面代表衣服的绿色变成红色，代表背带裤的红色变成白色。什么是绿色？暂且说它是 0x887000 这个数字。什么是「碰到」？马里奥的长方形与花朵的正方形有所重叠。什么是「重叠」？假设马里奥的这个方块占据屏幕（什么是屏幕？一个能装下 256 × 240 个小色块的矩形）中 X 方向 101 到 116、Y 方向 21 到 52 之间的区域，那么只要这个区域内有一点或更多点也被花朵所占据（比如花朵处在 X 116 到 131、Y 21 到 36 之间的区域内），我们就认为两者有所重叠。&lt;br&gt;&lt;br&gt;若给定以八个数值代表的两个矩形区域，请写出判断两个区域是否有重叠的 C 语言程序。如果你能写出来，那么祝贺你，如果有朝一日你想自己做一遍 NES 版本的《超级马里奥》，你至少知道让他变身需要做什么了。&lt;br&gt;&lt;br&gt;是的，C 语言也许「只能」做数学题。可是，绝大多数游戏的运行本质活动就是不停地做数学题，所有其他东西的存在，只是为了让你能够更方便地把游戏中的规则转化为数学题而已。而且不少题目电脑都已经知道怎么解——是别的程序员事先告诉它的——比如「求一堆散落在三维直角座标系之中的正方体在 8(x−3)−10(y+1)−11(z−1)=0 这个平面上一个给定范围内的投影」或者「给定一堆彼此相连的顶点，求某一点到另一点之间的最短路径」之类的数学题，它只需要千万分之一秒就能给你解好。这种能力有什么用？电脑上 FPS 游戏的本质活动就是不停地求三维座标多面体变换之后在二维平面上的投影，不停地判断两个多面体是否彼此重叠，以及不停地寻找两个顶点之间的最短路径，来让怪物尽快冲到你面前咬你一口。不止游戏如此，其他软件也都差不多，比如知乎页面顶端这条蓝色导航条，就是 CSS 描述的一个浅蓝到深蓝的渐变——渐变是怎么回事呢？给出两个数字分别代表两种颜色，以及第三个数字代表一段距离，求一系列颜色的数值以及次序，使得这段距离中两种相邻颜色之间的变化最小。数学题。别说 C 语言，一切编程语言最终都只能做数学题，根据给定的数据，算出另一些数据，算出更多的数据，然后存贮、发送或者显示算出的数据。&lt;br&gt;&lt;br&gt;不过我能理解你的困惑。投入大量时间看完教程，结果只能在黑框里输出一串数字。这是在学编程还是在向七十年代致敬？编程是这样无法给人成就感的活动吗？是，也不是。看你的表述，应该不是小孩子了，因为小孩子不会因为初学编程能做的事情很少而没有成就感，或者说，觉得这样做没有成就感的小孩子根本不会继续学下去。最初学编程的成就感单纯来自于「我居然可以指挥机器做一些事」，至少我小时候用中华学习机编一个程序帮我算暑假作业上的四则运算题时是这样感觉的。写这些程序并用它解题的时间虽然远超过自己动笔去把题目算出来，却让人乐此不疲。那时候我还不知道马里奥碰到花会变身这种事情其实也是靠编程编出来，所以我也不会去想学编程「并&lt;b&gt;不能&lt;/b&gt;做什么」。&lt;br&gt;&lt;br&gt;无奈大多数人过了一定年纪就很难再靠「我能指挥机器」这种简单原始的快乐来驱动自己学编程。见过市面，听过传言，欲望和野心变得复杂而庞大，你想要图形界面，音乐音效，人工智能，云端同步，可是你闷头学了几堂课，还是只学会在黑框里显示一串数字。你怀疑这是学 C 语言的错，于是你到知乎上来问了这个问题。&lt;br&gt;&lt;br&gt;你的疑惑是有道理的。&lt;br&gt;&lt;br&gt;如果能把编程学下去，日后你就会明白，任何程序都是一座冰山，最终用户能看到的界面和使用的功能，只是程序浮在水面上的十分之一。知乎这个网站其实也是个运行在某台电脑上的程序，你能看到的十分之一是用什么编写的呢？HTML，CSS，JavaScript，或者 Objective-C。而你看不到的那十分之九是用什么编写的呢？Python。这些你无法直接观测到的 Python 程序运行在世界某个角落的某些计算机上，隔着光缆、双绞线和无线基站，为你面前或掌上的用户界面注入生命。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4e/6c/4e6c238477813abd5335d7bf51b54c15_m.jpg&quot; data-rawwidth=&quot;518&quot; data-rawheight=&quot;588&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;518&quot; data-original=&quot;http://p1.zhimg.com/4e/6c/4e6c238477813abd5335d7bf51b54c15_r.jpg&quot;&gt;（ &lt;a href=&quot;http://xkcd.com/353/&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;xkcd.com/353/&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; ）&lt;br&gt;&lt;br&gt;……可是 Python 是用什么编写的呢？C 语言（当然，这么说并不严谨，Python 理论上可以用任何其他语言实现，实际上也已经被用很多其他语言实现了，不过这并不是重点）。任何编程语言都是实现某个功能的工具，Python 实现了知乎这个网站的大部分功能，而 C 实现了「用 Python 写程序」这个功能。为什么是 C？&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;C 很别扭又缺陷重重，却异常成功。固然有历史的巧合推波助澜，可也的确是因为它能满足对于这样一种系统实现语言的需要：既有相当的效率来取代汇编语言，且又足够地抽象而流畅，能够用于描述各种各样的环境之下的算法与交互。&lt;br&gt;&lt;i&gt;C is quirky, flawed, and an enormous success. Although accidents of history surely helped, it evidently satisfied a need for a system implementation language efficient enough to displace assembly language, yet sufficiently abstract and fluent to describe algorithms and interactions in a wide variety of environments.&lt;/i&gt;&lt;br&gt;——C 语言之父，Dennis M. Ritchie&lt;/blockquote&gt;&lt;br&gt;C 是初代程序员所使用的语言，那时候硬件很贵，软件必须高效；而计算机的用户都是职业程序员，对于硬件有足够的理解。C 贴近硬件，就意味着它容易译成机器能懂的语言，而它的设计者也并不需要操心普通人学起来可能会比较困难——而且，说真的，其实也不很难。但是，这么多年过去之后，软件规模变得越来越大，C 就像锤子和手锯，修小木屋得心应手，造摩天楼就比较力不从心；但 C 语言可以用来造出其他更适合建造摩天楼的工具，乃至组成摩天楼的预制解构，就好比用锤子和手锯造出挖掘机和吊车、混凝土板和一体门窗一样（当然，这个比喻并不十分贴切。没有什么比喻能贴切地描述软件工程，因为软件工程跟什么都不像）。&lt;br&gt;&lt;br&gt;所以，回到你的问题上来，是的，学会 C 计算机语言真的可以开发出很多东西，但除非内力深厚，场合适当，并且闲得蛋疼，大多数人不会拿 C 或者只拿 C 来开发很多东西。如果你只是想要一门能够让你「编辑出一个啥子游戏或者软件出来」的语言，而且你用 Windows，那建议你转去学学 C#。它长得和 C 挺像，但却能迅速地写出至少是带有图形界面的程序，用起来也很方便，鼠标点一点就能让你对自己的程序看起来什么样有个比较直观的印象。还有，在国内，C# 的教材也相当容易找到。当然 Python 也是一个很好的选择。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/60/1c/601cf5b6adc3d883a8cc9e6327f41637_m.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;429&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;http://p3.zhimg.com/60/1c/601cf5b6adc3d883a8cc9e6327f41637_r.jpg&quot;&gt;&lt;br&gt;另外，还有一件事你必须弄明白：现代的所谓编程这一活动，其实大部分时候是在「合理地堆砌别人已经实现的功能来实现新的功能」，C 语言莫不如是，比如 printf 这个东西，是别人做出来的「把一些数据按照指定格式输出到屏幕上」这一功能。而别人还做出来许多其他功能，比如「在发现用户短时间内连续两次按下鼠标又松开的时候调用你写好的一个函数」。学会怎样在 C 或者其他任何程序语言中使用这些既有功能，也是学习编程的一门重头戏。等你弄明白这一点，你也就找到了你问题的答案。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23833263/answer/25858889
 </link>
 <author>
@@ -286,20 +300,6 @@ underlying meaning of what is said are not the same.&quot;&lt;br&gt;(Henry Watso
 might be expected and what actually occurs.&quot;&lt;br&gt;(&lt;i&gt;The American Heritage Dictionary&lt;/i&gt;)&lt;br&gt;&lt;br&gt;比如，大咕咕雞每次的炸裂對象都不是很炸裂。&lt;br&gt;&lt;br&gt;-Fragmentation (碎片化)&lt;br&gt;Fragmentation is shown by
 dispersed elements like plots, characters, themes, imagery and factual
 references.&lt;br&gt;可以理解為一種跳脫的“無關性”。&lt;br&gt;&lt;br&gt;比如，突然來一句啊生活。&lt;br&gt;&lt;br&gt;-Trout Fishing in America 是本很有意思的書。不長，一百頁。如果有興趣的話可以找來看。我有pdf版本。&lt;br&gt;&lt;br&gt;*更新結束*&lt;br&gt;&lt;br&gt;靈魂大師的闖作（分文字特點和形象塑造兩方面討論）夠寫一篇博士論文。&lt;br&gt;A 大師文字的特點。&lt;br&gt;&lt;br&gt;-對“標準化語言以及表達”的反叛&lt;br&gt;1 方言 （上海話、四川話）、港台腔（行動電話、網路）、中日英夾雜&lt;br&gt;2 諧音 （毛，東南雅）&lt;br&gt;3 口頭禪 （炸裂！今年是XX年！啊！生活！、噴了）&lt;br&gt;&lt;br&gt;-對節奏的把握&lt;br&gt;語義的跳躍、極短句、感歎句 &lt;br&gt;&lt;br&gt;-非典型的語言中心角色&lt;br&gt;1 社會人（王大錘，李大根）&lt;br&gt;2 性格動物（驢、毛、黃鼠狼、小龍蝦——“小龍蝦個子不高一米六左右”——這句話看到的時候真是驚為天人）&lt;br&gt;3 非生物（黃浦江）&lt;br&gt;&lt;br&gt;-非主流的設定&lt;br&gt;奮鬥在大保定的青年、東南雅旅遊的夢想、愛吃烤串兒之類&lt;br&gt;&lt;br&gt;-嚴肅戲謔藝術與文學的嘗試&lt;br&gt;1 行為藝術構想 &lt;br&gt;早前大師寫過很多和驢有關的行為藝術，“一個盒子，裡面有驢，可能舔你，可能不”之類&lt;br&gt;2 詩歌&lt;br&gt;微信里的那些你看過嗎&lt;br&gt;&lt;br&gt;-莫名亂入的專業性討論&lt;br&gt;足球、數碼、網路&lt;br&gt;&lt;br&gt;-微博賦予的特點&lt;br&gt;靈魂大師並不把自己字數限制當回事，說不完，就自己轉，接上一條，繼續說&lt;br&gt;但顯示在主頁的語序是顛倒的&lt;br&gt;這種閱讀快感實在是太突兀詭異又深切了&lt;br&gt;&lt;br&gt;以上，在大師走向紅人的《舌尖上的中國》里多少有所體現。&lt;br&gt;&lt;br&gt;B 大師塑造的個人形象的特點&lt;br&gt;&lt;br&gt;-不要臉&lt;br&gt;給自己點讚、發支付寶賬號求打錢、言而無信倒打一耙（送kindle3事件）&lt;br&gt;&lt;br&gt;-長相&lt;br&gt;靈魂大師有獨特的盜圖技巧&lt;br&gt;&lt;br&gt;-性別&lt;br&gt;“我老公......”&lt;br&gt;“我懷孕了！”&lt;br&gt;&lt;br&gt;-人格分裂&lt;br&gt;&lt;br&gt;-關心民情和社會主義精神文明建設&lt;br&gt;&lt;br&gt;還有好多。&lt;br&gt;看靈魂大師的評論你會感受到大師炸裂的影響力。&lt;br&gt;&lt;br&gt;以上。&lt;br&gt;一個分析，不一定對。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20178801/answer/21383643
-</link>
-<author>
-Lee Lisa
-</author>
-<title>
-聚美优品卖的都是正品吗？
-</title>
-<description>
-&lt;p&gt;我把我另一个问题的回答粘贴过来，被某美坑过的我现在某美一生黑···所以任何一个可以说出真相的地方我都不放过啊喂。-----------------------------------------------------------------------------------------------&lt;br&gt;&lt;br&gt;我首先要说，某美卖假货的事情不是个传闻。是真的。因为我就是其中买到假货的那个人。&lt;br&gt;当然，我曾经也是相信某美品质的那个人，相信它不会卖假货。但是后来我在上面有过一次买某品牌牛油果眼霜（是的，就是那个有名的牛油果眼霜），发现跟我买的专柜的颜色和气味都不一样而产生了巨大的怀疑。因为我非常喜欢某家的牛油果眼霜，所以相当熟悉了。而且当时某美上卖的那个版本是国内这个品牌没有卖的。（我直接打电话给这个品牌的国内专线去问的，也在人家官网上查了）也就是说，没有国内渠道。也就是说，除非是海外走私进来的。&lt;br&gt;那么，你觉得按照经济学原理来说，比美国官网网站还低的价格卖的某网，你觉得它是有渠道冒着风险大量走私然后如此有良心的以绝对造福人民的低价甩卖给社会主义人民合理呢。。。还是其实是国内小作坊几十块假冒出来的合理呢。。。&lt;br&gt;反正我打死再也不在某美上买了。&lt;br&gt;ps：出了这个事情以后我在某美上留言一星评论说它买假货，但是隔一阵我的评论就不见了。我到处去网站上找去问是为什么。后来给我答案是因为要出新的团购所以新团购以前的评论就没了····&lt;br&gt;那时候我才恍然大悟为什么我买某美从来都看不见差评，每隔一段时间就来个团购活动原来是洗涮差评的好方法·········我也再也不相信上面的评论了·····&lt;br&gt;pps：不相信某宝却曾经相信某美的我真是好傻好天真·····&lt;/p&gt;&lt;p&gt;---------------------------------------------------------------------------------------------------------------------------------&lt;/p&gt;&lt;p&gt;这条我发在原来问题下的回答得到了多人赞同并且排在了第一位的答案被知乎删掉了。（注意，不是被折叠！）让我觉得原来知乎也不过尔尔。精英聚会？公平公正？呵呵。我对整个国内网络都很失望。_________________________________________________________________________&lt;/p&gt;&lt;p&gt;发完上面的那条没多久，知乎又把以前那条答案还给我了···囧····&lt;/p&gt;
 </description>
 </item>
 </channel>
