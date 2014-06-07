@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/20190597/answer/26416269
+</link>
+<author>
+丁吉昌
+</author>
+<title>
+阿里、淘宝、腾讯以及一些创业公司是如何进行研发管理和绩效考核的？
+</title>
+<description>
+&lt;p&gt;正好最近做了一个豌豆荚研发管理的分享，稍微整理了一份分享到这里，一起交流学习。&lt;/p&gt;&lt;br&gt;&lt;p&gt;首先，画一下我们通常讲研发管理的范畴：确定如何立项，如何确定产品目标，如何把控项目进度，如何驱动产品一代代完善以及如何调动团队积极性等。&lt;/p&gt;&lt;p&gt;在时间周期上来说，我们归纳为 5 个关键步骤：选方向、定目标、控进度、带团队和排干扰。&lt;/p&gt;&lt;p&gt;相配套的，则是在这五个关键步骤的一些流程和工具的使用。&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;一、高效研发的5个关键步骤&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;第一步：立项——定方向&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在豌豆荚的整个研发过程中，立项称为ProductBrief或者Project Brief。团队的产品经理会撰写一个1－2页的文档，然后和执行团队进行评审，如果评审通过，立项就成功了。文档一般包含会包含以下内容：&lt;/p&gt;&lt;p&gt;1. 愿景：一句话表达清楚要做什么；&lt;/p&gt;&lt;p&gt;2. 分析市场机会和趋势，决定当前策略；&lt;/p&gt;&lt;p&gt;3. 确定目标用户的特征和核心需求；&lt;/p&gt;&lt;p&gt;4. 现存的解决方案和各自的优劣势；&lt;/p&gt;&lt;p&gt;5. 该项目对豌豆荚的利益点；如果不做该项目，哪些竞争对手会做，对竞争对手的利益点；&lt;/p&gt;&lt;p&gt;6. 需要哪些技术的支持和驱动，哪些技术是豌豆荚的弱项；&lt;/p&gt;&lt;p&gt;7. 人力需求；&lt;/p&gt;&lt;p&gt;8. 项目的紧急程度，是否需要快速推进；&lt;/p&gt;&lt;p&gt;9. 发布策略；&lt;/p&gt;&lt;p&gt;10.核心衡量指标，用来衡量成功的指标。&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;第二步，OKR 体系——定目标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;对一个项目来说，设定目标是非常重要的，因为这决定了如何去做，以及能做到何种程度。豌豆荚采纳的目标管理是从 Google 引进的 OKR 体系（Objectives&amp;amp; Key Results，目标与关键成果），这跟传统的 KPI（Key Performance Indicator，关键绩效考核）稍微有些区别：&lt;/p&gt;&lt;p&gt;1. OKR 首先是沟通工具：豌豆荚共有 300 多人，每个人都要写 OKR。为了便于沟通，所有这些OKR都会放在一个文档里。任何员工都可以看到 CEO 的这个季度最重要的目标是什么，HR 团队这个季度的目标是什么。&lt;/p&gt;&lt;p&gt;2. OKR是努力的方向和目标：OKR代表你到底要去哪里，而不是你要去的地方具体在哪里。&lt;/p&gt;&lt;p&gt;3. OKR必须可量化。比如健身时设定锻炼目标，如果只是定义成「我们要努力提高身体素质」，肯定不是一个好的 OKR，因为无法衡量，好的OKR是「今年的跑步时间较去年增加一倍」。&lt;/p&gt;&lt;p&gt;4. 目标必须一致：制定者和执行者目标一致、团队和个人的目标一致。首先，制定公司的OKR；其次，每个团队定自己的 OKR；第三，每个工程师或设计师写各自的OKR。这三步各自独立完成，然后对照协调这三者的OKR。在豌豆荚，OKR跟个人绩效没有关系，因为OKR 系统的结果和每个人并不直接挂钩。&lt;/p&gt;&lt;p&gt;5. 通过月度会议Review ，时时跟进OKR： 在月度会议上需要确定如何去达到目标，是一个帮助达到目标的过程。&lt;/p&gt;&lt;p&gt;6. 通过季度会议 Review ，及时调整OKR：互联网的变化非常快，所以豌豆荚每季度有一个OKR 的 review，调整的原则是目标（Objectives）不变，只允许调整关键成果（Key Results）。&lt;/p&gt;&lt;p&gt;为了更好的理解如何制定OKR体系，我们看个例子：&lt;/p&gt;&lt;br&gt;&lt;p&gt;●	目标（Objectives）：发布有影响力的新功能，将 XXX 产品做成用户可以每日使用的产品。&lt;/p&gt;&lt;p&gt;●	关键成果（Key Results）：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;日活跃用户量为XX；&lt;br&gt;&lt;/li&gt;&lt;li&gt;使用XX方式，提高XXX核心指标；&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;第三步，项目管理——控进度：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;目标设定以后，非常重要的就是执行，一般的项目管理实际上就是控制进度。&lt;/p&gt;&lt;p&gt;1. 任务/进度勤同步。整个公司所有人的 calender，包括会议、要做的事情、项目的时间节点都需要及时同步。在整个战略布局上，如果某个项目工期非常紧，就必须进行更多的沟通，确保每一个环节都没有问题。&lt;/p&gt;&lt;img src=&quot;http://p3.zhimg.com/2d/66/2d662a893c61535115c816d725327c6f_m.jpg&quot; data-rawwidth=&quot;692&quot; data-rawheight=&quot;422&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;692&quot; data-original=&quot;http://p3.zhimg.com/2d/66/2d662a893c61535115c816d725327c6f_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;2. 站立会议 (Daily Sync)：每天进行站立会议，一般控制在十分钟之内，每个人说明自己今天要做的工作，需要什么帮助，有谁可以帮忙，可以更有效的调节资源和公关。&lt;/p&gt;&lt;p&gt;3. 多方位沟通（Google Docs / Gmail / Hangouts）：对非紧急的事情，两个团队或者是两个人一起讨论所有的设计。Hangouts用于做快速响应。&lt;/p&gt;&lt;img src=&quot;http://p1.zhimg.com/09/87/0987525961e1aa5d10e56b56bb866c33_m.jpg&quot; data-rawwidth=&quot;692&quot; data-rawheight=&quot;520&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;692&quot; data-original=&quot;http://p1.zhimg.com/09/87/0987525961e1aa5d10e56b56bb866c33_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;4. 周会（Weekly Report）：每周总结。豌豆荚的团队产品经理要做周报，汇报这周的工作、发布、取得效果以及数据。&lt;/p&gt;&lt;p&gt;5. 数据系统：MUCE 是豌豆荚的数据系统，上面有全公司所有的产品数据和运营数据。MUCE 的数据能够用来验证产品的假设、方向等。&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;第四步，人员管理——带团队：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;项目是由一个个具体的人来执行的，所以带团队非常重要，在人员管理上，豌豆荚有三个基本原则：&lt;/p&gt;&lt;p&gt;1、Re-Organization&amp;amp; 换组：公司鼓励员工换组，每个人都有机会到喜爱的团队做更有趣的事情。只要在原团队的绩效合格，每季度都可申请换团队或换工作内容。员工的绩效不与 OKR 挂钩，公司鼓励员工挑战难度、超越优秀，低 Level 的事情做不到优秀会被惩罚，做事不及格也会被惩罚。&lt;/p&gt;&lt;p&gt;2、One on One：在带人方面， One on One 非常重要。One on One 指的是每个团队的 manager 需要定期（最佳间隔是每周一次）与自己团队中的每个成员进行一对一讨论或者对话。在豌豆荚，manager 首先是一个教练，应该帮助自己团队的成员成长。通过 One on One，manager 需要了解每个团队成员现阶段的状态和遭遇的困扰，分享职业规划，帮助他们正确地处理问题，更好地实现个人成长。&lt;/p&gt;&lt;p&gt;3、个人 OKR 和 Performance 体系：每个员工在每个季度初需要确定自己本季度的 OKR，在一个季度结束后需要根据自己这个季度的工作完成情况给 OKR 打分。每半年公司会进行一次 Performance Review，主要是 review 员工过去半年的绩效，并根据 Performance Review 的结果变更 Job Ladder（业务职级）和薪酬。值得一提的是，在豌豆荚，所有的个人Performance Review 的成就内容及级别都是全公司共享公开的，如下图所示。这个对于很多公司来说是不可想象的，豌豆荚为什么要这么做？因为一方面对于豌豆荚来说可以做到更为公平和透明，另一方面也给每位豌豆提供了更好学习和成长自己的样本，激励大家在产品研发中更高质量的挑战和要求自己。&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://p3.zhimg.com/65/b4/65b4af27984b86205f41b45cae7a0a71_m.jpg&quot; data-rawwidth=&quot;585&quot; data-rawheight=&quot;902&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;585&quot; data-original=&quot;http://p3.zhimg.com/65/b4/65b4af27984b86205f41b45cae7a0a71_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;第五步，兴趣管理——排干扰：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1、激发兴趣：HackDay，是豌豆荚一个特殊的节日，开始于2010年，类似黑客马拉松。通常在春节假期回来的那一周，产品设计师和工程师们 3-5 人组成一队，在连续48小时的时间里，充分展现工程团队的创意和想像力，完成一些比日常开发更 geek、更有趣的东西。&lt;/p&gt;&lt;p&gt;豌豆荚为了鼓励大家更好的完成挑战，也会设计一些特别有特色的奖品，历史上2012 年提供的是苹果刚出 Macbook Retina，2013年是 Google Glass，2014 年则是程序员最爱的 Herman Miller 顶级座椅。&lt;/p&gt;&lt;p&gt;在历史的 Hackday 中，有不少作品最终都成了重要产品对外发布，比如 MUCE、豌豆洗白白和 IAS（应用内搜索），都成为了豌豆荚极具特色的产品。&lt;/p&gt;&lt;img src=&quot;http://p3.zhimg.com/66/06/66064d2e95772a9c33a86f20f9defa26_m.jpg&quot; data-rawwidth=&quot;692&quot; data-rawheight=&quot;525&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;692&quot; data-original=&quot;http://p3.zhimg.com/66/06/66064d2e95772a9c33a86f20f9defa26_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;2、控制兴趣：PolishWeek，让公司慢下来，对已有产品的细节进行精细化的过程。在大量开发和新产品上线的过程中，我们会担心因为走得太快而对产品的细节关注不够。在连续3个工作周后，第4周通常是 PolishWeek。在 Polish Week 的这一周，豌豆荚内部不会进行新产品或新功能的开发，而主要是对现有的产品和服务进行打磨，解决一些细节问题和小 bug，譬如产品内一些字体的统一等等。平均每个 Polish Week 会解决产品中各种 Bug 大约 200 个。&lt;/p&gt;&lt;img src=&quot;http://p4.zhimg.com/34/1a/341a0519759df3ad46041663decfd745_m.jpg&quot; data-rawwidth=&quot;692&quot; data-rawheight=&quot;517&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;692&quot; data-original=&quot;http://p4.zhimg.com/34/1a/341a0519759df3ad46041663decfd745_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;二、高效研发的流程和工具&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去几年豌豆荚做 Windows 版的时候，尝试过一个月、两个月、一个星期、两个星期的发布节奏，整个模式跟 Chrome 比较像，有功能发布就希望尽早的发。我们在服务端上每天都有更新，客户端会慢一点，现在大概是两周一个版本，如下图所示：&lt;/p&gt;&lt;img src=&quot;http://p1.zhimg.com/8d/e5/8de531a61fdeae39126237caea6a099d_m.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;165&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://p1.zhimg.com/8d/e5/8de531a61fdeae39126237caea6a099d_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;在开发节奏上，前两周的时间用于开发，然后截取分支准备发布，接下来两周进行测试，同时进行另一个开发，每一个迭代都控制在两周之内。相对而言，服务端的发布比较好操作，可以做很多的回归测试和自动化测试，不太需要手工的测试来做发布，但是 Windows 和 Android 都会有一些 Beta 的发布，在内部很难模拟用户的使用场景和用户的环境，所以在 release 之后的过程中一般会抽样 1%、5%、10% 这样一个节奏来做验证，主要是看某些指标是否达标。&lt;/p&gt;&lt;p&gt;这个流程刚开始执行的时候问题特别多。比如在这周开发完成以后，测试发现根本测试不了，有很多很多的 Bug，工程师只好利用第二个研发周期去修 Bug，然后又会影响第二周期的开发，这样问题越来越多，就会导致流程很难进行，然后进入恶性循环。为了解决这个问题，首先在操作层面上一开始先用一个月的迭代来让大家适应，同时要求 Master 分支必须是可用的（比如某人提交了代码跑不起来，或者没有经过测试，给其他同事带来了阻碍，就会被要求请全团队喝咖啡）。其次加强单元测试和回归测试，确保每个迭代的研发质量是可控的，后面的测试主要是回归和校验，减轻相互重叠的压力问题。一个月的迭代跑顺了之后，再跑到两周、一周的节奏，整体来看，差不多用了半年的时间，豌豆荚就完全跑顺了这个流程，想快可以快，想慢也可以慢。&lt;/p&gt;&lt;p&gt;工欲善其事必先利其器，为了提升产品研发效率，豌豆荚内部开发了一款项目管理工具Wandoulabs。作为内部的沟通工具，它主要用来做跨团队沟通，全公司所有员工都会使用。重要的 roadmaps 必须在这里登记，登记了以后，一个项目需要多少设计师、需要多少marketing、每个阶段是什么样以及工程师的发布状态都可以在这里看得到。&lt;/p&gt;&lt;img src=&quot;http://p1.zhimg.com/df/98/df9876b3529539850d78c55ce508582f_m.jpg&quot; data-rawwidth=&quot;692&quot; data-rawheight=&quot;402&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;692&quot; data-original=&quot;http://p1.zhimg.com/df/98/df9876b3529539850d78c55ce508582f_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;这就是前面提到的Wandoulabs，大概逻辑如下：不同的标记分别代表研发状态、发布状态、负责的团队及这个事情的重要级别。&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;对于重要的发布，豌豆荚有三个最基本的要求：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;第一要获得 Product／Design Review 的批准。一个功能开发以后，无论是界面还是整个 UI，如果会影响到用户的操作，或者影响到商户的收入，比如我们的广告系统或者和合作伙伴的一些策略调整，这就需要做 Design Review。Design Review 在豌豆荚里面的时间大概是每周的周一、周三和周六，每次持续 1-2 个小时，包括Product（Review）、Design（Review）或Business（Review）。Product Design指的就是 PD，主要的视觉设计师或产品设计师必须全员参加。&lt;/p&gt;&lt;p&gt;第二要获得 EngineeringTech Review 的批准。这更接近于传统上的技术设计，主要是看某个功能在工程设计上是怎么做的。做这个设计的团队和所有工程师必须全员参加，也会有一个人来 host，还需要几个指标的 review。这个过程是帮助相关的工程师把设计考虑更全面，包括流量、游戏的带宽压力的需求等等。&lt;/p&gt;&lt;p&gt;第三要获得 MarketingReview 的批准，主要是看产品上需要如何引入 marketing 团队的配合，需不需要做一些传播，需不需要注意公关策略等等。&lt;/p&gt;&lt;p&gt;同时对于更小的一些 Beta 测试则不强制要求。这些 Review 实际上是帮助整个团队、整个公司去理解当前最重要是什么，其实也是建立一个高标准的过程。&lt;/p&gt;
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/24021115/answer/26526358
+</link>
+<author>
+罗登
+</author>
+<title>
+如何让故事接地气？
+</title>
+<description>
+好吧，只在知乎说。&lt;br&gt;&lt;br&gt;我生平最讨厌的东西，就是“接地气儿”。&lt;br&gt;现在就是个影视公司的会计或者前台接待，都会说一句：这项目，不接地气儿！&lt;br&gt;在我看来，所谓“接地气儿”，实际就是“紧跟这个社会的下限”。&lt;br&gt;别以为我危言耸听，胡搅蛮缠。&lt;br&gt;这个“接地气儿”一词，在中国是有典故的，不是凭空产生的。&lt;br&gt;所谓“接地气儿”，来源于中国文艺的“革命现实主义”。&lt;br&gt;这一点，在 @谈天口的回答里面说的很清楚，我真不知道为何这个答案要被折叠。&lt;br&gt;&lt;br&gt;“接地气儿”，不过是广场民主的一种变体，即多数人的暴政。“接地气儿”，只不过是向大众投降，活在大众的阴影中，为了暂时的安全。“接地气儿”，是一种深层次的恐惧，以为和大众同一层次就万事无忧。“接地气儿”，是中国当前民粹化的一种写照，精英阶层已经荡然无存。“接地气儿”，不过是一种媚俗，从不想去创造，去引领消费，而只是被动的去迎合。“接地气儿”，本质上是奴颜婢膝。&lt;br&gt;&lt;br&gt;在中国“接地气儿”，电影可以永远拍春晚小品，永远不要想去拍《银翼杀手》和《星际迷航》，更别提啥《三体》。&lt;br&gt;有些人以为能“接地气儿”就特别安全，特别保险，特别来劲，一幅坐稳了“接地气儿”位置高枕无忧的表情，较认真恶心。&lt;br&gt;“接地气儿”，和什么贴近生活毫无关系。&lt;br&gt;“接地气儿”，安迪永远不可能逃离监狱。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23994286/answer/26474977
 </link>
 <author>
@@ -289,34 +317,6 @@ http://www.zhihu.com/question/24004857/answer/26441914
 </title>
 <description>
 我在朋友圈里说过，80%是狗屎运，20%是一群机智的骚年，每天被老板（我）威逼利诱加班。&lt;br&gt;&lt;br&gt;运气就不说了，说些可能对大家有用的吧。&lt;br&gt;&lt;br&gt;&lt;b&gt;为什么做这件事情，很重要，直接导致能做到什么结果。&lt;/b&gt;&lt;br&gt;&lt;br&gt;我热爱海贼王，为了过上动漫里的生活从腾讯离职。当时只有一个目标就是找一群伙伴做APP top1 的产品（海贼王的男人），重度中二病让我充满了能量克服现实中的困难。&lt;br&gt;&lt;br&gt;我的梦想是做改变世界的产品，在腾讯学到最多的是如何做好的产品。&lt;b&gt;在强需求点上投入足够的资源，不断打磨就会出现量变到质变。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;首先是需求点&lt;/b&gt;，我觉得个性化是年轻人的刚需。小米手机有一个数据显示21岁以下人群最喜欢的是头像类和考试类应用，验证了这点。&lt;br&gt;&lt;br&gt;&lt;b&gt;投资源&lt;/b&gt;，8个人的团队，做一款头像软件，好浪费哦。但是我们觉得头像是满足年轻人个性化需求最好的切入点，深挖这个切入点再拓展将会有巨大的市场。&lt;br&gt;&lt;br&gt;&lt;b&gt;不断打磨&lt;/b&gt;，我们团队最重视用户反馈，每天开会我都会把用户反馈一条一条的读给团队听，我们团队所有人都非常了解用户最需要什么功能。我在想怎么让团队迭代快起来，最后在雷军的文章里找到了方法，就是MIUI一周一迭代。我们也一周一迭代，其实并不简单，像是用跨栏的方式跑马拉松。但是产品的数据在每次迭代都会上升，最后爆发，产生质变。&lt;br&gt;&lt;br&gt;&lt;b&gt;对用户真诚&lt;/b&gt;，用户就会感受到。&lt;br&gt;另外我们不喜欢强逼用户，推送消息，评分弹框，我们非常讨厌，所以我们自己也不加。我们相信好的产品会口口相传，所以我们团队连一个运营都没用，一个策划，其他是技术和美术。然后最新版，我们把脸萌的水印也给去掉了，因为它影响了用户体验。我们就算饿死也不会往脸萌加广告。&lt;br&gt;&lt;br&gt;最后现在的暴涨非常不正常，我们的目标用户是年轻人，很多其他年龄段的人群从众进来，最后肯定是会离开的，这个很正常。但是个性化表达是年轻人的刚需，我们对这点深信不移，未来我们将拓展使用频次更多的功能（保密）。&lt;br&gt;&lt;br&gt;&lt;b&gt;现在都是浮云，能让目标用户长久离不开才是王道。&lt;br&gt;&lt;/b&gt;&lt;br&gt;我们的目标是做年轻人最喜欢的科技公司，这才走到哪〜 希望更多年轻人可以做更好的产品。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/23999720/answer/26402698
-</link>
-<author>
-彭正其
-</author>
-<title>
-如何评价《权力的游戏》S04E08最后的剧情？
-</title>
-<description>
-亲王尽力了，打输不怪他。魔山纯禽兽，个头赛河马。&lt;br&gt;血厚攻防高，一刀一匹马。别人两倍高，七国人人怕。&lt;br&gt;别人双手剑，魔山单手拿。重量级不同，这架怎么打？&lt;br&gt;&lt;br&gt;再看看队友，个个战五渣。三傻细软跑，雪姨不听话。&lt;br&gt;詹姆不敢上，波隆艹泥马。刀郎光下棋，泰温拉偏架。&lt;br&gt;狮子家内斗，玫瑰笑开花。谁能救提二？还得亲王他！&lt;br&gt;&lt;br&gt;亲王有思量，不是拍脑瓜。姐仇深似海，你能不上吗？&lt;br&gt;亲王纯爷们，这能忍得下？错过这家店，哪找下一家！&lt;br&gt;&lt;br&gt;还有一想法，你不知道吧。&lt;br&gt;多恩民风好，七国顶呱呱。男女都平等，女人也能打。&lt;br&gt;老子前头死，后头谁当家？不分男和女，只看谁老大。&lt;br&gt;先前送人质，来个弥赛拉。乔弗里一死，王位到谁家？&lt;br&gt;你们立托曼，思想封建啦。还有个姐姐，年纪比他大！&lt;br&gt;&lt;br&gt;再说小恶魔，狮家不要他。决斗万一赢，提二能去哪？&lt;br&gt;爸爸直咬牙，姐姐恨死他。请到多恩来，出谋把策划。&lt;br&gt;拥立弥赛拉，造反笑哈哈。怒艹高庭狗，灭了狮子家！&lt;br&gt;&lt;br&gt;当机需立断，亲王勇气嘉。破甲放风筝，姿势美如画。&lt;br&gt;嘲讽不是浪，战术不懂吗？君临乡亲们，听我八一八：&lt;br&gt;魔山他当年，到底干了啥！这下可好了，狮家漏底啦。&lt;br&gt;泰温的老脸，以后往哪挂？魔山没脑子，只会杀杀杀。&lt;br&gt;听了垃圾话，气得叫喳喳。重甲打轻甲，速度差距大。&lt;br&gt;砍又砍不中，体力全白瞎。气力一耗尽，不就一活靶！&lt;br&gt;&lt;br&gt;一路顺风局，全程压着打。总算就要结，魔山也累趴。&lt;br&gt;上去补一刀？那你就错啦。逼魔山认罪，不然也白杀。&lt;br&gt;就差末一下，哎呀我的妈！魔山在装死，实在太狡猾！&lt;br&gt;枪兵幸运E，能有啥办法？要搁宇宙国，“其实是赢啦”！&lt;br&gt;&lt;br&gt;亲王尽力了，打输不怪他。正义战邪恶，有心就够啦。&lt;br&gt;再看格雷果，命也不久啦。矛上抹了毒，没有想到吧？&lt;br&gt;嚎了一个月，死得惨巴巴。胜败不在乎，得失本一家。&lt;br&gt;毒蛇斗高山，千载人人夸。你说他不行，你行你上啊！&lt;br&gt;&lt;br&gt;后清有亲王，一样也姓马。你们有本事，你们去黑他！&lt;br&gt;&lt;br&gt;祥瑞御免，家宅平安。&lt;br&gt;&lt;br&gt;我真不是亲王黑，我是真心想要为亲王辩护的，结果夸着夸着感觉很顺手，手一滑就改成现在这首诗了。。。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/24010440/answer/26407924
-</link>
-<author>
-許瀚文
-</author>
-<title>
-为什么苹果在 OS X Yosemite 中把系统字体改为 Helvetica Neue?
-</title>
-<description>
-這包括兩方面：&lt;br&gt;&lt;br&gt;實際使用上，是蘋果為未來桌面、筆電屏幕技術升級作準備。&lt;br&gt;Lucida Grande無論設計、字間距，也是為十多年前像素超大顆、惡劣的屏幕閱讀環境而設計（原來的Lucida家族也是為二、三十年前惡劣的噴墨、雷射印刷環境而設計）。&lt;br&gt;&lt;br&gt;然而十多年後的今日在4K屏也將會逐漸普及的世界，跟Verdana一樣在Retina Display這一類比印刷解像度還要高的屏幕，字體不僅顯得粗細對比太大，間距也太闊，欠美觀外也佔太多屏幕空間。Helvetica Neue也是八十年代Linotype內部的設計作品，但他本身字間距較緊湊，字重齊備，此前也投放大量資源維護，在iOS平台上清晰可靠，在Yosemite上菜單的長度大大縮短可見一斑。&lt;br&gt;（然而實際字體專業意見，請參考Tobias Frere-Jones的意見： &lt;a href=&quot;http://www.fastcodesign.com/3031432/why-apples-new-font-wont-work-on-your-desktop?utm_content=buffer2df4b&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Why Apple's New Font Won't Work On Your Desktop&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，我認同他所有看法。）&lt;br&gt;&lt;br&gt;市場策劃上，Lucida Grande跟Helvetica Neue選擇之間隱含的意義，則是蘋果從「專業用家專利」到「擁抱主流市場」形象變身的最後一步。
 </description>
 </item>
 </channel>
