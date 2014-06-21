@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/24203774/answer/27043339
+</link>
+<author>
+yue wang
+</author>
+<title>
+为什么 Google 和 Facebook 的 iOS 应用设计开发能力相差甚远？
+</title>
+<description>
+首先論點是不對的。App Store上， Maps, Gmail, Hangouts, Google+ 都是四點五星的好應用，我就做過其中兩個。Facebook 沒那麼好（後來收購的不算）。。 &lt;br&gt;&lt;br&gt;Drive, Docs, Sheets 等常用 Google Apps 也在四星。 不比 Fb 的差。哪怕是三星的如 Youtube，下載量和使用率不見得比 FB 的低。&lt;br&gt;&lt;br&gt;所以，從質量角度講， goog 的 app 絶不比 fb 的差。 社交的尤是（Google Plus 對比 Facebook，Google Hangouts 對比 Facebook Messenger），如果你用過，你應該知道質量至少是和 fb 持平的，甚至更高。&lt;br&gt;&lt;br&gt;其次， google 有一些 App 雖然做得不錯，比起一些專注 mobile 設計的應用還是差一點的。原因麼，真要回答就又要洋洋灑灑寫一堆而且有太多機密了， 我還是不回答了。不過下面的東西沒有什麼機密性，也能很清楚說明白其中一點。 &lt;br&gt;&lt;br&gt;下面的分析代表個人想法，不代表公司。&lt;br&gt;&lt;br&gt;Google 力量比較分散，android, web, iOS 都要做，又要跨平台又要處理 server 端。尤其做 Android 端，還要蛋疼地解決 carrier 的問題，還要擔心惹官司，這是 Google 做 Android 的劣勢之一（facebook messenger 和 whatsapp 就不用，但 android 上的 Google Hangouts 就要）。 所以花了大力氣，可能結果也就那樣。 FB 也好 Apple 也好，基本屬於 All in 狀態。因為只要他們在 mobile 敗了，他們馬上就倒閉了。 Google 的收益主要還在 web，其實 Google 的 mobile 如果敗了，過個十年就會倒閉，但 google 如果現在 web 敗了，那倒閉得只能比 Apple 更快。&lt;br&gt;&lt;br&gt;所以，Facebook 可以做 Paper，因為他們可以完全不去關心 web，他們認為 web 已死有事燒紙（Facebook 的 mobile app 之前栽過 HTML5 的坑，用戶惡評不斷），這是很顛覆的一件事情，做出來的結果自然是可以打破傳統 UI 的很多條條框框－－你很難想象 Paper 怎麼做個 web 版，事實上 Paper 現在不要說沒有 Android 版，連 iPad 版都沒有。但 Google 不行，如果 Google 把跨平台的 UI 做得不一樣，web 用戶就會迷惑了，所以 Google 的底線一高，像 Paper 這種顛覆性的 App 就不能做了。&lt;br&gt;&lt;br&gt;體現 fb 對於 mobile all in 的一個側面是， 他們太會挖人了，而且捨得出大價錢。最經典的例子就是 WhatsApp，那麼大手筆的收購大家也看到了，核心就是他們已經把身家性命全賭進去了，不得不收購，一來防御 Google 和 Twitter 在 social 的攻勢，直接收買用戶，另一方面就是繼續轉型成一個純 mobile 的公司。更別說 google  和 apple 內 mobile 做得好的人，基本上是整組整組在挖。就說我知道的， Facebook Paper 的頭就是從 Google Plus 挖的，Facebook 總管 mobile 的也是從 Hangouts 挖的（例子不勝舉啊，諸位去 Linkedin 查查就知道了）。&lt;br&gt;&lt;br&gt;就是 Google Plus 的 SVP 離職、人事出現變動後，他們挖人的攻勢也沒停止，自從我們組幾個人接手重寫 Google Hangouts，把原先 2.5 星的 1.0 版做成了現在 4.5 星的 2.0 版後，我這幾個月真的是隔三差五收到 Facebook recruiter 的郵件，都不知道他們怎麼打聽到我郵箱的。&lt;br&gt;&lt;br&gt;但是我就是不去，嘿嘿。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/21570558/answer/25994106
 </link>
 <author>
@@ -277,20 +291,6 @@ imLaputa
 </title>
 <description>
 1. 不要把tiki-taka说的这么不堪，这批队员只是老了，过了巅峰期，没有以一个体面的方式谢幕而已。 不需要某些人一个又一个的事后诸葛亮似的无味的嘲笑。&lt;br&gt;&lt;br&gt;2. “能打败他们的只能是时间”，还记得四年前的那句话吗，现在时间到了，王朝更替，普世规律而已，至于未来的霸主？对不起，现在还看不到，西班牙人依然是王位的有力争夺者，他们需要的，只是时间而已。 &lt;br&gt;&lt;br&gt;3. tiki-taka不是回魂丹，不是万金油，不是一本万利的秘方，&lt;b&gt;它建立在无球队员不辞辛苦一刻不停的跑动上&lt;/b&gt;，曾经的欧洲霸主巴萨是欧洲最能跑的球队。2010年世界杯哈维在5场比赛跑了52.9公里，平均每场比赛跑10.58公里，位列世界杯所有球员之首，巅峰状态的他是西班牙永不停歇的马达，而那时队中伊涅斯塔，大卫席尔瓦，法布雷加斯的跑动距离也都非常惊人，控制球的打法全靠不懈的跑动，只有积极的跑动，进攻端才能不断撕扯对方的空档，无球队员的套边，穿插，接应，突然变换节奏给予致命一击，而防守端的贴身逼抢，前场丢球后的快速回抢，不断给对方制造防守压力，这也全仰赖勤奋的跑动。不管是时间对身体的侵蚀还是对于荣誉的饥渴感减弱或是一个赛季三线作战的太过疲劳，是的，&lt;b&gt;西班牙人只是跑不&lt;/b&gt;&lt;b&gt;动了而已，他们仰赖的tiki-taka战术的基石没有了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;4.现代足球发展到现在，球员每场的常规跑动距离都在万米左右徘徊，冲刺距离平均都在2500米以上，50%的技术动作是在高速对抗中完成的，这就更需要球员更加兴奋，更加勤奋的跑动---不论防守还是进攻。&lt;br&gt;至于西班牙，不论是启用更加年轻的队员还是对战术打法进行调整，西班牙依然充满希望，他们依然是这个星球上最顶尖的球员。&lt;br&gt;&lt;br&gt;他们需要的，只是时间而已。
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/24166078/answer/26953905
-</link>
-<author>
-马德龙
-</author>
-<title>
-有哪些非常有潜力成为巨头却最后倒下的公司？
-</title>
-<description>
-在中国企业的竞争是极其残酷的，这里面有企业家的决策因素，更有时代因素。我列一下我认为在互联网领域有机会成为巨头&lt;i&gt;（这里我们把巨头定义为最起码上市，甚至能超过百亿美金的市值）&lt;/i&gt;，但是彻底死去的那些企业：&lt;br&gt;&lt;blockquote&gt;Update：有用户评论说应该把金山和快播列进来。我得观点是这样子的：大金山虽然近况不如很多企业，但是目前在往第二次辉煌的道路上奔跑，未来有机会。而且，老金山已经在那个时代成为了中国互联网的老大，曾经巨头过，不在问题答案之内。至于快播，虽然他们今天的结果是大家都惋惜的，但是我得观点是即便没有今天的被整理，他最大也只能成为一个很好的公司，距离巨头差距太遥远，机会渺茫。&lt;/blockquote&gt;&lt;br&gt;1.饭否&lt;br&gt;一个彻彻底底的巨头胚子。可惜生在了超前的时代，扛不住红线的压力，倒了。时至今日，每年都有会大批的用户悼念饭否，虽然他现在活过来了，但是跟死了一样。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/98/82/98825e6706c549653fdea58edb08ed23_m.jpg&quot; data-rawwidth=&quot;656&quot; data-rawheight=&quot;404&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;656&quot; data-original=&quot;http://p2.zhimg.com/98/82/98825e6706c549653fdea58edb08ed23_r.jpg&quot;&gt;&lt;br&gt;2.开心网&lt;br&gt;一度成为中国最火的平台，但是遗憾这家公司对于社交和社区的运营实在是糟糕透顶，用户很快失去兴趣，开始流失。&lt;br&gt;当然，SNS的那个时代在中国无一成者，也许跟这个产品形态有关。但高峰期几亿注册用户这样的惊艳数据，最后落到今天的情况，实在是无法理解。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/4a/72/4a72608f66c036ad4df3f1c6799c5666_m.jpg&quot; data-rawwidth=&quot;530&quot; data-rawheight=&quot;291&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;530&quot; data-original=&quot;http://p1.zhimg.com/4a/72/4a72608f66c036ad4df3f1c6799c5666_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;3.联众&lt;br&gt;很多早年接触互联网的人都知道，这是中国最早最大的游戏平台。可惜面临竞争对手的打击，毫无反抗的能力。就此消失了（他们现在转型自己做游戏，我认为跟大成相比，这就是消失了）。&lt;br&gt;联众的消失，最值得让人思考的是，作为一个企业应该怎么评估自己的竞争？&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/e8/a9/e8a9bf8194be044b43bda41087bc4016_m.jpg&quot; data-rawwidth=&quot;420&quot; data-rawheight=&quot;265&quot; class=&quot;content_image&quot; width=&quot;420&quot;&gt;&lt;br&gt;&lt;br&gt;4.FlashGet&lt;br&gt;当时是全球最好用的下载工具，他就是标准。可惜他还是近乎挂掉了。原因呢，其一是不懂资本市场运作，不会借助资本市场的力量快速发展自己。其二，团队速度太慢，创始人是海外背景，一直不紧不慢的打造产品，给迅雷创造了机会。&lt;br&gt;&lt;img src=&quot;http://p1.zhimg.com/0a/6d/0a6d23e3659021ad130caf27eb87afa2_m.jpg&quot; data-rawwidth=&quot;800&quot; data-rawheight=&quot;569&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;800&quot; data-original=&quot;http://p1.zhimg.com/0a/6d/0a6d23e3659021ad130caf27eb87afa2_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;5.百伯&lt;br&gt;这是跟我们拉勾网（&lt;a href=&quot;http://www.lagou.com&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;拉勾网-最专业的互联网招聘平台&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）同类的一个产品。靠着百度这样一棵流量大树，完全有机会成长为今天招聘行业的去哪儿，但是太遗憾，团队急功近利，产品、运营一团糟糕，用户口碑急转直下，百度一怒之下直接关闭这家公司。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/91/10/9110f2a362f2d41469c70d5c1ec72aea_m.jpg&quot; data-rawwidth=&quot;400&quot; data-rawheight=&quot;271&quot; class=&quot;content_image&quot; width=&quot;400&quot;&gt;&lt;br&gt;&lt;br&gt;6.Maze&lt;br&gt;这是一个实验室产品，但是技术架构、理念超前，绝对是全网共享、云的最好方案。只是可惜，这样一个产品需要太长的养成时间。团队没有这个耐心，各自散去。时至今日，Maze仍然是20世纪第一个十年的大多数男同学们怀念的东西，可惜。&lt;br&gt;&lt;img src=&quot;http://p2.zhimg.com/59/17/59179a9fa9d11b2778c3c6b77d668048_m.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;405&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://p2.zhimg.com/59/17/59179a9fa9d11b2778c3c6b77d668048_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;7.酷讯&lt;br&gt;曾几何时，每到春运买不到火车票，我们就只能选择这个平台。那时的酷讯包含了机票、火车票、旅游等各个模块，流量超级巨大。&lt;br&gt;但是随着创始人和资本层面的问题，这家企业也黄了。如果他们当时做得好，哪有今天的去哪儿等平台？&lt;br&gt;&lt;img src=&quot;http://p4.zhimg.com/32/7b/327b1220220ea8b372ee5c71eb8d5ce1_m.jpg&quot; data-rawwidth=&quot;1187&quot; data-rawheight=&quot;646&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1187&quot; data-original=&quot;http://p4.zhimg.com/32/7b/327b1220220ea8b372ee5c71eb8d5ce1_r.jpg&quot;&gt;
 </description>
 </item>
 </channel>
