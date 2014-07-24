@@ -15,6 +15,20 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/24574637/answer/28282598
+</link>
+<author>
+冯浩
+</author>
+<title>
+如何评价小米手环？
+</title>
+<description>
+纠正 &lt;a data-hash=&quot;033772327dc4f9ae3379d785503e6f85&quot; href=&quot;http://www.zhihu.com/people/033772327dc4f9ae3379d785503e6f85&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@夏勇峰&quot; data-tip=&quot;p$b$033772327dc4f9ae3379d785503e6f85&quot;&gt;@夏勇峰&lt;/a&gt; 夏总监几个可能的错误（没加可能二字让我拿到看不少反对啊！）&lt;br&gt;&lt;blockquote&gt;我们希望创造出一个最贴身的电子产品，并以此作为重要指标向下延续。华米团队寻找到了全球功耗最低的主要芯片，为此付出了超过同类的成本（所以39元成本是绝对不靠谱的）。贴身之后，它能知道你睡还是醒、在哪儿（室内定位），并将这些信息发送给其他设备，让它们能根据你的行动自动做出反馈。&lt;/blockquote&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;华米是不是找到了全球功耗最低的主要芯片？答案是没有。无论是从手册数据评价还是从实际用户体验的时长来评价。当然可以官方拆解或者亮出芯片型号。但你给出的型号无论是来自于TI还是来自于CSR或者Nordic都没有任何证据可以证明这颗芯片是全球功耗最低的芯片。更新一下，没有任何数据表明ADI的加速度计ADXL3系列的加速度计是全球功耗最低的。而且主流的手机厂商，无论是苹果，三星还是HTC主要用的都不是这家的加速度计。&lt;/li&gt;&lt;li&gt;从用户实际使用角度。用户不必在意你使用的是什么电池，是CR2032还是LI电池还是心脏起搏器中用到的放射电池。用户只需要在意可以戴在手上多久不充电。小米手环的答案是一个月。garmin的手环vivofit可以使用一年。当然你会说售价低了多少。但无论价格多少都不应该以错误的文案来进行宣传。&lt;/li&gt;&lt;li&gt;他知道你睡还是醒，&lt;b&gt;在哪儿（室内定位）&lt;/b&gt;。这个不知道小米如何做到的。现今的手环中，大部分只有一颗加速度计，靠加速度计来进行室内定位，还真没有听说哪个手环厂商敢这样讲。当然也有可能小米不惜成本和功耗，增加了陀螺仪，增加了电子罗盘，也许还增加了气压温度传感，如果小米能扛得住这么多传感器和算法的功耗的话。当然也许室内定位完全是依靠手机完成，传给手环的APP端。但宣传的时候用上室内定位的原理能不能科普一下。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;安全性能和功能我不评价&lt;br&gt;另外：我个人觉得小米手环有借鉴misfit shine的创意。无论是材质，工业设计，还是表带和核心体的结合方式。甚至上面打孔的工艺。不过这没什么大不了。人们对美的认知总是惊人的一致，正如人们对手机右下角咯手的反感从一而终。&lt;br&gt;&lt;img src=&quot;http://pic2.zhimg.com/78a1b05db938e231898249b6f1abe7ec_b.jpg&quot; data-rawwidth=&quot;591&quot; data-rawheight=&quot;531&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;591&quot; data-original=&quot;http://pic1.zhimg.com/78a1b05db938e231898249b6f1abe7ec_r.jpg&quot;&gt;但整体来说&lt;br&gt;我很欢迎小米手环的发布&lt;br&gt;因为它伟大的定价&lt;br&gt;谢谢小米手环终结了市面上那些坑蒙拐骗的手环方案商以及手环创业者&lt;br&gt;他们拿到几千万几个亿的融资的时候我十分不解&lt;br&gt;我甚至越来越看不懂这个人傻钱多的世界&lt;br&gt;&lt;br&gt;谢谢小米，让他们快速离开智能硬件的舞台&lt;br&gt;&lt;br&gt;当然我猜测小米手表一直在做&lt;br&gt;只是iwatch发布之前&lt;br&gt;没有人知道该拿出怎样的标准进行战斗&lt;br&gt;&lt;br&gt;作为也想爬上擂台上的一方&lt;br&gt;我期待着那一天
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/23546055/answer/28275128
 </link>
 <author>
@@ -278,20 +292,6 @@ maomaobear
 </title>
 <description>
  2014年7月22日，炒作了很久的小米4终于发布了。本来以为又会是一个“不服跑个分”的新旗舰。但是小米这次不玩这个了。小米4产品虽然无靓点，但是很能体现出一些变化。&lt;br&gt;一、不锈钢框架&lt;br&gt; 本来以为雷军可能会发一个高通805甚至810的超级期货，因为最近高通没有新货。不过小米还是务实的把801发了出来，其他配置基本和小米3以及其他各家产品一样，在配置上并没有什么新意。&lt;br&gt;所以这次小米重点说的是工艺，之前所谓的不锈钢之旅也预示了这一点。&lt;br&gt;但是，从产品看，小米4并没有拿出干货。金属边框这个东西。当年苹果的iPhone4确实是经典。当年乔布斯说瑞士钟表确实有这个底气。&lt;br&gt;但是一年以后，这个工艺已经是山寨机（高仿苹果）的标配，2014再拿这个做卖点有点Low。&lt;br&gt;国内其他厂商，Nubia早在2012年就用了，华为、酷派、金立都有类似产品，材料也就早就超越了不锈钢的范畴，铝镁合金甚至钛合金都有。小米尽管给这种工艺加了无数高科技名词（欺负不懂的）光环，但是Low就是Low。&lt;br&gt;说靓点的话，内部铝镁合金，外部不锈钢有利于散热和重量控制勉强算是个靓点。&lt;br&gt;小米还重点说了边框大倒角的事情，这个金立S5.5早就用过了也算不上靓点，而且小米不是玻璃后盖，手感问题可以用后盖弧度低成本的解决。这个大倒角意义不大。&lt;br&gt;二、印刷后盖&lt;br&gt; 小米这次用了不同花纹的印刷后盖突出个性化，让刚刚拿出竹子后盖的一加老总刘作虎微博发出一个“靠”。&lt;br&gt;印刷手机壳很常见，但是手机上没人用。这种后盖的问题是硬度太低，耐磨性不行，很快就会磨损，印刷图案磨掉一块会很难看。所以一般后盖都是纯色的漆，这次小米用多少有些冒险。&lt;br&gt;而就手感而言，塑料无论怎么印刷还是塑料，印上木头无法和真正的木头比手感，印上竹子无法和真正的竹子比手感，虽然远看起来类似，但是成本手感差距巨大。&lt;br&gt;这相当于竹地板和竹花纹塑料地板革的区别，远看差不多，踩上去差别就大了。所以用竹子后盖的刘作虎说了一个“靠”。&lt;br&gt;三、小米4的定价&lt;br&gt; 发布会看了一半，普遍的意见是这次小米可能会定个低价，因为小米4和小米3配置太接近，而所谓的工艺靓点不算是靓点。&lt;br&gt;但是小米4还是坚持了1999元，这一方面追求更高的利润，另外一方面是对米粉忠诚的考验。&lt;br&gt;产品上比较，小米4相比小米3只是换个一个外观设计，工艺上稍有进步，就要贵500元。而市面在2000元以下的精品很多。1499元的Nubia Z7mini，能换电池的中兴天机，1999.99元的一加手机，都是不错的产品。&lt;br&gt;而高性价比的MT6595系列蓄势待发，据说已经有999元的预期了，性能丝毫不逊色于骁龙801。&lt;br&gt;就是说，一直强调性价比的小米，这次不再有性价比，而是要打品牌赚溢价了，这是对米粉忠诚度的考验。&lt;br&gt;小米希望挑战更高价位，提升品牌价值。能否成功，我们拭目以待。&lt;br&gt;&lt;br&gt;&lt;br&gt;上述文字有版权，请勿转载 
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/24568021/answer/28254315
-</link>
-<author>
-苏莉安
-</author>
-<title>
-大自然有哪些 bug？
-</title>
-<description>
-没有bug。&lt;br&gt;因为没有需求文档，而且也不知道甲方是谁，乙方当初的老板兼唯一的程序员写代码花了六天，第七天本该测试，结果人家歇了，就这么直接上线运行了好几千年。&lt;br&gt;现在乙方就剩几百万客服，专门给用户解释「这些不是bug，当初甲方需求就这么定的」，还有法务部门四处警告科学家「不许反编译我们的代码！」&lt;br&gt;&lt;br&gt;&lt;br&gt;油画《乙方CEO和高管们共进晚餐》&lt;br&gt;&lt;img src=&quot;http://pic2.zhimg.com/c4587ec15633ace6dd7a000502aec3eb_b.jpg&quot; data-rawwidth=&quot;720&quot; data-rawheight=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;720&quot; data-original=&quot;http://pic2.zhimg.com/c4587ec15633ace6dd7a000502aec3eb_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;乙方现任客服总监兼法务总监：&lt;br&gt;&lt;img src=&quot;http://pic3.zhimg.com/b10c2e0cdba525f49bd8ec2c54705435_b.jpg&quot; data-rawwidth=&quot;2500&quot; data-rawheight=&quot;1721&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2500&quot; data-original=&quot;http://pic2.zhimg.com/b10c2e0cdba525f49bd8ec2c54705435_r.jpg&quot;&gt;
 </description>
 </item>
 </channel>
