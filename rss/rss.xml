@@ -15,6 +15,52 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/24905007/answer/29414497
+</link>
+<author>
+知乎用户
+</author>
+<title>
+手机的九宫格图案解锁总共能绘出多少种图案？
+</title>
+<description>
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;itertools&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;impossible&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'13'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'2'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'46'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'79'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'17'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'4'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'28'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'39'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'19'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+              &lt;span class=&quot;s&quot;&gt;'37'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'31'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'2'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'64'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'97'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'71'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'4'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'82'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'93'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'91'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+              &lt;span class=&quot;s&quot;&gt;'73'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;counts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;iterlst&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;chain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;permutations&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'123456789'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;iterlst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;stri&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;k&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;impossible&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;k&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stri&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stri&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stri&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;k&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]:&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;counts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;我用python写了段代码，先计算出所有大于四个数字的所有排列组合，然后从中剃除穿过中间那个数字的组合，剩下的既为符合要求的代码。&lt;br&gt;例如13组合是不可能存在的，因为它会穿过2，19组合也不可能存在，因为它会穿过5，总共有16个这样的组合。&lt;br&gt;但是假如中间这个数字已经用过了，是可以穿过的，比如213，2已经用过了，1是可以穿过2与3连接的。&lt;br&gt;如此筛选以后，就得到正确答案389112了。
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/24904306/answer/29499938
 </link>
 <author>
@@ -278,20 +324,6 @@ http://www.zhihu.com/question/20285684/answer/29451318
 </title>
 <description>
 谢邀&lt;br&gt;&lt;br&gt;&lt;br&gt;最近腥风血雨，随便聊聊，网络上鱼龙混杂，一句不合就开喷的事，我也没少见。&lt;br&gt;&lt;br&gt;这是个老问题，我翻出来，因为最近翻了几卷水浒，有了一点想法。&lt;br&gt;&lt;br&gt;首先，我得说喷人的技术门槛很低，无冷却，不耗蓝，智力加到2就可以使用，威力却不小，所以屡试不爽。&lt;br&gt;&lt;br&gt;而在《水浒》中，大宋徽宗宣和年间，好汉们几句不和，就拔刀相向，轻者取人头颅，重者杀人全家，还有人连国家保护动物也打死了，应该说，和我们现在的网络环境是很像的。&lt;br&gt;&lt;br&gt;我相信我们国家，现在也有清河县武二郎这样的好汉，在去动物园的时候，打开对话窗口，把老虎活活喷死，老虎不会打字，嗷了一声，死了。&lt;br&gt;&lt;br&gt;只是人家好汉可以舞刀弄枪，我们只能张嘴，我觉得，是时候做一些改变了，我们国家，什么都缺，就是不缺好汉。&lt;br&gt;&lt;br&gt;全中国在浏览器里的好汉何止千千万。&lt;br&gt;&lt;br&gt;我建议开发一款软件APP，就叫：“不服来战”&lt;br&gt;&lt;br&gt;我还强烈建议新浪微博，腾讯微信增加“约战”功能，病毒视频我都想好了，就像最近的冰桶游戏，我们可以点战，视频里，马云可以痛打李彦宏，再点名雷军。&lt;br&gt;&lt;br&gt;雷军打败马云后，点名罗永浩，小米太保雷军，大战青钢锤子罗永浩，我觉得名字很妥帖，像好汉。&lt;br&gt;&lt;br&gt;别逼逼，我在你家楼下，下来吧。&lt;br&gt;&lt;br&gt;功能我也想好了，你将拥有一个仇人名单，你们随时可以约战，点击屏幕，选择武器，刀枪棍棒，赤手空拳，你还可以选择战法，裸战、半裸战，选择地形，床上、床下、官府门口。&lt;br&gt;&lt;br&gt;我会将一些我觉得长得好看，出口成脏的女坏人拉进这个名单，选择赤手空拳，在床上裸战，我不为别的，真的是想教育教育她，以身作则，毕竟，这种事总得有人来做。&lt;br&gt;&lt;br&gt;我为什么建议开发“不服来战”，主要是想疏通社会上这种，好汉动口不动手，照样把你喷成狗的不良风气。&lt;br&gt;&lt;br&gt;我的初衷是好的。&lt;br&gt;&lt;br&gt;当然，我也会事先找一家钢厂的车间主任，为我打一把冬瓜流星锤，毕竟我入少先队的时候，曾经发过誓。&lt;br&gt;&lt;br&gt;时刻准备着。&lt;br&gt;&lt;br&gt;就拿最近的吸毒事件来说，我看见很多人喷李代沫，确实应该喷，但是我不排除有一些李代沫的支持者，非常不爽，我可以帮助他，家住密云的李先生，网名“好声音李大漠”，下载了一个“不服来战”，首先发出英雄帖——我不服！&lt;br&gt;&lt;br&gt;却说这天，天朗气清，家住通州的张同学接下了英雄帖，张同学一直是快乐男声的忠实簇拥，网名“快乐阎罗华晨雨”，听名字就很像好汉，二人约在北京人艺门口决战。&lt;br&gt;&lt;br&gt;只见李先生早早到了，光头黑髯，拱手曰：“我乃好声音李大漠，大漠孤烟直！”&lt;br&gt;&lt;br&gt;这句诗，就表达了李先生的态度，孤独，直，所以喜欢没事儿找事儿。&lt;br&gt;&lt;br&gt;“看你这光头，呵呵，还真是长河落日圆啊。”&lt;br&gt;&lt;br&gt;且见一个声音完罢，一位00后走了出来，胸佩红领巾，一脸快乐。&lt;br&gt;&lt;br&gt;“吃我快乐阎罗的快乐通臂拳吧！”&lt;br&gt;&lt;br&gt;“傻X！”&lt;br&gt;&lt;br&gt;二人战作一处，心中戾气得到了释放，我很满意。&lt;br&gt;&lt;br&gt;同样，最近很多人喷柯震东，他的许多粉丝很不爽，没关系，用了我这个软件，就能解决问题。&lt;br&gt;&lt;br&gt;这不，家住北京朝阳大悦城罗马家园，网名“脆皮鸡柯振动”的张小姐，近日发帖——我不服！&lt;br&gt;&lt;br&gt;约战“北京警方缉毒在线”&lt;br&gt;&lt;br&gt;张小姐现在在北京市看守所，我们祝福她心态平和。&lt;br&gt;&lt;br&gt;我要强调的是，与其在网上骂你妈Ｘ日你妈Ｘ死去吧你妈Ｘ。&lt;br&gt;&lt;br&gt;不如线下活动筋骨。&lt;br&gt;&lt;br&gt;我要提醒的一点是，网名“皇家警察陈家驹”的男性用户，最近在ＡＰＰ上非常活跃，胜率很高，任何辱骂房祖名的用户，都被他点名约战，下场很惨。&lt;br&gt;&lt;br&gt;受害者声称，对方是一个戴着面具的６０岁中老年男子，练过家子，会使醉拳，穿唐装，喜欢爽朗的笑。&lt;br&gt;&lt;br&gt;请各位战粉小心。&lt;br&gt;&lt;br&gt;我写到这，突然发现，其实生活中，真的需要这样一款软件，我们的好汉，岂止108，有用三星的好汉，就有用苹果的好汉，有喜欢韩寒的好汉，就有喜欢方舟子的好汉。&lt;br&gt;&lt;br&gt;他们怎么办，光喷，不解恨，还是得战。&lt;br&gt;&lt;br&gt;“三星刀朴大正”，“苹果箭乔不死。”这些江湖好汉，该出手时，一定会出手。&lt;br&gt;&lt;br&gt;今天，我看了青年报批韩寒的文章，悔恨我们没有开发的早一点，一位家住上海金山的韩女士，网名“黑旋风韩小野”的女用户告诉我，她看了文章后，随时有找人约战的冲动，为此，我特意给他推荐了一位用户。&lt;br&gt;&lt;br&gt;“打假三郎方肘子”，我相信，他们彼此都能开心的挥发自己心中的不满，最终和谐的走到一起。&lt;br&gt;&lt;br&gt;好了，就说这么多，我现在想的是，开发好以后，要不要卖给王思聪呢？&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;完
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/20793062/answer/16891027
-</link>
-<author>
-李薇薇
-</author>
-<title>
-怎样和不喜欢说话的人说话？
-</title>
-<description>
-给楼主讲个小故事！终于有机会给人讲这个故事了好激动！！&lt;br&gt;&lt;br&gt;&lt;br&gt;湘北的流川枫在神奈川的名声很响。一半是因为篮球打的好，另一半是因为该人实在是太酷了。此君对所有人一视同仁不假辞色，不要说笑容难得奉送一个，便是说起话来也是能用两个字就坚决不用三个字。 &lt;br&gt;&lt;br&gt;某日在英语课上新来的老师误打误撞要流川同学起立朗读课文一篇，流川同学一看课文，怕不有上百字之多，这如何使得，便摇了摇头：“不会。” &lt;br&gt;&lt;br&gt;年轻老师想起念过的教育心理学，亲切鼓励：“没关系，大胆地念。” &lt;br&gt;&lt;br&gt;流川不耐烦起来，据实以告，“太长。” &lt;br&gt;&lt;br&gt;老师猝不及防愣在当场，想发作又恐失去风度，耐下心来说，“那你念一段好了，剩下的让后面的同学念。” &lt;br&gt;&lt;br&gt;流川拿起书，念了一句：“Lesson Two.”念罢朝老师点点头，坐下了。 &lt;br&gt;&lt;br&gt;教室里盲目崇拜的小女生倒下一片，这怎一个酷字了得？ &lt;br&gt;&lt;br&gt;一来二去，男生们不免怨声载道，这流川枫无节制地耍酷，搞得本校外校神奈川各中学的小女生们人心惶惶、神不守舍，视其他男生若无物，长此以往哪还有大家的活路？ &lt;br&gt;&lt;br&gt;陵南的仙道乃是神奈川另一大帅哥，不过采取和流川截然相反的风格，亲切开朗，助人为乐，周围的人如沐春风。 &lt;br&gt;&lt;br&gt;一日和同学课余打混，又听得兄弟们纷纷抱怨流川，仙道仔细听听，发现在流川众多让人吐血的行为里，别的不提，最可恨的便是这惜字如金的作风。 &lt;br&gt;&lt;br&gt;仙道颇不以为然：“这有什么？他是凑巧没碰上需要多多说话的机会而已。”他话音刚落，立刻有好事的人设了赌局，打赌看仙道能不能让川变得非常饶舌。很没有面子的，仙道赢的赔率是一赔十。仙道微笑：“原来大家对我这么没信心。” &lt;br&gt;&lt;br&gt;有几个意志薄弱的家伙在仙道柔和的压力下几乎将钱压在仙道赢那边，但一念及流川那毫无表情的面容，犹豫再三还是压在了仙道输上。仙道拂袖而去。 &lt;br&gt;&lt;br&gt;放学的时候，流川照例来找仙道打球，冰冷冷地说，“一对一。”仙道亲切地说，“我正有此意。”然后拉流川去打了一晚台球，将流川赢了个落花流水。 &lt;br&gt;&lt;br&gt;第二天放学的时候，流川照例来找仙道打球，冰冷冷地说：“一对一，篮球。” &lt;br&gt;&lt;br&gt;仙道非常亲切地说：“我正有此意。”然后拉流川去打了一晚电脑篮球游戏，将流川赢了个落花流水。 &lt;br&gt;&lt;br&gt;第三天放学的时候，流川照例来找仙道打球，冰冷冷地说：“一对一，篮球，在场地上。”仙道笑眯眯地非常亲切地说，“我正有此意。” &lt;br&gt;&lt;br&gt;然后拉流川去爱知县爱知中学的篮球场打球，结果路途遥远只能坐长途汽车，到了爱知天已经全黑了，只好坐末班车回来。不过好在一路的风景还不错，流川也睡得很香。 &lt;br&gt;&lt;br&gt;第四天放学的时候，流川照例来找仙道打球，冰冷冷地说：“一对一，篮球，场地上，在你家旁边的小公园。”仙道开心得很：“和我想到一块去了。” &lt;br&gt;&lt;br&gt;然后坐着流川的自行车一同走，途中去了超市（买晚饭便当）、海边（吃晚饭便当）以及陵南（仙道后来想起来忘了东西在学校里），等流川骑着自行车将仙道带到那里，流川已经累得快动不了了，仙道又将流川赢了个落花流水。 &lt;br&gt;第五天，…… &lt;br&gt;第六天，…… &lt;br&gt;…… &lt;br&gt;…… &lt;br&gt;这一天放学的时候，流川照例来找仙道打球，说：“仙道，我们去打篮球吧，我今天来的路上看见一个小球场很好，也没什么人，只有四五个人在打球。我问了他们，他们顶多打到6点，我们可以接在他们后面用。他们说那个球场晚上的灯很亮，打到10点没问题。你现在能走了吗？所有要带回家的东西都拿了吗？明天要交的作业都做了吗？你仔细想好了，别现在以为都做了，待会又想起来没做。你现在想起来，还来得及和同学借个作业抄抄，回头等回了家你再想起来，到哪里找同学去，人家也回了家了。你今天晚上要吃什么？我今天不要吃太辣的，也不要吃太咸的，最好也不太甜。今晚海边是不能去了，我听了天气预报，风有七级……，……，……” &lt;br&gt;&lt;br&gt;说明——&lt;br&gt;人都是被逼出来的，流川枫都可以变唐僧，还有什么是不可能的~~~~~
 </description>
 </item>
 </channel>
