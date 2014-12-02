@@ -15,6 +15,34 @@ http://www.zhihu.com/read
 </description>
 <item>
 <link>
+http://www.zhihu.com/question/26743347/answer/34235147
+</link>
+<author>
+邰原朗
+</author>
+<title>
+网易云音乐的歌单推荐，几乎每次都让人惊艳。想知道是怎么样的算法？
+</title>
+<description>
+这就是amazon发明的“喜欢这个商品的人，也喜欢某某”算法。&lt;br&gt;其核心是数学中的“多维空间中两个向量夹角的余弦公式”，当初我的确是被这算法惊艳到了。&lt;br&gt;&lt;br&gt;=============2014-12-01 更新 =============================&lt;br&gt;不好意思，之前说的有误，特来更正兼补充。&lt;br&gt;&lt;br&gt;“商品推荐”系统的算法( &lt;a href=&quot;http://en.wikipedia.org/wiki/Collaborative_filtering&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Collaborative filtering&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; )分两大类，&lt;br&gt;第一类，以人为本，先找到与你相似的人，然后看看他们买了什么你没有买的东西。这类算法最经典的实现就是“多维空间中两个向量夹角的余弦公式”；&lt;br&gt;第二类, 以物为本直接建立各商品之间的相似度关系矩阵。这类算法中最经典是'斜率=1' (&lt;a href=&quot;http://en.wikipedia.org/wiki/Slope_One&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Slope One&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;)。amazon发明了暴力简化的第二类算法，‘买了这个商品的人，也买了xxx’。&lt;br&gt;&lt;br&gt;我们先来看看第一类，最大的问题如何判断并量化两人的相似性，思路是这样 -- &lt;br&gt;例子：&lt;br&gt;有3首歌放在那里，《最炫民族风》，《晴天》，《Hero》。&lt;br&gt;A君，收藏了《最炫民族风》，而遇到《晴天》，《Hero》则总是跳过；&lt;br&gt;B君，经常单曲循环《最炫民族风》，《晴天》会播放完，《Hero》则拉黑了&lt;br&gt;C君，拉黑了《最炫民族风》，而《晴天》《Hero》都收藏了。&lt;br&gt;&lt;br&gt;我们都看出来了，A,B二位品味接近，C和他们很不一样。&lt;br&gt;那么问题来了，说A，B相似，到底有多相似，如何量化？&lt;br&gt;&lt;br&gt;我们把三首歌想象成三维空间的三个维度，《最炫民族风》是x轴，《晴天》是y轴，《Hero》是z轴，对每首歌的喜欢程度即该维度上的坐标，&lt;br&gt;并且对喜欢程度做量化(比如： 单曲循环=5, 分享=4, 收藏=3, 主动播放=2 ,  听完=1,  跳过=-1 , 拉黑=-5 )。&lt;br&gt;那么每个人的总体口味就是一个向量，A君是 (3,-1,-1)，B君是(5,1,-5)，C君是(-5,3,3)。   (抱歉我不会画立体图)&lt;br&gt;我们可以用向量夹角的余弦值来表示两个向量的相似程度， 0度角(表示两人完全一致)的余弦是1， 180%角(表示两人截然相反)的余弦是-1。&lt;br&gt;&lt;br&gt;根据余弦公式,  &lt;b&gt; 夹角余弦 = 向量点积/ (向量长度的叉积)&lt;/b&gt; =  ( x1x2 + y1y2 + z1z2) / (  跟号(x1平方+y1平方+z1平方 ) x  跟号(x2平方+y2平方+z2平方 ) )&lt;br&gt;可见 A君B君夹角的余弦是0.81 ， A君C君夹角的余弦是 -0.97 ，公式诚不欺我也。&lt;br&gt;以上是三维(三首歌)的情况，如法炮制N维N首歌的情况都是一样的。&lt;br&gt;假设我们选取一百首种子歌曲，算出了各君之间的相似值，那么当我们发现A君还喜欢听的《小苹果》B君居然没听过，相信大家都知道该怎么和B君推荐了吧。&lt;br&gt;&lt;br&gt;第一类以人为本推荐算法的好处我想已经很清楚了，那就是精准！&lt;br&gt;代价是运算量很大，而且对于新来的人(听得少，动作少)，也不太好使，&lt;br&gt;所以人们又发明了第二类算法。&lt;br&gt;&lt;br&gt;假设我们对新来的D君，只知道她喜欢最炫民族风，那么问题来了，给她推荐啥好咯？&lt;br&gt;&lt;img src=&quot;http://pic4.zhimg.com/f9b50aa7934b1bcebacb4e715d9f1190_b.jpg&quot; data-rawwidth=&quot;903&quot; data-rawheight=&quot;552&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;903&quot; data-original=&quot;http://pic3.zhimg.com/f9b50aa7934b1bcebacb4e715d9f1190_r.jpg&quot;&gt;&lt;br&gt;如图，推荐《晴天》！&lt;br&gt;&lt;br&gt;呵呵，第二类算法的好处大家也看出来了，简单粗暴好操作(也适合map-reduce)，可精度差了点。&lt;br&gt;&lt;br&gt;所以，各家网站真正的推荐算法，是他们在综合上述两类算法的基础上，各自研制并且不断地改进调节的，外人不得而知！ ^_^
+</description>
+</item>
+<item>
+<link>
+http://www.zhihu.com/question/26886804/answer/34417316
+</link>
+<author>
+陳浩
+</author>
+<title>
+如何理解巴斯德说的“科学没有国境，但科学家有祖国”？
+</title>
+<description>
+昨天吴清源的国籍之争一起，我便翻出 &lt;a data-hash=&quot;cb2f03145ddb645c4303b99843cdddcd&quot; href=&quot;http://www.zhihu.com/people/cb2f03145ddb645c4303b99843cdddcd&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@金晨羽&quot; data-tip=&quot;p$b$cb2f03145ddb645c4303b99843cdddcd&quot;&gt;@金晨羽&lt;/a&gt; 关于的 &lt;a href=&quot;http://zhuanlan.zhihu.com/scienceandscientists/19745940&quot; class=&quot;internal&quot;&gt;Fritz Haber&lt;/a&gt; 的专栏文章又唏嘘了一遍。哈柏信奉的就是「科学没有国境，但科学家有祖国」。他的技术帮助德国在一战中支撑了很久，同时也帮助德国制造了毒气。他将祖国作为最高道德准则，可是他的妻子和儿子因此自杀。你可以恨他，但你如今不挨饿，很大程度上归功于哈柏的固氮法。&lt;br&gt;&lt;br&gt;是的，科学没有国界，科学家有祖国。但是爱不爱祖国，是否把祖国放在最高位置，还是放在事业、家庭之下，这是一项私人的选择。&lt;b&gt;这些本不应该是矛盾艰难的选择，是万恶的战争和荒唐的政治逼迫人们做出一个选择。&lt;/b&gt;扪心自问之后，试想我自己处在这样极端的状态下，我觉得他们怎么做我都是可以接受的。就算他们抛弃祖国，失去尊严，&lt;a href=&quot;http://zhuanlan.zhihu.com/haochen/19906230&quot; class=&quot;internal&quot;&gt;我也赞美他们活下去的勇气&lt;/a&gt;。&lt;br&gt;&lt;br&gt;巴斯德选择了祖国，我敬重他。&lt;br&gt;哈柏选择了祖国，我敬重他。&lt;br&gt;&lt;a href=&quot;http://zhuanlan.zhihu.com/scienceandscientists/19877908&quot; class=&quot;internal&quot;&gt;阿廷&lt;/a&gt;选择了家庭，我敬重他。&lt;br&gt;吴清源选择了围棋，我敬重他。&lt;br&gt;郭沫若选择了奉承，我敬重他。&lt;br&gt;&lt;br&gt;我们没有资格评价他们的选择，不是因为他们的成就，而是因为我们没有经历过他们的痛苦。&lt;br&gt;就算那千千万万的小人物的各种选择，我们这些没有经历过生死抉择的人，都没有资格评价。&lt;br&gt;&lt;b&gt;希望今后没有人会被迫做这样荒唐的选择，「祖国」不应该绑架任何人。&lt;/b&gt;
+</description>
+</item>
+<item>
+<link>
 http://www.zhihu.com/question/26655174/answer/34413438
 </link>
 <author>
@@ -263,34 +291,6 @@ Yicong Yu
 </title>
 <description>
 &lt;b&gt;优酷的整个声明，就是个角色错位，明明是一个被告，却妄图同时把自己伪装成一个仲裁者，一个法官，用对“两者有哪些相像之处”的说明来回避对“两者为什么会有这些相像之处”的解释，然后对自己做出无罪的判决，一个大公司的傲慢在这篇声明中显现无遗。&lt;/b&gt;&lt;br&gt;&lt;br&gt;从优酷说“一直在努力还原事情的经过”后，就一直将自己摆在仲裁者的位置上讲话。&lt;br&gt;&lt;br&gt;中间的基本过程，并没有说什么新的东西，只是证实了NIKO还原的双方联系过程是真实的，优酷声明里透露出的过程细节甚至远不如NIKO所剖露的细致和真实。至于优酷一开始参考的是美国12岁女孩的事迹，这不重要，因为后面他们真正实施的时候还是联系NIKO来寻求合作的。&lt;br&gt;&lt;br&gt;&lt;b&gt;如果把自己定位为一个被告，那么这里应该展示一些细节说明己方团队在整个过程中是在真诚地寻求合作，是真的认为在实际执行角度上有问题才放弃合作的。可是我们看到的却是以调查结论的形式所展示出来的所谓”基本过程“，显然优酷就是把自己摆在仲裁者的位置上，”我调查出来的基本过程，你就得信，至于细节，你们不需要了解“。&lt;/b&gt;&lt;br&gt;&lt;br&gt;更重要的是，后面的“在反复追查中，我们认为视频《追气球的熊孩子》存在以下问题……”，这一段话是彻头彻尾的仲裁者语气。“视频标题与NIKO的文章重名；故事脉络与NIKO的经历有类似的地方；其中地球的图片与NIKO发布的照片重合度较高”，&lt;b&gt;这些鉴定结论需要优酷来下吗？！你是被告，大家需要听的恰恰不是这几句看似公正的结论，而是真相，是还原你们的制作过程，是说清楚为什么会出现以上的这几个问题。你要回答的是这些：&lt;/b&gt;&lt;br&gt;&lt;b&gt;1. 你们的团队在制作过程中，是不是将NIKO的文章的标题直接用做了你们视频的标题？&lt;/b&gt;&lt;br&gt;&lt;b&gt;2. 你们的团队在制作过程中，是不是搬用了NIKO的部分真实经历以充实你们视频的故事？&lt;/b&gt;&lt;br&gt;&lt;b&gt;3. 你们的团队在制作过程中，是不是直接使用了NIKO发布的照片（或者经过一些加工处理之后）作为视频中的地球图片？&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;看出来了没有？优酷必须要说明的，不是“两者是不是相像”，而是“两者为什么会相像”，因为你是当事人啊，这不正是你应该站出来说明的吗？如果你说你不知情，谁知情，让他站出来啊！&lt;/b&gt;&lt;br&gt;&lt;b&gt;所以，优酷不敢回答这三个问题，因为无论回答“是”，“不是”，或者“我有权保持沉默”，都会把它的仲裁者伪装撕下来，让大家认清它作为被告的真实身份，它就再也不能忽悠了。于是，它只能回避。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;最后优酷就这样说明自己在法律上不侵权，自己当仲裁者给自己下了无罪判决。这个判决是你自己能下的吗？！&lt;/b&gt;
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/26853037/answer/34370660
-</link>
-<author>
-上官冰雲
-</author>
-<title>
-台湾和香港与大陆是否越来越离心，若确实如此，原因是什么？
-</title>
-<description>
-我是個台灣人，台灣與大陸離心的問題，這問題太大，我只想分享這次台灣的九合一選舉，或許能帶給樓主多一點方向的思考&lt;br&gt;我想多數大陸朋友真的都太過於將『選舉結果與統獨』相連結，其實目前的台灣人真的對統獨看的不重，我們只想『選擇過更好的生活』&lt;br&gt;就如同您講的，不瞭解導致誤會，多數台灣人誤會大陸，反之亦然，尤其是我上段所述&lt;br&gt;民進黨並不是沒有執政過，它還執政了八年！！結果呢？獨立了嗎？沒有&lt;br&gt;國民黨來台除了這八年，中央都是他執政，結果呢？統一了嗎？沒有&lt;br&gt;我想多數台灣人的想法是跟我一樣的，這次九合一選舉只是一場地方選舉，我們只想把國民黨執政這六年來的怒氣告訴執政者『我們真的忍很久了！』從洪仲丘事件（一個義務役士官在軍中被慘無人道的虐待至喪命）、服貿強行過關（國民黨立委躲在旁邊用30秒時間拿著自己藏的MIC通過這未經全體立法委員審議的議案）、食安風暴（連吃的安全都無法保障，這叫心繫人民的政府？），最後房價物價高漲（房價所得比率--台北全球第一），實質薪資卻倒退至15年前（法國經濟學家至台灣，很驚訝的說出：台灣GDP成長全球第20，薪資水平卻排全球第60！！）...這裡只列出這6年台灣幾項重大問題，族繁不及輩載......&lt;br&gt;&lt;br&gt;或許多數大陸朋友會不解，GCD不是讓利很多給台灣嗎？為什麼台灣人民這次不選擇跟GCD較親近的國民黨呢？我想，如果台灣跟大陸之間真的有所謂合作的『紅利』，那經濟發展的果實幾乎全數被財團，台灣買辦（像連家）以及國民黨高官等吃光光，吃光還沒關係，還掠奪台灣人民以前拿得到的勞動成果（經濟成長，實質薪資倒退16年前...WTF），正因為這種背景，柯文哲當選後有記者問到他執政後對兩岸關係的態度，他說出這段話『這次選舉結果也請共產黨好好想想，兩岸關係的果實是要像目前只讓台灣少數權貴財團分享，還是能分享給大多數台灣人民』&lt;br&gt;&lt;br&gt;正因為台灣社會，台灣人民這些年遇到這種種問題，執政的國民黨不僅無法解決，反而還昏招迭出火上加油，把台灣人當傻子在耍，才造成國民黨此次選舉的空前慘敗！我還是希望大陸朋友能知道一件事：台灣人民已經在改變中，我們不願意在拘泥於過去過於重視『統獨』問題，而將選票的去向決定，畢竟統獨問題絕不是短期內可以解決的！而有更多更多的人像小弟一樣，『拋棄藍綠，拋棄統獨』我們心中只有一個信念，『我們想要過更好的生活』，而目前執政黨給不了我們，那就換人做做看，民進黨之後做不好就繼續換，換到哪個政黨能做好為止！舉個例子：08年民進黨也是大潰敗，立委席次剩不到1/4，很多人斷言民進黨20年內爬不起來，結果6年後...？？&lt;br&gt;&lt;br&gt;結語：煩請大陸朋友真的別過度解讀台灣選舉結果，統獨傾向只是個因素，但絕絕對對不是最重要的因素，國民黨敗選不等於我們選擇要獨！我們更在乎的是『做不好，就下台』，這也是這次柯文哲先生這次選舉，打出『拋棄藍綠，打破高牆』的口號，有這麼多人歡迎與響應的原因，台灣人對權貴、分配不均、貧富差距等議題的重視，在這選舉中，遠遠高於統獨議題！相信日後選舉也會越來越朝這方向邁進....在這裡也很希望大陸朋友能與我們台灣人多交流，只有彼此更多的瞭解，您自然能得到樓主問題的答案，甚至是解決這問題的方法.....&lt;br&gt;以上小弟淺見 博君一笑 謝謝 
-</description>
-</item>
-<item>
-<link>
-http://www.zhihu.com/question/26844390/answer/34323243
-</link>
-<author>
-知乎用户
-</author>
-<title>
-你有什么第二职业收入？
-</title>
-<description>
-有钱任性，没钱千万不能认命！&lt;br&gt;答主本人26岁，工作3年多一点，从毕业上班那天开始就想着有什么副业赚钱，因为靠自己的主业可怜的工资实在是不够用。先说说主业吧，答主在一家国内航空公司负责市场渠道的工作，通俗点就是买机票，当然不是售票员，工资大概也就4K，我喜欢那工资换算成美元，因为真特么的很少啊好不好，嗯，对，就是一个月差不多700刀的样子。&lt;br&gt;从上班那天开始就想着怎么多赚一些工资以外的收入，摆地摊，兼职外语家教，淘宝开店，猪八戒上给人做PPT，很多都尝试了，赚了一点点钱，而且我发现这些无非就是重复的体力劳动，跟自己上班其实没有什么区别。&lt;br&gt;直到今年年初，答主在网上看到一个自动生成APP的网站，于是开始了我的APP之路。最开始真的想法很多，但是自己什么都不懂，从知乎上学怎么推广，怎么营运，期间用户增长太慢，曾经也一度想放弃，幸好最后挺过来，也许真的是移动互联网的大潮流赶上了，猪都能飞上天，运营到目前为止连续三个月盈利10K的样子，是我每个月工资的两倍多。有时候自己都觉得，现在真好，任何信息都可以在网上找到，有什么不懂就可以学，只要自己愿意付出。&lt;br&gt;目前APP经营遇到了一些瓶颈，因为毕竟从头到尾推广、经营、美工、编辑等等都是答主一个人在做，自己也考虑明年是否可以注册一家公司，当然很多事情都是未知的，说不定明年APP就死掉了也有可能。&lt;br&gt;总结一下就是，副业机会真的很多，重要的在于你善于发现，其次一定要顺势而上，然后努力坚持下去。至于那些说什么不生病就是赚钱，节约就是赚钱，真的不要这样安慰自己了，我买了一部苹果6和我节约钱买了一个小米感觉会一样吗？&lt;br&gt;---------------------------------------------------------12月1日晚更新--------------------------------------------------------------&lt;br&gt;&lt;br&gt;之前的回答可能写的太简略了，似乎让大家觉得挣钱也挺容易的，私信和评论几乎都是问APP生成网站的，如何推广的，怎么盈利的，我下面会一一解答所有的私信和评论中的问题。&lt;br&gt;首先是app生成网站，其实现在国内国外很多了，大家百度就能找到不少，评论中也有同学已经猜到了，答主用的是简网，个人认为目前是国内最好的平台了。&lt;br&gt;&lt;a href=&quot;http://www.cutt.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;简网APP工场&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;，地址直接附上，可以一键生成APP，非常方便，这里真心的感谢简网和简网的工作人员，给了我巨大的帮助。&lt;br&gt;其次是APP ，我就列几个我自己觉得做的不错的，&lt;a href=&quot;http://m.wwhapp.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;文玩汇&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.hushibiji.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;护士笔记APP——护理人员的工作生活圈&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.hand-bet.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;掌中足彩- 首页&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;、&lt;a href=&quot;http://app.mtssbd.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;美体塑身宝典|美塑宝典APP|官网&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;这些APP都是通过简网自动生成的，每一个APP背后不是什么公司团队，而是一个人完成的。&lt;br&gt;这里借知乎顺便打个广告了，如果哪位投资壕对上面的某个APP有兴趣，可以私信我帮忙联系作者。&lt;br&gt;&lt;br&gt;看到这里应该有同学马上开始做APP，开始自己的第二副业了吧？？&lt;br&gt;不&lt;br&gt;这里我只是告诉了大家一个工具而已&lt;br&gt;如何拿着工具去实现自己的想法？&lt;br&gt;这才是最重要。&lt;br&gt;具体怎么做，其实我之前也一无所知，&lt;b&gt;很多东西都是知乎教给我的，所以我也同样愿意在知乎分享。&lt;/b&gt;&lt;br&gt;&lt;b&gt;第一步&lt;/b&gt;，在做APP之前，首先得弄清楚市场在哪里？ 我的APP做什么内容？ 做出来后能满足用户的什么需求，APP的用户又在哪里？这些都是在做之前就必须明白的。市场上大把大把的APP根本不了解用户的需求，甚至有的投资百万千万做出来的APP，也最终沦为垃圾APP。&lt;br&gt;&lt;b&gt;第二步&lt;/b&gt;，在确定好了方向之后，就是动手去做了，APP生成一点不难，我也是一点代码的东西都不懂，通过简网后台的帮助就可以知道如何制作APP，以及如何更新内容。在做的时候一定要不断的接收用户的建议和意见，没有什么产品一出来就是完美的。&lt;br&gt;&lt;b&gt;第三步&lt;/b&gt;，一个好的产品出来了，可是没有人知道是不行的，你还得费尽心思的想如何去推广，有钱的话那么任性的砸钱就行了，没钱的话那就要多想想怎么精准的对潜在用户进行营销了。&lt;br&gt;这是知乎教我的&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/19851735&quot; class=&quot;internal&quot;&gt;移动应用：如何低成本推广移动应用？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20941514&quot; class=&quot;internal&quot;&gt;App 推广有哪些小技巧？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/19723451&quot; class=&quot;internal&quot;&gt;目前最有效的 App 推广渠道有哪些？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/21438536&quot; class=&quot;internal&quot;&gt;如果没有任何预算，该如何推广 App？&lt;/a&gt;&lt;br&gt;&lt;b&gt;第四步&lt;/b&gt;，通过推广，你的APP已经有用户了，那么就要注重运营了，不然用户来是来了，过两天卸载掉，再要想请来就很难了。&lt;br&gt;一无所知的我同样是在知乎上学的&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20267218&quot; class=&quot;internal&quot;&gt;App 运营的指标具体都有哪些？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/19912040&quot; class=&quot;internal&quot;&gt;如何做一个合格的运营？&lt;/a&gt;&lt;br&gt;&lt;b&gt;最后，是大家最关心的，也是很重要的一个问题，那么如何让我的APP盈利呢？&lt;/b&gt;&lt;br&gt;说到盈利，很多人第一反应就是广告，但是一旦陷入广告这个范围你就很难再出来了。&lt;br&gt;其实只有你有用户，盈利根本不用愁的。&lt;br&gt;举个例子吧，比如你的APP是做美文推荐的，用户群体为文艺青年，怎么盈利？&lt;br&gt;在APP里打广告卖书吗？太low了好吧&lt;br&gt;你有用户，每个周末组织一个线下交流会，活动主题什么的自己策划，联系一家本地咖啡店，让它免费给你提供场地，协商当天销售额的利润分配，一个周末办一场绝对有赚。还有，你的交流会不会大家做在那里一起看一下午书对吧？可以安排一下分享啊，交流啊，总有人要上台讲啊，讲什么啊，安利啊！！开个玩笑，拿安利打个比方而已，完全可以做一些推广的商业活动啊，只要控制在不要让用户反感的范围之类就行。&lt;br&gt;不要做得你得用户感觉他妈的被坑了啊，害我听了两小时安利，下次绝对再也不会来了。&lt;br&gt;我说的盈利只是举例而已，APP的用户群体本来就比较容易细分，展开一下自己的思路，盈利真的根本不是问题。&lt;br&gt;怎么展开思路，还是让知乎来帮你吧&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20305882&quot; class=&quot;internal&quot;&gt;有哪些比较奇葩的手机 App 盈利模式？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/19835910&quot; class=&quot;internal&quot;&gt;免费的软件如何盈利？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20281318&quot; class=&quot;internal&quot;&gt;目前移动互联网的盈利模式有哪些？&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.zhihu.com/question/20880790&quot; class=&quot;internal&quot;&gt;最令人吃惊的移动互联网盈利模式有哪些？具体是怎样的？&lt;/a&gt;&lt;br&gt;&lt;br&gt;讲了这么多具体的内容，最重要的是什么？赶紧动手吧，互联网公司他们关注的是大而全，我们要做的就是小而美，你是一个健身教练，那么你可以做一款关于健身的APP,你是一个美发师，那么你可以做一款美发类的APP,你是一个动漫迷，你是某个明星的粉丝，你是球迷，你是建筑师，你是什么都可以，垂直细分类的APP市场实在太多了。好吧，你对垂直细分类没有兴趣，没关系，你可以做一款校园类的，也可以做一款你们市的，你们县的，再不济你做你们小区的，O2O都是大把的机会啊。移动互联网是大趋势，不需要多高的技术门槛，&lt;a href=&quot;http://www.cutt.com&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;简网APP工场&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 已经提供了很好的平台，就跟当年淘宝为卖家提供好的平台一样， 现在有这么好的条件，为何不尝试一下呢。&lt;br&gt;--------------------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;以上为干货部分，本人做APP一年以来的一些新得，其实我分享的只是一种思路，你未必也要去做APP，只要你保持一颗寻求未知的心，和一双随时都能动起来的手，第二副业算什么？第三第四第五副业都会拥有的，最后什么是主业？&lt;br&gt;我想应该是享受这个美好的世界吧！&lt;br&gt;&lt;b&gt;这真是最坏的时代，也是最好的时代。&lt;/b&gt;&lt;br&gt;&lt;b&gt;感谢知乎，感谢简网！&lt;/b&gt;
 </description>
 </item>
 </channel>
